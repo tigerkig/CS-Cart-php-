@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.13.2/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 4650\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "Καταστήματα και σημεία παραλαβής"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "Σας επιτρέπει να επισημάνετε την τοποθεσία των καταστημάτων σας στον χάρτη και δίνοντας την δυνατότητα στους πελάτες να παραλάβουν τις παραγγελίες από αυτό το σημείο, φυσικά πρέπει να έχει οριστεί η αντίστοιχη μέθοδος παραλαβής."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "Προβολή στον χάρτη"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "Απόκτηση ενος API κλειδιου"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Εντοπιστής καταστήματος"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "Καταστήματα & σημεία παραλαβής"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Μπλοκ Εντοπιστή Καταστηματος"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "Η διεύθυνση δεν βρέθηκε"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Επιλογή συντεταγμένες"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Σειρά"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Επεξεργασία τοποθεσίας καταστήματος"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "Νέα θέση καταστήματος"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Προσθήκη τοποθεσίας καταστήματος"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Συντεταγμένες"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "Lat"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "μάκρος"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "Όλα τα καταστήματα"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "Γενικά"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "Εμφάνιση χάρτη, σε έγγραφα σχετικά με την παραγγελία"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "Εκτυπώστε τον χάρτη στο δελτίο συσκευασίας και στο παραστατικό"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "Χρήση λίστας με τις πόλεις αντί για χάρτη"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "Επηρεάζει το μπλοκ του πελάτη που εμφανίζει την γεωγραφική του θέση. Η λίστα αυτή θα δημιουργηθεί από πόλεις στις οποίες υπάρχουν καταστήματα και σημεία παραλαβής."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "Δυνατότητα Επεξεργασίας"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "Εντοπιστής καταστήματος"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "Δυνατότητα Προβολής"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "Η μέθοδος αποστολής «Παραλαβή από Πελάτη» προσφέρει σε έναν πελάτη την επιλογή να διαλέξει ένα κατάστημα για να παραλάβει το προϊόν. Τα καταστήματα μπορούν να δημιουργηθούν στο πρόσθετο «Τοποθεσίες Κατάστηματων»<br /><b>δημιουργία καταστηματος:</b> <a href=\"[store_locator]\">τοποθεσία καταστήματος</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "Επιλέξτε καταστηματα"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "Σημεία παραλαβής"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "Το πεδίο «Θέση» στις ρυθμίσεις του καταστήματος"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "Επιλέχθηκε Παραγγελία στις ρυθμίσεις μεθοδου αποστολής"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "Επιλεγμένα καταστήματα"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "Διαθέσιμα καταστήματα"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "Χάρτης και Κατάλογος"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "Κατάλογος"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "Χάρτης"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "Προβολή καταλογου τοποθεσιών στη σελίδα πληρωμής"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "Παραλαβή"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "Διαθέσιμο πρός παραλαβή"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "Ωράριο εργασίας"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "Παραλαβή"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "Δεν βρέθηκε κατάλληλος προορισμός"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "Δέν βρέθηκαν καταστήματα"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "Παραλαβή"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "Αναγνωριστικό παραλαβής"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "Διαθεσιμη Παραλαβη"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "Χρέωση παραλαβής"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "Διεύθυνση παραλαβής"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "Τηλέφωνο παραλαβής"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "Ώρα παραλαβής"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "Αναγνωριστικά προορισμων παραλαβής"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "Απόκρυψη τοποθεσιών από τις οποίες δεν μπορώ να κάνω παραλαβή της παραγγελίας μου"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "Καταστήματα και σημεία παραλαβής"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "Σε προηγούμενες εκδόσεις, η προσαύξηση μπορουσε να προστεθεί στις κανονικες τιμές που έχουν καθοριστεί για μια μέθοδο αποστολής. Τώρα αυτή η προσαύξηση δεν λαμβάνονται υπόψη κατά τη διάρκεια του υπολογισμού κόστους αποστολής. Το αφήσαμε εδώ για την εξυπηρέτησή σας, έτσι ώστε να το δείτε και να προσαρμόσετε τις τιμές για τη μέθοδο αποστολής στη σελίδα επεξεργαίας της εκάστοτε μεθόδου Αποστολής."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "Βρίσκεται στην περιοχή τιμών"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "Καθορίζει τις χρεώσεις αποστολής για αυτό σημείο παράδοσης. Οι τιμές καθορίζονται στη σελίδα επεξεργασίας της μεθόδου αποστολής. Εάν δεν επιλέξετε μια τιμής περιοχής για ένα σημείο παράδοσης, τότε το σημείο παράδοσης δεν θα εμφανιστεί στο ταμείο."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "Προβολη σε"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "Προβολη σε"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Σας επιτρέπει να προσφέρετε αυτό σημείο παράδοσης στους κατοίκους από άλλες τιμές περιοχής στο ταμείο."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "από [price]"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_title"
+msgid "Pick up from store: Surcharge per pickup point removed"
+msgstr "Παραλάβετε από το κατάστημα: Καταργήθηκε η προσαύξηση ανά σημείο παραλαβής"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_text"
+msgid "<p>The <b>[pickup_addon]</b> and <b>[store_locator_addon]</b> add-ons were merged into a new add-on called [stores_pickups_addon]. Shipping rates and time are more flexible now: they depend on the location (rate area) of a pickup point. The rates are now specified in one place: the editing page of a shipping method.</p><p>For that reason, we removed the <b>Surcharge</b> field from the pickup point editing page. Its value still appears in the admin panel, but isn’t used in rate calculation. Please check your pickup points, then adjust the shipping rates of all your \"Pick up from store\" shipping methods accordingly.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Adjust shipping rates</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">View my pickup points</a></p>"
+msgstr "<p> Τα πρόσθετα <b> [pickup_addon] </ b> και <b> [store_locator_addon] </ b> συγχωνεύθηκαν σε ένα νέο πρόσθετο που ονομάζεται [stores_pickups_addon]. Τα ποσοστά αποστολής και ο χρόνος είναι πιο ευέλικτα τώρα: εξαρτώνται από την τοποθεσία (περιοχή τιμών) ενός σημείου παραλαβής. Οι τιμές καθορίζονται πλέον σε μία θέση: τη σελίδα επεξεργασίας μιας μεθόδου αποστολής. </p> <p> Για το λόγο αυτό, καταργήσαμε το πεδίο <b> Προσφορά </b> από τη σελίδα επεξεργασίας σημείου παραλαβής. Η τιμή του εξακολουθεί να εμφανίζεται στον πίνακα διαχείρισης, αλλά δεν χρησιμοποιείται στον υπολογισμό τιμής. Ελέγξτε τα σημεία παραλαβής σας και, στη συνέχεια, προσαρμόστε τα κόστη αποστολής όλων των μεθόδων αποστολής σας από το κατάστημα. </p> <p> <a href = \"[shippings_manage]\" target = \"_ blank\" class = \"btn btn -large btn-primary \"> Προσαρμογή κοστους αποστολής </a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\"> Προβολή των σημείων συλλογής </a> </ p>"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "Χρησιμοποιήστε δύο δάχτυλα για μετακίνηση του χάρτη"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Μετακινηθείτε στην κορυφή"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "Δεν υπάρχει περιοχή τιμών"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "Όνομα"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "Τοποθεσίες παραλαβής"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "Οποιαδήποτε περιοχή τιμών"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "Παραλαβή από κατάστημα"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "Οποιοσδήποτε πωλητής"
+

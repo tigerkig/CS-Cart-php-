@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.13.2/addons/age_verification.po\n"
+"X-Crowdin-File-ID: 4516\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::age_verification"
+msgid "Age verification"
+msgstr "Leeftijdscontrole"
+
+msgctxt "Addons::description::age_verification"
+msgid "Toggles age restriction rules for products and categories"
+msgstr "Leeftijdsbeperking voor producten en categorieën inschakelen"
+
+msgctxt "Languages::age_verification"
+msgid "Age verification"
+msgstr "Leeftijdscontrole"
+
+msgctxt "Languages::product_need_age_verification"
+msgid "You should verify your age to view this product."
+msgstr "U moet uw leeftijd controleren om dit product te bekijken."
+
+msgctxt "Languages::your_age"
+msgid "Your age"
+msgstr "Uw leeftijd"
+
+msgctxt "Languages::verify"
+msgid "Verify"
+msgstr "Controleer"
+
+msgctxt "Languages::birthday"
+msgid "Birthday"
+msgstr "Verjaardag"
+
+msgctxt "Languages::age_limit"
+msgid "Age limit"
+msgstr "Leeftijdsgrens"
+
+msgctxt "Languages::years"
+msgid "years"
+msgstr "jaren"
+
+msgctxt "Languages::age_warning_message"
+msgid "Warning message"
+msgstr "Waarschuwing"
+
+msgctxt "Languages::promotion_cond_birthday"
+msgid "Birthday"
+msgstr "Geboortedag"
+

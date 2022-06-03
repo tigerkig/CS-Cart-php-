@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/advanced_import.po\n"
+"X-Crowdin-File-ID: 4684\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::advanced_import"
+msgid "Advanced products import"
+msgstr "ייבוא מוצרים מתקדם"
+
+msgctxt "Addons::description::advanced_import"
+msgid "Allows you to match the fields in the imported file with the product properties. These matchings and other import settings can also be saved as presets for later use."
+msgstr "מאפשר לך להתאים את השדות בקובץ המיובא למאפייני המוצר במערכת. אפשר לשמור את המיפוי הזה ואת שאר הגדרות הייבוא לשימוש חוזר בעתיד."
+
+msgctxt "Languages::advanced_import.never"
+msgid "Never"
+msgstr "אף פעם"
+
+msgctxt "Languages::advanced_import.last_status.X"
+msgid "&mdash;"
+msgstr "&mdash;"
+
+msgctxt "Languages::advanced_import.last_status.S"
+msgid "Success"
+msgstr "הצליח"
+
+msgctxt "Languages::advanced_import.last_status.P"
+msgid "In progress"
+msgstr "בתהליך"
+
+msgctxt "Languages::advanced_import.last_status.F"
+msgid "Failure"
+msgstr "כשלון"
+
+msgctxt "Languages::advanced_import.user_upload"
+msgid "User upload"
+msgstr "העלאה על ידי המשתמש"
+
+msgctxt "Languages::advanced_import.last_launch"
+msgid "Last import"
+msgstr "תאריך ייבוא אחרון"
+
+msgctxt "Languages::advanced_import.last_status"
+msgid "Status"
+msgstr "מצב"
+
+msgctxt "Languages::advanced_import.file"
+msgid "File"
+msgstr "קובץ"
+
+msgctxt "Languages::advanced_import.has_modifiers"
+msgid "Has modifiers"
+msgstr "יש סימני פיסוק"
+
+msgctxt "Languages::advanced_import.import_products"
+msgid "Import products"
+msgstr "מוצרי ייבוא"
+
+msgctxt "Languages::advanced_import.import_products_w_preset"
+msgid "Import products: [preset]"
+msgstr "ייבא מוצרים לפי ההגדרות [preset]"
+
+msgctxt "Languages::advanced_import.import_file"
+msgid "Import file"
+msgstr "קובץ הייבוא"
+
+msgctxt "Languages::advanced_import.fields_mapping"
+msgid "Fields mapping"
+msgstr "מיפוי שדות"
+
+msgctxt "Languages::advanced_import.fields_mapping.description"
+msgid "This table contains the list of columns from the imported file. For each column you'd like to import, select a corresponding product property in [product]. Then check what sort of data will be imported from that column, and use modifiers to change that data, if necessary. Remember to save your changes."
+msgstr "טבלה זו מכילה את רשימת העמודות של הקובץ המיובא. עבור כל עמודה שברצונך לייבא, בחר מאפיין המוצר המקביל [product]. ואז לבדוק איזה סוג של נתונים להיות מיובאים מכל עמודה זו, השתמש מכפילי כדי לשנות הנתונים, במידת הצורך. זכור לשמור את השינויים שלך."
+
+msgctxt "Languages::advanced_import.column_header"
+msgid "Column name in the imported file"
+msgstr "שם העמודה בקובץ המיובא"
+
+msgctxt "Languages::advanced_import.product_property"
+msgid "Product property in [product]"
+msgstr "המוצר מאפיין [product]"
+
+msgctxt "Languages::advanced_import.first_line_import_value"
+msgid "Example of the imported value"
+msgstr "דוגמה בערך המיובא"
+
+msgctxt "Languages::advanced_import.editing_preset"
+msgid "Editing preset: [preset]"
+msgstr "עריכה תבנית: [preset]"
+
+msgctxt "Languages::advanced_import.add_preset"
+msgid "Add preset"
+msgstr "להוסיף תבנית"
+
+msgctxt "Languages::advanced_import.new_preset"
+msgid "New preset"
+msgstr "להוסיף תבנית"
+
+msgctxt "Languages::advanced_import.properties"
+msgid "Properties"
+msgstr "מאפיינים"
+
+msgctxt "Languages::advanced_import.modifier"
+msgid "Modifier"
+msgstr "מתקן"
+
+msgctxt "Languages::advanced_import.modifier_title"
+msgid "A modifier is a rule that alters values in a column"
+msgstr "צירוף הוא כלל שמשנה את הערכים בעמודה"
+
+msgctxt "Languages::advanced_import.example_imported_title"
+msgid "For example, here's a value in the first line of your file:"
+msgstr "לדוגמה, הנה ערך בשורה הראשונה של הקובץ:"
+
+msgctxt "Languages::advanced_import.example_modified_title"
+msgid "And here is how this value will be imported:"
+msgstr "והנה איך ייובאו ערך זה:"
+
+msgctxt "Languages::advanced_import.options"
+msgid "Options"
+msgstr "אפשרויות"
+
+msgctxt "Languages::advanced_import.images_delimiter"
+msgid "Images delimiter"
+msgstr "תמונות מפריד"
+
+msgctxt "Languages::advanced_import.images_delimiter.description"
+msgid "Delimiter between images of a product."
+msgstr "מפריד בין תמונות של מוצר."
+
+msgctxt "Languages::advanced_import_images"
+msgid "Product images"
+msgstr "תמונות המוצר"
+
+msgctxt "Languages::advanced_import.remove_images"
+msgid "Remove additional images"
+msgstr "להסיר תמונות נוספות"
+
+msgctxt "Languages::advanced_import.remove_images"
+msgid "Remove additional images"
+msgstr "להסיר תמונות נוספות"
+
+msgctxt "Languages::advanced_import.import_fields"
+msgid "Import fields"
+msgstr "ליבא שדות"
+
+msgctxt "Languages::advanced_import.advanced_products_import"
+msgid "Products"
+msgstr "מוצרים"
+
+msgctxt "Languages::advanced_import.coming_soon"
+msgid "... coming soon"
+msgstr "יגיע בקרוב"
+
+msgctxt "Languages::advanced_import.cant_load_file_for_company"
+msgid "File can't be loaded for the specified company"
+msgstr "אין אפשרות לטעון קובץ עבור חברה הזו."
+
+msgctxt "Languages::advanced_import.cant_load_file"
+msgid "File can't be loaded"
+msgstr "אין אפשרות לטעון את הקובץ"
+
+msgctxt "Languages::advanced_import.uploading_file"
+msgid "Uploading file for the preset: [preset]"
+msgstr "העלאת קובץ לקביעה המוגדרת תבנית: [preset]"
+
+msgctxt "Languages::advanced_import.previewing_fields_mapping"
+msgid "Previewing fields mapping for the preset: [preset]"
+msgstr "תצוגה מקדימה של שדות מיפוי לקביעה המוגדרת תבנית: [preset]"
+
+msgctxt "Languages::advanced_import.preset_not_found"
+msgid "Preset not found"
+msgstr "תבנית לא נמצא"
+
+msgctxt "Languages::advanced_import.modifiers_list"
+msgid "Modifiers list"
+msgstr "רשימת סימני שינוי"
+
+msgctxt "Languages::advanced_import.invalid_number_of_parameters_provided"
+msgid "Invalid number of parameters provided for modifier: <b>[modifier]</b>: expected [expected_count], got [actual_count]."
+msgstr "מספר הפרמטרים שסופקו עבור צירוף לא חוקי: <b>[modifier]</b>: צפוי [expected_count], יש לי [actual_count]."
+
+msgctxt "Languages::advanced_import.invalid_function_firs_character"
+msgid "The modifier name cannot start with character <b>[character]</b>."
+msgstr "צירוף שם לא יכול להתחיל עם תו- <b>-[character]-</b>."
+
+msgctxt "Languages::advanced_import.unrecognized_modifier"
+msgid "The modifier <b>[modifier]</b> does not exist."
+msgstr "צירוף <b>[modifier]</b> אינה קיימת."
+
+msgctxt "Languages::advanced_import.unexpected_parameter_passed"
+msgid "Expected <b>[delimiter]</b> or <b>[closer]</b> got <b>[char]</b>."
+msgstr "יש הצפוי <b>[delimiter]</b> או <b>[closer]</b> <b>[char]</b>."
+
+msgctxt "Languages::advanced_import.invalid_modifier_message"
+msgid "The modifier <b>[modifier]</b> is invalid. [message]"
+msgstr "צירוף <b>[modifier]</b> אינו חוקי. [message]"
+
+msgctxt "Languages::advanced_import.modifier_number_of_parameters"
+msgid "Number of parameters"
+msgstr "מספר הפרמטרים"
+
+msgctxt "Languages::advanced_import.modifiers_description"
+msgid "Use these functions in the <b>Modifier</b> column to alter the values in the fields from the imported file. Enter the functions as follows: <b>function(parameter, parameter)</b>. Please note that nesting of functions isn't supported."
+msgstr "להשתמש בפונקציות אלה בעמודה <b>צירוף</b> כדי לשנות את הערכים בשדות של הקובץ המיובא. הזן את הפונקציות כדלקמן: פונקציה (פרמטר, פרמטר) <b></b>. שימו לב: קינון של פונקציות אינה נתמכת."
+
+msgctxt "Languages::advanced_import.modifiers_self_referencing_info"
+msgid "Most functions allow you to use the non-modified value of the imported field by using <b>$value</b> as a parameter. If there are any exceptions, they will be mentioned in function descriptions."
+msgstr "רוב הפונקציות מאפשרות לך להשתמש בערך שלא השתנה של השדה המיובא באמצעות <b>$value</b> כפרמטר. אם יש יוצאים מן הכלל, הם יצוינו בתיאורי תפקידים."
+
+msgctxt "Languages::advanced_import.modifier_description.sum"
+msgid "<b>sum</b>&mdash;sums up two numbers provided as parameters. <ul><li>Examples:</li><ul><li><b>sum(1, 3)</b> equals <i>4</i></li> <li><b>sum(7, $value)</b> equals <i>7 + the value of the imported field</i></li></ul></ul>"
+msgstr "<b>sum</b>&mdash; מסכם שני מספרים שסופקו כפרמטרים. <ul><li>Examples:</li><ul><li><b>sum(1, 3)</b> equals <i>4</i></li> <li><b>sum(7, $value)</b> equals <i>7 + הערך של השדה המיובא</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.sub"
+msgid "<b>sub</b>&mdash;subtracts the second parameter from the first. <ul><li>Examples:</li><ul><li><b>sub(3, 1)</b> equals <i>2</i></li> <li><b>sub($value, 7)</b> equals <i>the value of the imported field - 7</i></li></ul></ul>"
+msgstr "<b>sub</b>&mdash;מחסר את הפרמטר השני מן הראשון. <ul><li>דוגמאות:</li><ul><li><b>sub(3, 1)</b> equals <i>2</i></li> <li><b>sub($value, 7)</b> equals <i>ערך השדה המיובא - 7</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.mul"
+msgid "<b>mul</b>&mdash;multiplies the numbers provided as parameters. <ul><li>Examples:</li><ul><li><b>mul(3, 1)</b> equals <i>3</i></li> <li><b>mul($value, 7)</b> equals <i>the value of the imported field × 7</i></li></ul></ul>"
+msgstr "<b>sum</b>&mdash; מסכם שני מספרים שסופקו כפרמטרים. <ul><li>Examples:</li><ul><li><b>sum(1, 3)</b> equals <i>3</i></li> <li><b>sum(7 $value)</b> equals <i>7 + הערך של השדה המיובא</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.div"
+msgid "<b>div</b>&mdash;divides the first parameter by the second. <ul><li>Examples:</li><ul><li><b>div(9, 3)</b> equals <i>3</i></li> <li><b>div($value, 7)</b> equals <i>the value of the imported field ÷ 7</i></li></ul></ul>"
+msgstr "<b>sum</b>&mdash; מסכם שני מספרים שסופקו כפרמטרים. <ul><li>Examples:</li><ul><li><b>sum(3, 3)</b> equals <i>3</i></li> <li><b>sum(7 $value)</b> equals <i>7 + הערך של השדה המיובא</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.concat"
+msgid "<b>concat</b>&mdash;concatenates all the provided parameters. <ul><li>Examples:</li><ul><li><b>concat('abc', def)</b> will result in <i>abcdef</i></li> <li><b>concat('PRODUCT_', $value, '_CODE')</b> will result in <i>PRODUCT_$value_CODE</i>, but <b>$value</b> will be replaced with the the value of the imported field</li></ul></ul>"
+msgstr "<b>concat</b>&mdash;משרשרת את כל הפרמטרים שסופקו. <ul><li>דוגמאות:</li><ul><li><b>concat('abc', def)</b> תגרום <i>abcdef</i></li> <li><b>concat('PRODUCT_', $value, '_CODE')</b> תגרום <i>PRODUCT_$value_CODE</i>, but <b>$value</b> יוחלף עם הערך של השדה המיובא</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.replace"
+msgid "<b>replace</b>&mdash;replaces all occurrences of the search string with the replacement string. <br>The order of parameters is important: <b>replace('search', 'replace', 'subject')</b>. <ul><li>Examples:</li><ul><li><b>replace('a', !, \"banana\")</b> will result in <i>b!n!n!</i></li> <li><b>replace(\"t-shirt\", 'T-Shirt', $value)</b> will replace every occurrence of <i>t-shirt</i> with <i>T-Shirt</i> in every entry in the column.</li></ul></ul>"
+msgstr "<b>-החלף-</b>-&mdash;מחליף את כל המופעים של מחרוזת החיפוש עם המחרוזת המחליפה. <br>הסדר של פרמטרים חשוב: <b>להחליף ('חיפוש', ' החלף', 'נושא')</b>. דוגמאות <ul><li>:</li><ul><li><b>replace ('a',!, \"בננה\" )</b> תגרום <i>b! n! n!</i>-</li> - <li>-<b>להחליף (\"חולצה\", \"חולצה\", $value)</b> להחליף כל מופע של חולצה <i></i> עם <i>חולצה</i> כל הערך בעמודה.</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.w_replace"
+msgid "<b>w_replace</b>&mdash;replaces all occurrences of the search string with the replacement string using wildcards. <br>The order of parameters is important: <b>w_replace('search', 'replace', 'subject')</b>. <br>Supported wildcards: <b>?</b>&mdash;any single character; <b>*</b>&mdash;any number of characters to the end of the word. <ul><li>Examples</li><ul><li><b>w_replace('banan?', bananas, banana banans bananz)</b> will result in <i>bananas bananas bananas</i></li> <li><b>w_replace(\"ban*\", 'bananas', banana banans bananz)</b> will also result in <i>bananas bananas bananas</i></li></ul></ul>"
+msgstr "<b>-w_replace-</b>-&mdash;מחליף את כל המופעים של מחרוזת החיפוש עם מחרוזת החלפה באמצעות תווים כלליים. <br>הסדר של פרמטרים חשוב: <b>w_replace ('חיפוש', ' החלף', 'נושא')</b>. <br>. תמיכה בתווים כלליים: <b>?</b>&mdash;שכל תו; בודד <b>*</b>&mdash;כל מספר של תווים לסוף המילה. <ul><li>דוגמאות</li><ul><li><b>w_replace ('בנאן?', בננות, בננה banans לא מהארץ)</b> יביא <i>בננות בננות בננות</i></li> <li><b>w_replace (\"באן *\", \"בננות\", בננה banans לא מהארץ)</b> גם תוצאה של <i>בננות בננות בננות</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.rand"
+msgid "<b>rand</b>&mdash;generates a random number from 1 to the maximum value provided as the parameter. <ul><li>Examples:</li><ul><li><b>rand(999)</b> may result in any number from 1 to 999.</li></ul></ul>"
+msgstr "<b>-רנד-</b>-&mdash;יוצר מספר אקראי בין 1 לערך המרבי הניתן כפרמטר. <ul><li>דוגמאות:</li><ul><li><b>rand(999)</b> עלול לגרום כל מספר בין 1 ל- 999.</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.if"
+msgid "<b>if</b>&mdash;checks the expression in the first parameter. If the first parameter is <i>true</i>, the function returns the second parameter. Otherwise the function returns the third parameter.<ul><li>Examples:</li><ul><li><b>if($value>\"0\", \"In Stock\", \"Out of stock\")</b> will result in <i>In Stock</i> if <i>$value > 0</i> is <i>true</i>; otherwise the result will be <i>Out of stock</i></li></ul><li>Available operations for the expression are:<ul><li><b>=</b>&mdash;checks for equality: <i>if($value=100, ...)</i></li><li><b>!=</b>&mdash;checks for inequality: <i>if($value!=100, ...)</i></li><li><b>&gt;</b>&mdash;checks if the first value is greater than the second: <i>if($value&gt;100, ...)</i></li><li><b>&lt;</b>&mdash;checks if the first value is less than the second: <i>if($value&lt;100, ...)</i></li><li><b>&gt;=</b>&mdash;checks if the first value is greater than or equal to the second: <i>if($value&gt;=100, ...)</i></li><li><b>&lt;=</b>&mdash;checks if the first value is less than or equal to the second: <i>if($value&lt;=100, ...)</i></li></ul></li><li>Notes:<ul><li>If you use single (') or double (\") quotes in the first parameter, make sure that the first parameter is either wrapped in quotes entirely, or that there is no end quote in the middle of the parameter. For example, <i>if(\"My value\"=$value, ...)</i> will not work, but <i>if(\"My value=$value\", ...)</i> will.</ul></li></ul>"
+msgstr "<b>אם</b>&mdash;בודק את הביטוי בפרמטר הראשון. אם הפרמטר הראשון הוא נכון <i>-</i>, הפונקציה מחזירה את הפרמטר השני. אחרת, הפונקציה מחזירה את הפרמטר השלישי. דוגמאות<ul><li>:</li>-<ul>-<li>-<b>אם ($value> \"0\", \"בהמניה\", \"המלאי\")</b> תגרום <i>במלאי</i> אם <i>> 0$value</i> הוא אמיתי <i></i>; אחרת התוצאה תהיה <i>מתוך מלאי</i></li></ul><li>פעולות זמינות עבור הביטוי הן:<ul><li><b>=</b>&mdash;בדיקות לשוויון: <i>אם ($value= 100,...)</i></li><li><b>! =</b>&mdash;בדיקות עבור אי-השוויון: <i>אם ($value! = 100,...)</i></li><li><b>&gt;</b>&mdash;בודקת אם הערך הראשון הוא גדול מ השני: <i>אם ($value&gt;100,...)</i></li><li><b>&lt;</b>&mdash;בודקת אם הערך הראשון הוא פחות מאשר השני: <i>אם ($value&lt;100,...)</i></li><li><b>&gt;</b>&mdash;בודקת אם הערך הראשון הוא גדול או שווה להשני: <i>אם ($value&gt;= 100,...)</i></li><li><b>&lt;=</b>&mdash;בודקת אם הערך הראשון הוא קטן או שווה ל השני: <i>אם ($value&lt;= 100,...)</i></li></ul></li><li>הערות:<ul><li>אם תשתמש בפרמטר הראשון בודדות (') או זוגי (\") מרכאות, ודא כי הפרמטר הראשון הוא גם ציטוטים עטוף כולו, או שיש אין סוף ציטוט באמצע הפרמטר. לדוגמה, <i>אם (\"שלי ערך\" =$value,...)</i> לא יעבוד, אבל <i>אם (\"הערך שלי =$value\",...)</i> יהיה.</ul></li></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.case"
+msgid "<b>case</b>&mdash;odd parameters are expressions, and the following even parameters are corresponding values. The function checks the expressions and returns the value corresponding to the first expression that ends up being <i>true</i>.<ul><li>Examples:</li><ul><li><b>case($value>100, \"More than 100\", $value>70, \"More than 70\", $value>20, \"More than 20\", $value>0, \"In stock\", $value=0, \"Out of stock\")</b> will result in <i>More than 70</i> if the <i>$value</i> in the imported file is a number between 71 and 100</li></ul><li>Notes:<ul><li>This function shares expression rules and available operations with the <b>if</b> function.</li><li>Only even numbers of parameters are supported: <b>2, 4, 6, 8</b>, etc.</li></ul></li></ul>"
+msgstr "<b>מקרה</b>&mdash; פרמטרים משונים הם ביטויים, והפרמטרים אפילו הם ערכים מקבילים. הפונקציה בודקת את הביטויים ומחזירה את הערך המתאים לביטוי הראשון שמסתיים <i>true</i>.<ul><li>Examples:</li><ul><li><b>case($value>100, \"More than 100\", $value>70, \"More than 70\", $value>20, \"More than 20\", $value>0, \"In stock\", $value=0, \"Out of stock\")</b> will result in <i>More than 70</i> if the <i>$value</i> בקובץ המיובא הוא מספר בין 71 ל- 100 </li> </ul > <li> הערות: <ul> <li> פונקציה זו משתפת כללי ביטוי ופעולות זמינות עם הפונקציה<b>if</b>. </li><li> רק מספרי פרמטרים נתמכים: <b>2, 4, 6, 8</b>, etc.</li></ul></li></ul>"
+
+msgctxt "Languages::advanced_import.modifier_self_reference_is_unsupported"
+msgid "This function doesn't support the use of a non-modified value from the imported file."
+msgstr "פונקציה זו אינה תומכת בשימוש של ערך ללא שינוי הקובץ המיובא."
+
+msgctxt "Languages::advanced_import.preset_last_view"
+msgid "Preset"
+msgstr "תבנית"
+
+msgctxt "Languages::advanced_import.show_more"
+msgid "Show more"
+msgstr "הצג יותר"
+
+msgctxt "Languages::advanced_import.show_less"
+msgid "Show less"
+msgstr "הצג פחות"
+
+msgctxt "Languages::advanced_import.target_node"
+msgid "XML target node"
+msgstr "צומת היעד XML"
+
+msgctxt "Languages::advanced_import.target_node.description"
+msgid "The full path to the XML node with the information about an imported entity. The nodes nested in the specified node will be used as columns of the imported file. Here is an example of the path: yml_catalog/shop/offers/offer"
+msgstr "הנתיב המלא אל הצומת XML עם המידע אודות ישות מיובאים. הצמתים מקוננים בתוך הצומת שצוין ישמש כעמודות של הקובץ המיובא. הנה דוגמא של השביל: yml_catalog/חנות/הצעות/הצעה"
+
+msgctxt "Languages::advanced_import.fetching_schema_failed_check_target_node"
+msgid "Please make sure that the <b>XML target node</b> field is filled in properly."
+msgstr "נא ודא כי השדה</b> <b>צומת היעד XML זה מולאו כראוי."
+
+msgctxt "Languages::advanced_import.general_settings"
+msgid "General settings"
+msgstr "הגדרות כלליות"
+
+msgctxt "Languages::advanced_import.additional_settings"
+msgid "Additional settings"
+msgstr "הגדרות נוספות"
+
+msgctxt "Languages::advanced_import.delete_additional_images"
+msgid "Delete existing additional images"
+msgstr "מחיקת תמונות נוספות"
+
+msgctxt "Languages::advanced_import.delete_additional_images_tooltip"
+msgid "If you enable this setting, then the existing additional images of the imported products will be replaced with the images specified in the imported file (if no images are specified, the old images will remain). If the setting is disabled, the new additional images will simply be added to the existing images."
+msgstr "אם תהפוך הגדרה זו לזמינה, ולאחר מכן החותם נוספים של המוצרים המיובאים יוחלפו עם תמונות שצוינו בקובץ המיובא (אם אין תמונות מצוינות, התמונות הישן יישאר). אם ההגדרה אינה זמינה, תמונות נוספות החדש פשוט יתווספו לתמונות הקיים."
+
+msgctxt "Languages::advanced_import.fetching_schema_failed_check_file"
+msgid "Before you can run the import, please make sure that:<ul><li>You have created the import preset by using the Create button. If you see Save instead of Create, then you've already done that.</li><li>You have specified the correct XML target node on the File tab and saved the preset.</li><li>You have matched the imported information with the product properties in CS-Cart on the Fields mapping tab and saved the preset.</li></ul>If you see this message, you haven't completed point 1 or 2."
+msgstr "לפני שתוכל להפעיל את הייבוא, אנא ודא ש:<ul><li>יצרת הייבוא המוגדרת מראש באמצעות לחצן צור. אם אתה רואה שמור במקום צור, ואז כבר עשית את זה.</li><li>אתה שצוין הצומת היעד הנכון של XML בכרטיסיה קובץ, הציל את הקביעה המוגדרת מראש.</li><li>יש להתאים את המידע מיובאים עם המוצר המאפיינים בעגלת-CS בכרטיסיה מיפוי שדות, הציל את הקביעה המוגדרת מראש.</li></ul>אם אתה רואה הודעה זו, אתה לא סיימת את הנקודה 1 או 2."
+
+msgctxt "Languages::advanced_import.test_import"
+msgid "Perform test import"
+msgstr "בצע ייבוא ניסיון"
+
+msgctxt "Languages::advanced_import.test_import_tooltip"
+msgid "If you enable this setting, only the first [n] product will be processed.|If you enable this setting, only the first [n] products will be processed."
+msgstr "אם תפעיל הגדרה זו, רק המוצר [n] הראשון יעבוד.|אם תפעיל הגדרה זו, רק את המוצרים [n] הראשון יעבוד."
+
+msgctxt "Languages::advanced_import.import_strategy"
+msgid "Import strategy"
+msgstr "ייבוא האסטרטגיית"
+
+msgctxt "Languages::advanced_import.import_strategy_tooltip"
+msgid "If you select \"Update existing products only\", products that don't exist in the database of your store will be skipped during import.<br>If you select \"Create new products only\", products that exist in the database of your store will be skipped during import."
+msgstr "אם תבחר באפשרות \"עדכן מוצרים קיימים בלבד\", מוצרים שלא קיימים במסד הנתונים של החנות שלך ידלגו במהלך הייבוא. <br> אם תבחר באפשרות \"צור מוצרים חדשים בלבד\", מוצרים הקיימים במסד הנתונים של החנות שלך ידלג במהלך הייבוא."
+
+msgctxt "Languages::advanced_import.import_all"
+msgid "Import all products from the file"
+msgstr "ייבא את כל המוצרים מהקובץ"
+
+msgctxt "Languages::advanced_import.create_new_products_only"
+msgid "Create new products only"
+msgstr "צור מוצרים חדשים בלבד"
+
+msgctxt "Languages::advanced_import.cant_save_preset_invalid_modifiers"
+msgid "The preset can't be saved because it contains invalid modifiers"
+msgstr "לא ניתן לשמור את ההגדרה המוגדרת מראש מכיוון שהיא מכילה משינוים לא חוקיים"
+
+msgctxt "Languages::advanced_import.missing_parameters_list_closer"
+msgid "The expected <b>[closer]</b> after the parameters list is missing."
+msgstr "הצפוי <b>[closer]</b> לאחר רשימת הפרמטרים חסר."
+
+msgctxt "Languages::advanced_import.run_import_via_cron_message"
+msgid "You can run the import automatically at certain time intervals. To do it, add the following command to CRON:"
+msgstr "ניתן להפעיל את הייבוא באופן אוטומטי במרווחי זמן מסוימים. כדי לעשות זאת, הוסף את הפקודה הבאה ל- CRON:"
+
+msgctxt "Languages::advanced_import.cannot_detect_csv_delimiter"
+msgid "Cannot detect delimiter automatically. Please specify the correct delimiter manually in the additional settings on the \"File\" tab."
+msgstr "לא ניתן לזהות את התוחם באופן אוטומטי. ציין את התוואי הנכון ידנית בהגדרות הנוספות בכרטיסייה \"קובץ\"."
+
+msgctxt "Languages::advanced_import.incorrect_delimiter"
+msgid "Specified (or auto detected) delimiter seems to be incorrect. Please specify the correct delimiter manually in the additional settings on the \"File\" tab."
+msgstr "נראה שהתוואי שצוין (או זוהה אוטומטית) שגוי. ציין את התוואי הנכון ידנית בהגדרות הנוספות בכרטיסייה \"קובץ\"."
+
+msgctxt "Languages::advanced_import.file_will_be_deleted_are_you_sure_to_proceed"
+msgid "Deleting this import preset will also delete the file attached to it. Are you sure you want to proceed?"
+msgstr "מחיקת הגדרת ייבוא מראש זו תמחק גם את הקובץ המצורף אליו. האם אתה בטוח שברצונך להמשיך?"
+
+msgctxt "Languages::advanced_import.common_preset"
+msgid "All vendors"
+msgstr "כל הספקים"
+
+msgctxt "Languages::advanced_import.your_presets"
+msgid "Vendor's presets"
+msgstr "הגדרות קבועות מראש של הספק"
+
+msgctxt "Languages::advanced_import.common_presets"
+msgid "Marketplace presets"
+msgstr "קביעות מוגדרות מראש של שוק"
+
+msgctxt "Languages::advanced_import.file_not_loaded"
+msgid "File was not loaded. Please reload the page and try again."
+msgstr "הקובץ לא נטען. אנא טען מחדש את הדף ונסה שוב."
+
+msgctxt "Languages::advanced_import.local_file_selected"
+msgid "Local file selected"
+msgstr "נבחר קובץ מקומי"
+
+msgctxt "Languages::advanced_import.text_popup_file_editor_notice_full_link"
+msgid "You can upload and download files via <a class=\"advanced-import-file-editor-opener\" data-target-input-id=\"[target]\">[link_text]</a>"
+msgstr "באפשרותך להוריד ולהעלות קבצים דרך <a class=\"advanced-import-file-editor-opener\" data-target-input-id=\"[target]\">[link_text]</a>"
+
+msgctxt "Languages::advanced_import.file_extension_was_not_supported_by_owner"
+msgid "Couldn't use your file [name]. This import preset only allows the following extensions: [ext]."
+msgstr "לא ניתן היה להשתמש בקובץ [name] שלך. הגדרה קבועה מראש של ייבוא מאפשרת רק את התוספים הבאים: [ext]."
+
+msgctxt "Languages::advanced_import.save_selected_file"
+msgid "Save selected file"
+msgstr "שמור את הקובץ שנבחר"
+
+msgctxt "Languages::advanced_import.fields_delimiter"
+msgid "XML node delimiter"
+msgstr ""
+
+msgctxt "Languages::advanced_import.fields_delimiter.description"
+msgid "Delimiter between similar nodes."
+msgstr ""
+

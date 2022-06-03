@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/janrain.po\n"
+"X-Crowdin-File-ID: 4584\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::janrain"
+msgid "Janrain"
+msgstr "جانرين Janrain"
+
+msgctxt "Addons::description::janrain"
+msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
+msgstr "اضافة ميزة \"تسجيل الدخول الاجتماعي\"؛ يسمح للعملاء استخدام فيسبوك، تويتر، إلخ لتسجيل الدخول على المتجر"
+
+msgctxt "Languages::janrain_general_info"
+msgid "<p>Get these values and configure social login at <a href=\"http://janrain.com\" target=\"_blank\">janrain.com</a></p>"
+msgstr "<p> احصل على هذه القيم وقم بتهيئة تسجيل الدخول الاجتماعي على <a href=\"http://janrain.com\" target=\"_blank\"> janrain.com </a> </p>"
+
+msgctxt "Languages::janrain_social_login"
+msgid "Social login"
+msgstr "تسجيل الدخول عبر التواصل الاجتماعي"
+
+msgctxt "Languages::janrain_need_update_profile"
+msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
+msgstr "حقل \"كلمة المرور\" وبعض الحقول الإلزامية الأخرى فارغة في الوقت الحالي. يرجى تحديث ملف التعريف الخاص بك."
+
+msgctxt "Languages::janrain_cant_create_profile"
+msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
+msgstr "لسوء الحظ ، فشلنا في إنشاء عميل وتسجيل الدخول إلى المتجر بسبب أحد الأسباب التالية: <br /> - لقد قمت بتسجيل الدخول إلى متجرنا مسبقًا باستخدام موفر OpenID آخر يستخدم فيه نفس البريد الإلكتروني. <br / > - لقد قمت بالتسجيل بالفعل في متجرنا باستخدام بريدك الإلكتروني. <br /> يرجى الاتصال بمالك المتجر لحل المشكلات."
+
+msgctxt "SettingsSections::janrain::general"
+msgid "General"
+msgstr "عام"
+
+msgctxt "SettingsOptions::janrain::general_info"
+msgid "General info"
+msgstr "معلومات عامة"
+
+msgctxt "SettingsOptions::janrain::apikey"
+msgid "API Key"
+msgstr "مفتاح API"
+
+msgctxt "SettingsOptions::janrain::appdomain"
+msgid "Application Domain"
+msgstr "مجال التطبيق"
+

@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/tech_support_chat.po\n"
+"X-Crowdin-File-ID: 4660\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::tech_support_chat"
+msgid "Technical support chat"
+msgstr "Technikai támogatás chat"
+
+msgctxt "Addons::description::tech_support_chat"
+msgid "Adds live chat with the technical support team in the Administration panel"
+msgstr "Hozzáadja a a technikai támogató csoporttal folytatott élő chatet az adminisztrációs panelhez"
+

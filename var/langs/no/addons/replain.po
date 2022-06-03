@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Norwegian\n"
+"Language: no_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: no\n"
+"X-Crowdin-File: /release-4.13.2/addons/replain.po\n"
+"X-Crowdin-File-ID: 4630\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::replain"
+msgid "Re:plain Telegram chat"
+msgstr ""
+
+msgctxt "Addons::description::replain"
+msgid "Allows you to add Telegram chat to your storefront"
+msgstr ""
+
+msgctxt "Languages::replain"
+msgid "Re:plain chat"
+msgstr ""
+
+msgctxt "Languages::replain.insert_script"
+msgid "Here is how to set up Telegram chat:<br>1. Make sure Telegram is installed on your device.<br>2. Use <a href=\"[bot_url]\">Re:plain bot</a> to create a chat.<br> 3. Paste the code acquired from the bot into the field below and click <b>Save</b> to connect the chat to your store"
+msgstr ""
+
+msgctxt "SettingsOptions::replain::replain_script"
+msgid "Re:Plain script"
+msgstr ""
+

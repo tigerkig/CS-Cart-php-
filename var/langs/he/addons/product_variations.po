@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/product_variations.po\n"
+"X-Crowdin-File-ID: 4624\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::product_variations"
+msgid "Product Variations"
+msgstr "וריאציות מוצרים"
+
+msgctxt "Addons::description::product_variations"
+msgid "Create products with different feature variants (for example, a different color or size), and let customers select the desired variant."
+msgstr "צור מוצרים בעלי וריאנטים שונים של תכונות (לדוגמה, צבע או גודל שונה), ואפשר ללקוחות לבחור את הוריאציה הרצויה."
+
+msgctxt "SettingsSections::product_variations::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::product_variations::variations_allow_own_images"
+msgid "Allow own images for child variations"
+msgstr "אפשר תמונות משל עצמן עבור וריאציות בנות"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_own_images"
+msgid "If child variations aren't allowed to have their own images, they will use the images from the default variation of the catalog item."
+msgstr "אם לוריאציות בנות לא הותרו תמונות משל עצמן, הן ישתמשו בתמונות מוריאציה של ברירת מחדל של הפריט הקטלוגי."
+
+msgctxt "SettingsOptions::product_variations::variations_allow_auto_change_default_variation"
+msgid "Change default variation when it gets hidden or runs out of stock"
+msgstr "שנה את גרסת ברירת המחדל כאשר היא מוסתרת או אזל המלאי שלה"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_auto_change_default_variation"
+msgid "Ensure that customers always see the products that are in stock first. We recommend leaving this setting enabled for better filtering of variations."
+msgstr "הבטח שהלקוחות תמיד יראו את המוצרים שנמצאים במלאי תחילה. אנו ממליצים להשאיר את ההגדרה הזו מופעלת כדי לאפשר סינון טוב יותר של וריאציות."
+
+msgctxt "SettingsOptions::product_variations::variations_allow_own_features"
+msgid "Allow own feature values for child variations"
+msgstr "אפשר תכונות משל עצמן עבור וריאציות בנות"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_own_features"
+msgid "If child variations aren't allowed to have their own values for features, they will use the values from the default variation of the catalog item."
+msgstr "אם לוריאציות בנות לא הותרו ערכים משל עצמן עבור התכונות, הן ישתמשו בערכים מוריאציה של ברירת מחדל של הפריט הקטלוגי."
+
+msgctxt "SettingsOptions::product_variations::variations_show_all_possible_feature_variants"
+msgid "Show all possible feature variants"
+msgstr "הצג את כל הגרסאות האפשריות"
+
+msgctxt "SettingsTooltips::product_variations::variations_show_all_possible_feature_variants"
+msgid "Show a feature variant even if it is not available for this variation."
+msgstr "הצג גרסת תכונה גם אם היא אינה זמינה עבור גרסא זו."
+
+msgctxt "Languages::product_variations.product_type"
+msgid "Product type"
+msgstr "סוג המוצר"
+
+msgctxt "Languages::product_variations.product_type.catalog_item"
+msgid "Catalog item"
+msgstr "פריט קטלוגי"
+
+msgctxt "Languages::product_variations.product_type.variation_of_catalog_item"
+msgid "Variation of a catalog item"
+msgstr "וריאציה של פריט קטלוגי"
+
+msgctxt "Languages::product_variations.belongs_to_catalog_item"
+msgid "Belongs to catalog item:"
+msgstr "שייך לפריט קטלוגי:"
+
+msgctxt "Languages::product_variations.variations"
+msgid "Variations"
+msgstr "וריאציות"
+
+msgctxt "Languages::product_variations.variation_of_product"
+msgid "Variation of catalog item <a href=\"[url]\">[product]</a>"
+msgstr "וריאציה של פריט קטלוגי <a href=\"[url]\">[product]</a>"
+
+msgctxt "Languages::product_variations.group_code"
+msgid "Variation group"
+msgstr "קבוצת וריאציות"
+
+msgctxt "Languages::product_variations.group_code.placeholder"
+msgid "Set custom group code here"
+msgstr "הגדר קוד קבוצה בהתאמה אישית כאן"
+
+msgctxt "Languages::product_variations.group_code.description"
+msgid "Use the group code on a product editing page or during import to add the product to this group as a variation. A group code can contain only digits, Latin characters, and the following signs: \"-\" and \"_\"."
+msgstr "השתמש בקוד קבוצה בעמוד עריכת המוצרים או במהלך ייבוא כדי להוסיף את המוצר לקבוצה זו בתור וריאציה. קוד קבוצה יכול להכיל רק ספרות, אותיות לטיניות ותווים הבאים: \"-\" and \"_\"."
+
+msgctxt "Languages::product_variations.group_code.link"
+msgid "Add to variation group"
+msgstr "הוסף לקבוצת הוריאציות"
+
+msgctxt "Languages::product_variations.add_variations"
+msgid "Add variations"
+msgstr "הוסף וריאציות"
+
+msgctxt "Languages::product_variations.link_existing"
+msgid "Use existing products"
+msgstr "השתמש במוצרים הקיימים"
+
+msgctxt "Languages::product_variations.create_new"
+msgid "Create new products"
+msgstr "יצירת מוצרים חדשים"
+
+msgctxt "Languages::product_variations.add_variations_description"
+msgid "Add variations to generate a group of similar products that differ in color, size, etc. Or add this product to an existing group by entering the group code."
+msgstr "הוסף ווריאציות כדי ליצור קבוצה של מוצרים דומים השונים בצבע, בגודל וכו '. או הוסף מוצר זה לקבוצה קיימת על ידי הזנת קוד הקבוצה."
+
+msgctxt "Languages::product_variations.manage"
+msgid "Manage variations"
+msgstr "ניהול וריאציות"
+
+msgctxt "Languages::product_variations.edit_features"
+msgid "Edit features"
+msgstr "ערוך את התכונות"
+
+msgctxt "Languages::product_variations.delete"
+msgid "Disband group"
+msgstr "פרק את הקבוצה"
+
+msgctxt "Languages::product_variations.remove_variation"
+msgid "Remove variation from group"
+msgstr "הסר וריאציה מהקבוצה"
+
+msgctxt "Languages::product_variations.delete_product"
+msgid "Delete product"
+msgstr "מחק מוצר"
+
+msgctxt "Languages::product_variations.mark_main_product"
+msgid "Set as default variation"
+msgstr "קבע בתור וריאציה של ברירת מחדל"
+
+msgctxt "Languages::product_variations.no_available_features"
+msgid "This product doesn't have features that allow grouping products. Please make sure that:<ol><li>You have created at least one feature with <b>Purpose:</b> <i>Variations as separate products</i> or <i>Variations as one product</i>.</li><li>You have specified the value of that feature for the product.</li></ol><a href=[manage_features_href]>Manage features</a>"
+msgstr "למוצר זה אין תכונות המאפשרות קיבוץ מוצרים. אנא וודא כי: <ol style=\";text-align:right;direction:rtl\"><li style=\";text-align:right;direction:rtl\"> יצרת לפחות תכונה אחת עם <b>מטרה:</b> <i>וריאציות כמוצרים נפרדים</i> או <i>וריאציות כמוצר אחד</i> . </li><li style=\";text-align:right;direction:rtl\"> ציינת את ערך התכונה הזו עבור המוצר. </li></ol> <a href=[manage_features_href]>ניהול תכונות</a>"
+
+msgctxt "Languages::product_feature.purpose.group_catalog_item"
+msgid "Variations as separate products"
+msgstr "וריאציות כמוצרים נפרדים"
+
+msgctxt "Languages::product_feature.purpose.group_catalog_item.description"
+msgid "For cases when a few similar products differ visibly by a feature, and have different names (for example, multiple \"Color\" variants of a T-shirt). These products will appear as separate positions in the catalog. Customers will also be able to select the desired feature value on the product page. To achieve this, <b>set up variations for products with this feature</b>."
+msgstr "עבור המקרים כאשר מספר מוצרים דומים נבדלים ויזואלית בתכונה אחת ויש להם שמות שונים (לדוגמה, וריאנטים \"צבע\" מרובות של חולצת טי). מוצרים אלה יופיע במקומות נפרדים בקטלוג. לקוחות יוכלו גם לבחור את ערך התכונה המבוקשת בדף המוצר. כדי לאפשר זאת, <b>הגדר את הוריאציות עבור המוצרים עם התכונה הזו</b>."
+
+msgctxt "Languages::product_feature.feature_style.dropdown"
+msgid "Drop-down list"
+msgstr "רשימה נפתחת"
+
+msgctxt "Languages::product_feature.feature_style.dropdown_images"
+msgid "Images"
+msgstr "תמונות"
+
+msgctxt "Languages::product_feature.feature_style.dropdown_labels"
+msgid "Text labels"
+msgstr "תוויות טקסט"
+
+msgctxt "Languages::product_feature.purpose.group_variation_catalog_item"
+msgid "Variations as one product"
+msgstr "וריאציות כמוצר אחד"
+
+msgctxt "Languages::product_feature.purpose.group_variation_catalog_item.description"
+msgid "For cases when a few similar products differ by a feature, but have the same name and similar appearance (for example, multiple \"Size\" variants of a T-shirt). These products will occupy a single position in the catalog. Customers will be able to select the desired feature value on the product page. To achieve this, <b>set up variations for products with this feature</b>."
+msgstr "עבור המקרים כאשר מספר מוצרים דומים נבדלים בתכונה אחת ולהם שם זהה והם נראים דומים (לדוגמה, וריאנטים \"גודל\" מרובות של חולצת טי). מוצרים אלה יופיע במקומות נפרדים בקטלוג. לקוחות יוכלו גם לבחור את ערך התכונה המבוקשת בדף המוצר. כדי לאפשר זאת, <b>הגדר את הוריאציות עבור המוצרים עם התכונה הזו</b>."
+
+msgctxt "Languages::product_variations.error.group_not_found"
+msgid "Variation group #[id] not found"
+msgstr "קבוצת הוריאציות  #[id] לא נמצאה"
+
+msgctxt "Languages::product_variations.error.product_not_found_in_group"
+msgid "Product #[product_id] not found in variation group \"[group_code]\""
+msgstr "מוצר #[product_id] לא נמצא בקבוצת וריאציות \"[group_code]\""
+
+msgctxt "Languages::product_variations.error.cannot_mark_main_product_child_product"
+msgid "Product #[product_id] in group \"[group_code]\" isn't a variation, so it can't become default for a catalog item"
+msgstr "מוצר #[product_id] בקבוצה \"[group_code]\" אינו וריאציה, לכן הוא לא יכול להפוך לברירת מחדל עבור פריט קטלוגי"
+
+msgctxt "Languages::product_variations.error.generate_combinations_is_empty"
+msgid "Couldn't generate variations. Please specify the values of features to generate variations."
+msgstr "יצירת וריאציות לא הצליחה. הגדר את הערכים של תכונות כדי ליצור וריאציות."
+
+msgctxt "Languages::product_variations.error.generate_products_is_empty"
+msgid "No new products were created"
+msgstr "לא נוצרו מוצרים חדשים"
+
+msgctxt "Languages::product_variations.error.product_not_found"
+msgid "Product #[product_id] not found"
+msgstr "מוצר #[product_id] לא נמצא"
+
+msgctxt "Languages::product_variations.error.group_not_found_by_product"
+msgid "Couldn't find variation group for #[product_id] \"[product]\""
+msgstr "לא נמצאה קבוצת וריאציות עבור #[product_id] \"[product]\""
+
+msgctxt "Languages::product_variations.error.feature_combination_is_invalid_for_product"
+msgid "Wrong combination of features for product #[product_id] \"[product]\""
+msgstr "צירוף שגוי של תכונות עבור המוצר #[product_id] \"[product]\""
+
+msgctxt "Languages::product_variations.error.product_ids_empty"
+msgid "Products couldn't be found"
+msgstr "המוצרים לא נמצאו"
+
+msgctxt "Languages::product_variations.select_variation"
+msgid "Select a Variation"
+msgstr "בחר וריאציה"
+
+msgctxt "Languages::product_variations.error.group_code_is_required"
+msgid "Variation group code must be specified"
+msgstr "יש לציין את קוד קבוצת וריאציות"
+
+msgctxt "Languages::product_variations.error.group_code_is_invalid"
+msgid "Couldn't set this code for variation group. A group code can contain only digits, Latin characters, and the following signs: \"-\" and \"_\""
+msgstr "קביעת קוד עבור קבוצת וריאציות לא הצליחה. קוד הקבוצה יכול לכלול רק ספרות, אותיות לטיניות ותווים הבאים \"-\" ו-\"_\""
+
+msgctxt "Languages::product_variations.error.group_code_is_duplicate"
+msgid "The specified variation group code is already in use"
+msgstr "קוד קבוצת וריאציות שצוין כבר נמצא בשימוש"
+
+msgctxt "Languages::product_variations.error.features_is_empty"
+msgid "Features couldn't be found"
+msgstr "תכונות לא נמצאו"
+
+msgctxt "Languages::product_variations.error.no_available_products"
+msgid "No suitable products were found"
+msgstr "לא נמצאו מוצרים מתאימים"
+
+msgctxt "Languages::product_variations.error.product_has_not_required_features"
+msgid "Product #[product_id] \"[product]\" doesn't have the required features to become a variation. Please set feature values for that product."
+msgstr "למוצר #[product_id] \"[product]\" אין את התכונות הנדרשות כדי להפוך לוריאציה. הגדר ערכי תכונות עבור מוצר זה."
+
+msgctxt "Languages::product_variations.error.product_with_features_combination_exits"
+msgid "Product #[product_id] \"[product]\" has the exact same combination of feature values as a variation that already exists in the group."
+msgstr "למוצר #[product_id] \"[product]\" יש את אותו צירוף ערכי תכונות בדיוק כמו לוריאציה שכבר קיימת בקבוצה."
+
+msgctxt "Languages::product_variations.error.product_company_does_not_match_to_group_company.ult"
+msgid "Product #[product_id] \"[product]\" can't be added to the variation group because all products in a variation group must belong to the same storefront."
+msgstr "לא ניתן להוסיף את המוצר #[product_id] \"[product]\" לקבוצת וריאציות בגלל שכל המוצרים בקבוצת וריאציות חייבים להשתייך לאותה חזית חנות."
+
+msgctxt "Languages::product_variations.error.product_company_does_not_match_to_group_company.mve"
+msgid "Product #[product_id] \"[product]\" can't be added to the variation group because all products in a variation group must belong to the same vendor."
+msgstr "לא ניתן להוסיף את המוצר #[product_id] \"[product]\" לקבוצת וריאציות בגלל שכל המוצרים בקבוצת וריאציות חייבים להשתייך לאותו ספק."
+
+msgctxt "Languages::product_variations.variations_filling"
+msgid "Variations"
+msgstr "וריאציות"
+
+msgctxt "Languages::product_variations.variations_list"
+msgid "Variations"
+msgstr "וריאציות"
+
+msgctxt "Languages::variations_in_stock"
+msgid "Only \"in stock\" products"
+msgstr "מוצרים “במלאי” בלבד"
+
+msgctxt "Languages::product_variations.hide_add_to_wishlist_button"
+msgid "Hide add to wish list button"
+msgstr "הסתר את כפתור הוסף לרשימת המשאלות"
+
+msgctxt "Languages::product_variations.variations_list_block_name"
+msgid "Variations list"
+msgstr "רשימה של הוריאציות"
+
+msgctxt "Languages::product_variations.variations_list_tab_name"
+msgid "View all variations as list"
+msgstr "צפה בכל הוריאציות בצורת רשימה"
+
+msgctxt "Languages::product_variations.show_variation_thumbnails"
+msgid "Show variation thumbnails"
+msgstr "הצג תמונות ממוזערות"
+
+msgctxt "Languages::product_variations.show_product_code"
+msgid "Show product code"
+msgstr "הצג קוד המוצר"
+
+msgctxt "Languages::product_variations.exim.result_notice"
+msgid "Data is imported successfully.<br />New products - <b>[new]</b>;<br />Updated products - <b>[exist]</b>;<br />Skipped products - <b>[skipped]</b>;<br />Total - <b>[total]</b>;<br />Created variations - <b>[variation_created]</b>;<br />Updated variations - <b>[variation_updated]</b>;<br />Disbanded variations - <b>[variation_removed]</b>."
+msgstr "הנתונים ייובאו בהצלחה.<br />מוצרים חדשים -  - <b>[new]</b>;<br />מוצרים מעודכנים - <b>[exist]</b>;<br />מוצרים שדילגו עליהם - <b>[skipped]</b>;<br />סה\"כ - <b>[total]</b>;<br />וריאציות שנוצרו - <b>[variation_created]</b>;<br /> וריאציות מעודכנות - <b>[variation_updated]</b>;<br />וריאציות שהוסרו - <b>[variation_removed]</b>."
+
+msgctxt "Languages::variation_group_id"
+msgid "Variation group ID"
+msgstr "מזהה קבוצת הוריאציות"
+
+msgctxt "Languages::variation_group_code"
+msgid "Variation group code"
+msgstr "קוד קבוצת וריאציות"
+
+msgctxt "Languages::variation_parent_product_id"
+msgid "Variation parent product ID"
+msgstr "מזהה של מוצר האב של הוריאציה"
+
+msgctxt "Languages::variation_sub_group_id"
+msgid "Variation sub group ID"
+msgstr "מזהה תת-קבוצת הוריאציות"
+
+msgctxt "Languages::product_variations.feature_used_by_variation_group.tooltip"
+msgid "This feature is used by variation group [code]. To choose a different value of this feature for a product, switch to the \"Variations\" tab of the product editing page. New values can be added on the feature editing page."
+msgstr "תכונה זו נמצאת בשימוש בקבוצת וריאציות [code]. כדי לבחור ערך שונה של תכונה זו עבור המוצר, עבור ללשונית \"וריאציות\" בדף עריכת מוצר. ניתן להוסיף ערכים חדשים בעמוד עריכת תכונות המוצר."
+
+msgctxt "Languages::product_variations.variations_naming_strategy.key_value"
+msgid "Color: Red, Size: Small"
+msgstr "צבע: אדום, גודל: קטן"
+
+msgctxt "Languages::product_variations.variations_naming_strategy.value"
+msgid "Red, Small"
+msgstr "אדום, קטן"
+
+msgctxt "Languages::product_variations.upgrade_notification.convert_variations_title"
+msgid "Convert product variations to use features"
+msgstr "המר את וריאציות המוצרים כדי להשתמש בתכונות"
+
+msgctxt "Languages::product_variations.upgrade_notification.convert_variations_message"
+msgid "<p>Product variations in version 4.10.1 are more powerful than ever. They can now occupy separate positions in the catalog, be filtered and imported easily. To achieve this, we remade variations from scratch. They are now based on features instead of options.</p><p><b>We have disabled the old variations in your store, because they won’t work until they are converted.</b> The conversion is automatic, we just need your consent. Please check what we plan to do, and convert variations to use features.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Check and convert variations</a> <a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/product_variations.html\" target=\"_blank\" class=\"btn btn-large\">Learn more about variations</a></p>"
+msgstr "<p>וריאציות המוצרים בגרסה 4.10.1 עוצמתיות יותר מאי פעם. כעת ניתן למקם אותן במקומות נפרדים בקטלוג, לסנן אותן ולייבא בקלות. כדי להשיג זאת יצרנו את הוריאציות מחדש מהתחלה. כעת הן מבוססות על תכונות במקום על אפשרויות.</p><p><b>השבתנו את הוריאציות הישנות בחנות שלך, בגלל שהן לא יעבדו עד להמרה. </b> ההמרה היא אוטומטית, אנו רק צריכים את הסכמתך. בדוק את מה שאנחנו מתכננים לעשות והמר את הוריאציות כדי להשתמש בתכונות. </p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\"> בדוק והמר את הוריאציות </a> <a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/product_variations.html\" target=\"_blank\" class=\"btn btn-large\"> למד עוד על הוריאציות</a></p>"
+
+msgctxt "Languages::product_variations.feature_can_be_deleted"
+msgid "Couldn't delete a feature or its variant because at least one variation group is based on it. Please delete <a href=\"[href]\">these products</a> or disband their product groups, and try again."
+msgstr "מחיקת תכונה או הוריאנט שלה לא הצליחה מאחר שלפחות קבוצת וריאציות אחת מבוססת עליה. מחק <a href=\"[href]\"> א המוצרים הבאים </a> או פרק את קבוצות המוצרים שלהם ונסה שוב."
+
+msgctxt "Languages::product_variations.notice.old_product_variations_exists"
+msgid "Your store still has old product variations. They currently appear as separate products, without the ability to switch between them. To make them work as before the upgrade, <a href=\"[convert_url]\">convert old variations to new variations</a>. It's easy and automatic."
+msgstr "בחנות שלך עדיין נמצאות וריאציות מוצרים ישנות. כעת הן מופיעות כמוצרים נפרדים, ללא האפשרות לעבור ביניהן. כדי שהן יעבדו כמו לפני השדרוג <a href=\"[convert_url]\"> המר את הוריאציות הישנות לוריאציות החדשות</a>. זה קל ואוטומטי."
+
+msgctxt "Languages::product_variations.notice.is_old_product_variation"
+msgid "This product is an old variation that hasn't been converted yet. To make it work as before the upgrade, <a href=\"[convert_url]\">convert old variations to new variations</a>."
+msgstr "המוצר הוא וריאציה ישנה שעדיין לא הומרה. כדי שהיא תעבוד כמו לפני השדרוג, <a href=\"[convert_url]\"> המר את הוריאציות הישנות לוריאציות החדשות."
+
+msgctxt "Languages::variation_set_as_default"
+msgid "Variation set as default"
+msgstr "וריאציה המוגדרת כברירת מחדל"
+
+msgctxt "Languages::product_variations.cant_edit_feature_categories"
+msgid "Couldn't assign feature to categories or a feature group. Some variations use this feature and aren't in the categories you tried to assign. Please delete <a href=\"[href]\">these products</a>, or disband their variation groups, or assign them to the same categories as feature or feature group, and try again."
+msgstr "שיוך תכונה לקטגוריות או לקבוצת תכונות לא הצליחה. וריאציות מסוימות משתמשות בתכונה זו ואינן בקטגוריות שניסית לשייך. מחק <a href=\"[href]\">את המוצרים אלה</a>, או השבת את קבוצות הוריאציות שלהן, או שייך אותן לאותן קטגוריות כבתור תכונה או קבוצת תכונות, ונסה שוב."
+
+msgctxt "Languages::product_variations.too_many_combinations"
+msgid "Sorry, there are too many possible variations that can be generated. To prevent heavy load, we won't display them here. Please create the products with the right feature values manually or via import, and add them to the group."
+msgstr "לעצרינו, קיימות יותר מדי וריאציות אפשריות שניתן לייצר. כדי למנוע עומס כבד, לא נציג אותן כאן. צור את המוצרים עם ערכי תכונות נכונים ידנית או באמצעות ייבוא והוסף אותם לקבוצה."
+
+msgctxt "Languages::product_variations.generator.features.placeholder"
+msgid "Search for features that can generate variations"
+msgstr "חפש אפשרויות שיכולות ליצור ווריאציות"
+
+msgctxt "Languages::product_variations.generator.warning.new_features_add"
+msgid "You can add a new feature if you disband the group in the actions menu and create variations again."
+msgstr "אתה יכול להוסיף אפשרות חדשה אם תפרק את הקבוצה בתפריט הפעולות ותיצור שוב וריאציות."
+
+msgctxt "Languages::product_variations.generator.feature_variants.placeholder"
+msgid "Type to search"
+msgstr "הקלד לחיפוש"
+
+msgctxt "Languages::product_variations.generator.feature_variants.add_all_variants"
+msgid "Add all variants"
+msgstr "הוסף את כל הוריאציות"
+
+msgctxt "Languages::product_variations.generator.table.title"
+msgid "Modify the variations to be created:"
+msgstr "שנה את הווריאציות שתיווצר:"
+
+msgctxt "Languages::product_variations.generator.create_btn"
+msgid "Create [n] variation|Create [n] variations"
+msgstr "צור ווריאציות [n] | צור ווריאציה [n]"
+
+msgctxt "Languages::product_variations.allow_own_features_setting_changing"
+msgid "You've disabled the <b>Allow own feature values for child variations</b> setting. Please export <a href=\"[url]\">all your default variations</a> (use \"Export found products\" in the gear button) and reimport them. This will apply their feature values to existing child variations."
+msgstr "השבתת את ההגדרה <b> אפשר ערכי אפשרויות משלך עבור ווריאציות לילדים </ b>. אנא ייצא <a href=\"isieurl₂\"> את כל ווריאציות ברירת המחדל שלך </a> (השתמש ב\"ייצא מוצרים שנמצאו \"בלחצן ההילוכים) וייבא אותם מחדש. זה יחיל את ערכי האפשרות שלהם על וריאציות קיימות של ילדים."
+
+msgctxt "Languages::product_variations.allow_own_images_setting_changing"
+msgid "You've disabled the <b>Allow own images for child variations</b> setting. Please export <a href=\"[url]\">all your default variations</a> (use \"Export found products\" in the gear button) and reimport them. This will apply their images to existing child variations."
+msgstr "השבתת את ההגדרה <b> אפשר תמונות בעצמך עבור וריאציות לילדים </ b>. אנא ייצא <a href=\"isieurl₂\"> את כל ווריאציות ברירת המחדל שלך </a> (השתמש ב\"ייצא מוצרים שנמצאו \"בלחצן ההילוכים) וייבא אותם מחדש. פעולה זו תחיל את התמונות שלהם על וריאציות קיימות של ילדים."
+
+msgctxt "Languages::product_variations.upgrade_notification.convert_combination_title"
+msgid "Convert option combinations to product variations"
+msgstr "המר את שילובי האפשרויות לווריאציות מוצרים"
+
+msgctxt "Languages::product_variations.upgrade_notification.convert_combination_message"
+msgid "<p>In the upcoming version 4.12.1, product variations will fully replace option combinations. The code that handles option combinations will be removed. Please note that ONLY <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">option combinations</a> and their code will be removed. <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\">Options</a> themselves will remain exactly as they are now.</p><p>Your store still has option combinations. That's why we ask you to convert option combinations into product variations. The process is mostly automatic. We only ask your input to make sure that everything goes smoothly and according to your expectations.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Convert option combinations</a></p>"
+msgstr "<p style=\";text-align:right;direction:rtl\"> בגרסה הקרובה 4.12.1, וריאציות מוצרים יחליפו לחלוטין את שילובי האפשרויות. הקוד שמטפל בשילובי אפשרויות יוסר. שים לב ששילובי <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">אפשרויות</a> בלבד והקוד שלהם יוסרו. <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\">האפשרויות</a> עצמן יישארו בדיוק כפי שהן עכשיו. </p><p style=\";text-align:right;direction:rtl\"> בחנות שלך עדיין יש שילובי אפשרויות. זו הסיבה שאנו מבקשים ממך להמיר שילובי אופציות לוריאציות מוצר. התהליך הוא לרוב אוטומטי. אנו רק מבקשים מהקלט שלך לוודא שהכל יעבור בצורה חלקה ובהתאם לציפיות שלך. </p><p style=\";text-align:right;direction:rtl\"> <a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">המר שילובי אופציות</a> </p>"
+
+msgctxt "Languages::product_variations.upgrade_notification.convert_combination_message_without_variations"
+msgid "<p>In the upcoming version 4.12.1, product variations will fully replace option combinations. The code that handles option combinations will be removed. Please note that ONLY <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">option combinations</a> and their code will be removed. <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\">Options</a> themselves will remain exactly as they are now.</p><p>Your store still has option combinations. That's why we ask you to convert option combinations into product variations. The process is mostly automatic. We only ask your input to make sure that everything goes smoothly and according to your expectations.</p><p>However, the Product Variations add-on isn't active in your store yet. You'll need to install or enable it first, and run the conversion.</p><p><a href=\"[search_for_addon]\" target=\"_blank\" class=\"btn btn-large\">1. Activate the add-on</a> <a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large\">2. Convert option combinations</a></p>"
+msgstr "<p style=\";text-align:right;direction:rtl\"> בגרסה הקרובה 4.12.1, וריאציות מוצרים יחליפו לחלוטין את שילובי האפשרויות. הקוד שמטפל בשילובי אפשרויות יוסר. שים לב ששילובי <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">אפשרויות</a> בלבד והקוד שלהם יוסרו. <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\">האפשרויות</a> עצמן יישארו בדיוק כפי שהן עכשיו. </p><p style=\";text-align:right;direction:rtl\"> בחנות שלך עדיין יש שילובי אפשרויות. זו הסיבה שאנו מבקשים ממך להמיר שילובי אפשרויות לגרסאות מוצר. התהליך הוא לרוב אוטומטי. אנו רק מבקשים מהקלט שלך לוודא שהכל יעבור בצורה חלקה ובהתאם לציפיות שלך. </p><p style=\";text-align:right;direction:rtl\"> עם זאת, התוסף 'וריאציות מוצרים' עדיין לא פעיל בחנות שלך. יהיה עליך להתקין או להפעיל אותו תחילה ולהפעיל את ההמרה. </p><p style=\";text-align:right;direction:rtl\"> <a href=\"[search_for_addon]\" target=\"_blank\" class=\"btn btn-large\">1. הפעל את התוסף</a> <a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large\">2. צירופי אפשרויות המרה</a> </p>"
+
+msgctxt "Languages::product_variations.add_all_variants"
+msgid "Add all variants"
+msgstr "הוסף את כל הגרסאות"
+

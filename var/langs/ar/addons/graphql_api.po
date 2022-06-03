@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/graphql_api.po\n"
+"X-Crowdin-File-ID: 4574\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::graphql_api"
+msgid "GraphQL API"
+msgstr "GraphQL API"
+
+msgctxt "Addons::description::graphql_api"
+msgid "Provides administrators and vendors with the ability to manage products via GraphQL API endpoint"
+msgstr "يوفر للمسؤولين والموردين القدرة على إدارة المنتجات عبر نقطة نهاية GraphQL API"
+

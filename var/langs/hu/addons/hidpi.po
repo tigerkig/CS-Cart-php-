@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 4578\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "Nagy felbontású (HiDPI) kijelzők támogatása"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "Retina kijelzők támogatása"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Minden feltöltött képet HiDPI-nek tekintünk"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Minden feltöltött képet HiDPI-nek tekintünk"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "A \"HiDPI felbontású képet töltök fel\" jelölőnégyzeteket alapértelmezés szerint mindenhol be kell jelölni, ahol képeket töltenek fel. Ezeket a jelölőnégyzeteket szükség esetén ki tudod majd iktatni."
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "HiDPI támogatás engedélyezve"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "HiDPI felbontású képet töltök fel."
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "Ha ez a jelölőnégyzet be van jelölve, akkor a forráskép kétszeres méretarányú kicsinyítéssel jelenik meg. Ez a beállítás csak a forráskép megjelenítését befolyásolja, a bélyegképét nem. Ha azt szeretnéd, hogy a kép az eredeti méretben jelenjen meg, vedd ki ezt a jelölőnégyzetet."
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "Kép helyreállítása"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "A HiDPI megjelenítést támogató bővítmény előző verziója lekicsinyítette a feltöltött képeket. Erre most már nincs szükség. Ahhoz azonban, hogy a képek szépnek és élesnek látszódjanak, a Visszaállítás gombra kell kattintanod."
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "Visszaállítás"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong>Figyelem!</strong> Ez az eljárás nem visszafordítható: amikor visszaállítod a frissítést, a kép helyreállításával kapcsolatos manipulációk nem lesznek visszaállítva. Ezért kérjük, mindenképpen készíts biztonsági mentést. Az eljárás némi időt vehet igénybe - ez a piactéren lévő képek számától függ."
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_title"
+msgid "Make sure your images look good."
+msgstr "Győződj meg arról, hogy a képeid jó minőségűek-e."
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "A piactereden található régi képek némelyike még gyengébb minőségű. A lehető legjobb minőség használatához kérjük, <a href=\"[convert_url]\">állítsd vissza a kiváló minőségű képeket</a>. A folyamat automatikus."
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_text"
+msgid "<p>The previous version of the <b>[addon_name]</b> add-on shrank the uploaded images. We improved the add-on, so there is no need for that now. However, the existing images remain shrunk and don’t look good.</p><p>We can make your existing images look nice and sharp, but that procedure will take some time. That’s why we need you to start it.</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Make image look good</a></p>"
+msgstr "<p>A <b>[addon_name]</b>  bővítmény előző verziója összetömörítette a feltöltött képeket. Továbbfejlesztettük a bővítményt, így erre most már nincs szükség. A meglévő képek azonban továbbra is tömörítettek maradnak, és nem néznek ki jól. </p><p>A feltöltött képeket szépen és élesen is meg tudjuk jeleníteni, de ez az eljárás némi időt vesz igénybe. Ezért javasoljuk, hogy kezdd el.</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Régi képek feljavítása</a></p>"
+

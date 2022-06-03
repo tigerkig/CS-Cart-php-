@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.13.2/addons/payment_dependencies.po\n"
+"X-Crowdin-File-ID: 4604\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::payment_dependencies"
+msgid "Payment dependencies"
+msgstr "Frete por pagamento"
+
+msgctxt "Addons::description::payment_dependencies"
+msgid "Assign payment methods to shipping methods"
+msgstr "Atribui formas de pagamento a fretes"
+
+msgctxt "Languages::pd_allowed_payment_methods"
+msgid "Allowed payment methods"
+msgstr "Modos de pagamento permitidos"
+
+msgctxt "Languages::pd_allowed_payment_methods_text"
+msgid "Select payment methods that your customers can use with this shipping method"
+msgstr "Selecione as formas de pagamento que os seus clientes podem usar com este frete"
+
+msgctxt "Languages::pd.there_are_no_available_payment_methods"
+msgid "There are no payment methods available right now. Try to change the selected shipping method."
+msgstr ""
+
+msgctxt "Languages::pd.no_payments_available"
+msgid "No payment methods available."
+msgstr ""
+

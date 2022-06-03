@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/suppliers.po\n"
+"X-Crowdin-File-ID: 4656\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::suppliers"
+msgid "Suppliers"
+msgstr "ספקים"
+
+msgctxt "Addons::description::suppliers"
+msgid "Adds supplier assignment support to products"
+msgstr "מוסיף תמיכה בשיוך ספקים למוצרים"
+
+msgctxt "Languages::search_by_supplier"
+msgid "Search by supplier"
+msgstr "חפש לפי ספק"
+
+msgctxt "Languages::notify_supplier"
+msgid "Notify supplier"
+msgstr "תודיע לספק"
+
+msgctxt "Languages::view_supplier_products"
+msgid "View supplier products"
+msgstr "צפה במוצרים של הספק"
+
+msgctxt "Languages::supplier"
+msgid "Supplier"
+msgstr "ספק"
+
+msgctxt "Languages::supplier_email_header"
+msgid "The following products have been purchased in our store and need to be shipped."
+msgstr "המוצרים הבאים נרכשו בחנות שלך ויש לשלוח אותם."
+
+msgctxt "Languages::suppliers_menu_description"
+msgid "List of supplier accounts registered in the store."
+msgstr "רשימת חשבונות ספקים הרשומים בחנות."
+
+msgctxt "Languages::dear_sirs"
+msgid "Dear Sirs"
+msgstr "אדונים נכבדים"
+
+msgctxt "Languages::add_supplier"
+msgid "Add supplier"
+msgstr "הוסף ספק"
+
+msgctxt "Languages::available_for_supplier"
+msgid "Available for supplier"
+msgstr "זמין עבור הספק"
+
+msgctxt "Languages::editing_supplier"
+msgid "Editing supplier"
+msgstr "עריכת ספק"
+
+msgctxt "Languages::supplier_deleted"
+msgid "Supplier has been deleted successfully."
+msgstr "הספק נמחק בהצלחה."
+
+msgctxt "Languages::privileges.manage_suppliers"
+msgid "Can edit"
+msgstr "יכול לערוך"
+
+msgctxt "Languages::privilege_groups.suppliers"
+msgid "Suppliers"
+msgstr "ספקים"
+
+msgctxt "SettingsSections::suppliers::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::suppliers::display_supplier"
+msgid "Display product supplier company"
+msgstr "הצג את החברה של ספק המוצר"
+
+msgctxt "SettingsOptions::suppliers::display_shipping_methods_separately"
+msgid "Display shipping methods to each supplier separately"
+msgstr "הצג שיטות משלוח של כל ספק בנפרד"
+
+msgctxt "Languages::email_template.suppliers_notification"
+msgid "Supplier notification"
+msgstr "הודעה לספק"
+
+msgctxt "Languages::email_template.supplier_notification_with_status"
+msgid "Supplier notification: [name]"
+msgstr "הודעת ספק: [שם]"
+
+msgctxt "Languages::email_template.suppliers_notification_default"
+msgid "Supplier notification: Default template for a new order status"
+msgstr "הודעת ספק: תבנית ברירת מחדל לסטטוס הזמנה חדש"
+
+msgctxt "Languages::template_document_supplier_order_invoice"
+msgid "Suppliers: invoice"
+msgstr "ספקים: חשבונית"
+
+msgctxt "Languages::document_preview_suppliers_not_found"
+msgid "Couldn't find a supplier. Preview only works with existing data. Please create a supplier and use Preview again."
+msgstr "הספק לא נמצא. תצוגה מוקדמת עובדת רק עם נתונים קיימים. צור את הספק והפעל תצוגה מוקדמת שוב."
+
+msgctxt "Languages::suppliers.event.order.supplier_notified.name"
+msgid "Suppliers: order status changed to [status]"
+msgstr "ספקים: סטטוס ההזמנה שונה ל- [סטטוס]"
+
+msgctxt "Languages::event.receiver.s"
+msgid "Supplier"
+msgstr "ספק"
+
+msgctxt "Languages::suppliers.supplier_notifications"
+msgid "Supplier notifications"
+msgstr "הודעה לספק"
+

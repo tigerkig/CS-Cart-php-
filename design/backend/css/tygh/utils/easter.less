@@ -1,0 +1,63 @@
+.easter {
+    display: none;
+    @media (max-width: @TabletBreakpoint) {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+                justify-content: center;
+    }
+
+    position: fixed;
+    z-index: 314059;
+
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    background: white;
+
+    padding: 0 20px;
+    overflow-y: auto;
+
+    &__text {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 24px;
+        line-height: 1.3;
+
+        @media (min-width: @PhoneBreakpoint + 1px) {
+            font-size: 18px;
+        }
+    }
+
+    &__close-button {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    &__image-container {
+        text-align: center;
+    }
+
+    &__image {
+        display: inline-block;
+        width: 100%;
+        max-width: 320px;
+    }
+
+    &__close-button {
+        padding: 10px 0px;
+
+        .btn {
+            padding: 10px 30px;
+            font-size: 16px;
+        }
+    }
+}

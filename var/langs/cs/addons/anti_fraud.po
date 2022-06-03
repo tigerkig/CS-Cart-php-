@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.13.2/addons/anti_fraud.po\n"
+"X-Crowdin-File-ID: 4518\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::anti_fraud"
+msgid "Anti fraud"
+msgstr "Proti podvodům"
+
+msgctxt "Addons::description::anti_fraud"
+msgid "Adds configurable security order verification using the Maxmind service to prevent fraud"
+msgstr "Dodává konfigurovatelné bezpečnostní ověření objednávky pomocí služby Maxmind na předcházení podvodům"
+
+msgctxt "Languages::af_big_order_total"
+msgid "Order total exceeds the allowed maximum"
+msgstr "Celková částka objednávky přesahuje povolené maximum"
+
+msgctxt "Languages::af_country_doesnt_match"
+msgid "The country does not match the IP address"
+msgstr "Země neodpovídá IP adrese"
+
+msgctxt "Languages::af_has_failed_orders"
+msgid "Customer has FAILED orders"
+msgstr "Zákazník má neúspěšnou objednávku"
+
+msgctxt "Languages::af_has_successfull_orders"
+msgid "Customer has SUCCESSFUL orders"
+msgstr "Zákazník má úspěšnou objednávku"
+
+msgctxt "Languages::af_high_risk_country"
+msgid "High risk country"
+msgstr "Vysoce rizikové země"
+
+msgctxt "Languages::af_high_risk_email"
+msgid "High risk email"
+msgstr "Rizikový email"
+
+msgctxt "Languages::af_high_risk_factor"
+msgid "Risk factor exceeds the defined value"
+msgstr "Rizikový faktor přesahuje definovanou hodnotu"
+
+msgctxt "Languages::af_ip_not_found"
+msgid "Failed to identify customer's IP address"
+msgstr "Nepodařilo se zjistit IP adresu zákazníka"
+
+msgctxt "Languages::af_long_distance"
+msgid "Customer is outside the safe distance"
+msgstr "Zákazník je mimo bezpečné vzdálenosti"
+
+msgctxt "Languages::af_low_risk_factor"
+msgid "Risk factor is admissible"
+msgstr "Rizikový faktor je přípustný"
+
+msgctxt "Languages::antifraud_failed_order"
+msgid "Your order was placed in the store. It is undergoing an additional check now. We will contact you as soon as the administrator finishes it"
+msgstr "Vaše objednávka byla zaevidována v našem obchodě. Nyní probíhá dodatečná kontrola. Budeme vás kontaktovat ihned po jejím ukončení"
+
+msgctxt "Languages::risk_factor"
+msgid "Risk factor"
+msgstr "Rizikový faktor"
+
+msgctxt "Languages::not_available"
+msgid "n/a"
+msgstr "n/a"
+
+msgctxt "Languages::decision"
+msgid "Decision"
+msgstr "Rozhodnutí"
+
+msgctxt "Languages::anti_fraud_order_not_approved"
+msgid "Order has not been approved because risk factor exceeds Maximum risk factor"
+msgstr "Objednávka nebyla schválena protože rizikový faktor přesahuje povolené nastavení rizika"
+
+msgctxt "Languages::anti_fraud_order_approved"
+msgid "Order has been approved"
+msgstr "Objednávka byla schválena"
+
+msgctxt "Languages::fraud_risk"
+msgid "Fraud risk"
+msgstr "Riziko podvodu"
+
+msgctxt "Languages::fraud_checking"
+msgid "Fraud checking"
+msgstr "Kontrolu podvodu"
+
+msgctxt "SettingsSections::anti_fraud::general"
+msgid "General"
+msgstr "Všeobecné"
+
+msgctxt "SettingsOptions::anti_fraud::anti_fraud_key"
+msgid "Maxmind license key"
+msgstr "Maxmind licenční klíč"
+
+msgctxt "SettingsOptions::anti_fraud::anti_fraud_user_id"
+msgid "Maxmind user ID"
+msgstr "MaxMind uživatelské ID"
+
+msgctxt "SettingsOptions::anti_fraud::anti_fraud_safe_distance"
+msgid "Safe distance (km)"
+msgstr "Bezpečná vzdálenost (km)"
+
+msgctxt "SettingsOptions::anti_fraud::anti_fraud_max_order_total"
+msgid "Max order total"
+msgstr "Maximum sumy objednávky"
+
+msgctxt "SettingsOptions::anti_fraud::anti_fraud_risk_factor"
+msgid "Maximum risk factor (1..100)"
+msgstr "Maximální rizikový faktor (1..100)"
+
+msgctxt "SettingsOptions::anti_fraud::antifraud_order_status"
+msgid "Order status"
+msgstr "Stav objednávky"
+
+msgctxt "Languages::anti_fraud.integration_updated_upgrade_notification_title"
+msgid "Add-ons: Anti Fraud: MaxMind user ID is now required"
+msgstr "Doplněk: Anti Fraud: MaxMind uživatelské ID je vyžadováno"
+
+msgctxt "Languages::anti_fraud.integration_updated_upgrade_notification_text"
+msgid "<p>Previously the Anti Fraud add-on didn't work for new MaxMind customers. We have fixed the problem, but the updated integration with minFraud requires a user ID in addition to the license key. You can get both of these credentials here: <a href=\"https://www.maxmind.com/en/my_license_key\">https://www.maxmind.com/en/my_license_key</a></p><p>Once you get the credentials, go to <b>Add-ons → Manage add-ons → Anti fraud</b> and enter the credentials in the add-on's settings. Otherwise the add-on won't work.</p>"
+msgstr "<p>Dříve doplněk Anti Fraud nefungoval pro nového zákazníky MaxMind. Problém jsme vyřešili, ale tato aktualizovaná integrace vyžaduje uživatelské ID v návaznosti na licenční klíč. Oba údaje můžete zjistit zde: <a href=\"https://www.maxmind.com/en/my_license_key\">https://www.maxmind.com/en/my_license_key</a></p><p> Jakmile získáte tyto údaje, jděte do <b>Doplňky → Správa doplňků → Anti fraud</b> a vložte údaje do nastavení doplňku. Jinak doplněk pracovat nebude.</p>"
+

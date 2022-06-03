@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::tech_support_chat"
+msgid "Technical support chat"
+msgstr "Techical support chat"
+
+msgctxt "Addons::description::tech_support_chat"
+msgid "Adds live chat with the technical support team in the Administration panel"
+msgstr "Adds live chat with the technical support team int the Administration panel"

@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/paypal.po\n"
+"X-Crowdin-File-ID: 4608\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::paypal"
+msgid "PayPal payments"
+msgstr "PayPal fizetések"
+
+msgctxt "Addons::description::paypal"
+msgid "Lets you accept payments via PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced, and PayPal Payflow Pro."
+msgstr "Lehetővé teszi a fizetést PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced és PayPal Payflow Pro módokkal."
+
+msgctxt "SettingsOptions::paypal::override_customer_info"
+msgid "Override customer info"
+msgstr "Ügyféladatok felülírása"
+
+msgctxt "SettingsOptions::paypal::test_mode"
+msgid "Test mode"
+msgstr "Teszt mód"
+
+msgctxt "SettingsSections::paypal::general"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "Languages::protection_eligibility"
+msgid "Protection eligibility"
+msgstr "Védelem alkalmazhatósága"
+
+msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
+msgid "Instant payment notification settings"
+msgstr "Azonnali fizetés értesítés (IPN) beállításai"
+
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "PayPal státusztérkép"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "PayPal logó beállításai"
+
+msgctxt "Languages::text_paypal_surcharge"
+msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
+msgstr "<b>Megjegyzés:</b> A PayPal (4.6) <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'> szabályzata</a> szerint pótdíj nem támogatott."
+
+msgctxt "Languages::txn_id"
+msgid "Transaction ID"
+msgstr "Tranzakció azonosító"
+
+msgctxt "Languages::paypal_logo"
+msgid "PayPal logo"
+msgstr "PayPal logó"
+
+msgctxt "Languages::ttc_paypal_logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "Használjon érvényes képfájl formátumot: gif, jpg, png. A kép ne legyen szélesebb 190 pixelnél és magasabb 60 pixelnél. A PayPal levágja az ennél nagyobb képet. A PayPal az Ön logóját a kosár áttekintése terület felső részében fogja elhelyezni."
+
+msgctxt "Languages::ipn_errors"
+msgid "IPN errors"
+msgstr "IPN hibák"
+
+msgctxt "Languages::pp_product_count_is_incorrect"
+msgid "Number of paid items is different than the number of items in the order"
+msgstr "A fizetett tételek száma eltér a rendelésben szereplő tételek számával"
+
+msgctxt "Languages::pp_currency_is_incorrect"
+msgid "Currency used for the payment is different than the order currency."
+msgstr "A fizetéséhez használt pénznem eltér a megrendelés pénznemétől."
+
+msgctxt "Languages::pp_total_is_incorrect"
+msgid "Payment total is different than the order total."
+msgstr "A rendelés végösszege eltér a fizetési mód által megkapott végösszegtől."
+
+msgctxt "Languages::pp_mode"
+msgid "Paypal mode"
+msgstr "PayPal mód"
+
+msgctxt "Languages::paypal_vendor"
+msgid "Vendor"
+msgstr "Eladó"
+
+msgctxt "Languages::paypal_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "In-Context Checkout használata"
+
+msgctxt "Languages::ttc_paypal_use_in_context_checkout"
+msgid "In-Context Checkout will not be used when the store is running in Widget mode"
+msgstr "Az \"In-Context Checkout\" nem használható akkor, ha az áruház widget módban fut"
+
+msgctxt "Languages::paypal_express_notice"
+msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
+msgstr "Kereskedői azonosító (Merchant ID) szükséges az <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout funkció</a> használatához. Ezt az azonosítót a PayPal fiókba való bejelentkezést követően lehet megkeresni <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Kattintson a <b>Profil és beállítások</b> oldalon a <b>Business Profile</b> menüpontra.  Kattintson a <b>My business info</b> menüpontra, <b>Merchant account ID</b> a jobb oldali listában fog megjelenni."
+
+msgctxt "Languages::paypal_ipn_note"
+msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."
+msgstr "Az Azonnali Fizetési Értesítések (IPN) szolgáltatás automatikusan tájékoztat minden PayPal-hoz kapcsolódó tranzakció-eseményről.<br>Amikor a vevő PayPal segítségével fizet ki egy rendelést, az automatikusan <b>Nyitott</b> státuszt kap.<br>A PayPal rendezere ezután IPN üzeneteket küld, amely tartalmazza a tranzakció státuszát. Így a rendelés státusza automatikusan megváltozik a PayPal státusztérképnek megfelelően."
+
+msgctxt "Languages::paypal_ipn_transaction_status"
+msgid "Transaction status"
+msgstr "Tranzakció állapota"
+
+msgctxt "Languages::paypal.ipn_transaction_status"
+msgid "Transaction status: [status]"
+msgstr "Tranzakció állapota: [status]        "
+
+msgctxt "Languages::addons.paypal.surcharge_policy_notice"
+msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
+msgstr "Pótdíj került beállításra egy olyan fizetési módnál, amely PayPal Services szolgáltatást használ. Bizonyosodjon meg arról, hogy megfelel a <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">PayPal Services ÁSZF dokumentumának</a>."
+
+msgctxt "Languages::addons.paypal.rma.perform_refund"
+msgid "Give a refund via PayPal"
+msgstr "Visszautalás PayPal-on keresztül"
+
+msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "A visszautalás azután történik meg, hogy az adminisztrátor megvizsgálta, és megváltoztatta a kérés státuszát"
+
+msgctxt "Languages::addons.paypal.rma.refund_performed"
+msgid "The refund has been made via PayPal"
+msgstr "Visszautalás PayPal-on keresztül megtörtént"
+
+msgctxt "Languages::addons.paypal.refund_message"
+msgid "[amount] [currency] have been refunded in [date] at [time]."
+msgstr "[amount] [currency] visszafizetésre került [date]-én/án [time]-kor"
+
+msgctxt "SettingsOptions::paypal::paypal_partial_refund_action"
+msgid "Order status on partial refund"
+msgstr "A rendelés státusza részleges visszatérítésnél"
+
+msgctxt "Languages::addons.paypal.do_not_change"
+msgid "Do not change"
+msgstr "Ne változtasd meg"
+
+msgctxt "Languages::tt_addons_paypal_settings_partial_refund_action_order_status"
+msgid "Determines whether or not to change the order status automatically after a partial refund via PayPal."
+msgstr "Meghatározza, hogy a PayPal-on keresztül történő részleges visszatérítés után automatikusan megváltozzon-e a megrendelés státusza."
+
+msgctxt "Languages::addons.paypal.set_status_to"
+msgid "Set to:"
+msgstr "Beállítása:"
+
+msgctxt "Languages::addons.paypal.ipn_receiving_time"
+msgid "IPN receiving time"
+msgstr "IPN fogadásának ideje"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders"
+msgid "Initial order status"
+msgstr "A megrendelés kezdeti állapota"
+
+msgctxt "Languages::ttc_addons.paypal.status_for_new_orders"
+msgid "All orders with a PayPal payment method get this status until the response from PayPal (an IPN message) arrives or a customer returns to the store via a link on the PayPal site."
+msgstr "Minden PayPal-fizetési móddal leadott megrendelés ezt a státuszt kapja, amíg a PayPal válasza (IPN-üzenet) meg nem érkezik, vagy a vásárló nem tér vissza a piactérre a PayPal webhelyén található hivatkozáson keresztül."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.open"
+msgid "By default, the <i>Open</i> status decreases the inventory, so two customers won't be able to buy the same product while the payment is being processed by PayPal. But if a customer leaves the PayPal website without paying or returning to the store via a link on the PayPal site, you'll have an abandoned <i>Open</i> order with reserved products."
+msgstr "Alapértelmezés szerint a <i>nyitott</i> státusz csökkenti a készletet, így két vásárló nem tudja megvásárolni ugyanazt a terméket, amíg a PayPal a fizetés feldolgozását végzi. Ha azonban egy vásárló fizetés nélkül hagyja el a PayPal webhelyet, vagy a PayPal webhelyen található hivatkozáson keresztül tér vissza az áruházba, akkor egy elhagyott <i>nyitott</i> megrendelésed lesz a lefoglalt termékekkel."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.incomplete"
+msgid "This ensures that you won't have abandoned unpaid orders with the <i>Open</i> status and reserved products. But until the response from PayPal (an IPN message) arrives or the customer returns to the store via a link on the PayPal site, the order will be listed as <i>Incomplete</i>, and products won't be reserved."
+msgstr "Ez biztosítja, hogy ne legyenek <i>nyitott</i> státuszú elhagyott, ki nem fizetett megrendeléseid és foglalt termékeid. De amíg nem érkezik meg a PayPal válasza (IPN-üzenet), vagy a vásárló nem tér vissza a piactérre a PayPal webhelyen található hivatkozáson keresztül, a megrendelés <i>nincs befejezve</i> státuszban szerepel, és a termékek sem lesznek lefoglalva."
+
+msgctxt "Languages::addons.paypal.display_name"
+msgid "Display name"
+msgstr "Név megjelenítése"
+
+msgctxt "Languages::addons.paypal.display_description"
+msgid "Display description"
+msgstr "Leírás megjelenítése "
+
+msgctxt "Languages::addons.paypal.technical_details"
+msgid "Technical details"
+msgstr "Technikai részletek"
+
+msgctxt "Languages::addons.paypal.connect_to_paypal"
+msgid "Connect to PayPal"
+msgstr "Csatlakozás a PayPal-hoz"
+
+msgctxt "Languages::addons.paypal.use_buttons_to_signup"
+msgid "Use these buttons to complete the configuration wizard"
+msgstr "Használd ezeket a gombokat a konfigurációs varázsló befejezéséhez"
+
+msgctxt "Languages::addons.paypal.configure_live"
+msgid "Configure Live"
+msgstr "Live konfigurálása"
+
+msgctxt "Languages::addons.paypal.configure_test"
+msgid "Configure Test"
+msgstr "Teszt konfigurálása"
+
+msgctxt "Languages::addons.paypal.connecting_to_signup_server"
+msgid "Connecting to <b>PayPal Sign Up Server</b>..."
+msgstr "Csatlakozás a <b>PayPal regisztrációs szerverhez</b>..."
+
+msgctxt "Languages::addons.paypal.signup_completed"
+msgid "The <b>[payment]</b> payment method has been successfully configured"
+msgstr "A<b>[payment]</b> fizetési mód sikeresen konfigurálásra került."
+
+msgctxt "Languages::addons.paypal.signup_errors.signup_init"
+msgid "An error occurred when connecting to a PayPal account"
+msgstr "Hiba történt a PayPal-fiókhoz való csatlakozáskor"
+
+msgctxt "Languages::addons.paypal.signup_errors.merchant_credentials"
+msgid "An error occurred when obtaining the payment method configuration"
+msgstr "Hiba történt a fizetési mód konfigurációjának lekérdezésekor"
+
+msgctxt "Languages::addons.paypal.signup_messages.finish_signup"
+msgid "You now have a PayPal business account, and you've successfully integrated [product] with PayPal.<br>Don't forget to confirm your email to activate your account so you can access the payments. To do this, follow the instructions PayPal sent to your email."
+msgstr "Most már rendelkezel PayPal üzleti profillal, és sikeresen integráltad a [product] terméket a PayPal-lal.<br>Ne felejtsd el megerősíteni az e-mail címed, hogy aktiváld a fiókodat és így hozzáférhess a fizetésekhez. Ehhez kövesd a PayPal által az e-mail címedre küldött utasításokat."
+
+msgctxt "Languages::addons.paypal.signup_messages.confirmation_needed"
+msgid "To access payments from your customers, please confirm your email address by following the instructions PayPal emailed to you."
+msgstr "Ahhoz, hogy hozzáférj a vásárlóid által küldött fizetésekhez, kérjük, erősítsd meg e-mail címed, követve a PayPal által e-mailben küldött utasításokat."
+
+msgctxt "Languages::paypal.addon_is_disabled_notice"
+msgid "The <b>PayPal payments</b> add-on is disabled so you can't configure this payment method."
+msgstr "A <b>PayPal fizetések</b> bővítmény le van tiltva, így nem tudja beállítani ezt a fizetési módot."
+
+msgctxt "Languages::addons.paypal.3d_secure_mandatory_notice"
+msgid "3-D secure is mandatory in the United Kingdom."
+msgstr "Az Egyesült Királyságban kötelező a 3-D secure rendeszer használata."
+
+msgctxt "Languages::paypal.show_cart_button"
+msgid "Show the \"Checkout with PayPal\" button on the cart contents page"
+msgstr "Mutassa a \"Pénztár, fizetés PayPal-lal\" gombot a kosár tartalmi oldalán."
+

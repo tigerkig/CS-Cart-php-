@@ -1,0 +1,10 @@
+{
+    "version": "0.0.1",
+    "require": {
+        "mk-j/php_xlsxwriter": "^0.37.0"
+    },
+    "scripts": {
+        "post-update-cmd": ["echo [WARNING] Delete all .git, examples, docs dirs", "rm -rf vendor/**/**/.git vendor/**/**/docs vendor/**/**/examples vendor/**/**/testbench vendor/**/**/example*"],
+        "post-install-cmd": ["echo [WARNING] Delete all .git, examples, docs dirs", "rm -rf vendor/**/**/.git vendor/**/**/docs vendor/**/**/examples vendor/**/**/testbench vendor/**/**/example*"]
+    }
+}

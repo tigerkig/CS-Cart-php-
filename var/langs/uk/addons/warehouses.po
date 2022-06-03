@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.13.2/addons/warehouses.po\n"
+"X-Crowdin-File-ID: 4678\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::warehouses"
+msgid "Warehouses [Beta]"
+msgstr "Склади [Beta]"
+
+msgctxt "Addons::description::warehouses"
+msgid "Lets you set product stock separately for each store and warehouse. Shows to customers the availability of a product in stores or in particular rate areas."
+msgstr "Дозволяє задавати різну кількість на різних складах і магазинах. Показує покупцям наявність товару в магазинах і в тарифних зонах."
+
+msgctxt "Languages::warehouses.store_type"
+msgid "Type"
+msgstr "Тип"
+
+msgctxt "Languages::warehouses.store_type_store"
+msgid "Store"
+msgstr "Магазин"
+
+msgctxt "Languages::warehouses.store_type_pickup"
+msgid "Pickup point"
+msgstr "Точка видачі"
+
+msgctxt "Languages::warehouses.store_type_warehouse"
+msgid "Warehouse"
+msgstr "Склад"
+
+msgctxt "Languages::warehouses.name"
+msgid "Name"
+msgstr "Ім'я"
+
+msgctxt "Languages::warehouses.city"
+msgid "City"
+msgstr "Місто"
+
+msgctxt "Languages::warehouses.quantity"
+msgid "Quantity"
+msgstr "Кількість"
+
+msgctxt "Languages::warehouses.settings"
+msgid "Settings"
+msgstr "Налаштування"
+
+msgctxt "Languages::warehouses.ship_to"
+msgid "Ship to"
+msgstr "Доставити в"
+
+msgctxt "Languages::warehouses.ship_to_tooltip"
+msgid "Determines the rate areas in which the products from this warehouse will be considered available."
+msgstr "У яких тарифних зонах товари з цього складу будуть вважатися доступними."
+
+msgctxt "Languages::warehouses.main_destination_tooltip"
+msgid "Determines where this place is located. In turn, this determines the shipping rate and delivery time to this place."
+msgstr "Визначає, де знаходиться це місце. У свою чергу, це визначить швидкість доставки та час доставки до цього місця."
+
+msgctxt "Languages::warehouses.show_to"
+msgid "Show to"
+msgstr "Показувати в"
+
+msgctxt "Languages::warehouses.show_to_tooltip"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Дозволяє при оформленні замовлення запропонувати цю точку самовивозу тому хто знаходиться в інших тарифних зонах."
+
+msgctxt "Languages::warehouses.out_of_stock_products"
+msgid "[product] isn't in stock in the selected region.|The following products aren't in stock in the selected region: [products]"
+msgstr "[product] у вибраному регіоні немає на складі.|Наступні товари відсутні на складі у вибраному регіоні: [product]"
+
+msgctxt "Languages::warehouses.warehouse_stock"
+msgid "Quantities"
+msgstr "Кількість"
+
+msgctxt "Languages::warehouses.stores_and_warehouses"
+msgid "Stores & Warehouses"
+msgstr "Магазини та склади"
+
+msgctxt "Languages::warehouses.store_warehouse"
+msgid "Store / Warehouse"
+msgstr "Магазин / склад"
+
+msgctxt "Languages::warehouses.shipping_delay"
+msgid "Moving time"
+msgstr "Термін перевозки"
+
+msgctxt "Languages::warehouses.shipping_delay.tooltip"
+msgid "The time it takes to move products from here to another store or warehouse in this rate area."
+msgstr "Час, за який товари потраплять звідси в інший магазин або склад в цій тарифній зоні."
+
+msgctxt "Languages::warehouses.warn_about_delay"
+msgid "Warn about delay"
+msgstr "Попередження про затримку"
+
+msgctxt "Languages::warehouses.warn_about_delay.tooltip"
+msgid "If a product has to be moved to the rate area from here, show the moving time in the product list and cart."
+msgstr "Якщо товар потрібно везти звідси в цю тарифну зону, то показувати термін перевезення на списку товарів і в кошику."
+
+msgctxt "Languages::warehouses.destinations_configuration.tooltip"
+msgid "Products can be taken from different stores and warehouses first, depending on where your customer is. <a href=\"[destinations_url]\" target=\"_blank\">Configure store and warehouse priority individually for each rate area.</a>"
+msgstr "Товари можуть бути доставлені з різних магазинів і складів, залежно від місця перебування покупця. <a href=\"[destinations_url]\" target=\"_blank\">Налаштуйте точку видачі та пріоритет складу індивідуально для кожної тарифної зони</a>"
+
+msgctxt "Languages::warehouses.shipping_delay.description"
+msgid "Product is at a remote warehouse. If you order it, we'll send it [shipping_delay]."
+msgstr "Товар знаходиться на віддаленому складі. Якщо ви замовите його, ми відправимо його протягом [shipping_delay]."
+
+msgctxt "Languages::warehouses.shipping_delay.description.default"
+msgid "Product is at a remote warehouse. If you order it, shipping may take slightly longer."
+msgstr "Товар знаходиться на віддаленому складі. Якщо ви замовите його, доставка займе більше часу."
+
+msgctxt "Languages::warehouses.shipping_delay.description.short"
+msgid "If ordered: [shipping_delay]"
+msgstr "При замовленні: [shipping_delay]"
+
+msgctxt "Languages::warehouses.shipping_delay_for_products"
+msgid "Some of the products you ordered are at a remote warehouse. Shipping may take slightly longer than stated here."
+msgstr "Деякі замовлені вами товари знаходяться на віддаленому складі. Доставка може зайняти трохи більше часу, ніж зазначено."
+
+msgctxt "Languages::warehouses.product_available_if_ordered"
+msgid "Available if ordered"
+msgstr "За замовленням"
+
+msgctxt "Languages::warehouses.product_in_stock"
+msgid "In stock"
+msgstr "В наявності"
+
+msgctxt "Languages::warehouses.in_n_stores"
+msgid "in [n] store|in [n] stores"
+msgstr "в [n] магазині|в [n] магазинах"
+
+msgctxt "Languages::warehouses.product_availability"
+msgid "Availability in stores"
+msgstr "Наявність в магазинах"
+
+msgctxt "Languages::block_availability_in_stores"
+msgid "Availability in stores"
+msgstr "Наявність в магазинах"
+
+msgctxt "Languages::block_availability_in_stores_description"
+msgid "List of stores where the product can be purchased"
+msgstr "Список магазинів, де можна придбати товар"
+
+msgctxt "Languages::warehouses.store_and_address"
+msgid "Store and address"
+msgstr "Магазин та адреса"
+
+msgctxt "Languages::warehouses.phone"
+msgid "Phone"
+msgstr "Телефон"
+
+msgctxt "Languages::warehouses.search_store"
+msgid "Search store"
+msgstr "Шукати магазин"
+
+msgctxt "Languages::warehouses.stores_list"
+msgid "List"
+msgstr "Список"
+
+msgctxt "Languages::warehouses.stores_map"
+msgid "Map"
+msgstr "Карта"
+
+msgctxt "Languages::warehouses.no_matching_stores_found"
+msgid "No stores found matching the search criteria"
+msgstr "Не знайдено магазинів що відповідають критеріям пошуку"
+
+msgctxt "Languages::warehouses.rate_area"
+msgid "Rate area"
+msgstr "Тарифна зона"
+
+msgctxt "Languages::warehouses.shipping_delay_notification"
+msgid "Delay warning"
+msgstr "Попередження про затримку"
+
+msgctxt "Languages::warehouses.shipping_delay_notification.tooltip"
+msgid "It will appear if products aren't available in the stores and warehouses above."
+msgstr "З'явиться, якщо товари не доступні в магазинах або складах вище за списком."
+
+msgctxt "Languages::warehouses.type_to_search_or_check_all"
+msgid "Type to search, or click the button on the right to add all rate areas"
+msgstr "Введіть пошуковий запит, або клацніть на кнопці праворуч щоб додати всі тарифні зони"
+
+msgctxt "Languages::warehouses.any_store_type"
+msgid "Any type of store"
+msgstr "Будь-який тип магазину"
+
+msgctxt "Languages::warehouses.add_all"
+msgid "Add all"
+msgstr "Додати всі"
+
+msgctxt "Languages::warehouses.quantity_tab.no_data"
+msgid "This storefront doesn't have any stores or warehouses. Please <a href=\"[create_url]\">create one</a> or <a href=\"[list_url]\">make an existing one available</a> for this storefront"
+msgstr "На цій вітрині немає магазинів або складів. <a href=\"[create_url]\">створіть магазин або склад</a> або <a href=\"[list_url]\">зробіть існуючий доступним</a> для цієї вітрини"
+
+msgctxt "Languages::warehouses.exim_reset_inventory_tooltip"
+msgid "This won't affect the products that have the quantity specified in the imported file. This also won't affect products at the warehouses that aren't updated in this preset."
+msgstr "Це не вплине на продукти, кількість яких вказана в імпортованому файлі. Це також не вплине на продукти на складах, які не оновлюються в цьому пресеті."
+
+msgctxt "Languages::commerceml.map.entity_type.warehouse"
+msgid "Warehouses"
+msgstr "Склади"
+
+msgctxt "Languages::commerceml.tab.warehouse"
+msgid "Warehouses"
+msgstr "Склади"
+
+msgctxt "Languages::warehouses.commerceml.import.error.product.warehouse_not_found"
+msgid "Couldn't find warehouse [id]"
+msgstr "Не вдалося знайти склад [id]"
+
+msgctxt "Languages::warehouses.commerceml.import.message.warehouse.created"
+msgid "Category [id] created; local ID: [local_id]"
+msgstr "Категорію [id] створено; локальний ID: [local_id]"
+

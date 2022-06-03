@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/barcode.po\n"
+"X-Crowdin-File-ID: 4526\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::barcode"
+msgid "Order barcode"
+msgstr "Barcode pesanan"
+
+msgctxt "Addons::description::barcode"
+msgid "Makes it possible to configure and attach barcodes to orders"
+msgstr "Memungkinkan untuk mengkonfigurasi dan melampirkan barcode untuk pesanan"
+
+msgctxt "Languages::please_enable_the_add_on_to_see_barcode"
+msgid "Please enable the add-on to see a code example."
+msgstr "Silakan aktifkan add-on untuk melihat contoh kode."
+
+msgctxt "SettingsSections::barcode::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::barcode::elm_image"
+msgid "Image"
+msgstr "Gambar"
+
+msgctxt "SettingsOptions::barcode::elm_image_info"
+msgid "Example Image"
+msgstr "Contoh gambar"
+
+msgctxt "SettingsOptions::barcode::elm_configs"
+msgid "Configs"
+msgstr "Konfigurasi"
+
+msgctxt "SettingsOptions::barcode::type"
+msgid "Type"
+msgstr "Tipe"
+
+msgctxt "SettingsOptions::barcode::output"
+msgid "Output"
+msgstr "Keluaran"
+
+msgctxt "SettingsOptions::barcode::text"
+msgid "Text"
+msgstr "Teks"
+
+msgctxt "SettingsOptions::barcode::height"
+msgid "Height,px"
+msgstr "Tinggi, px"
+
+msgctxt "SettingsOptions::barcode::width"
+msgid "Width,px"
+msgstr "Lebar, px"
+
+msgctxt "SettingsOptions::barcode::resolution"
+msgid "Resolution"
+msgstr "Resolusi"
+
+msgctxt "SettingsOptions::barcode::text_font"
+msgid "Text Font"
+msgstr "Font teks"
+
+msgctxt "SettingsOptions::barcode::prefix"
+msgid "Barcode prefix"
+msgstr "Barcode awalan"
+
+msgctxt "SettingsOptions::barcode::elm_specification"
+msgid "Specification"
+msgstr "Spesifikasi"
+
+msgctxt "SettingsOptions::barcode::elm_spec_descr"
+msgid "Spec Description"
+msgstr "Deskripsi spec"
+
+msgctxt "SettingsVariants::barcode::type::C128A"
+msgid "Code 128-A"
+msgstr "Kode 128-A"
+
+msgctxt "SettingsVariants::barcode::type::C128B"
+msgid "Code 128-B"
+msgstr "Kode 128-B"
+
+msgctxt "SettingsVariants::barcode::type::C128C"
+msgid "Code 128-C"
+msgstr "Kode 128-C"
+
+msgctxt "SettingsVariants::barcode::type::I25"
+msgid "Interleaved 2 of 5"
+msgstr "Interleaved 2 dari 5"
+
+msgctxt "SettingsVariants::barcode::type::C39"
+msgid "Code 39"
+msgstr "Kode 39"
+
+msgctxt "SettingsVariants::barcode::output::png"
+msgid "Portable Network Graphics (PNG)"
+msgstr "Portable Network Graphics (PNG)"
+
+msgctxt "SettingsVariants::barcode::output::jpeg"
+msgid "Joint Photographic Experts Group (JPEG)"
+msgstr "Joint Photographic Experts Group (JPEG)"
+
+msgctxt "SettingsVariants::barcode::text::N"
+msgid "Disabled"
+msgstr "Non aktifkan"
+
+msgctxt "SettingsVariants::barcode::text::Y"
+msgid "Enabled"
+msgstr "Aktifkan"
+
+msgctxt "SettingsVariants::barcode::resolution::1"
+msgid "1"
+msgstr "1"
+
+msgctxt "SettingsVariants::barcode::resolution::2"
+msgid "2"
+msgstr "2"
+
+msgctxt "SettingsVariants::barcode::resolution::3"
+msgid "3"
+msgstr "3"
+
+msgctxt "SettingsVariants::barcode::text_font::1"
+msgid "1"
+msgstr "1"
+
+msgctxt "SettingsVariants::barcode::text_font::2"
+msgid "2"
+msgstr "2"
+
+msgctxt "SettingsVariants::barcode::text_font::3"
+msgid "3"
+msgstr "3"
+
+msgctxt "SettingsVariants::barcode::text_font::4"
+msgid "4"
+msgstr "4"
+
+msgctxt "SettingsVariants::barcode::text_font::5"
+msgid "5"
+msgstr "5"
+

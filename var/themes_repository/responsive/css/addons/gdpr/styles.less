@@ -1,0 +1,185 @@
+.ty-gdpr {
+
+    // GDPR Agreement
+    &-agreement {
+        margin-bottom: 10px;
+
+        &--icon {
+            color: @links;
+        }
+
+        &--label:hover .ty-gdpr-agreement--icon {
+            color: @secondary_button;
+        }
+    }
+
+    // GDPR Tooltip
+    &-tooltip.tooltip {
+        max-width: 620px;
+
+        ul, ol {
+            list-style: inherit;
+            padding-left: 40px;
+        }
+
+        li {
+            list-style: inherit;
+        }
+
+        p {
+            margin-top: 1em;
+            margin-bottom: 1em;
+
+            &:first-child,
+            &:last-child {
+                margin-top: auto;
+                margin-bottom: auto;
+            }
+        }
+    }
+    &-tooltip--close {
+        display: none;
+        color: darken(@base, 10%);
+        top: 0;
+        right: 0;
+        width: 60px;
+        height: 30px;
+    }
+    &-tooltip--light {
+        background: #fff;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+
+        .tooltip-arrow {
+            border-color: transparent transparent rgba(0, 0, 0, 0.2) transparent;
+
+            &:after {
+                content: '';
+                position: absolute;
+                border-style: solid;
+                top: 2px;
+                left: -10px;
+                border-width: 0 0 9px 9px;
+                border-color: transparent transparent #fff transparent;
+            }
+        }
+        &.tooltip.arrow-top .tooltip-arrow  {
+            border-color: transparent rgba(0, 0, 0, 0.2) transparent transparent;
+
+            &:after {
+                content: '';
+                position: absolute;
+                border-style: solid;
+                top: 0;
+                left: 1px;
+                border-width: 0 8px 8px 0;
+                border-color: transparent #fff transparent transparent;
+            }
+        }
+        &.arrow-top.right .tooltip-arrow {
+            border-color: rgba(0, 0, 0, 0.2) transparent transparent transparent;
+
+            &:after {
+                content: '';
+                position: absolute;
+                border-style: solid;
+                top: -10px;
+                left: 1px;
+                border-width: 8px 8px 0 0;
+                border-color: #fff transparent transparent transparent;
+            }
+        }
+        &.arrow-down.right .tooltip-arrow {
+            border-color: transparent transparent transparent rgba(0, 0, 0, 0.2);
+
+            &:after {
+                content: '';
+                position: absolute;
+                border-style: solid;
+                top: -8px;
+                left: -9px;
+                border-width: 8px 0 0 8px;
+                border-color: transparent transparent transparent #fff;
+            }
+        }
+        &.arrow-down.top .tooltip-arrow {
+            border-color: rgba(0, 0, 0, 0.2) transparent transparent transparent;
+
+            &:after {
+                content: '';
+                position: absolute;
+                border-style: solid;
+                top: -10px;
+                left: -9px;
+                border-width: 8px 0 0 8px;
+                border-color: #fff transparent transparent transparent;
+            }
+        }
+        &.arrow-down.right.top .tooltip-arrow {
+            border-color: rgba(0, 0, 0, 0.2) transparent transparent transparent;
+
+            &:after {
+                content: '';
+                position: absolute;
+                border-style: solid;
+                top: -10px;
+                left: 1px;
+                border-width: 8px 8px 0 0;
+                border-color: #fff transparent transparent transparent;
+            }
+        }
+
+        &.arrow-down.center .tooltip-arrow {
+            border-color: transparent transparent rgba(0, 0, 0, 0.2) transparent;
+            border-width: 0 10px 10px 10px;
+            right: 50%;
+            top: -10px;
+
+            &:after {
+                content: '';
+                position: absolute;
+                border-style: solid;
+                top: 1px;
+                left: -9px;
+                border-width: 0 9px 9px 9px;
+                border-color: transparent transparent #fff transparent;
+            }
+        }
+        &.arrow-down.center.top .tooltip-arrow {
+            border-color: rgba(0, 0, 0, 0.2) transparent transparent transparent;
+            right: 50%;
+            top: auto;
+            bottom: -10px;
+            border-width: 10px 10px 0 10px;
+
+            &:after {
+                content: '';
+                position: absolute;
+                border-style: solid;
+                top: -10px;
+                left: -9px;
+                border-width: 9px 9px 0 9px;
+                border-color: #fff transparent transparent transparent;
+            }
+        }
+
+        p, li {
+            color: #333;
+        }
+    }
+}
+
+.touchevents .ty-gdpr-tooltip {
+    padding-top: 25px;
+
+    &--close {
+        display: inline-block;
+    }
+}
+
+.ty-gdpr-profile-actions {
+    margin: 45px 0 0 58px;
+}
+
+.ty-gdpr-profile-actions li {
+    list-style-type: decimal;
+}

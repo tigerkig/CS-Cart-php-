@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.13.2/addons/gdpr.po\n"
+"X-Crowdin-File-ID: 4562\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::gdpr"
+msgid "GDPR Compliance (EU)"
+msgstr "GDPR Compliance (EU)"
+
+msgctxt "Addons::description::gdpr"
+msgid "Helps you to comply with GDPR (a European Union regulation on personal data) by showing customers info about their personal data, asking their consent for its processing, and by offering ways to delete or export personal data."
+msgstr "Σας βοηθά να συμμορφώνονται με το GDPR (Γενικο κανονισμό προσωπικών δεδομένων της Ευρωπαϊκής Ένωσης), δείχνοντας στους πελάτες πληροφορίες σχετικά με τα προσωπικά τους δεδομένα, ζητώντας τη συγκατάθεσή τους για την επεξεργασία τους, και προσφέροντάς τους τρόπους για να διαγράψουνή να εξαγάγουν δεδομένα προσωπικού χαρακτήρα."
+
+msgctxt "SettingsSections::gdpr::general"
+msgid "General"
+msgstr "Γενικά"
+
+msgctxt "SettingsSections::gdpr::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "SettingsOptions::gdpr::gdpr_cookie_consent"
+msgid "Cookie consent"
+msgstr "Συγκατάθεση cookie"
+
+msgctxt "SettingsTooltips::gdpr::gdpr_cookie_consent"
+msgid "Implicit consent means an unobtrusive pop-up in the corner.<br/>Explicit consent means asking to agree to cookies before allowing customers to access the website for the first time."
+msgstr "Η σιωπηρή συγκατάθεση σημαίνει ένα διακριτικό αναδυόμενο παράθυρο στη γωνία. <br/> Η σαφης συγκατάθεση σημαίνει ότι ζητάτε να συμφωνήσει καποιος στα cookies πριν επιτρέψετε σ αυτον να έχει πρόσβαση στην ιστοσελίδα για πρώτη φορά."
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::none"
+msgid "None"
+msgstr "Κανενα"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::implicit"
+msgid "Implicit"
+msgstr "Σιωπηρή"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::explicit"
+msgid "Explicit"
+msgstr "Σαφής"
+
+msgctxt "Languages::gdpr.gdpr_user_data"
+msgid "GDPR user data"
+msgstr "Δεδομένα χρήστη GDPR"
+
+msgctxt "Languages::gdpr_user_data"
+msgid "User personal data"
+msgstr "Προσωπικά δεδομένα χρήστη"
+
+msgctxt "Languages::gdpr_user_profiles"
+msgid "Personal data from user profiles"
+msgstr "Προσωπικά δεδομένα από προφίλ χρηστών"
+
+msgctxt "Languages::gdpr_product_subscriptions"
+msgid "Personal data from product subscriptions"
+msgstr "Δεδομένων προσωπικού χαρακτήρα από τις συνδρομές προϊόντος"
+
+msgctxt "Languages::gdpr_agreements"
+msgid "Personal data from GDPR agreements"
+msgstr "Προσωπικά δεδομένα από συμφωνίες GDPR"
+
+msgctxt "Languages::gdpr.anonymize"
+msgid "Anonymize"
+msgstr "Ανωνυμοποίηση"
+
+msgctxt "Languages::gdpr.text_anonymize_question"
+msgid "Once you anonymize someone, all their personal information will be replaced with randomly-generated data. This action can not be undone, unless you restore the database from a backup. Are you sure you want to proceed?"
+msgstr "Μόλις ανωνυμοποιήσετε κάποιον, όλα τα προσωπικά του στοιχεία θα αντικατασταθούν από τυχαία παραγόμενα δεδομένα. Αυτή η ενέργεια δεν μπορεί να ανακληθεί, εκτός εάν επαναφέρετε τη βάση δεδομένων από ένα αντίγραφο ασφαλείας. Είστε βέβαιοι ότι θέλετε να προχωρήσετε;"
+
+msgctxt "Languages::gdpr.view_and_edit"
+msgid "View and edit"
+msgstr "Προβολή και επεξεργασία"
+
+msgctxt "Languages::gdpr_orders_data"
+msgid "Personal data from orders"
+msgstr "Προσωπικά δεδομένα από παραγγελίες"
+
+msgctxt "Languages::gdpr.full_agreement"
+msgid "Full agreement text"
+msgstr "Πλήρες κείμενο συμφωνίας"
+
+msgctxt "Languages::gdpr.short_agreement"
+msgid "Short agreement text"
+msgstr "Σύντομο κείμενο συμφωνίας"
+
+msgctxt "Languages::gdpr.checkout.place_order.personal_data_processing"
+msgid "Checkout: Place order: Personal data processing"
+msgstr "Ταμείο: Παραγγελία: Προσωπική επεξεργασία δεδομένων"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p> Εμείς ([company]) αποστέλλουμε μηνύματα ηλεκτρονικού ταχυδρομείου σχετικά με το λογαριασμό (όπως ειδοποιήσεις κατάστασης παραγγελίας, μηνύματα ηλεκτρονικού ταχυδρομείου επαναφοράς κωδικού πρόσβασης και άλλα) στην παρεχόμενη διεύθυνση ηλεκτρονικού ταχυδρομείου. Για το λόγο αυτό, πρέπει να αποθηκεύουμε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας ενώ παραμείνετε ο πελάτης μας. </p> <p> Χρησιμοποιούμε τις πληροφορίες στην ενότητα διεύθυνση χρέωσης / αποστολής και μπορεί να την στείλουμε σε έναν αποστολέα της ναυτιλίας ή του τρόπου πληρωμής: </ p > <ul> <li> Προσδιορίστε τις μεθόδους αποστολής και πληρωμής που είναι διαθέσιμες για την τοποθεσία σας. </ li> <li> Ολοκληρώστε τη διαδικασία πληρωμής ή αποστολής μέσω του παρόχου που επιλέξατε κατά την ολοκλήρωση της παραγγελίας όταν υποβάλλετε την παραγγελία. </ li> </ ul> <p> Ορισμένα μέλη του προσωπικού μας ή / στο κατάστημά μας που  χρησιμοποιηουν τον πίνακα διαχείρισής τους ενδέχεται να έχουν πρόσβαση στα δεδομένα σας. Εκτιμούμε το απόρρητό σας, έτσι ώστε η πρόσβαση στα δεδομένα να παρέχεται σε βάση ανάγκης για γνώση, προκειμένου να λειτουργεί το κατάστημα. Για παράδειγμα, ένας πωλητητής λαμβάνει μόνο τα δεδομένα σας, αν παραγγείλατε κάτι από αυτον, έτσι ώστε ο πωλητής να μπορέσει να εκπληρώσει αυτή την παραγγελία. </p> <p> Εάν αποφασίσετε ότι δεν θέλετε πλέον να χρησιμοποιείτε το κατάστημά μας και θέλετε να έχετε τα προσωπικά δεδομένα που καταργήσατε από τη βάση δεδομένων μας (ή αν θέλετε να λάβετε όλα τα προσωπικά δεδομένα που σχετίζονται με το λογαριασμό σας που έχουμε), στείλτε ένα μήνυμα ηλεκτρονικού ταχυδρομείου στο [email]. </ p> <p> Εάν πιστεύετε ότι η προσωπική σας τα δεδομένα έχουν καταστρατηγηθεί, έχετε το δικαίωμα να καταθέσετε καταγγελία στην εποπτική αρχή. Είμαστε υποχρεωμένοι σύμφωνα με τον Κανονισμό της ΕΕ για την Προστασία των Γενικών Προσωπικών Δεδομένων να σας ενημερώσουμε για αυτό το δικαίωμα. Πραγματικά δεν σκοπεύουμε να καταχραστούμε τα δεδομένα σας. </ p>"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Συμφωνώ στην επεξεργασία των προσωπικών μου δεδομένων <u> ως εξής.</u>"
+
+msgctxt "Languages::gdpr.user.registration.personal_data_processing"
+msgid "Customer: registration"
+msgstr "Πελάτης: εγγραφή"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p> Οι διευθύνσεις ηλεκτρονικού ταχυδρομείου διακρίνουν τους πελάτες μεταξύ τους. Συνδεθείτε στο κατάστημα εισάγοντας τη διεύθυνση ηλεκτρονικού ταχυδρομείου και τον κωδικό πρόσβασης που παρέχετε εδώ. </p> <p> Εμείς ([company]) αποστέλλουμε επίσης μηνύματα ηλεκτρονικού ταχυδρομείου σχετικά με το λογαριασμό (όπως ειδοποιήσεις κατάστασης παραγγελιών, ηλεκτρονικά μηνύματα επαναφοράς κωδικού πρόσβασης και πολλά άλλα ) στην παρεχόμενη διεύθυνση ηλεκτρονικού ταχυδρομείου. Για το λόγο αυτό πρέπει να αποθηκεύουμε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας ενώ παραμείνετε ο πελάτης μας. </p> <p> Άλλα πεδία προφίλ που ενδέχεται να υπάρχουν ή όχι σε αυτήν τη σελίδα αποθηκεύονται μαζί με τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας. Μπορούμε να χρησιμοποιήσουμε αυτές τις πληροφορίες για να επικοινωνήσουμε μαζί σας, εάν προκύψει η αναγκαιότητα. </p> <p> Ορισμένα μέλη του προσωπικού μας ή / και πωλητές που πωλούν προϊόντα στο κατάστημά μας και χρησιμοποιούν το διοικητικό τους πάνελ ενδέχεται να έχουν πρόσβαση στα δεδομένα σας. Εκτιμούμε το απόρρητό σας, έτσι ώστε η πρόσβαση στα δεδομένα να παρέχεται σε βάση ανάγκης για γνώση, προκειμένου να λειτουργεί το κατάστημα. Για παράδειγμα, ένας πvωλητηής λαμβάνει μόνο τα δεδομένα σας, αν παραγγείλατε κάτι από αυτον, έτσι ώστε ο πωλητής να μπορέσει να εκπληρώσει αυτή την παραγγελία. </p> <p> Εάν αποφασίσετε ότι δεν θέλετε πλέον να χρησιμοποιείτε το κατάστημά μας και θέλετε να έχετε τα προσωπικά δεδομένα που καταργήσατε από τη βάση δεδομένων μας (ή αν θέλετε να λάβετε όλα τα προσωπικά δεδομένα που σχετίζονται με το λογαριασμό σας που έχουμε), στείλτε ένα μήνυμα ηλεκτρονικού ταχυδρομείου στο [email]. </ p> <p> Εάν πιστεύετε ότι η προσωπική σας τα δεδομένα έχουν καταστρατηγηθεί, έχετε το δικαίωμα να καταθέσετε καταγγελία στην εποπτική αρχή. Είμαστε υποχρεωμένοι σύμφωνα με τον Κανονισμό της ΕΕ για την Προστασία των Γενικών Προσωπικών Δεδομένων να σας ενημερώσουμε για αυτό το δικαίωμα. δεν σκοπεύουμε πραγματικά να χρησιμοποιήσουμε εσφαλμένα τα δεδομένα σας"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Συμφωνώ στην επεξεργασία των προσωπικών μου δεδομένων <u> ως εξής.</u>"
+
+msgctxt "Languages::gdpr.profiles.update.personal_data_processing"
+msgid "Profiles: update"
+msgstr "Profiles: update"
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location.</li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p> "
+msgstr "<p>διευθύνσεις ηλεκτρονικού ταχυδρομείου διακρίνουν τους πελάτες από κάθε άλλο. Μπορείτε να εισέλθετε στο Store, εισάγοντας τη διεύθυνση ηλεκτρονικού ταχυδρομείου και τον κωδικό πρόσβασης που παρέχετε εδώ.</p> <p>([company]) στέλνουμε επίσης μηνύματα ηλεκτρονικού ταχυδρομείου που σχετίζονται με τον λογαριασμό (π.χ. παραγγελία ειδοποιήσεις κατάστασης, μηνύματα ηλεκτρονικού ταχυδρομείου επαναφοράς κωδικού πρόσβασης και άλλα) για την ηλεκτρονική διεύθυνση που δηλώσατε. Για το λόγο αυτό χρειάζεται να αποθηκεύσουμε τη διεύθυνση email σας, ενώ παραμένετε πελάτης μας.</p> <p>άλλα πεδία προφίλ που μπορεί ή δεν να είναι παρόντες σε αυτή τη σελίδα αποθηκεύονται μαζί με τη διεύθυνση email σας. Ενδέχεται να χρησιμοποιήσουμε αυτές τις πληροφορίες για να επικοινωνήσουμε μαζί σας, αν παραστεί ανάγκη.</p> <p>χρησιμοποιούμε τις πληροφορίες στην ενότητα της διεύθυνσης χρέωσης/αποστολής και μπορεί να το στείλει σε μια αποστολή ή πληρωμή μέθοδος υπηρεσία παροχής να:</p> <ul> <li>καθορίζουν ποιες μέθοδοι αποστολής και πληρωμής είναι διαθέσιμες για τη θέση σας.</li> <li>πλήρης πληρωμή ή διαδικασία αποστολής μέσω του παρόχου που θα επιλέξετε στο Ταμείο όταν υποβάλετε την παραγγελία.</li> </ul> <p>ορισμένα μέλη μας προσωπικό ή/και προμηθευτές οι οποίοι πωλούν προϊόντα στο κατάστημά μας και τη χρήση του πίνακα διαχείρισης μπορεί να είναι σε θέση να έχουν πρόσβαση στα δεδομένα σας. Σεβόμαστε την ιδιωτικότητα, έτσι ώστε η πρόσβαση στα δεδομένα παρέχεται σε μια ανάγκη να γνωρίζουν βάση προκειμένου να λειτουργήσει το κατάστημα. Για παράδειγμα, έναν προμηθευτή λαμβάνει μόνο τα δεδομένα σας εάν έχετε παραγγείλει κάτι από αυτούς, έτσι ώστε ο πωλητής μπορεί να εκπληρώσει την παραγγελία.</p> <p>αν αποφασίσετε που θέλετε να χρησιμοποιήσετε το κατάστημα μας πλέον και θα ήθελαν να έχουν αφαιρεθεί από τη βάση δεδομένων μας τα στοιχεία σας (ή αν θέλετε να πάρετε όλα τα προσωπικά δεδομένα που σχετίζονται με σας λογαριασμό που έχουμε), παρακαλούμε να στείλετε ένα email σε [email].</p> <p>αν πιστεύετε ότι τα προσωπικά σας δεδομένα έχει υποστεί κατάχρηση, έχετε το δικαίωμα να υποβάλουν καταγγελία σε εποπτική αρχή. Εμείς είμαστε υποχρεωμένοι από γενικός κανονισμός προστασίας δεδομένων της ΕΕ για να σας ενημερώσει σχετικά με αυτό το δικαίωμα? στην πραγματικότητα δεν σκοπεύουμε να καταχραστεί τα δεδομένα σας.</p> "
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Συμφωνώ στην επεξεργασία των προσωπικών μου δεδομένων <u> ως εξής.</u>"
+
+msgctxt "Languages::gdpr.vendor.apply.personal_data_processing"
+msgid "Vendor: apply for vendor"
+msgstr "Πωλητής: υποβάλλετε αίτηση για πωλητης"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_full_personal_data_processing"
+msgid "<p>Because vendors sell products in our marketplace, we ([company]) have to request certain information about them. For example, the company name and description of a vendor are shown to customers and serve to distinguish vendors from each other; the address is used for shipping rate calculation.</p> <p>However, we also request some personal data, such as first name/last name and emails address. Those are necessary for creating a vendor’s administrator account in our system. Vendors work with the marketplace through such accounts. Email addresses are necessary because they distinguish administrators from each other. You sign in to the store by entering the email address you provide here. Names are necessary because a single vendor can have multiple administrators—it is easier to handle accountability that way.</p> <p>We also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer. If you decide that you no longer want to work with our marketplace and would like to have personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p> Επειδή οι πωλητές πωλούν προϊόντα στo matketplace μας, εμείς ([company]) πρέπει να ζητήσουμε ορισμένες πληροφορίες σχετικά με αυτους. Για παράδειγμα, το όνομα της εταιρείας και η περιγραφή ενός πωλητή εμφανίζονται στους πελάτες και χρησιμεύουν για να διακρίνουν τους πωλητές ο ένας από τον άλλο. η διεύθυνση χρησιμοποιείται για τον υπολογισμό του ποσοστού αποστολής. </ p> <p> Ωστόσο, ζητάμε επίσης ορισμένα προσωπικά δεδομένα, όπως όνομα / επώνυμο και διεύθυνση ηλεκτρονικού ταχυδρομείου. Αυτά είναι απαραίτητα για τη δημιουργία λογαριασμού διαχειριστή πωλητή στο σύστημά μας. Οι πωλητές συνεργάζονται με την αγορά μέσω τέτοιων λογαριασμών. Οι διευθύνσεις ηλεκτρονικού ταχυδρομείου είναι απαραίτητες επειδή διαχωρίζουν τους διαχειριστές ο ένας από τον άλλο. Συνδεθείτε στο κατάστημα εισάγοντας εδώ τη διεύθυνση ηλεκτρονικού ταχυδρομείου που παρέχετε εδώ. Τα ονόματα είναι απαραίτητα επειδή ένας μόνο πωλητής μπορεί να έχει πολλαπλούς διαχειριστές - είναι ευκολότερο να χειριστεί την ευθύνη αυτού του είδους. </p> <p> Στέλνουμε επίσης μηνύματα ηλεκτρονικού ταχυδρομείου σχετικά με το λογαριασμό (όπως ειδοποιήσεις κατάστασης παραγγελιών, μηνύματα ηλεκτρονικού ταχυδρομείου επαναφοράς κωδικού πρόσβασης και άλλα) την παρεχόμενη διεύθυνση ηλεκτρονικού ταχυδρομείου. Για το λόγο αυτό πρέπει να αποθηκεύσουμε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας ενώ παραμείνετε ο πελάτης μας. Αν αποφασίσετε ότι δεν θέλετε πλέον να συνεργαστείτε με την αγορά μας και θέλετε να καταργήσετε τα προσωπικά σας δεδομένα από τη βάση δεδομένων μας (ή εάν θέλετε να έχετε όλα τα προσωπικά δεδομένα που σχετίζονται με το λογαριασμό σας που έχουμε), στείλτε ένα email σε [email]. </ p> <p> Εάν πιστεύετε ότι τα προσωπικά σας δεδομένα έχουν καταστρατηγηθεί, έχετε το δικαίωμα να καταθέσετε μια καταγγελία στην εποπτική αρχή. Είμαστε υποχρεωμένοι σύμφωνα με τον Κανονισμό της ΕΕ για την Προστασία των Γενικών Προσωπικών Δεδομένων να σας ενημερώσουμε για αυτό το δικαίωμα. Πραγματικά δεν σκοπεύουμε  να καταχραστούμε τα δεδομένα σας. </ p>"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Συμφωνώ στην επεξεργασία των προσωπικών μου δεδομένων <u> ως εξής.</u>"
+
+msgctxt "Languages::gdpr.products.subscribe.personal_data_processing"
+msgid "Products: subscribe"
+msgstr "Προϊόντα: εγγραφείτε"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) will add your email address to a special mailing list for this product. Once the product is in stock, you’ll get an email about it automatically, and your email address will be removed from the product’s mailing list.</p> <p>The data will be visible to some members of our staff. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p> Εμείς  ([company])  θα προσθέσουμε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας σε μια ειδική λίστα για αυτό το προϊόν. Μόλις το προϊόν βρίσκεται σε απόθεμα, θα λάβετε αυτόματα ένα μήνυμα ηλεκτρονικού ταχυδρομείου σχετικά με αυτό και η διεύθυνση ηλεκτρονικού ταχυδρομείου σας θα καταργηθεί από τη λίστα αλληλογραφίας του προϊόντος. </p> <p> Τα δεδομένα θα είναι ορατά σε ορισμένα μέλη του προσωπικού μας. Εάν θέλετε να καταργήσετε τα προσωπικά σας δεδομένα, στείλτε ένα μήνυμα ηλεκτρονικού ταχυδρομείου στο [email]. </p> <p> Εάν πιστεύετε ότι τα προσωπικά σας δεδομένα έχουν καταστρατηγηθεί, έχετε το δικαίωμα υποβολής καταγγελίας στην εποπτική αρχή . Είμαστε υποχρεωμένοι σύμφωνα με τον Κανονισμό της ΕΕ για την Προστασία των Γενικών Προσωπικών Δεδομένων να σας ενημερώσουμε για αυτό το δικαίωμα.Πραγματικά δεν σκοπεύουμε να καταχραστούμε τα δεδομένα σας. </ p>"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Συμφωνώ στην επεξεργασία των προσωπικών μου δεδομένων <u> ως εξής.</u>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.personal_data_processing"
+msgid "Checkout: profiles update"
+msgstr "Ταμείο: ενημέρωση προφίλ"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p> Εμείς ([company]) αποστέλλουμε μηνύματα ηλεκτρονικού ταχυδρομείου σχετικά με το λογαριασμό (όπως ειδοποιήσεις κατάστασης παραγγελίας, μηνύματα ηλεκτρονικού ταχυδρομείου επαναφοράς κωδικού πρόσβασης και άλλα) στην παρεχόμενη διεύθυνση ηλεκτρονικού ταχυδρομείου. Για το λόγο αυτό, πρέπει να αποθηκεύουμε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας ενώ παραμείνετε ως πελάτης μας. </p> <p> Χρησιμοποιούμε τις πληροφορίες στην ενότητα διεύθυνση χρέωσης / αποστολής και μπορεί να την στείλουμε σε μια μεταφροικη ή ιδρυμα πληρωμων: </ p > <ul> <li> Προσδιορίστε τις μεθόδους αποστολής και πληρωμής που είναι διαθέσιμες για την τοποθεσία σας. </ li> <li> Ολοκληρώστε τη διαδικασία πληρωμής ή αποστολής μέσω του παρόχου που επιλέξατε κατά την ολοκλήρωση της παραγγελίας όταν υποβάλλετε την παραγγελία. </ li> </ ul> <p> Ορισμένα μέλη του προσωπικού μας ή / στο κατάστημά μας που χρησιμοποιουν τον πίνακα διαχείρισής του καταστηματος ενδέχεται να έχουν πρόσβαση στα δεδομένα σας. Εκτιμούμε το απόρρητό σας, έτσι ώστε η πρόσβαση στα δεδομένα να παρέχεται σε βάση ανάγκης για γνώση, προκειμένου να λειτουργεί το κατάστημα. Για παράδειγμα, ένας πωλητής λαμβάνει μόνο τα δεδομένα σας, αν παραγγείλατε κάτι από αυτον, έτσι ώστε ο πωλητής να μπορέσει να εκπληρώσει αυτή την παραγγελία. <p> <p> Εάν αποφασίσετε ότι δεν θέλετε πλέον να χρησιμοποιείτε το κατάστημά μας και θέλετε να  καταργήσατε τα προσωπικά σας δεδομένα από τη βάση δεδομένων μας (ή αν θέλετε να λάβετε όλα τα προσωπικά δεδομένα που σχετίζονται με το λογαριασμό σας που έχουμε στην βαση μας), στείλτε ένα μήνυμα ηλεκτρονικού ταχυδρομείου στο [email]. </ p> <p> Εάν πιστεύετε ότι τα προσωπικα σας τα δεδομένα έχουν καταστρατηγηθεί, έχετε το δικαίωμα να καταθέσετε καταγγελία στην εποπτική αρχή. Είμαστε υποχρεωμένοι σύμφωνα με τον Κανονισμό της ΕΕ για την Προστασία των Γενικών Προσωπικών Δεδομένων να σας ενημερώσουμε για αυτό το δικαίωμα. Πραγματικά δεν σκοπεύουμε  να καταχραστούμε τα δεδομένα σας. </ p>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows</u>."
+msgstr "Συμφωνώ στην επεξεργασία των προσωπικών μου δεδομένων <u> ως εξής.</u>."
+
+msgctxt "Languages::gdpr.export_to_xml"
+msgid "Export to XML"
+msgstr "Εξαγωγή σε XML"
+
+msgctxt "Languages::gdpr.agreement_required_error"
+msgid "Your agreement is required to proceed."
+msgstr "Η συμφωνία σας πρέπει να συνεχιστεί."
+
+msgctxt "Languages::gdpr.user_anonymized"
+msgid "User has been anonymized."
+msgstr "Ο χρήστης είναι ανώνυμος."
+
+msgctxt "Languages::gdpr.check_other_sources_for_personal_data"
+msgid "<p>Please note that anonymization doesn't affect any backups and logs that you might have. If necessary, please do the following:</p><ol><li>Clear the logs under <b>Administration → Logs</b>.</li><li>Secure and delete the backups you might have under <b>Administration → Backup/Restore</b>.</li></ol>"
+msgstr "<p> Λάβετε υπόψη ότι η ανωνυμοποίηση δεν επηρεάζει τα αντίγραφα ασφαλείας και τα αρχεία καταγραφής που ενδέχεται να έχετε. Εάν είναι απαραίτητο, κάντε τα εξής: </ p> <ol> <li> Αφαιρέστε τα αρχεία καταγραφής κάτω από την επιλογή <b> Διαχείριση → Αρχεία καταγραφής </ b>. </ li> b> Διαχείριση → Δημιουργία αντιγράφων ασφαλείας / επαναφορά </ b>. </ li> </ ol>"
+
+msgctxt "Languages::gdpr.cookie_consent"
+msgid "Cookie consent"
+msgstr "Συγκατάθεση cookie"
+
+msgctxt "Languages::gdpr.cookie_consent_message"
+msgid "<p>This website uses cookies (small pieces of data saved on your computer). Some cookies are added by the website itself: they help to show you the content of your cart, keep you signed in once you enter your email and password, preserve your preferences, and do a lot of other useful things. We use these cookies only to make the site work properly for you. Even your agreement to our use of cookies is stored as a cookie.</p><p>Other cookies may be used by third-party services (such as PayPal, YouTube, Google Maps, Facebook, etc.) to store the data about how you use those third-party services on the website. We have no control over how third parties use cookies, but those cookies are also important for proper functioning of the website. For example, some of the PayPal functionality may not work without PayPal cookies.</p><p>Without cookies, many things can go wrong. That's why we ask that you agree to cookies being used before you proceed. If you don't want any cookies but would like to continue using the website, please configure your browser to block cookies, and then you'll be able to \"agree\" to their use, while we won't treat that as your consent.</p>"
+msgstr "<p> Αυτός ο ιστότοπος χρησιμοποιεί cookies (μικρά κομμάτια δεδομένων που έχουν αποθηκευτεί στον υπολογιστή σας). Ορισμένα cookies προστίθενται από τον ίδιο τον ιστότοπο: βοηθούν να σας δείξουν το περιεχόμενο του καλαθιού σας, να σας κρατήσει συνδεδεμένο μόλις εισάγετε το email και τον κωδικό πρόσβασής σας, να διατηρήσετε τις προτιμήσεις σας και να κάνετε πολλά άλλα χρήσιμα πράγματα. Χρησιμοποιούμε αυτά τα cookies μόνο για να κάνουμε τον ιστότοπο να λειτουργεί σωστά για εσάς. Ακόμα και η συγκατάθεσή σας για τη χρήση των cookies αποθηκεύεται ως cookie. </p> <p> Άλλα cookies μπορούν να χρησιμοποιηθούν από υπηρεσίες τρίτων (όπως PayPal, YouTube, Google Maps, Facebook κ.λπ.) για την αποθήκευση των δεδομένων σχετικά με τον τρόπο χρήσης αυτών των υπηρεσιών τρίτων στον ιστότοπο. Δεν έχουμε κανέναν έλεγχο για το πώς τα τρίτα μέρη χρησιμοποιούν cookies, αλλά αυτά τα cookies είναι επίσης σημαντικά για την ορθή λειτουργία του ιστότοπου. Για παράδειγμα, μερικές από τις λειτουργίες PayPal μπορεί να μην λειτουργούν χωρίς cookie PayPal. </p> <p> Χωρίς cookies, πολλά πράγματα μπορεί να πάνε στραβά. Γι 'αυτό σας ζητάμε να συμφωνείτε με τη χρήση των cookies προτού προχωρήσετε. Αν δεν θέλετε να χρησιμοποιείτε cookies αλλά θέλετε να συνεχίσετε να χρησιμοποιείτε τον ιστότοπο, παρακαλούμε να ρυθμίσετε το πρόγραμμα περιήγησής σας ώστε να αποκλείει τα cookies και, στη συνέχεια, θα μπορείτε να \"συμφωνείτε\" με τη χρήση τους, ενώ δεν θα το αντιμετωπίσουμε ως συγκατάθεσή σας . </ p>"
+
+msgctxt "Languages::gdpr.cookie_consent_accept"
+msgid "I agree"
+msgstr "Συμφωνώ"
+
+msgctxt "Languages::gdpr.cookie_consent_decline"
+msgid "No, take me out of here"
+msgstr "Όχι, με πάρτε από εδώ"
+
+msgctxt "Languages::gdpr.uk_cookies_law"
+msgid "Cookies are used on this site to provide the best user experience. If you continue, we assume that you agree to receive cookies from this site. <span class=\"button button-wrap-left\"><span class=\"button button-wrap-right\"><a rel=\"nofollow\" href=\"[url]\">OK</a></span></span>"
+msgstr "Τα cookies χρησιμοποιούνται σε αυτόν τον ιστότοπο για να παρέχουν την καλύτερη εμπειρία χρήστη. Αν συνεχίσετε, υποθέτουμε ότι συμφωνείτε να λαμβάνετε cookies από αυτόν τον ιστότοπο. <span class=\"button button-wrap-left\"><span class=\"button button-wrap-right\"><a rel=\"nofollow\" href=\"[url]\">OK</a></span></span>"
+
+msgctxt "Languages::block_gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::block_gdpr_description"
+msgid "Allows registered users to request their personal data or anonymization"
+msgstr "Επιτρέπει στους εγγεγραμμένους χρήστες να ζητούν τα προσωπικά τους δεδομένα ή την ανωνυμία τους"
+
+msgctxt "Languages::gdpr.user_profile_actions_description"
+msgid "<p>As customers interact with the store, they provide personal data for various purposes. When you place an order, we need to know where to ship it; when you subscribe for an email newsletter, we need to know where to send it, and so on. We keep this data organized, so that you always could:</p> <ol> <li>Request that we send you all your personal data. In that case we’ll send you an XML file by email. That file will contain all your personal data we have.</li> <li>Request to be forgotten. In that case your account will be deactivated, and all your personal data will be removed. If necessary, you’ll be able to register a new account with the same email address in the future.</li> </ol> <p>Please note that we’ll need some time to process either of those requests. We may contact you regarding your request by email or through other means.</p>"
+msgstr "<p> Καθώς οι πελάτες αλληλεπιδρούν με το κατάστημα, παρέχουν προσωπικά δεδομένα για διάφορους σκοπούς. Όταν τοποθετείτε μια παραγγελία, πρέπει να ξέρουμε πού να τη στείλουμε. όταν εγγραφείτε για ένα ενημερωτικό δελτίο ηλεκτρονικού ταχυδρομείου, πρέπει να ξέρουμε πού να το στείλουμε, και ούτω καθεξής. Διατηρούμε τα δεδομένα αυτά οργανωμένα, ώστε να μπορείτε πάντα: </p> <ol> <li> να ζητήστε να σας στείλουμε όλα τα προσωπικά σας δεδομένα. Σε αυτή την περίπτωση θα σας στείλουμε ένα αρχείο XML μέσω ηλεκτρονικού ταχυδρομείου. Αυτό το αρχείο θα περιέχει όλα τα προσωπικά σας δεδομένα που έχουμε. </li> <li> Αίτημα να ξεχαστείτε (ληθη). Στην περίπτωση αυτή, ο λογαριασμός σας θα απενεργοποιηθεί και όλα τα προσωπικά σας δεδομένα θα καταργηθούν. Αν χρειαστεί, θα μπορεσετε να καταχωρίσετε ενα νέο λογαριασμό με την ίδια διεύθυνση ηλεκτρονικού ταχυδρομείου στο μέλλον. </li> </ol> <p> Λάβετε υπόψη ότι θα χρειαστούμε λίγο χρόνο για να διεκπεραιώσουμε ένα από αυτά τα αιτήματα. Μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με το αίτημά σας με ηλεκτρονικό ταχυδρομείο ή με άλλα μέσα. </p>"
+
+msgctxt "Languages::gdpr.send_my_data"
+msgid "Send me my data"
+msgstr "Στείλτε μου τα δεδομένα μου"
+
+msgctxt "Languages::gdpr.send_my_data_description"
+msgid "<p>We’ll send you an XML file with all your personal data we have. Please note that we’ll need some time to process this request, so the email with your XML file won’t be sent immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p> Θα σας στείλουμε ένα αρχείο XML με όλα τα προσωπικά σας δεδομένα που διαθέτουμε. Λάβετε υπόψη ότι θα χρειαστούμε λίγο χρόνο για να επεξεργαστούμε αυτό το αίτημα, επομένως το μήνυμα ηλεκτρονικού ταχυδρομείου με το αρχείο XMLδεν θα αποσταλεί αμέσως. Εάν έχετε οποιεσδήποτε παρατηρήσεις σχετικά με το αίτημά σας, παρακαλούμε αφήστε τις στο παρακάτω πεδίο. </ P>"
+
+msgctxt "Languages::gdpr.email_subject_personal_data_request"
+msgid "Personal Data Copy Request: [customer_email]"
+msgstr "Αίτημα αποστολής αντιγραφου προσωπικών δεδομένων: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_personal_data_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested a copy of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to get the data in the XML format. After that, send the XML file to the customer.</p>"
+msgstr "<p>Ο  <a href=\"[user_profile_url]\" target=\"_blank\"> [χρήστης] </a> με τη διεύθυνση ηλεκτρονικού ταχυδρομείου [customer_email] ζήτησε αντίγραφο προσωπικών δεδομένων με το ακόλουθο σχόλιο: </ p> <p > [σχόλιο] Κάντε κλικ στον σύνδεσμο στην αρχή αυτού του μηνύματος και χρησιμοποιήστε το αντίστοιχο κουμπί στη σελίδα προφίλ πελάτη στον πίνακα διαχείρισης για να λάβετε τα δεδομένα σε μορφή XML. Στη συνέχεια, στείλτε το αρχείο XML στον πελάτη. </p>"
+
+msgctxt "Languages::gdpr.remove_my_data"
+msgid "Remove my data"
+msgstr "Αφαιρέστε τα δεδομένα μου"
+
+msgctxt "Languages::gdpr.remove_my_data_description"
+msgid "<p>We’ll deactivate your account and remove all your personal data from it. After that you won’t be able to sign in. However, you’ll be able to register a new account with the same email address in the future. Please note that we’ll need some time to process this request, so your account won’t be deactivated immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p> Θα απενεργοποιήσουμε τον λογαριασμό σας και θα αφαιρέσουμε όλα τα προσωπικά σας δεδομένα από αυτόν. Μετά από αυτό, δεν θα μπορείτε να συνδεθείτε. Ωστόσο, θα μπορείτε να καταχωρίσετε νέο λογαριασμό με την ίδια διεύθυνση ηλεκτρονικού ταχυδρομείου στο μέλλον. Λάβετε υπόψη ότι θα χρειαστούμε λίγο χρόνο για να επεξεργαστούμε αυτό το αίτημα, οπότε ο λογαριασμός σας δεν θα απενεργοποιηθεί αμέσως. Εάν έχετε οποιεσδήποτε παρατηρήσεις σχετικά με το αίτημά σας, παρακαλούμε αφήστε τις στο παρακάτω πεδίο. </ P>"
+
+msgctxt "Languages::gdpr.email_subject_anonymization_request"
+msgid "Personal Data Removal Request: [customer_email]"
+msgstr "Αίτηση κατάργησης προσωπικών δεδομένων: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_anonymization_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested the removal of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to anonymize the customer.</p> <p>Please note that <b>this action will replace all the personal data of the customer</b> with randomly generated data. It’s best to make sure that all business with the customer (such as orders and return requests) is concluded before you do that.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> [customer_email] διεύθυνση ηλεκτρονικού ταχυδρομείου έχει ζητήσει την απομάκρυνση των δεδομένων προσωπικού χαρακτήρα με την μετά από σχόλιο:</p> <p>[comment]</p> <p>κάντε κλικ στη σύνδεση στην αρχή του αυτό το μήνυμα και χρήση του αντίστοιχο κουμπί στη σελίδα του προφίλ του πελάτη στον πίνακα διαχείρισης για την ανωνυμία του πελάτη.</p> <p>Παρακαλείστε να σημειώσετε ότι <b>αυτή η ενέργεια θα αντικαταστήσει όλα τα προσωπικά δεδομένα των πελατών</b> με τυχαία που δημιουργείται δεδομένων. Είναι καλύτερα να βεβαιωθείτε ότι όλες οι επιχειρήσεις με τον πελάτη (όπως παραγγελίες και αιτήσεις επιστροφής) συνάπτεται πριν το κάνετε αυτό.</p>"
+
+msgctxt "Languages::gdpr.user_action_request_success"
+msgid "Your request has been sent successfully."
+msgstr "Το αίτημα σας έχει αποσταλεί επιτυχώς."
+
+msgctxt "Languages::gdpr.user_action_request_fail"
+msgid "An error has occurred during the attempt to send your request. Please try again or send a message to the following email address: <a href=\"mailto:[email]\">[email]</a>"
+msgstr "Παρουσιάστηκε σφάλμα κατά την προσπάθεια αποστολής του αιτήματός σας. Δοκιμάστε ξανά ή στείλτε ένα μήνυμα στην ακόλουθη διεύθυνση ηλεκτρονικού ταχυδρομείου: <a href=\"mailto:[email]\"> [email] </a>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. If you only have one storefront, the data for the placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>. If you have multiple storefronts, the data will be taken from the settings of the storefront that a customer visits:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p> Τα κείμενα των συμφωνιών που αναφέρονται παρακάτω ενδέχεται να περιέχουν <b> [email] </ b> ή <b> [εταιρεία] </ b> σε αυτά. Αυτά είναι τοποθετημένα αντικείμενα που θα αντικατασταθούν αυτόματα από τα πραγματικά δεδομένα όταν οι πελάτες βλέπουν στις συμφωνίες. Εάν διαθέτετε μόνο μία βιτρίνα, τα δεδομένα για τα κειμενα κράτησης θέσης θα ληφθούν από τις <a href=\"[company_settings_url]\" target=\"_blank\"> Ρυθμίσεις → Εταιρεία </a>. Εάν έχετε πολλαπλές αποθήκες, τα δεδομένα θα ληφθούν από τις ρυθμίσεις της οθόνης που επισκέπτεται ένας πελάτης: </ p> <ul> <li> <b> [εταιρεία] </ b> θα ληφθούν από την <i> Εταιρεία όνομα </ li> <li> <b> [email] </ b> θα ληφθεί από τη διεύθυνση ηλεκτρονικού ταχυδρομείου του τμήματος χρήστη </ i>. </ li>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint_mve"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. The data for placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p> Τα κείμενα των συμφωνιών που αναφέρονται παρακάτω ενδέχεται να περιέχουν <b> [email] </ b> ή <b> [εταιρεία] </ b> σε αυτά. Αυτά είναι τοποθετημένα αντικείμενα που θα αντικατασταθούν αυτόματα από τα πραγματικά δεδομένα όταν οι πελάτες βλέπουν τις συμφωνίες. Τα δεδομένα για τα κείμενα προς αντικατάσταση  θα ληφθούν από τις <a href=\"[company_settings_url]\" target=\"_blank\"> Ρυθμίσεις → Εταιρεία </a>: </ p> <ul> <li> <b> [εταιρεία] </ b > θα ληφθούν από το <i> Όνομα εταιρείας </ i>. </ li> <li> <b> [email] </ b> θα ληφθούν από την διεύθυνση ηλεκτρονικού ταχυδρομείου του τμήματος χρήστη </ i>. </ li> </ ul>"
+

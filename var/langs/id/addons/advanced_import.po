@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/advanced_import.po\n"
+"X-Crowdin-File-ID: 4684\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::advanced_import"
+msgid "Advanced products import"
+msgstr "Impor produk lanjutan"
+
+msgctxt "Addons::description::advanced_import"
+msgid "Allows you to match the fields in the imported file with the product properties. These matchings and other import settings can also be saved as presets for later use."
+msgstr "Memungkinkan anda untuk menyocokkan kolom didalam file yang diimpor dengan properti produk. Persamaan dan settingan lainnya juga bisa disimpan sebagai preset untuk kebutuhan selanjutnya."
+
+msgctxt "Languages::advanced_import.never"
+msgid "Never"
+msgstr "Jangan pernah"
+
+msgctxt "Languages::advanced_import.last_status.X"
+msgid "&mdash;"
+msgstr "&mdash;"
+
+msgctxt "Languages::advanced_import.last_status.S"
+msgid "Success"
+msgstr "Berhasil"
+
+msgctxt "Languages::advanced_import.last_status.P"
+msgid "In progress"
+msgstr "Sedang berjalan"
+
+msgctxt "Languages::advanced_import.last_status.F"
+msgid "Failure"
+msgstr "Gagal"
+
+msgctxt "Languages::advanced_import.user_upload"
+msgid "User upload"
+msgstr "Unggahan pengguna"
+
+msgctxt "Languages::advanced_import.last_launch"
+msgid "Last import"
+msgstr "Impor terakhir"
+
+msgctxt "Languages::advanced_import.last_status"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "Languages::advanced_import.file"
+msgid "File"
+msgstr "Berkas"
+
+msgctxt "Languages::advanced_import.has_modifiers"
+msgid "Has modifiers"
+msgstr "Ada pemodifikasi"
+
+msgctxt "Languages::advanced_import.import_products"
+msgid "Import products"
+msgstr "Impor produk"
+
+msgctxt "Languages::advanced_import.import_products_w_preset"
+msgid "Import products: [preset]"
+msgstr "Impor produk: [preset]"
+
+msgctxt "Languages::advanced_import.import_file"
+msgid "Import file"
+msgstr "Impor berkas"
+
+msgctxt "Languages::advanced_import.fields_mapping"
+msgid "Fields mapping"
+msgstr "Pemetaan bagian"
+
+msgctxt "Languages::advanced_import.fields_mapping.description"
+msgid "This table contains the list of columns from the imported file. For each column you'd like to import, select a corresponding product property in [product]. Then check what sort of data will be imported from that column, and use modifiers to change that data, if necessary. Remember to save your changes."
+msgstr "Tabel ini berisi daftar kolom dari file yang diimpor. Untuk setiap kolom yang ingin Anda impor, pilih properti produk terkait dalam [product]. Kemudian memeriksa apa jenis data akan diimpor dari kolom, dan menggunakan pengubah untuk mengubah bahwa data, jika diperlukan. Ingatlah untuk menyimpan perubahan."
+
+msgctxt "Languages::advanced_import.column_header"
+msgid "Column name in the imported file"
+msgstr "Nama kolom pada berkas yang diimpor"
+
+msgctxt "Languages::advanced_import.product_property"
+msgid "Product property in [product]"
+msgstr "Properti produk dalam [product]"
+
+msgctxt "Languages::advanced_import.first_line_import_value"
+msgid "Example of the imported value"
+msgstr "Contoh nilai yang diimpor"
+
+msgctxt "Languages::advanced_import.editing_preset"
+msgid "Editing preset: [preset]"
+msgstr "Mengedit preset: [preset]"
+
+msgctxt "Languages::advanced_import.add_preset"
+msgid "Add preset"
+msgstr "Tambahkan preset"
+
+msgctxt "Languages::advanced_import.new_preset"
+msgid "New preset"
+msgstr "Preset baru"
+
+msgctxt "Languages::advanced_import.properties"
+msgid "Properties"
+msgstr "Properti"
+
+msgctxt "Languages::advanced_import.modifier"
+msgid "Modifier"
+msgstr "Penyunting"
+
+msgctxt "Languages::advanced_import.modifier_title"
+msgid "A modifier is a rule that alters values in a column"
+msgstr "Pemodifiaksi adalah pengatur yang dapat mengganti suatu nilai dalam kolom"
+
+msgctxt "Languages::advanced_import.example_imported_title"
+msgid "For example, here's a value in the first line of your file:"
+msgstr "Sebagai contoh, berikut adalah nilai pada baris pertama berkas Anda:"
+
+msgctxt "Languages::advanced_import.example_modified_title"
+msgid "And here is how this value will be imported:"
+msgstr "Berikut adalah mekanisme impor nilainya:"
+
+msgctxt "Languages::advanced_import.options"
+msgid "Options"
+msgstr "Pilihan"
+
+msgctxt "Languages::advanced_import.images_delimiter"
+msgid "Images delimiter"
+msgstr "Pembatas gambar"
+
+msgctxt "Languages::advanced_import.images_delimiter.description"
+msgid "Delimiter between images of a product."
+msgstr "Pembatas antara gambar-gambar suatu produk."
+
+msgctxt "Languages::advanced_import_images"
+msgid "Product images"
+msgstr "Gambar produk"
+
+msgctxt "Languages::advanced_import.remove_images"
+msgid "Remove additional images"
+msgstr "Hapus gambar tambahan"
+
+msgctxt "Languages::advanced_import.remove_images"
+msgid "Remove additional images"
+msgstr "Hapus gambar tambahan"
+
+msgctxt "Languages::advanced_import.import_fields"
+msgid "Import fields"
+msgstr "Impor bagian ini"
+
+msgctxt "Languages::advanced_import.advanced_products_import"
+msgid "Products"
+msgstr "Produk"
+
+msgctxt "Languages::advanced_import.coming_soon"
+msgid "... coming soon"
+msgstr "... akan datang"
+
+msgctxt "Languages::advanced_import.cant_load_file_for_company"
+msgid "File can't be loaded for the specified company"
+msgstr "Berkas tidak dapat dimuat ke perusahaan tersebut"
+
+msgctxt "Languages::advanced_import.cant_load_file"
+msgid "File can't be loaded"
+msgstr "Berkas tidak dapat dimuat"
+
+msgctxt "Languages::advanced_import.uploading_file"
+msgid "Uploading file for the preset: [preset]"
+msgstr "Mengunggah berkas untuk preset: [preset]"
+
+msgctxt "Languages::advanced_import.previewing_fields_mapping"
+msgid "Previewing fields mapping for the preset: [preset]"
+msgstr "Melihat pratinjau pemetaan bidang untuk preset: [preset]"
+
+msgctxt "Languages::advanced_import.preset_not_found"
+msgid "Preset not found"
+msgstr "Preset tidak ditemukan"
+
+msgctxt "Languages::advanced_import.modifiers_list"
+msgid "Modifiers list"
+msgstr "Daftar pemodifikasi"
+
+msgctxt "Languages::advanced_import.invalid_number_of_parameters_provided"
+msgid "Invalid number of parameters provided for modifier: <b>[modifier]</b>: expected [expected_count], got [actual_count]."
+msgstr "Nomor parameter yang disediakan untuk pemodifikasi tidak valid: <b>[modifier]</b>: yang diharapkan [expected_count], yang didapatkan [actual_count]."
+
+msgctxt "Languages::advanced_import.invalid_function_firs_character"
+msgid "The modifier name cannot start with character <b>[character]</b>."
+msgstr "Nama pemodifikasi tidak dapat diawali dengan karakter <b>[character]</b>."
+
+msgctxt "Languages::advanced_import.unrecognized_modifier"
+msgid "The modifier <b>[modifier]</b> does not exist."
+msgstr "Pemodifikasi <b>[modifier]</b> tidak ada."
+
+msgctxt "Languages::advanced_import.unexpected_parameter_passed"
+msgid "Expected <b>[delimiter]</b> or <b>[closer]</b> got <b>[char]</b>."
+msgstr "Yang diharapkan <b>[delimiter]</b> atau <b>[closer]</b> yang didapatkan<b>[char]</b>."
+
+msgctxt "Languages::advanced_import.invalid_modifier_message"
+msgid "The modifier <b>[modifier]</b> is invalid. [message]"
+msgstr "Pemodifikasi <b>[modifier]</b> tidak valid. [message]"
+
+msgctxt "Languages::advanced_import.modifier_number_of_parameters"
+msgid "Number of parameters"
+msgstr "Jumlah parameter"
+
+msgctxt "Languages::advanced_import.modifiers_description"
+msgid "Use these functions in the <b>Modifier</b> column to alter the values in the fields from the imported file. Enter the functions as follows: <b>function(parameter, parameter)</b>. Please note that nesting of functions isn't supported."
+msgstr "Gunakan fungsi-fungsi ini pada kolom <b>Modifier</b> untuk mengubah nilai dalam bidang dari berkas yang diimpor. Masukkan fungsi sebagai berikut: fungsi <b> (parameter, parameter)</b>. Harap dicatat bahwa penumpukan fungsi tidak didukung."
+
+msgctxt "Languages::advanced_import.modifiers_self_referencing_info"
+msgid "Most functions allow you to use the non-modified value of the imported field by using <b>$value</b> as a parameter. If there are any exceptions, they will be mentioned in function descriptions."
+msgstr "Sebagian besar fungsi mengizinkan anda untuk menggunakan nilai yang tidak dimodifikasi dari bidang yang diimpor dengan menggunakan <b>$value</b> sebagai parameter. Jika ada pengecualian, mereka akan disebutkan dalam deskripsi fungsi."
+
+msgctxt "Languages::advanced_import.modifier_description.sum"
+msgid "<b>sum</b>&mdash;sums up two numbers provided as parameters. <ul><li>Examples:</li><ul><li><b>sum(1, 3)</b> equals <i>4</i></li> <li><b>sum(7, $value)</b> equals <i>7 + the value of the imported field</i></li></ul></ul>"
+msgstr "<b> jumlah </b>&mdash; meringkas 2 angka yang diberikan sebagai parameter. <ul><li> Contoh: </li><ul><li><b> jumlah </b> sama dengan <i>4</i></li> <li><b>jumlah(7,$value)</b> sama dengan <i> 7 + nilai berkas yang diimpor </i></li><ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.sub"
+msgid "<b>sub</b>&mdash;subtracts the second parameter from the first. <ul><li>Examples:</li><ul><li><b>sub(3, 1)</b> equals <i>2</i></li> <li><b>sub($value, 7)</b> equals <i>the value of the imported field - 7</i></li></ul></ul>"
+msgstr "<b> kurang </b>&mdash; mengurani parameter kedua dari yang pertama. <ul><li> Contoh: </li><ul><li><b> dikurangi (3,1)</b> sama dengan <i>2</i></li> <li><b>dikurangi($value, 7)</b> sama dengan <i> nilai berkas yang diimpor - 7 </i></li></ul><ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.mul"
+msgid "<b>mul</b>&mdash;multiplies the numbers provided as parameters. <ul><li>Examples:</li><ul><li><b>mul(3, 1)</b> equals <i>3</i></li> <li><b>mul($value, 7)</b> equals <i>the value of the imported field × 7</i></li></ul></ul>"
+msgstr "<b>dikali</b>&mdash;mengalikan angka-angka yang diberikan sebagai parameter. <ul><li>Contoh:</li><ul><li><b>dikali(3,1)</b> sama dengan <i>3</i></li> <li><b>dikali($value, 7)</b> sama dengan <i>nilai bidang yang diimpor x 7</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.div"
+msgid "<b>div</b>&mdash;divides the first parameter by the second. <ul><li>Examples:</li><ul><li><b>div(9, 3)</b> equals <i>3</i></li> <li><b>div($value, 7)</b> equals <i>the value of the imported field ÷ 7</i></li></ul></ul>"
+msgstr "<b>dibagi</b>&mdash;membagi parameter pertama dengan yang kedua. <ul><li>Contoh:</li><ul><li><b>dibagi(9, 3)</b> sama dengan <i>3</i></li> <li><b>dibagi($value, 7)</b> sama dengan <i>nilai bidang yang diimpor ÷ 7</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.concat"
+msgid "<b>concat</b>&mdash;concatenates all the provided parameters. <ul><li>Examples:</li><ul><li><b>concat('abc', def)</b> will result in <i>abcdef</i></li> <li><b>concat('PRODUCT_', $value, '_CODE')</b> will result in <i>PRODUCT_$value_CODE</i>, but <b>$value</b> will be replaced with the the value of the imported field</li></ul></ul>"
+msgstr "<b>digabung</b>&mdash;menggabungkan semua parameter yang diberikan. <ul><li>Contoh:</li><ul><li><b>digabung('abc',def)</b> akan menghasilkan <i>abcdef</i></li><li><b>digabung('PRODUCT_', $value, '_CODE')</b> akan menghasilkan <i>PRODUCT_$value_CODE</i>, tapi <b>$value</b> akan digantikan dengan nilai bidang yang diimpor</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.replace"
+msgid "<b>replace</b>&mdash;replaces all occurrences of the search string with the replacement string. <br>The order of parameters is important: <b>replace('search', 'replace', 'subject')</b>. <ul><li>Examples:</li><ul><li><b>replace('a', !, \"banana\")</b> will result in <i>b!n!n!</i></li> <li><b>replace(\"t-shirt\", 'T-Shirt', $value)</b> will replace every occurrence of <i>t-shirt</i> with <i>T-Shirt</i> in every entry in the column.</li></ul></ul>"
+msgstr "<b>diganti</b>&mdash;menggantikan semua kemunculan string pencarian dengan string pengganti. <br> Urutan parameter itu penting: <b>diganti('cari', 'diganti', 'subyek')</b>. <il><li>Contoh:</li><ul><li><b>diganti('a', !, \"pisang\")</b> akan menghasilkan <i>b!n!n!</i></li> <li><b>diganti(\"t-shirt\", 'T-Shirt', $value)</b> akan menggantikan semua kemunculan <i>t-shirt</i> dengan <i>T-Shirt</i> dalam setiap entri di kolom.</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.w_replace"
+msgid "<b>w_replace</b>&mdash;replaces all occurrences of the search string with the replacement string using wildcards. <br>The order of parameters is important: <b>w_replace('search', 'replace', 'subject')</b>. <br>Supported wildcards: <b>?</b>&mdash;any single character; <b>*</b>&mdash;any number of characters to the end of the word. <ul><li>Examples</li><ul><li><b>w_replace('banan?', bananas, banana banans bananz)</b> will result in <i>bananas bananas bananas</i></li> <li><b>w_replace(\"ban*\", 'bananas', banana banans bananz)</b> will also result in <i>bananas bananas bananas</i></li></ul></ul>"
+msgstr "<b>w_diganti</b>&mdash;mengganti semua kemunculan string pencarian dengan string pengganti menggunakan wildcard. <br>Urutan parameter itu penting: <b>w_replace('cari', 'diganti', 'subyek')</b>. <br>Wildcard yang didukung: <b>?</b>&mdash;karakter tunggal apa pun; <b>*</b>&mdash;sejumlah karakter di akhir kata. <ul><li>Contoh</li><ul><li><b>w_diganti('banan?', bananas, banana banans bananz)</b> akan menghasilkan <i>bananas bananas bananas</i></li><li><b>w_diganti(\"ban*\", 'bananas', banana banans bananz)</b> juga akan menghasilkan <i>bananas bananas bananas</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.rand"
+msgid "<b>rand</b>&mdash;generates a random number from 1 to the maximum value provided as the parameter. <ul><li>Examples:</li><ul><li><b>rand(999)</b> may result in any number from 1 to 999.</li></ul></ul>"
+msgstr "<b>diacak</b>&mdash;menghasilkan nomor acak dari 1 sampai nilai maksimum yang diberikan sebagai parameter. <ul><li>Contoh:</li><ul><li><b>diacak(999)</b> mungkin dapat menghasilkan angka dari 1 sampai 999.</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.if"
+msgid "<b>if</b>&mdash;checks the expression in the first parameter. If the first parameter is <i>true</i>, the function returns the second parameter. Otherwise the function returns the third parameter.<ul><li>Examples:</li><ul><li><b>if($value>\"0\", \"In Stock\", \"Out of stock\")</b> will result in <i>In Stock</i> if <i>$value > 0</i> is <i>true</i>; otherwise the result will be <i>Out of stock</i></li></ul><li>Available operations for the expression are:<ul><li><b>=</b>&mdash;checks for equality: <i>if($value=100, ...)</i></li><li><b>!=</b>&mdash;checks for inequality: <i>if($value!=100, ...)</i></li><li><b>&gt;</b>&mdash;checks if the first value is greater than the second: <i>if($value&gt;100, ...)</i></li><li><b>&lt;</b>&mdash;checks if the first value is less than the second: <i>if($value&lt;100, ...)</i></li><li><b>&gt;=</b>&mdash;checks if the first value is greater than or equal to the second: <i>if($value&gt;=100, ...)</i></li><li><b>&lt;=</b>&mdash;checks if the first value is less than or equal to the second: <i>if($value&lt;=100, ...)</i></li></ul></li><li>Notes:<ul><li>If you use single (') or double (\") quotes in the first parameter, make sure that the first parameter is either wrapped in quotes entirely, or that there is no end quote in the middle of the parameter. For example, <i>if(\"My value\"=$value, ...)</i> will not work, but <i>if(\"My value=$value\", ...)</i> will.</ul></li></ul>"
+msgstr "<b>jika</b>&mdash;cek ekspresi di parameter pertama. Jika parameter pertama adalah <i>benar</i>, fungsi kembali ke parameter kedua. Jika tidak fungsi kembali ke parameter ketiga.<ul><li>Contoh:</li><ul><li><b>jika($value>\"0\", \"Persediaan\", \"Stok habis\")</b> akan menghasilkan <i>Persediaan</i></li></ul><li>Operasi yang tersedia untuk ekspresi adalah:<ul><li><b>=</b>&mdash;periksa kesetaraan: <i>jika($value=100, ...)</i></li><li><b>!=</b>&mdash;periksa ketidaksamaan:<i>jika($value!=100, ...)</i></li><li><b>&gt;</b>&mdash;memeriksa apakah nilai pertama lebih besar dari yang kedua: <i>jika($value&gt;100, ...)</i></li><li><b>&lt;</b>&mdash;memeriksa apakah nilai pertama lebih kecil dari yang kedua: <i>jika($value&lt;100, ...)</i></li><li><b>&gt;=</b>&mdash;memeriksa apakah nilai pertama lebih besar atau sama dengan yang kedua: <i>jika($value&gt;=100, ...)</i></li><li><b>&lt;=</b>&mdash;memeriksa apakah nilai pertama lebih kecil atau sama dengan yang kedua: <i>jika($value&lt;=100, ...)</i></li></ul></li><li>Catatan:<ul><li>Jika anda menggunakan tanda kutip tunggal (') atau dua kali(\") dalam parameter pertama, pastikan bahwa parameter pertama baik dibungkus dalam tanda kutip sepenuhnya , atau tidak ada tanda kutip akhir di tengah parameter. Sebagai contoih, <i>jika(\"Nilai Saya\"=$value, ...)</i> tidak akan bekerja, tetapi <i>jika(\"Nilai Saya=$value\", ...)</i> akan bekerja.</ul></li></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.case"
+msgid "<b>case</b>&mdash;odd parameters are expressions, and the following even parameters are corresponding values. The function checks the expressions and returns the value corresponding to the first expression that ends up being <i>true</i>.<ul><li>Examples:</li><ul><li><b>case($value>100, \"More than 100\", $value>70, \"More than 70\", $value>20, \"More than 20\", $value>0, \"In stock\", $value=0, \"Out of stock\")</b> will result in <i>More than 70</i> if the <i>$value</i> in the imported file is a number between 71 and 100</li></ul><li>Notes:<ul><li>This function shares expression rules and available operations with the <b>if</b> function.</li><li>Only even numbers of parameters are supported: <b>2, 4, 6, 8</b>, etc.</li></ul></li></ul>"
+msgstr "<b>kasus</b>&mdash;parameter ganjil adalah ekspresi, dan parameter genap merupakan nilai yang sesuai. Fungsi cek ekspresi dan mengembalikan nilai yang sesuai ke ekspresi pertama yang berakhir dengan <i>benar</i>.<ul><li>Contoh:</li><ul><li><b>kasus($value>100, \"Lebih dari 100\", $value>70, \"Lebih dari 70, $value>20, \"Lebih dari 20\", $value>0, \"Persediaan\", $value=0, \"Stok habis\")</b> akan menghasilkan <o>Lebih dari 70</i> jika <i>$value</i> berkas yang diimpor adalah angka antara 71 dan 100</li></ul><li>Catatan:<ul><li>Fungsi ini membagi aturan ekspresi dan operasi yang tersedia dengan <b>jika</b> fungsi.</li><li>Hanya jumlah parameter yang didukung: <b>2, 4, 6, 8</b>, dll.</li></ul></li></ul>"
+
+msgctxt "Languages::advanced_import.modifier_self_reference_is_unsupported"
+msgid "This function doesn't support the use of a non-modified value from the imported file."
+msgstr "Fungsi ini tidak memungkinkan penggunaan nilai yang tidak dimofikasi dari berkas yang diimpor."
+
+msgctxt "Languages::advanced_import.preset_last_view"
+msgid "Preset"
+msgstr "Preset"
+
+msgctxt "Languages::advanced_import.show_more"
+msgid "Show more"
+msgstr "Tampilkan lebih banyak"
+
+msgctxt "Languages::advanced_import.show_less"
+msgid "Show less"
+msgstr "Tampilkan lebih sedikit"
+
+msgctxt "Languages::advanced_import.target_node"
+msgid "XML target node"
+msgstr "Simpulan target XML"
+
+msgctxt "Languages::advanced_import.target_node.description"
+msgid "The full path to the XML node with the information about an imported entity. The nodes nested in the specified node will be used as columns of the imported file. Here is an example of the path: yml_catalog/shop/offers/offer"
+msgstr "Jalan penuh ke node XML dengan informasi tentang entitas yang diimpor. Node bersarang di node tertentu akan digunakan sebagai kolom berkas yang diimpor. Ini adalah contoh jalannya: yml_catalog/shop/offers/offer"
+
+msgctxt "Languages::advanced_import.fetching_schema_failed_check_target_node"
+msgid "Please make sure that the <b>XML target node</b> field is filled in properly."
+msgstr "Harap pastikan bahwa bidang <b> node target XML</b> diisi dengan benar."
+
+msgctxt "Languages::advanced_import.general_settings"
+msgid "General settings"
+msgstr "Pengaturan umum"
+
+msgctxt "Languages::advanced_import.additional_settings"
+msgid "Additional settings"
+msgstr "Pengaturan tambahan"
+
+msgctxt "Languages::advanced_import.delete_additional_images"
+msgid "Delete existing additional images"
+msgstr "Hapus gambar tambahan yang ada"
+
+msgctxt "Languages::advanced_import.delete_additional_images_tooltip"
+msgid "If you enable this setting, then the existing additional images of the imported products will be replaced with the images specified in the imported file (if no images are specified, the old images will remain). If the setting is disabled, the new additional images will simply be added to the existing images."
+msgstr "Jika anda mengaktifkan pengaturan ini, maka gambar tambahan yang ada dari produk yang diimpor akan diganti dengan gambar tertentu dalam berkas yang diimpor"
+
+msgctxt "Languages::advanced_import.fetching_schema_failed_check_file"
+msgid "Before you can run the import, please make sure that:<ul><li>You have created the import preset by using the Create button. If you see Save instead of Create, then you've already done that.</li><li>You have specified the correct XML target node on the File tab and saved the preset.</li><li>You have matched the imported information with the product properties in CS-Cart on the Fields mapping tab and saved the preset.</li></ul>If you see this message, you haven't completed point 1 or 2."
+msgstr "Sebelum anda dapat menjalankan pengimporan, harap pastikan bahwa:<ul><li>Anda telah membuat preset impor dengan menggunakan tombol Buat. Jika anda melihat Simpan daripada Buat, maka anda telah melakukannya.</li><li>Anda telah menentukan node target XML dalam tab Berkas dan preset yang disimpan.</li><li>Anda telah mencocokkan informasi yang diimpor dengan properti produk di CS-Cart dalam tab Pemetaan bidang dan preset yang disimpan. </li></ul>Jika anda melihat pesan ini, anda belum menyelesaikan poin 1 atau 2."
+
+msgctxt "Languages::advanced_import.test_import"
+msgid "Perform test import"
+msgstr "Melakukan uji impor"
+
+msgctxt "Languages::advanced_import.test_import_tooltip"
+msgid "If you enable this setting, only the first [n] product will be processed.|If you enable this setting, only the first [n] products will be processed."
+msgstr "Jika anda mengaktikan pengaturan ini, hanya produk [n] pertama yang akan diproses.|Jika anda mengaktifkan pengaturan ini, hanya produk [n] pertama yang akan diproses."
+
+msgctxt "Languages::advanced_import.import_strategy"
+msgid "Import strategy"
+msgstr "Impor strategi"
+
+msgctxt "Languages::advanced_import.import_strategy_tooltip"
+msgid "If you select \"Update existing products only\", products that don't exist in the database of your store will be skipped during import.<br>If you select \"Create new products only\", products that exist in the database of your store will be skipped during import."
+msgstr "Jika anda memilih \"Perbarui produk yang ada saja\", Produk yang tidak ada di databasae toko anda akan dilewati selama pengimporan.<br>Jika anda memilih \"Buat produk baru saja\", produk yang ada di database toko anda akan dilewati selama pengimporan."
+
+msgctxt "Languages::advanced_import.import_all"
+msgid "Import all products from the file"
+msgstr "Impor semua produk dari berkas"
+
+msgctxt "Languages::advanced_import.create_new_products_only"
+msgid "Create new products only"
+msgstr "Buat produk baru saja"
+
+msgctxt "Languages::advanced_import.cant_save_preset_invalid_modifiers"
+msgid "The preset can't be saved because it contains invalid modifiers"
+msgstr "Preset tidak bisa disimpan karena memiliki modifier yang tidak valid"
+
+msgctxt "Languages::advanced_import.missing_parameters_list_closer"
+msgid "The expected <b>[closer]</b> after the parameters list is missing."
+msgstr "<b>[closer]</b> yang diharapkan setelah daftar parameter hilang."
+
+msgctxt "Languages::advanced_import.run_import_via_cron_message"
+msgid "You can run the import automatically at certain time intervals. To do it, add the following command to CRON:"
+msgstr "Anda bisa menjalankan pengimporan secara otomatis pada interval waktu tertentu. Untuk bisa melakukannya, tambahkan perintah berikut ke CRON:"
+
+msgctxt "Languages::advanced_import.cannot_detect_csv_delimiter"
+msgid "Cannot detect delimiter automatically. Please specify the correct delimiter manually in the additional settings on the \"File\" tab."
+msgstr "Tidak dapat mendeteksi pembatas secara otomatis. Harap tentukan pembatas yang benar secara manual dalam pengaturan tambahan pada tab \"Berkas\""
+
+msgctxt "Languages::advanced_import.incorrect_delimiter"
+msgid "Specified (or auto detected) delimiter seems to be incorrect. Please specify the correct delimiter manually in the additional settings on the \"File\" tab."
+msgstr "Pembatas yang ditentukan (atau terdeteksi secara otomatis) sepertinya tidak tepat. Harap tentukan pembatas yang benar secara manual dalam pengaturan tambahan pada tab \"File\"."
+
+msgctxt "Languages::advanced_import.file_will_be_deleted_are_you_sure_to_proceed"
+msgid "Deleting this import preset will also delete the file attached to it. Are you sure you want to proceed?"
+msgstr "Menghapus preset impor ini juga akan menghapus berkas yang dilampirkan padanya. Anda yaking ingin melanjutkan?"
+
+msgctxt "Languages::advanced_import.common_preset"
+msgid "All vendors"
+msgstr "Semua vendor"
+
+msgctxt "Languages::advanced_import.your_presets"
+msgid "Vendor's presets"
+msgstr "Preset vendor"
+
+msgctxt "Languages::advanced_import.common_presets"
+msgid "Marketplace presets"
+msgstr "Preset pasar"
+
+msgctxt "Languages::advanced_import.file_not_loaded"
+msgid "File was not loaded. Please reload the page and try again."
+msgstr "Berkas tidak dimuat. Tolong muat ulang halaman dan coba lagi."
+
+msgctxt "Languages::advanced_import.local_file_selected"
+msgid "Local file selected"
+msgstr "Berkas lokal terpilih"
+
+msgctxt "Languages::advanced_import.text_popup_file_editor_notice_full_link"
+msgid "You can upload and download files via <a class=\"advanced-import-file-editor-opener\" data-target-input-id=\"[target]\">[link_text]</a>"
+msgstr "Anda dapat meng-upload dan download file melalui <a class=\"advanced-import-file-editor-opener\" data-target-input-id=\"[target]\">[link_text]</a>"
+
+msgctxt "Languages::advanced_import.file_extension_was_not_supported_by_owner"
+msgid "Couldn't use your file [name]. This import preset only allows the following extensions: [ext]."
+msgstr ""
+
+msgctxt "Languages::advanced_import.save_selected_file"
+msgid "Save selected file"
+msgstr ""
+
+msgctxt "Languages::advanced_import.fields_delimiter"
+msgid "XML node delimiter"
+msgstr ""
+
+msgctxt "Languages::advanced_import.fields_delimiter.description"
+msgid "Delimiter between similar nodes."
+msgstr ""
+

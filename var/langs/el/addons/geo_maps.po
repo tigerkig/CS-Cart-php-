@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.13.2/addons/geo_maps.po\n"
+"X-Crowdin-File-ID: 4564\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::geo_maps"
+msgid "Maps and geolocation"
+msgstr "Χάρτες και γεωγραφικές θέσεις"
+
+msgctxt "Addons::description::geo_maps"
+msgid "Enables Google or Yandex maps and geolocation functionality in your store."
+msgstr "Ενεργοποιεί τους χάρτες Google ή Yandex και τη λειτουργικότητα γεωγραφικής θεσης στο κατάστημά σας."
+
+msgctxt "SettingsSections::geo_maps::general"
+msgid "General"
+msgstr "Γενικά"
+
+msgctxt "SettingsSections::geo_maps::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsSections::geo_maps::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsOptions::geo_maps::provider"
+msgid "Provider"
+msgstr "Πάροχος"
+
+msgctxt "SettingsVariants::geo_maps::provider::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsVariants::geo_maps::provider::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsOptions::geo_maps::show_shippings_on_product"
+msgid "Show shipping cost and time on product pages"
+msgstr "Εμφάνιση κόστους και χρόνου αποστολής στις σελίδες των προϊόντων"
+
+msgctxt "SettingsOptions::geo_maps::yandex_api_key"
+msgid "API key"
+msgstr "API key"
+
+msgctxt "SettingsTooltips::geo_maps::yandex_api_key"
+msgid "Get the API key here: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+msgstr "Πάρτε τονAPI Key από εδώ: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+
+msgctxt "SettingsOptions::geo_maps::yandex_commercial"
+msgid "I use the paid version of the API"
+msgstr "Χρησιμοποιώ την επί πληρωμή έκδοση του API"
+
+msgctxt "SettingsOptions::geo_maps::google_api_key"
+msgid "API key"
+msgstr "API key"
+
+msgctxt "SettingsTooltips::geo_maps::google_api_key"
+msgid "Get the API key here: <a href=\" https://console.developers.google.com\" target=\"_blank\"> https://console.developers.google.com</a>"
+msgstr "Πάρτε τον API Key από εδώ: <a href=\" https://console.developers.google.com\" target=\"_blank\">https://console.developers.google.com</a>"
+
+msgctxt "Languages::geo_maps.select_your_city"
+msgid "Select your city"
+msgstr "Επιλέξτε την πόλη σας"
+
+msgctxt "Languages::geo_maps.your_city"
+msgid "Your city"
+msgstr "Η πόλη σας"
+
+msgctxt "Languages::geo_maps.location_detection_disabled"
+msgid "Your location could not be determined. Try enabling the location services on your device or disabling the tracking protection."
+msgstr "Η τοποθεσία σας δέν ηταν δυνατον να προσδιοριστεί. Προσπαθήστε να ενεργοποιήσετε την υπηρεσία εύρεσης τοποθεσίας στην συσκευή σας η να απενεργοποιήστε την προστασία παρακολούθησης."
+
+msgctxt "Languages::block_geo_maps_customer_location"
+msgid "Customer location"
+msgstr "Τοποθεσία Πελάτη"
+
+msgctxt "Languages::block_geo_maps_customer_location_description"
+msgid "Customer city and city selection form"
+msgstr "Πόλη Πελάτη και Φόρμα επιλογής πόλης"
+
+msgctxt "Languages::geo_maps.shipping_address_on_map"
+msgid "Shipping address on map"
+msgstr "Διεύθυνση αποστολής στον χάρτη"
+
+msgctxt "Languages::geo_maps.cannot_select_location"
+msgid "This location couldn't be selected due to technical reasons. If you encounter any difficulties when placing an order, please contact us."
+msgstr "Η τοποθεσία δεν ήταν δυνατόν να επιλεχθεί λόγω τεχνικών δυσκολιών. Αν αντιμετωπίζετε δυσκολίες κατά την τοποθέτηση παραγγελίας, παρακαλώ επικοινωνήστε μαζί μας."
+
+msgctxt "Languages::geo_maps.shipping_time_and_rates"
+msgid "Shipping time and rates"
+msgstr "Χρόνος αποστολής και χρεώσεις"
+
+msgctxt "Languages::geo_maps.shipping_group_pickup"
+msgid "Pick-up"
+msgstr "Παραλαβή"
+
+msgctxt "Languages::geo_maps.shipping_group_delivery"
+msgid "Shipping"
+msgstr "Αποστολή"
+
+msgctxt "Languages::geo_maps.from_pickup_points"
+msgid "[shipping], [n] pickup point|[shipping], [n] pickup points"
+msgstr "[shipping], [n] pσημείο παραλαβής|[shipping], [n] σημεία παραλαβής"
+
+msgctxt "Languages::geo_maps.shipping_about"
+msgid "about"
+msgstr "σχετικά με"
+
+msgctxt "Languages::geo_maps.shipping_from"
+msgid "from"
+msgstr "από"
+
+msgctxt "Languages::geo_maps.shipping_time"
+msgid "Shipping time"
+msgstr "Χρόνος Αποστολής"
+
+msgctxt "Languages::geo_maps.no_shippings"
+msgid "Sorry, we couldn't find any shipping options for your location. Please contact us, and we'll see what we can do about it."
+msgstr "Συγνώμη, δέν μπορέσαμε να βρούμε επιλογές αποστολής για την τοποθεσία σας. Παρακαλώ επικοινωνήστε μαζί μας και θα δούμε τι μπορούμε να κάνουμε για αυτό"
+
+msgctxt "Languages::geo_maps.text_settings_google_api_notice"
+msgid "Learn more about setting up API key <a target=\"_blank\" href=\"https://docs.cs-cart.com/4.10.x/user_guide/addons/maps_and_geolocation/#configuration\">in the documentation</a>."
+msgstr "Μάθετε περισσότερα σχετικά με τη ρύθμιση του κλειδιού API<a target=\"_blank\" href=\"https://docs.cs-cart.com/4.10.x/user_guide/addons/maps_and_geolocation/#configuration\">στην τεκμηρίωση</a>."
+

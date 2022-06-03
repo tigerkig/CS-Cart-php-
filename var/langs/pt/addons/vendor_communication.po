@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.13.2/addons/vendor_communication.po\n"
+"X-Crowdin-File-ID: 4686\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::vendor_communication"
+msgid "Message center"
+msgstr "Central de mensagem"
+
+msgctxt "Addons::description::vendor_communication"
+msgid "Allows customers, vendors, and administrators to contact each other via the built-in chat."
+msgstr "Permite que clientes, fornecedores e administradores entrem em contato entre si através do chat embutido."
+
+msgctxt "SettingsSections::vendor_communication::general"
+msgid "General"
+msgstr "Geral"
+
+msgctxt "SettingsSections::vendor_communication::vendor_to_customer"
+msgid "For customers"
+msgstr "Para clientes"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_product"
+msgid "Contact button on product pages"
+msgstr "Botão de contato nas páginas dos produtos"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_vendor"
+msgid "Contact button in vendor microstore"
+msgstr "Botão de contato na loja do fornecedor"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_messages"
+msgid "Contact button at \"Messages\" menu"
+msgstr "Botão de contato no menu \"Mensagens\""
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_product"
+msgid "Show the \"Ask a question\" button on product pages."
+msgstr "Exibe o botão \"Fazer uma pergunta\" nas páginas dos produtos."
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_vendor"
+msgid "Show the \"Ask a question\" button in vendors' microstores."
+msgstr "Exibe o botão \"Fazer uma pergunta\" nas lojas dos fornecedores."
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_customer_communication"
+msgid "Customer-to-seller communication"
+msgstr "Comunicação cliente-fornecedor"
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_admin_communication"
+msgid "Vendor-to-admin communication"
+msgstr "Comunicação fornecedor-administrador"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_order"
+msgid "Contact button on detailed order page"
+msgstr ""
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_order"
+msgid "Show the \"Start communication\" button on detailed order page."
+msgstr ""
+
+msgctxt "Languages::vendor_communication.messages"
+msgid "Messages"
+msgstr "Mensagens"
+
+msgctxt "Languages::vendor_communication.message_center"
+msgid "Message center"
+msgstr "Central de mensagem"
+
+msgctxt "Languages::vendor_communication.message_center_name"
+msgid "Message center"
+msgstr "Central de mensagem"
+
+msgctxt "Languages::vendor_communication.message_center_name_menu_description"
+msgid "Messages from customers"
+msgstr "Mensagens de clientes"
+
+msgctxt "Languages::vendor_communication.message_center_menu_description"
+msgid "Customer-to-vendor messages"
+msgstr "Mensagens cliente-fornecedor"
+
+msgctxt "Languages::vendor_communication.author"
+msgid "Author"
+msgstr "Autor"
+
+msgctxt "Languages::vendor_communication.date"
+msgid "Date"
+msgstr "Data"
+
+msgctxt "Languages::vendor_communication.message"
+msgid "Message"
+msgstr "Mensagem"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "Contatar fornecedor"
+
+msgctxt "Languages::vendor_communication.ask_a_question"
+msgid "Ask a question"
+msgstr "Fazer uma pergunta"
+
+msgctxt "Languages::vendor_communication.contact_vendor_name"
+msgid "Contact [vendor_name]"
+msgstr "Contatar [vendor_name]"
+
+msgctxt "Languages::vendor_communication.created_at"
+msgid "Created on"
+msgstr "Criado"
+
+msgctxt "Languages::vendor_communication.new_thread_created"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>The vendor's reply will be sent to the email address of your account. To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "A sua mensagem foi enviada para <b>[vendor_name]</b>.<br/><br/>A resposta será enviada para o endereço de e-mail cadastrado na sua conta. Para ver o seu histórico de mensagens, <a href=\"[thread_url]\">acesse a central de mensagem</a> na seção \"Mensagens\" do menu \"Minha conta\"."
+
+msgctxt "Languages::vendor_communication.message_sent"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>We'll notify you about a reply. To view your message history, please <a href=\"[thread_url]\" target=\"_blank\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "A sua mensagem foi enviada para <b>[vendor_name]</b>.<br/><br/>Notificaremos você sobre a resposta. Para ver o seu histórico de mensagens, <a href=\"[thread_url]\" target=\"_blank\">acesse a central de mensagem</a> na seção \"Mensagens\" do menu \"Minha conta\"."
+
+msgctxt "Languages::vendor_communication.cannot_update_thread"
+msgid "Cannot update thread"
+msgstr "Não foi possível atualizar a conversa"
+
+msgctxt "Languages::vendor_communication.cannot_create_thread"
+msgid "Cannot create thread"
+msgstr "Não foi possível criar a conversa"
+
+msgctxt "Languages::email_template.vendor_communication.notify_admin"
+msgid "Ask seller a question: Admin Notification"
+msgstr "Fazer uma pergunta ao vendedor: Notificação de administrador"
+
+msgctxt "Languages::email_template.vendor_communication.notify_customer"
+msgid "Ask seller a question: Customer Notification"
+msgstr "Fazer uma pergunta ao vendedor: Notificação de cliente"
+
+msgctxt "Languages::vendor_communication.you_have_new_message"
+msgid "You have a new <a href=\"[thread_url]\">message</a> from [message_from]."
+msgstr "Você tem uma nova <a href=\"[thread_url]\">mensagem</a> de [message_from]."
+
+msgctxt "Languages::vendor_communication.subject_email"
+msgid "You have a new message from [message_from]"
+msgstr "Você tem uma nova mensagem de [message_from]"
+
+msgctxt "Languages::vendor_communication.thread"
+msgid "Thread #[thread_id]"
+msgstr "Conversa #[thread_id]"
+
+msgctxt "Languages::vendor_communication.contact_with"
+msgid "#[thread_id]. Communication with [thread_company]"
+msgstr "#[thread_id]. Comunicação com [thread_company]"
+
+msgctxt "Languages::vendor_communication.ticket"
+msgid "Thread"
+msgstr "Conversa"
+
+msgctxt "Languages::vendor_communication.no_messages_found"
+msgid "No messages found"
+msgstr "Nenhuma mensagem encontrada"
+
+msgctxt "Languages::vendor_communication.customer_name"
+msgid "Customer name"
+msgstr "Nome do cliente"
+
+msgctxt "Languages::vendor_communication.error_message"
+msgid "Please enter your message"
+msgstr "Insira a sua mensagem"
+
+msgctxt "Languages::vendor_communication.type_message"
+msgid "Type a message..."
+msgstr "Digite uma mensagem..."
+
+msgctxt "Languages::vendor_communication.you"
+msgid "You"
+msgstr "Você"
+
+msgctxt "Languages::vendor_communication.order_details"
+msgid "Order details"
+msgstr "Detalhes do pedido"
+
+msgctxt "Languages::vendor_communication.import_details"
+msgid "Import details"
+msgstr "Detalhes da importação"
+
+msgctxt "Languages::vendor_communication.thread_deleted"
+msgid "Thread has been deleted"
+msgstr "A conversa foi apagada"
+
+msgctxt "Languages::vendor_communication.threads_deleted"
+msgid "Threads have been deleted"
+msgstr "As conversas foram apagadas"
+
+msgctxt "Languages::vendor_communication.cannot_delete_thread"
+msgid "Cannot delete thread"
+msgstr "Não foi possível apagar a conversa"
+
+msgctxt "Languages::vendor_communication.cannot_delete_threads"
+msgid "Cannot delete threads"
+msgstr "Não foi possível apagar as conversas"
+
+msgctxt "Languages::vendor_communication.cannot_post_message"
+msgid "Cannot post message"
+msgstr "Não foi possível postar a mensagem"
+
+msgctxt "Languages::vendor_communication.no_threads_found"
+msgid "No threads found"
+msgstr "Nenhuma conversa encontrada"
+
+msgctxt "Languages::vendor_communication.required_field_is_missing"
+msgid "The [field_name] field is required"
+msgstr "O campo [field_name] é obrigatório"
+
+msgctxt "Languages::vendor_communication.invalid_thread_object_type"
+msgid "Provided thread object type is invalid"
+msgstr "O tipo de objeto de conversa fornecido é inválido"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_contact_vendor"
+msgid "Please sign in to contact the vendor"
+msgstr "Faça login para contatar o fornecedor"
+
+msgctxt "Languages::privileges.manage_vendor_communication"
+msgid "Can edit"
+msgstr "Editar"
+
+msgctxt "Languages::privileges.view_vendor_communication"
+msgid "Can view"
+msgstr "Visualizar"
+
+msgctxt "Languages::privilege_groups.vendor_communication"
+msgid "Message center: customer-to-vendor communication"
+msgstr "Central de mensagem: comunicação cliente-fornecedor"
+
+msgctxt "Languages::vendor_communication.your_message_to_vendor_name"
+msgid "Your message to [vendor_name]"
+msgstr "Sua mensagem para [vendor_name]"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_be_notified"
+msgid "Please sign in so that we can notify you about a reply"
+msgstr "Faça login para que possamos notificar você sobre uma resposta"
+
+msgctxt "Languages::vendor_communication"
+msgid "Message center"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.event.message_received.name"
+msgid "Customer-to-vendor: New message received"
+msgstr "Cliente-fornecedor: Nova mensagem"
+
+msgctxt "Languages::vendor_communication.event.vendor_to_admin_message_received.name"
+msgid "Vendor-to-admin: New message received"
+msgstr "Fornecedor-administrador: Nova mensagem"
+
+msgctxt "Languages::internal_template.vendor_communication_message_received"
+msgid "New message received"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.new_message.title"
+msgid "[company_name] has a new message from [customer]"
+msgstr "[company_name] possui uma nova mensagem de [customer]"
+
+msgctxt "Languages::vendor_communication.new_message.message"
+msgid "Click this notification to see the message"
+msgstr "Clique aqui para ver"
+
+msgctxt "Languages::vendor_communication.contact_admin"
+msgid "Contact administrator"
+msgstr "Contatar administrador"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "Contatar fornecedor"
+
+msgctxt "Languages::vendor_communication.communication"
+msgid "Communication"
+msgstr "Comunicação"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name"
+msgid "Message center"
+msgstr "Central de mensagem"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name_menu_description"
+msgid "Messages from vendor to administrator"
+msgstr "Mensagens de fornecedor para administrador"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin"
+msgid "Vendor communication"
+msgstr "Comunicação do fornecedor"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_customer"
+msgid "Customer communication"
+msgstr "Comunicação do cliente"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin_for_vendor_panel"
+msgid "Admin communication"
+msgstr "Comunicação do administrador"
+
+msgctxt "Languages::vendor_communication.your_message_to_admin"
+msgid "Your message to administrator"
+msgstr "Sua mensagem para o administrador"
+
+msgctxt "Languages::vendor_communication.some_threads_have_not_been_created"
+msgid "Some threads have not been created: [count]"
+msgstr "Algumas conversas não foram criadas: [count]"
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "A sua mensagem foi enviada para <b>[name]</b>.<br/><br/>Para ver o seu histórico de mensagens, <a href=\"[thread_url]\">acesse a central de mensagem</a> no menu \"Fornecedores\"."
+
+msgctxt "Languages::vendor_communication.vendor_to_customer.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Customers\" menu."
+msgstr ""
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_list_sent"
+msgid "Your messages have been sent.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "Suas mensagens foram enviadas.<br/><br/>Para ver o seu histórico de mensagens, <a href=\"[thread_url]\">acesse a central de mensagem</a> no menu \"Fornecedores\"."
+
+msgctxt "Languages::privilege_groups.admin_communication"
+msgid "Message center: vendor-to-admin communication"
+msgstr "Central de mensagem: comunicação fornecedor-administrador"
+
+msgctxt "Languages::customer_to_admin_communication.event.message_received.name"
+msgid "Customer-to-Admin: New message received"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.start_communication"
+msgid "Start communication"
+msgstr ""
+
+msgctxt "Languages::privilege_groups.order_communication"
+msgid "Message center: communication with customer"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin"
+msgid "Communication with vendor"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_customer"
+msgid "Communication with customer"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin_with_admin"
+msgid "Communication with administrator"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.contact_customer"
+msgid "Contact customer"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.subject"
+msgid "Subject"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.admin"
+msgid "Admin"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.your_message_to_customer"
+msgid "Your message to customer"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.event.order_message_received.name"
+msgid "Order communication: New message received"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.scroll_to_top"
+msgid "Scroll to top"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.send_message"
+msgid "Send message"
+msgstr ""
+

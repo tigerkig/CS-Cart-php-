@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.13.2/addons/facebook_pixel.po\n"
+"X-Crowdin-File-ID: 4558\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::facebook_pixel"
+msgid "Facebook Pixel"
+msgstr "Facebookピクセル"
+
+msgctxt "Addons::description::facebook_pixel"
+msgid "Integrates a Facebook Pixel with the store"
+msgstr "Facebookピクセルとショップを統合"
+
+msgctxt "SettingsSections::facebook_pixel::general"
+msgid "General"
+msgstr "基本設定"
+
+msgctxt "SettingsOptions::facebook_pixel::pixel_id"
+msgid "Facebook Pixel Identifier"
+msgstr "Facebookピクセル識別子"
+
+msgctxt "SettingsOptions::facebook_pixel::track_all_page_views"
+msgid "Track all page views"
+msgstr "全てのページビューを追跡"
+
+msgctxt "SettingsOptions::facebook_pixel::track_add_to_cart"
+msgid "Track adding product to cart"
+msgstr "カートに商品追加を追跡"
+
+msgctxt "SettingsOptions::facebook_pixel::track_order_placed"
+msgid "Track placing order"
+msgstr "注文を追跡"
+

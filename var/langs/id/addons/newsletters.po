@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/newsletters.po\n"
+"X-Crowdin-File-ID: 4594\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::newsletters"
+msgid "Newsletters"
+msgstr "Newsletter"
+
+msgctxt "Addons::description::newsletters"
+msgid "Lets you configure newsletter sending"
+msgstr "Memungkinkan Anda mengonfigurasi pengiriman buletin"
+
+msgctxt "Languages::newsletters_menu_description"
+msgid "Create and send newsletters to your customer."
+msgstr "Buat dan kirim buletin ke pelanggan Anda."
+
+msgctxt "Languages::news_plain"
+msgid "Plain"
+msgstr "Polos"
+
+msgctxt "Languages::text_signup_for_subscriptions"
+msgid "Sign up for our newsletters!"
+msgstr "Daftar ke buletin kami!"
+
+msgctxt "Languages::tmpl_subscription"
+msgid "Newsletters: subscription form"
+msgstr "Newsletters: formulir berlangganan"
+
+msgctxt "Languages::unsubscribe_link"
+msgid "Unsubscribe link"
+msgstr "Berhenti berlangganan link"
+
+msgctxt "Languages::ne_add_subscribers_from_users"
+msgid "Add subscribers from the list of users"
+msgstr "Tambahkan pelanggan dari daftar pengguna"
+
+msgctxt "Languages::ne_warning_subscr_email_exists"
+msgid "<b>[email]</b> is already in the subscribers list"
+msgstr "<b> [email] </ b> sudah ada dalam daftar pelanggan"
+
+msgctxt "Languages::warning_subscribers_import"
+msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
+msgstr "Beberapa milis dari file input tidak dapat ditemukan di database. Pelanggan impor tertentu akan dibiarkan tidak ditugaskan."
+
+msgctxt "Languages::subscribers_menu_item_text"
+msgid "Subscribers"
+msgstr "Pelanggan"
+
+msgctxt "Languages::block_mailing_lists"
+msgid "Newsletter subscription"
+msgstr "Berlangganan buletin"
+
+msgctxt "Languages::block_mailing_lists_description"
+msgid "Email field for newsletter subscription"
+msgstr "Bidang email untuk berlangganan buletin"
+
+msgctxt "Languages::block_lite_checkout_newsletters"
+msgid "Checkout: Newsletters"
+msgstr ""
+
+msgctxt "Languages::block_lite_checkout_newsletters_description"
+msgid "Ability to sign up for newsletters"
+msgstr ""
+
+msgctxt "Languages::privileges.view_newsletters"
+msgid "Can view"
+msgstr "Dapat melihat"
+
+msgctxt "Languages::privileges.manage_newsletters"
+msgid "Can edit"
+msgstr "Dapat mengedit"
+
+msgctxt "Languages::privilege_groups.newsletters"
+msgid "Newsletters"
+msgstr "Nawala"
+
+msgctxt "Languages::warning_newsletter_no_recipients"
+msgid "Newsletter hasn't been sent because no recipients were found matching the selected criteria."
+msgstr "Newsletter belum dikirim karena tidak ada penerima yang cocok dengan kriteria yang dipilih."
+
+msgctxt "Languages::text_newsletter_sent"
+msgid "The newsletter(s) have been sent successfully."
+msgstr "Newsletter telah berhasil dikirim."
+
+msgctxt "Languages::email_cannot_be_empty"
+msgid "E-mail cannot be empty"
+msgstr "E-mail tidak boleh kosong"
+
+msgctxt "Languages::sending_email_to"
+msgid "Sending email to [email]..."
+msgstr "Mengirim email ke [email]..."
+
+msgctxt "Languages::text_subscriber_added"
+msgid "Your e-mail has been successfully added to our free e-mail updates list"
+msgstr "E-mail Anda telah berhasil ditambahkan ke daftar pembaruan e-mail gratis kami"
+
+msgctxt "Languages::error_email_already_subscribed"
+msgid "Your e-mail is already subscribed."
+msgstr "E-mail Anda sudah berlangganan."
+
+msgctxt "Languages::text_subscriber_removed"
+msgid "Your e-mail has been successfully removed from our free e-mail updates list"
+msgstr "E-mail Anda telah berhasil dihapus dari daftar pembaruan e-mail gratis kami"
+
+msgctxt "Languages::text_subscriber_activated"
+msgid "Your email has been successfully activated"
+msgstr "Email anda telah berhasil diaktifkan"
+
+msgctxt "Languages::link_message_for_test_letter"
+msgid "The link will be displayed in a live newsletter"
+msgstr "Tautan akan ditampilkan dalam siaran langsung"
+
+msgctxt "Languages::newsletters"
+msgid "Newsletters"
+msgstr "Nawala"
+
+msgctxt "Languages::autoresponders"
+msgid "Autoresponders"
+msgstr "Autoresponders"
+
+msgctxt "Languages::campaigns"
+msgid "Campaigns"
+msgstr "Kampanye"
+
+msgctxt "Languages::sent"
+msgid "Sent"
+msgstr "Dikirim"
+
+msgctxt "Languages::subscribers_num"
+msgid "Number of subscribers"
+msgstr "Jumlah pelanggan"
+
+msgctxt "Languages::editing_mailing_list"
+msgid "Editing mailing list"
+msgstr "Mengedit milis"
+
+msgctxt "Languages::from_name"
+msgid "From name"
+msgstr "Dari nama"
+
+msgctxt "Languages::from_email"
+msgid "From email"
+msgstr "Dari email"
+
+msgctxt "Languages::reply_to"
+msgid "Reply to"
+msgstr "Membalas ke"
+
+msgctxt "Languages::register_autoresponder"
+msgid "Confirmation email"
+msgstr "Email konfirmasi"
+
+msgctxt "Languages::no_autoresponder"
+msgid "No autoresponder"
+msgstr "Tidak ada autoresponder"
+
+msgctxt "Languages::show_on_checkout"
+msgid "Show at checkout"
+msgstr "Tunjukkan di kasir"
+
+msgctxt "Languages::hide_on_checkout"
+msgid "Hide at checkout"
+msgstr ""
+
+msgctxt "Languages::addons.newsletters.show_on_registration_and_profile"
+msgid "Show on the Registration and Profile Details pages"
+msgstr "Tampilkan di halaman Registration and Profile Details"
+
+msgctxt "Languages::addons.newsletters.hide_on_registration_and_profile"
+msgid "Hide on the Registration and Profile Details pages"
+msgstr ""
+
+msgctxt "Languages::show_on_separate_page"
+msgid "Show on separate page"
+msgstr "Tampilkan di halaman terpisah"
+
+msgctxt "Languages::campaign_stats"
+msgid "Campaign statistics"
+msgstr "Statistik kampanye"
+
+msgctxt "Languages::add_campaign"
+msgid "Add campaign"
+msgstr "Tambahkan kampanye"
+
+msgctxt "Languages::new_campaign"
+msgid "New campaign"
+msgstr "Kampanye baru"
+
+msgctxt "Languages::newsletter_templates"
+msgid "Newsletter templates"
+msgstr "Template buletin"
+
+msgctxt "Languages::newsletter_autoresponders"
+msgid "Newsletter autoresponders"
+msgstr "Penjawab otomatis buletin"
+
+msgctxt "Languages::subject"
+msgid "Subject"
+msgstr "Subyek"
+
+msgctxt "Languages::add_newsletter"
+msgid "Add newsletter"
+msgstr "Tambahkan newsletter"
+
+msgctxt "Languages::add_template"
+msgid "Add template"
+msgstr "Tambahkan template"
+
+msgctxt "Languages::add_autoresponder"
+msgid "Add autoresponder"
+msgstr "Tambahkan autoresponder"
+
+msgctxt "Languages::more_subjects"
+msgid "Random subjects (one per line)"
+msgstr "Subjek acak (satu per baris)"
+
+msgctxt "Languages::body_html"
+msgid "HTML body"
+msgstr "Tubuh HTML"
+
+msgctxt "Languages::no_template"
+msgid "No template"
+msgstr "Tidak ada template"
+
+msgctxt "Languages::load"
+msgid "Load"
+msgstr "Beban"
+
+msgctxt "Languages::campaign"
+msgid "Campaign"
+msgstr "Kampanye"
+
+msgctxt "Languages::send_to"
+msgid "Send to"
+msgstr "Kirim ke"
+
+msgctxt "Languages::add_recipients_from_users"
+msgid "Add recipients from users"
+msgstr "Tambahkan penerima dari pengguna"
+
+msgctxt "Languages::customers_with_abandoned"
+msgid "Customers with abandoned"
+msgstr "Pelanggan dengan ditinggalkan"
+
+msgctxt "Languages::cart_or_wishlist"
+msgid "Cart or Wishlist"
+msgstr "Cart or Wishlist"
+
+msgctxt "Languages::which_is"
+msgid "which is"
+msgstr "yang mana"
+
+msgctxt "Languages::days_old"
+msgid "days old"
+msgstr "hari tua"
+
+msgctxt "Languages::send_to_test_email"
+msgid "Send to test email"
+msgstr "Kirim untuk menguji email"
+
+msgctxt "Languages::save_and_send"
+msgid "Save and send"
+msgstr "Simpan dan kirim"
+
+msgctxt "Languages::newsletter"
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgctxt "Languages::newsletter_template"
+msgid "Newsletter template"
+msgstr "Template buletin"
+
+msgctxt "Languages::newsletter_autoresponder"
+msgid "Newsletter autoresponder"
+msgstr "Newsletter autoresponder"
+
+msgctxt "Languages::mailing_list"
+msgid "Mailing list"
+msgstr "Daftar milis"
+
+msgctxt "Languages::confirmed"
+msgid "Confirmed"
+msgstr "Dikonfirmasi"
+
+msgctxt "Languages::subscribed_to"
+msgid "Subscribed to [num] lists"
+msgstr "Berlangganan ke daftar [num]"
+
+msgctxt "Languages::subscribed"
+msgid "Subscribed"
+msgstr "Berlangganan"
+
+msgctxt "Languages::text_success_subscription"
+msgid "You have been successfully subscribed to our free e-mail updates and promotions!"
+msgstr "You have been successfully subscribed to our free e-mail updates and promotions!"
+
+msgctxt "Languages::text_unsubscribe_instructions"
+msgid "We respect your privacy and do not send unsolicited e-mail to users who have not requested correspondence. You have received this e-mail because you requested to receive our free updates and promotions.<br /><br /> If you wish to unsubscribe, please follow the link below:"
+msgstr "Kami menghargai privasi Anda dan tidak mengirim e-mail yang tidak diminta ke pengguna yang tidak meminta korespondensi. Anda telah menerima e-mail ini karena Anda diminta untuk menerima pembaruan dan promosi gratis kami.<br /><br /> Jika Anda ingin berhenti berlangganan, ikuti tautan di bawah ini:"
+
+msgctxt "Languages::updates_subscription"
+msgid "updates and promotions subscription"
+msgstr "pembaruan dan promosi berlangganan"
+
+msgctxt "Languages::ult_shared_with"
+msgid "Shared with:"
+msgstr "Dibagi dengan:"
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_email"
+msgid "Email of a sender."
+msgstr "Email pengirim."
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_name"
+msgid "Name of a sender (e.g. company name)."
+msgstr "Nama pengirim (misalnya nama perusahaan)."
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_reply_to"
+msgid "Email to send replies to."
+msgstr "Email untuk mengirim balasan ke."
+
+msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_more_subjects"
+msgid "If several subjects are specified, email subject is randomly picked from this list."
+msgstr "Jika beberapa subjek ditentukan, subjek email dipilih secara acak dari daftar ini."
+
+msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_users"
+msgid "If the message text contains the unsubscribe link, it will be empty for these users."
+msgstr "Jika teks pesan berisi tautan berhenti berlangganan, maka teks tersebut akan kosong untuk pengguna ini."
+
+msgctxt "Languages::add_mailing_lists"
+msgid "Add mailing list"
+msgstr "Tambahkan milis"
+
+msgctxt "Languages::manage_subscribers"
+msgid "Manage subscribers"
+msgstr "Kelola pelanggan"
+
+msgctxt "Languages::new_mailing_lists"
+msgid "New mailing list"
+msgstr "Milis baru"
+
+msgctxt "Languages::newsletters.new_subscribers"
+msgid "New subscribers"
+msgstr "Pelanggan baru"
+
+msgctxt "SettingsSections::newsletters::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::newsletters::newsletters_per_pass"
+msgid "Newsletters sent per step"
+msgstr "Newsletters dikirim per langkah"
+
+msgctxt "SettingsOptions::newsletters::elm_advanced_mailing_server_options"
+msgid "Advanced mailing server options"
+msgstr "Opsi server surat lanjutan"
+
+msgctxt "SettingsOptions::newsletters::mailer_send_method"
+msgid "Method of sending e-mails"
+msgstr "Metode pengiriman e-mail"
+
+msgctxt "SettingsOptions::newsletters::elm_smtp_server_settings"
+msgid "SMTP server settings"
+msgstr "Pengaturan server SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_host"
+msgid "SMTP host"
+msgstr "Host SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_username"
+msgid "SMTP username"
+msgstr "Nama pengguna SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_password"
+msgid "SMTP password"
+msgstr "Password SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_ecrypted_connection"
+msgid "Use Encrypted Connection"
+msgstr "Gunakan Encrypted Connection"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::none"
+msgid "None"
+msgstr "Tidak ada"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::tls"
+msgid "TLS"
+msgstr "TLS"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::ssl"
+msgid "SSL"
+msgstr "SSL"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_auth"
+msgid "Use SMTP authentication"
+msgstr "Gunakan otentikasi SMTP"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::smtp"
+msgid "via SMTP server"
+msgstr "via server SMTP"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::mail"
+msgid "via php mail function"
+msgstr "melalui fungsi php mail"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::default"
+msgid "use default settings"
+msgstr "gunakan pengaturan default"
+
+msgctxt "SettingsSections::newsletters::promotions"
+msgid "Promotions"
+msgstr "Promosi"
+
+msgctxt "SettingsOptions::newsletters::coupon"
+msgid "Choose a promotion whose promo code will be given at subscription"
+msgstr "Pilih promosi yang kode promonya akan diberikan saat berlangganan"
+
+msgctxt "Languages::subscribers_promo_subject"
+msgid "Thank you for subscribing! Use the coupon code [coupon] in our special offer \"[promotion]\"."
+msgstr "Terima kasih telah berlangganan! Gunakan kode kupon [coupon] dalam penawaran spesial kami \"[promotion]\"."
+
+msgctxt "Languages::subscribers_no_promo"
+msgid "No promotion"
+msgstr "Tidak ada promosi"
+
+msgctxt "Languages::promotion_cond_subscribed"
+msgid "Customer is subscribed"
+msgstr "Pelanggan berlangganan"
+
+msgctxt "Languages::addons.newsletters.email_exists_in_list"
+msgid "<b>[email]</b> is already in the mailing list"
+msgstr "<b> [email] </ b> sudah ada di milis"
+
+msgctxt "Languages::email_template.newsletters_newsletter"
+msgid "Newsletter"
+msgstr "kertas baru"
+
+msgctxt "Languages::email_template.newsletters_promotion"
+msgid "Newsletters: promotion"
+msgstr "Newsletters: promosi"
+
+msgctxt "Languages::activation_key"
+msgid "Activation key"
+msgstr "Kunci aktivasi"
+
+msgctxt "Languages::unsubscribe_key"
+msgid "Unsubscribe key"
+msgstr "Kunci berhenti berlangganan"
+
+msgctxt "Languages::subscribers_date"
+msgid "Subscribers date"
+msgstr "Tanggal pelanggan"
+
+msgctxt "Languages::mailing_list_date"
+msgid "Mailing list date"
+msgstr "Tanggal mailing list"
+
+msgctxt "Languages::gdpr_newsletters"
+msgid "Personal data from newsletters"
+msgstr "Data pribadi dari buletin"
+
+msgctxt "Languages::newsletters.subscribe_to_newsletters"
+msgid "Newsletters: Subscribe to newsletters"
+msgstr "Buletin: Berlangganan buletin"
+
+msgctxt "Languages::newsletters.agreement_text_short_subscribe_to_newsletters"
+msgid "I agree to have my personal data <u>processed as follows</u> and I want to subscribe for the following newsletters:"
+msgstr "Saya menyetujui data pribadi saya<u>diproses sebagai berikut</u> dan saya ingin berlangganan nawala berikut:"
+
+msgctxt "Languages::newsletters.agreement_text_full_subscribe_to_newsletters"
+msgid "<p>When you sign up for a specific newsletter, we ([company]) add your email address to a corresponding mailing list. While it is there, we know that we can contact you by email regarding that topic.</p> <p>You can always have your email address removed from our mailing lists. There are multiple ways to do it:</p><ul> <li>Once your account is registered, just sign in and unsubscribe from newsletters in profile settings.</li> <li>Use the “Unsubscribe” link in our newsletters that you receive.</li> <li>Send an email to [email].</li> </ul> <p>We may use a third-party email service (MailChimp and/or Mad Mimi) to send newsletters. Some members of our staff can view mailing lists with email addresses. That way they’ll be able to remove your email address from the mailing list, should you request us to do so.</p> <p>Please note that mailing lists are independent from each other. If you decide not to receive newsletters at all, you’ll have to unsubscribe from all the mailing lists. Even if you do that, you’ll still receive account-related emails (such as order status notifications, password reset emails, and more). It is essential for operating an online store.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr ""
+
+msgctxt "Languages::newsletters.use_for_subscribe_form"
+msgid "Subscribe form"
+msgstr ""
+
+msgctxt "Languages::newsletters.default_mailing_list"
+msgid "Default mailing list"
+msgstr ""
+

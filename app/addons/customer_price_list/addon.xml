@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<addon scheme="4.0">
+    <id>customer_price_list</id>
+    <version>1.0</version>
+    <priority>4100</priority>
+    <status>active</status>
+    <default_language>en</default_language>
+
+    <compatibility>
+        <php_extensions>
+            <zip>
+                <supported>Y</supported>
+            </zip>
+        </php_extensions>
+    </compatibility>
+
+    <autoload>
+        <psr4 prefix="Tygh\Addons\CustomerPriceList\">src</psr4>
+        <psr4 prefix="Tygh\Addons\CustomerPriceList\Tests\Unit\">tests</psr4>
+    </autoload>
+    <bootstrap>\Tygh\Addons\CustomerPriceList\Bootstrap</bootstrap>
+    <installer>\Tygh\Addons\CustomerPriceList\Installer</installer>
+
+    <settings edition_type="ROOT,STOREFRONT">
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="price_list_info">
+                        <type>template</type>
+                        <default_value>info.tpl</default_value>
+                    </item>
+                    <item id="price_list_fields" edition_type="ROOT,ULT:VENDOR">
+                        <type>selectable_box</type>
+                        <default_value><![CDATA[#M#product_code=Y&product=Y&amount=Y&price=Y]]></default_value>
+                    </item>
+                    <item id="price_list_sorting" edition_type="ROOT,ULT:VENDOR">
+                        <type>selectbox</type>
+                        <default_value>product_code</default_value>
+                    </item>
+                    <item id="price_list_group_by_category" edition_type="ROOT,ULT:VENDOR">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                    </item>
+                    <item id="show_download_link_on_profile">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                    </item>
+                    <item id="show_download_link_on_cart">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                    </item>
+                </items>
+            </section>
+            <section id="files" edition_type="ROOT,ULT:VENDOR">
+                <items>
+                    <item id="price_list_files">
+                        <type>template</type>
+                        <default_value>files.tpl</default_value>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+
+    <queries>
+        <item for="install">
+            ALTER TABLE ?:usergroups
+                ADD is_price_list_enabled char(1) NOT NULL DEFAULT 'Y',
+                ADD price_list_priority tinyint(4) NOT NULL default '100';
+        </item>
+        <item for="install">DROP TABLE IF EXISTS ?:customer_price_list</item>
+        <item for="install">
+            CREATE TABLE ?:customer_price_list (
+                storefront_id int(11) unsigned NOT NULL,
+                usergroup_id int(11) unsigned NOT NULL,
+                file varchar(32) NOT NULL DEFAULT '',
+                updated_at int(11) unsigned NOT NULL,
+                PRIMARY KEY (storefront_id, usergroup_id),
+                KEY idx_usergroup_id (usergroup_id)
+            ) DEFAULT CHARSET UTF8;
+        </item>
+        <item for="uninstall">ALTER TABLE ?:usergroups DROP is_price_list_enabled, DROP price_list_priority;</item>
+        <item for="uninstall">DROP TABLE IF EXISTS ?:customer_price_list</item>
+    </queries>
+</addon>

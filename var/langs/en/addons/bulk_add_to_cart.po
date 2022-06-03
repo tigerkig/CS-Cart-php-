@@ -1,0 +1,25 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::bulk_add_to_cart"
+msgid "Add products to cart in bulk"
+msgstr "Add products to cart in bulk"
+
+msgctxt "Addons::description::bulk_add_to_cart"
+msgid "Allows customers to quickly add a large number of products to the cart from the catalog."
+msgstr "Allows customers to quickly add a large number of products to the cart from the catalog."
+
+msgctxt "Languages::bulk_add_to_cart.install_text"
+msgid "<b>Product list default view</b> has been set to <b>\"Compact list\"</b>. The <b>\"Grid\"</b> and <b>\"List without options\"</b> product list views are no longer available."
+msgstr "<b>Product list default view</b> has been set to <b>\"Compact list\"</b>. The <b>\"Grid\"</b> and <b>\"List without options\"</b> product list views are no longer available."
+
+msgctxt "Languages::bulk_add_to_cart.short_list_warning_install"
+msgid "The <b>Compact list</b> view is not available. Compact list is required for the add-on to work."
+msgstr "The <b>Compact list</b> view is not available. Compact list is required for the add-on to work."
+
+msgctxt "Languages::bulk_add_to_cart.add_selected_products_to_cart"
+msgid "Add selected to cart <bdi>(<span [attr]>[number]</span>)</bdi>"
+msgstr "Add selected to cart <bdi>(<span [attr]>[number]</span>)</bdi>"

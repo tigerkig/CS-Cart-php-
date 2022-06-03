@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/reward_points.po\n"
+"X-Crowdin-File-ID: 4634\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::reward_points"
+msgid "Reward points"
+msgstr "نقاط المكافأة"
+
+msgctxt "Addons::description::reward_points"
+msgid "Lets customers earn and spend points for purchases"
+msgstr "تسمح للعملاء كسب وإنفاق النقاط للمشتريات"
+
+msgctxt "Languages::reward_points"
+msgid "Reward points"
+msgstr "نقاط مكافأة"
+
+msgctxt "Languages::reward_points_log"
+msgid "Reward points log"
+msgstr "سجل نقاط المكافآت"
+
+msgctxt "Languages::reward_points_menu_description"
+msgid "Assign global reward points in your store."
+msgstr "قم بتعيين نقاط مكافأة عالمية في متجرك."
+
+msgctxt "Languages::promotion_cond_reward_points"
+msgid "Points on user account"
+msgstr "النقاط على حساب المستخدم"
+
+msgctxt "Languages::points"
+msgid "Points"
+msgstr "النقاط"
+
+msgctxt "Languages::points_in_use"
+msgid "Points in use"
+msgstr "النقاط المستخدمة"
+
+msgctxt "Languages::points_in_use_lower"
+msgid "points in use"
+msgstr "النقاط المستخدمة"
+
+msgctxt "Languages::points_lower"
+msgid "points"
+msgstr "النقاط"
+
+msgctxt "Languages::points_in_use_lowercase"
+msgid "[n] point in use|[n] points in use"
+msgstr "[n] نقطة قيد الاستخدام | [n] نقاط قيد الاستخدام"
+
+msgctxt "Languages::points_lowercase"
+msgid "[n] point|[n] points"
+msgstr "[n] نقطة | [n] نقطات"
+
+msgctxt "Languages::points_to_use"
+msgid "Points to use"
+msgstr "نقاط لاستخدامها"
+
+msgctxt "Languages::point_payment"
+msgid "Point payment"
+msgstr "دفع النقاط"
+
+msgctxt "Languages::point_price"
+msgid "Price in points"
+msgstr "السعر بالنقاط"
+
+msgctxt "Languages::text_increase_points_in_use"
+msgid "The points used in the order were added to user account."
+msgstr "تمت إضافة النقاط المستخدمة في الترتيب إلى حساب المستخدم."
+
+msgctxt "Languages::text_points_used_in_order"
+msgid "Points were used in order"
+msgstr "تم استخدام النقاط بالترتيب"
+
+msgctxt "Languages::text_point_in_account"
+msgid "You have"
+msgstr "عندك"
+
+msgctxt "Languages::pay_by_points"
+msgid "Allow payment by points"
+msgstr "السماح بالدفع عن طريق النقاط"
+
+msgctxt "Languages::override_per"
+msgid "Override global PER"
+msgstr "تجاوز PER العالمية"
+
+msgctxt "Languages::override_gc_points_brief"
+msgid "Override global/category points"
+msgstr "تجاوز النقاط العالمية / الفئة"
+
+msgctxt "Languages::text_points_exceed_points_on_account"
+msgid "The number of the points entered by you exceeds the number of points at your account."
+msgstr "يتجاوز عدد النقاط التي أدخلتها عدد النقاط في حسابك."
+
+msgctxt "Languages::text_points_exceed_points_that_can_be_applied"
+msgid "The number of points entered by you exceeds the number of points that can be applied to this order."
+msgstr "يتجاوز عدد النقاط التي أدخلتها عدد النقاط التي يمكن تطبيقها على هذا الطلب."
+
+msgctxt "Languages::text_points_cannot_applied_because_subtotal_redeemed"
+msgid "Points cannot be applied because the subtotal is completely redeemed."
+msgstr "لا يمكن تطبيق النقاط نظرًا لاسترداد المبلغ الإجمالي بالكامل."
+
+msgctxt "Languages::text_cannot_apply_points_to_this_order_because_total"
+msgid "Unfortunately, you cannot apply points to this order, because the total cost is zero."
+msgstr "للأسف ، لا يمكنك تطبيق نقاط على هذا الطلب ، لأن إجمالي التكلفة صفر."
+
+msgctxt "Languages::text_cannot_apply_points_to_this_order_because_user"
+msgid "Unfortunately, you cannot apply points to this order, because you do not have enough points at the account."
+msgstr "للأسف ، لا يمكنك تطبيق نقاط على هذا الطلب ، لأنه ليس لديك ما يكفي من النقاط في الحساب."
+
+msgctxt "Languages::text_order_status_has_not_been_changed"
+msgid "The order status has not been changed, because the user did not have enough points."
+msgstr "لم يتم تغيير حالة الطلب ، لأن المستخدم لم يكن لديه نقاط كافية."
+
+msgctxt "Languages::price_in_points_increased"
+msgid "Price in points has been increased by"
+msgstr "السعر في النقاط قد زاد بنسبة"
+
+msgctxt "Languages::price_in_points_decreased"
+msgid "Price in points has been decreased by"
+msgstr "السعر في النقاط قد انخفض بنسبة"
+
+msgctxt "Languages::earned_points"
+msgid "Points earned per product"
+msgstr "النقاط المكتسبة لكل منتج"
+
+msgctxt "Languages::override_g_points"
+msgid "Override global point value for all products in this category"
+msgstr "تجاوز قيمة النقطة العامة لجميع المنتجات في هذه الفئة"
+
+msgctxt "Languages::amount_type"
+msgid "Amount type"
+msgstr "نوع المبلغ"
+
+msgctxt "Languages::maximum"
+msgid "Maximum"
+msgstr "أقصى"
+
+msgctxt "Languages::earned_point_modifier"
+msgid "Earned point modifier"
+msgstr "معدل النقاط المكتسبة"
+
+msgctxt "Languages::override_gc_points"
+msgid "Override global/category point value for this product"
+msgstr "تجاوز قيمة النقاط العامة / الفئة لهذا المنتج"
+
+msgctxt "Languages::view_user_points"
+msgid "View user points"
+msgstr "عرض نقاط المستخدم"
+
+msgctxt "Languages::log"
+msgid "Log"
+msgstr "سجل"
+
+msgctxt "Languages::subtract"
+msgid "Subtract"
+msgstr "طرح"
+
+msgctxt "Languages::change_points"
+msgid "Change points"
+msgstr "تغيير النقاط"
+
+msgctxt "Languages::add_subtract_points"
+msgid "Add & subtract points"
+msgstr "جمع وطرح النقاط"
+
+msgctxt "Languages::cleanup_log"
+msgid "Cleanup log"
+msgstr "سجل التنظيف"
+
+msgctxt "Languages::we_would_like_to_inform"
+msgid "We would like to inform you that"
+msgstr "نود أن نعلمك أن"
+
+msgctxt "Languages::reward_points_subj_added_to"
+msgid "[n] point have been added to your account.|[n] points have been added to your account."
+msgstr "تمت إضافة [n] نقطة إلى حسابك.| تمت إضافة [n] نقطة إلى حسابك."
+
+msgctxt "Languages::reward_points_subj_subtracted_from"
+msgid "[n] point have been subtracted from your account.|[n] points have been subtracted from your account."
+msgstr "تم طرح [n] نقطة من حسابك.| تم خصم [n] من النقاط من حسابك."
+
+msgctxt "Languages::privileges.manage_reward_points"
+msgid "Can edit"
+msgstr "قابل للتحرير"
+
+msgctxt "Languages::privilege_groups.reward_points"
+msgid "Reward points"
+msgstr "نقاط المكافأة"
+
+msgctxt "SettingsSections::reward_points::general"
+msgid "General"
+msgstr "عام"
+
+msgctxt "SettingsOptions::reward_points::point_rate"
+msgid "Points Exchange Rate (PER - the number of points equal to 1 conventional unit)"
+msgstr "معدل استبدال النقاط (PER - عدد النقاط يساوي 1 وحدة تقليدية)"
+
+msgctxt "SettingsOptions::reward_points::auto_price_in_points"
+msgid "\"Price in points\" is calculated automatically on PER basis"
+msgstr "يتم احتساب \"السعر بالنقاط\" تلقائيًا على أساس PER"
+
+msgctxt "SettingsOptions::reward_points::price_in_points_with_discounts"
+msgid "\"Price in points\" is recalculated taking into account discounts"
+msgstr "يتم إعادة حساب \"السعر بالنقاط\" مع مراعاة الخصومات"
+
+msgctxt "SettingsOptions::reward_points::points_with_discounts"
+msgid "\"Points\" is recalculated taking into account discounts"
+msgstr "يتم إعادة حساب \"النقاط\" مع مراعاة الخصومات"
+
+msgctxt "SettingsOptions::reward_points::price_in_points_order_discount"
+msgid "\"Price in points\" is recalculated taking into account order discounts"
+msgstr "يتم إعادة حساب \"السعر بالنقاط\" مع الأخذ في الاعتبار خصومات الطلبات"
+
+msgctxt "SettingsOptions::reward_points::reward_points_order_discount"
+msgid "\"Points\" is recalculated taking into account order discounts"
+msgstr "يتم إعادة حساب \"النقاط\" مع الأخذ في الاعتبار خصومات الطلبات"
+
+msgctxt "SettingsOptions::reward_points::higher_level_extract"
+msgid "If the product and the product category do not have defined reward points but the higher level category has such reward points, extract data from it"
+msgstr "إذا لم يكن للمنتج وفئة المنتج نقاط مكافأة محددة ولكن فئة المستوى الأعلى بها نقاط المكافأة هذه ، فاستخرج البيانات منها"
+
+msgctxt "SettingsOptions::reward_points::several_points_action"
+msgid "If several reward points can be applied, set"
+msgstr "إذا كان من الممكن تطبيق عدة نقاط مكافأة ، فقم بتعيينها"
+
+msgctxt "SettingsOptions::reward_points::consider_zero_values"
+msgid "Apply zero reward point values"
+msgstr "تطبيق قيم صفر نقطة مكافأة"
+
+msgctxt "SettingsOptions::reward_points::log_per_page"
+msgid "Log lines per page"
+msgstr "سجل الأسطر في كل صفحة"
+
+msgctxt "SettingsTooltips::reward_points::consider_zero_values"
+msgid "The reward points rules with the zero values should be considered"
+msgstr "يجب مراعاة قواعد نقاط المكافأة ذات القيم الصفرية"
+
+msgctxt "SettingsVariants::reward_points::several_points_action::minimal_absolute"
+msgid "Absolute minimal value"
+msgstr "قيمة الحد الأدنى المطلق"
+
+msgctxt "SettingsVariants::reward_points::several_points_action::minimal_percentage"
+msgid "Minimal percentage value"
+msgstr "قيمة النسبة المئوية الأدنى"
+
+msgctxt "SettingsVariants::reward_points::several_points_action::maximal_absolute"
+msgid "Absolute maximal value"
+msgstr "القيمة القصوى المطلقة"
+
+msgctxt "SettingsVariants::reward_points::several_points_action::maximal_percentage"
+msgid "Maximal percentage value"
+msgstr "قيمة النسبة القصوى"
+
+msgctxt "Languages::email_template.reward_points_notification"
+msgid "Reward points"
+msgstr "نقاط المكافأة"
+
+msgctxt "Languages::grant_point"
+msgid "Grant reward points"
+msgstr "منح نقاط المكافأة"
+

@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/backend_google_auth.po\n"
+"X-Crowdin-File-ID: 4522\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::backend_google_auth"
+msgid "Back-End Sign-In via Google"
+msgstr "الخلفية الدخول عبر جوجل"
+
+msgctxt "Addons::description::backend_google_auth"
+msgid "Replaces the standard back-end sign-in mechanism with authentication via Google accounts."
+msgstr "استبدال الخلفية القياسية تسجيل الدخول إليه بالمصادقة عن طريق حسابات Google."
+
+msgctxt "SettingsOptions::backend_google_auth::credentials"
+msgid "Credentials"
+msgstr "أوراق اعتماد"
+
+msgctxt "SettingsOptions::backend_google_auth::backend_google_auth_client_id"
+msgid "Client ID"
+msgstr "معرف العميل"
+
+msgctxt "SettingsOptions::backend_google_auth::backend_google_auth_client_secret"
+msgid "Client secret"
+msgstr "سر العميل"
+
+msgctxt "Languages::backend_google_auth.user_not_found"
+msgid "The <strong>[user]</strong> user not found"
+msgstr "المستخدم <strong> [user] </strong> غير موجود"
+
+msgctxt "Languages::backend_google_auth.settings.warning"
+msgid "Once you configure this add-on, only administrators with Gmail email addresses will be able to sign in to the Administration panel. If your administrators have non-Google email addresses specified, don't configure the add-on, or else those administrators won't be able to sign in."
+msgstr "بمجرد تهيئة هذه الإضافة ، لن يتمكن سوى المشرفين الذين لديهم عناوين البريد الإلكتروني في Gmail من تسجيل الدخول إلى لوحة الإدارة. إذا كان مسؤولو موقعك لديهم عناوين بريد إلكتروني غير تابعة لـ Google محددة ، فلا تقم بتكوين الوظيفة الإضافية ، وإلا فلن يتمكن هؤلاء المشرفون من تسجيل الدخول."
+
+msgctxt "Languages::backend_google_auth.settings.create_new_application"
+msgid "To acquire your client ID and secret create a new application in your Google APIs account."
+msgstr "للحصول على معرّف العميل والسرية ، أنشئ تطبيقًا جديدًا في حساب Google APIs الخاص بك."
+
+msgctxt "Languages::backend_google_auth.settings.learn_more_about"
+msgid "Learn more about Google APIs"
+msgstr "تعرف على المزيد حول واجهات برمجة تطبيقات Google"
+
+msgctxt "Languages::backend_google_auth.settings.provide_your_credentials"
+msgid "Please provide your Google API credentials"
+msgstr "يرجى تقديم بيانات اعتماد Google API الخاصة بك"
+
+msgctxt "Languages::backend_google_auth.settings.authorized_redirect_uris"
+msgid "Your authorized redirect URIs:"
+msgstr "عناوين URL المعتمدة لإعادة التوجيه:"
+
+msgctxt "Languages::backend_google_auth.settings.save_and_check_btn"
+msgid "Save and test the sign-in"
+msgstr "حفظ واختبار تسجيل الدخول"
+
+msgctxt "Languages::backend_google_auth.errors.not_configured"
+msgid "Please configure the add-on first"
+msgstr "الرجاء تكوين الوظيفة الإضافية الأولى"
+
+msgctxt "Languages::backend_google_auth.warnings.only_gmail_address_is_available_to_auth"
+msgid "The \"Back-End Sign-In via Google\" add-on is active. Only administrators with Gmail email addresses will be able to sign in."
+msgstr "الوظيفة الإضافية \"تسجيل الدخول إلى الخلف عبر Google\" نشطة. لن يتمكن سوى المشرفين الذين لديهم عناوين بريد إلكتروني في Gmail من تسجيل الدخول."
+
+msgctxt "Languages::backend_google_auth.login_page.help"
+msgid "Please select the email address that was specified for your administrator account."
+msgstr "الرجاء تحديد عنوان البريد الإلكتروني الذي تم تحديده لحساب المسؤول الخاص بك."
+
+msgctxt "Languages::backend_google_auth.login_page.btn"
+msgid "Sign in with Google"
+msgstr "تسجيل الدخول باستخدام جوجل"
+

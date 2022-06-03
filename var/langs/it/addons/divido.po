@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /release-4.13.2/addons/divido.po\n"
+"X-Crowdin-File-ID: 4552\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::divido"
+msgid "Divido payments"
+msgstr "Pagamenti Divido"
+
+msgctxt "Addons::description::divido"
+msgid "Lets customers spread the cost of any purchase over a period of time while the merchant gets paid in full right away."
+msgstr "I clienti possono aspettare per un periodo di tempo fin'a pagare mentras che il mercante sara pagato in full direttamente."
+
+msgctxt "Languages::addons.divido.select_currency_undefined"
+msgid "The [currency] currency is not set up in store"
+msgstr "La [currency] valuta non e stata definita nel contenuto"
+
+msgctxt "Languages::addons.divido.order_status"
+msgid "Divido status"
+msgstr "Stato di Divido"
+
+msgctxt "Languages::addons.divido"
+msgid "Divido"
+msgstr "Divido"
+
+msgctxt "Languages::addons.divido.pay_in_instalments"
+msgid "Pay in instalments"
+msgstr "Pagare in divisi"
+
+msgctxt "Languages::addons.divido.choose_your_plan"
+msgid "Choose your plan"
+msgstr "Scegliere il suo piano"
+
+msgctxt "Languages::addons.divido.choose_your_deposit"
+msgid "Choose your deposit"
+msgstr "Scegliere il suo deposito"
+
+msgctxt "Languages::addons.divido.monthly_payments_of"
+msgid "monthly payments of"
+msgstr "pagamenti mensuali di"
+
+msgctxt "Languages::addons.divido.term"
+msgid "Term"
+msgstr "Termino"
+
+msgctxt "Languages::addons.divido.deposit"
+msgid "Deposit"
+msgstr "Deposito"
+
+msgctxt "Languages::addons.divido.cost_of_credit"
+msgid "Cost of credit"
+msgstr "Costo di credito"
+
+msgctxt "Languages::addons.divido.total_payable"
+msgid "Total payable"
+msgstr "Somma di pagamento dovuta totale"
+
+msgctxt "Languages::addons.divido.total_interest_apr"
+msgid "Total interest APR"
+msgstr "Taso totale APR"
+
+msgctxt "Languages::addons.divido.text_redirected"
+msgid "You will be redirected to Divido to complete this finance application when you place your order"
+msgstr "Lei potra andare a Divido per completare l'applicazione finanziale, mettiendo l'ordine di pagamento"
+
+msgctxt "Languages::addons.divido.cart_amount_limit"
+msgid "Minimum order total"
+msgstr "Somma totale da pagare minima"
+
+msgctxt "Languages::addons.divido.monthly_instalment"
+msgid "Monthly instalment"
+msgstr "Diviso permese"
+
+msgctxt "Languages::ttc_addons.divido.cart_amount_limit"
+msgid "The order total has to be equal or greater than this sum, or the payment method won't be available at checkout. Leave empty if you don't want to impose this restriction."
+msgstr "L'ordine totale deve essere uguale o piu grande di questa somma o il metodo di pagamento non sara disponibile nel checkout. Lasciare vuoto se non vuo imponere questa ristretta."
+
+msgctxt "Languages::addons.divido.show_product_page_calculator"
+msgid "Show monthly payment rate on the product page"
+msgstr "Mostrare il taso del pagamento mensuale su pagina del prodotto"
+
+msgctxt "Languages::addons.divido.product_price_limit"
+msgid "Minimum product price"
+msgstr "Prezzo massimo del prodotto"
+
+msgctxt "Languages::ttc_addons.divido.product_price_limit"
+msgid "The product price has to be equal or greater than this sum, or the monthly payment rate won't appear on the product page. Leave empty if you don't want to impose this restriction."
+msgstr "Il prezzo del prodotti deve essere lo stesso o piu alto che questa somma, o il pagamento per mese non va apparire nella pagina del prodotto. Lasciare vuoto se non vuo imponere questa restrizione."
+
+msgctxt "Languages::finance_code"
+msgid "Finance code"
+msgstr "Codice finanziale"
+
+msgctxt "Languages::addons.divido.availability_notice"
+msgid "<b>Note:</b> Payments via Divido are only available to the residents of the United Kingdom and can only be made in pounds sterling (GBP)."
+msgstr "<b>Nota:</b> I pagamenti via Divido sono disponibili soltanto ai residenti del Regno Unito e possono essere pagati soltanto con sterline (GBP)."
+

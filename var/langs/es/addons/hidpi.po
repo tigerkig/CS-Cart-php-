@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /release-4.13.2/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 4578\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "Soporte para pantallas HiDPI"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "Soporte para pantallas Retina"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Considere todas las imágenes subidas HiDPI"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Considere todas las imágenes subidas HiDPI"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "Active las casillas de verificación \"Estoy cargando una imagen HiDPI\" de forma predeterminada en todos los lugares donde se cargan las imágenes. Podrás desmarcar esas casillas de verificación cuando sea necesario."
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "El soporte para HiDPI está activado"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "Estoy subiendo una imagen HiDPI."
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "Si esta casilla está marcada, la imagen de origen se mostrará dos veces en una escala reducida. Esta configuración solo afecta a la visualización de la imagen de origen y no a su miniatura. Si desea que una imagen se muestre en el tamaño original, desmarque esta casilla de verificación."
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "Restauración de imagen"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "La versión anterior del complemento compatible con pantalla HiDPI encogió las imágenes cargadas. No hay necesidad de eso ahora. Pero para que sus imágenes se vean bien y nítidas, debe hacer clic en Restaurar."
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "Restaurar"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong> ¡Atención! </strong> Este procedimiento no es reversible: cuando se revierte la actualización, las manipulaciones de restauración de la imagen no se revertirán. Por lo tanto, asegúrese de realizar una copia de seguridad. El procedimiento puede llevar algún tiempo, depende de la cantidad de imágenes en su tienda."
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_title"
+msgid "Make sure your images look good."
+msgstr "Asegúrate de que tus imágenes se vean bien."
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "Algunas de las imágenes antiguas de su tienda siguen siendo de baja calidad. Para utilizar la mayor calidad posible, por favor <a href=\"[convert_url]\">almacena imágenes de alta calidad</a>. El proceso es automático."
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_text"
+msgid "<p>The previous version of the <b>[addon_name]</b> add-on shrank the uploaded images. We improved the add-on, so there is no need for that now. However, the existing images remain shrunk and don’t look good.</p><p>We can make your existing images look nice and sharp, but that procedure will take some time. That’s why we need you to start it.</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Make image look good</a></p>"
+msgstr "<p>La versión anterior del <b>[addon_name]</b> complemento redujo las imágenes cargadas. Hemos mejorado el complemento, por lo que ya no es necesario. Sin embargo, las imágenes existentes siguen encogidas y no se ven bien.</p><p>Podemos hacer que sus imágenes existentes se vean bien y nítidas, pero ese procedimiento llevará algún tiempo. Por eso necesitamos que lo pongas en marcha.</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Hacer que la imagen se vea bien</a></p>"
+

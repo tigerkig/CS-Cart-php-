@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.13.2/addons/divido.po\n"
+"X-Crowdin-File-ID: 4552\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::divido"
+msgid "Divido payments"
+msgstr "Divido platby"
+
+msgctxt "Addons::description::divido"
+msgid "Lets customers spread the cost of any purchase over a period of time while the merchant gets paid in full right away."
+msgstr "Umožňuje zákazníkům rozložit náklady na jakýkoli nákup za určité časové období, zatímco obchodníkovi bude ihned zaplacena plná částka."
+
+msgctxt "Languages::addons.divido.select_currency_undefined"
+msgid "The [currency] currency is not set up in store"
+msgstr "[currency] měna není nastavena v obchodě"
+
+msgctxt "Languages::addons.divido.order_status"
+msgid "Divido status"
+msgstr "Divido status"
+
+msgctxt "Languages::addons.divido"
+msgid "Divido"
+msgstr "Divido"
+
+msgctxt "Languages::addons.divido.pay_in_instalments"
+msgid "Pay in instalments"
+msgstr "Plaťte na splátky"
+
+msgctxt "Languages::addons.divido.choose_your_plan"
+msgid "Choose your plan"
+msgstr "Vyberte váš plán"
+
+msgctxt "Languages::addons.divido.choose_your_deposit"
+msgid "Choose your deposit"
+msgstr "Vyberte svůj vklad"
+
+msgctxt "Languages::addons.divido.monthly_payments_of"
+msgid "monthly payments of"
+msgstr "Měsíčně platby "
+
+msgctxt "Languages::addons.divido.term"
+msgid "Term"
+msgstr "Podmínka"
+
+msgctxt "Languages::addons.divido.deposit"
+msgid "Deposit"
+msgstr "Vklad"
+
+msgctxt "Languages::addons.divido.cost_of_credit"
+msgid "Cost of credit"
+msgstr "Náklady na úvěr"
+
+msgctxt "Languages::addons.divido.total_payable"
+msgid "Total payable"
+msgstr "Celkem splatné"
+
+msgctxt "Languages::addons.divido.total_interest_apr"
+msgid "Total interest APR"
+msgstr "Roční úroková sazba celkem"
+
+msgctxt "Languages::addons.divido.text_redirected"
+msgid "You will be redirected to Divido to complete this finance application when you place your order"
+msgstr "Budete přesměrováni na Divido pro dokončení platby, jakmile odešlete objednávku"
+
+msgctxt "Languages::addons.divido.cart_amount_limit"
+msgid "Minimum order total"
+msgstr "Minimální cena objednávky"
+
+msgctxt "Languages::addons.divido.monthly_instalment"
+msgid "Monthly instalment"
+msgstr "Měsíční splátka"
+
+msgctxt "Languages::ttc_addons.divido.cart_amount_limit"
+msgid "The order total has to be equal or greater than this sum, or the payment method won't be available at checkout. Leave empty if you don't want to impose this restriction."
+msgstr "Celková částka objednávky musí být rovna nebo vyšší než tato částka, jinak nebude platební metoda k dispozici při placení. Nechcete-li toto omezení použít, nechte prázdné."
+
+msgctxt "Languages::addons.divido.show_product_page_calculator"
+msgid "Show monthly payment rate on the product page"
+msgstr "Zobrazit měsíční sazbu plateb na stránce produktu"
+
+msgctxt "Languages::addons.divido.product_price_limit"
+msgid "Minimum product price"
+msgstr "Minimální cena produktu"
+
+msgctxt "Languages::ttc_addons.divido.product_price_limit"
+msgid "The product price has to be equal or greater than this sum, or the monthly payment rate won't appear on the product page. Leave empty if you don't want to impose this restriction."
+msgstr "Cena produktu musí být stejná nebo vyšší než tato částka, jinak se na stránce produktu nezobrazí měsíční sazba platby. Nechcete-li toto omezení zavést, nechte prázdné."
+
+msgctxt "Languages::finance_code"
+msgid "Finance code"
+msgstr "Finanční kód"
+
+msgctxt "Languages::addons.divido.availability_notice"
+msgid "<b>Note:</b> Payments via Divido are only available to the residents of the United Kingdom and can only be made in pounds sterling (GBP)."
+msgstr "<b>Poznámka:</b> Platby přes Divido jsou dostupné pouze občanům Spojeného Království. K placení jde použít pouze libry."
+

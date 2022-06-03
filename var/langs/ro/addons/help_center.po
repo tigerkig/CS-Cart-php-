@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.13.2/addons/help_center.po\n"
+"X-Crowdin-File-ID: 4576\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::help_center"
+msgid "Help center"
+msgstr "Ajutor"
+
+msgctxt "Addons::description::help_center"
+msgid "Adds a help button with links to relevant documentation and/or videos to various pages in the admin panel."
+msgstr "Adaugă un buton de ajutor cu linkuri către documentație și / sau tutoriale video pe diferite pagini ale panoului de administrare."
+
+msgctxt "Languages::help_center.help"
+msgid "Help"
+msgstr "Ajutor"
+
+msgctxt "Languages::help_center.see_all_n_results"
+msgid "See all [n] results..."
+msgstr "Vedeți toate [n] rezultatele ..."
+

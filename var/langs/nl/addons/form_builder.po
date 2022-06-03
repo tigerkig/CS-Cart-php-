@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.13.2/addons/form_builder.po\n"
+"X-Crowdin-File-ID: 4560\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::form_builder"
+msgid "Form builder"
+msgstr "Formulieren maken"
+
+msgctxt "Addons::description::form_builder"
+msgid "Lets you create custom forms (e.g. Contact us)"
+msgstr "Zelf formulieren maken (bijv: contactformulier)"
+
+msgctxt "Languages::use_for_form_builder"
+msgid "Custom forms"
+msgstr "Zelf gemaakte formulieren"
+
+msgctxt "Languages::new_form"
+msgid "New form"
+msgstr "Nieuw formulier"
+
+msgctxt "Languages::editing_form"
+msgid "Editing form"
+msgstr "Formulier aanpassen"
+
+msgctxt "Languages::form_builder"
+msgid "Form builder"
+msgstr "Formulieren maken"
+
+msgctxt "Languages::form_submit_text"
+msgid "Form submit text"
+msgstr "Bevestigingstekst formulier"
+
+msgctxt "Languages::email_to"
+msgid "E-mail to"
+msgstr "E-mail aan"
+
+msgctxt "Languages::add_form"
+msgid "Add form"
+msgstr "Formulier toevoegen"
+
+msgctxt "Languages::base"
+msgid "Base"
+msgstr "Basis"
+
+msgctxt "Languages::multiple_checkboxes"
+msgid "Multiple checkboxes"
+msgstr "Meerkeuze-checkboxen"
+
+msgctxt "Languages::multiple_selectbox"
+msgid "Multiple selectbox"
+msgstr "Meerkeuze-selectbox"
+
+msgctxt "Languages::header"
+msgid "Header"
+msgstr "Kop"
+
+msgctxt "Languages::separator"
+msgid "Separator"
+msgstr "Scheidingsteken"
+
+msgctxt "Languages::special"
+msgid "Special"
+msgstr "Speciaal"
+
+msgctxt "Languages::countries_list"
+msgid "Countries list"
+msgstr "Landenlijst"
+
+msgctxt "Languages::states_list"
+msgid "States list"
+msgstr "Provincielijst"
+
+msgctxt "Languages::referer"
+msgid "Referer"
+msgstr "Verwijzend"
+
+msgctxt "Languages::email_template.form_builder_form"
+msgid "Contact form"
+msgstr "Contactformulier"
+
+msgctxt "Languages::addons.form_builder.form_fields"
+msgid "Form fields"
+msgstr "Formuliervelden"
+
+msgctxt "Languages::addons.form_builder.form_name"
+msgid "Form name"
+msgstr "Formuliernaam"
+
+msgctxt "Languages::addons.form_builder.other_subject"
+msgid "Other subject (specify below)"
+msgstr "Ander onderwerp (specificeer hieronder)"
+
+msgctxt "Languages::addons.form_builder.email_subject_field"
+msgid "E-mail subject field"
+msgstr "E-mail onderwerp veld"
+
+msgctxt "Languages::ttc_addons.form_builder.email_subject_field"
+msgid "Fields of type \"Select box\" or \"Input field\" can be used"
+msgstr "Velden van het type \"Select box\" of \"Input field\" kunnen worden gebruikt"
+

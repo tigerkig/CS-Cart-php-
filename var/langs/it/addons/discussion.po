@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /release-4.13.2/addons/discussion.po\n"
+"X-Crowdin-File-ID: 4550\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::discussion"
+msgid "Comments and reviews"
+msgstr "Commenti e recensioni"
+
+msgctxt "Addons::description::discussion"
+msgid "Lets customers leave comments to categories, pages, etc., review vendors and write testimonials"
+msgstr "Consente ai clienti di lasciare commenti a categorie, pagine, ecc., Rivedere i fornitori e scrivere testimonianze"
+
+msgctxt "Languages::use_for_discussion"
+msgid "Comments and reviews forms"
+msgstr "Moduli commenti e recensioni"
+
+msgctxt "Languages::comments_and_reviews_menu_description"
+msgid "Customer comments and reviews on products, categories, orders, etc."
+msgstr "Commenti e recensioni clienti su prodotti, categorie, ordini, ..."
+
+msgctxt "Languages::discussion_title_category"
+msgid "Reviews"
+msgstr "Recensioni"
+
+msgctxt "Languages::discussion_title_giftreg"
+msgid "Guestbook"
+msgstr "Guestbook"
+
+msgctxt "Languages::discussion_title_home_page_menu_description"
+msgid "Manage the testimonials from your store visitors."
+msgstr "Gestione testimonianze dei visitatori del negozio."
+
+msgctxt "Languages::discussion_title_order"
+msgid "Communication"
+msgstr "Comunicazione"
+
+msgctxt "Languages::discussion_title_page"
+msgid "Comments"
+msgstr "Commenti"
+
+msgctxt "Languages::discussion_title_product"
+msgid "Reviews"
+msgstr "Recensioni"
+
+msgctxt "Languages::discussion_title_return"
+msgid "Communication"
+msgstr "Comunicazione"
+
+msgctxt "Languages::no_posts_found"
+msgid "No posts found"
+msgstr "Nessun messaggio trovato"
+
+msgctxt "Languages::your_rating"
+msgid "Your rating"
+msgstr "Il tuo voto"
+
+msgctxt "Languages::comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "Commenti e recensioni"
+
+msgctxt "Languages::discussion_title_home_page"
+msgid "Testimonials"
+msgstr "Testimonial"
+
+msgctxt "Languages::text_enabled_testimonials_notice"
+msgid "Testimonials are disabled. To enable, please go to <a href=\"[link]\">Comments and reviews: options</a> and select the \"Communication\", \"Rating\" or \"Communication and Rating\" value in \"Testimonials\" field."
+msgstr "Le testimonianze sono disattivate. Per abilitarle vai su <a href=\"[link]\">Commenti e recensioni: opzioni</a> e seleziona \"Comunicazione\", \"Valutazione\" oppure \"Comunicazione e valutazione\" come valore del campo \"Testimonianze\"."
+
+msgctxt "Languages::discussion_title_company"
+msgid "Reviews"
+msgstr "Recensioni"
+
+msgctxt "Languages::communication_and_rating"
+msgid "Communication and Rating"
+msgstr "Comunicazione e valutazione"
+
+msgctxt "Languages::communication"
+msgid "Communication"
+msgstr "Comunicazione"
+
+msgctxt "Languages::rating"
+msgid "Rating"
+msgstr "Voto"
+
+msgctxt "Languages::cant_find_thread"
+msgid "Thread can not be found."
+msgstr "Argomento non trovato"
+
+msgctxt "Languages::error_already_posted"
+msgid "You have posted in this discussion already"
+msgstr "Hai già scritto in questa discussione"
+
+msgctxt "Languages::text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "Grazie per aver scritto"
+
+msgctxt "Languages::text_post_pended"
+msgid "Your post will be checked before it gets published."
+msgstr "Il tuo messaggio verrà controllato prima della pubblicazione"
+
+msgctxt "Languages::discussion"
+msgid "Comments and reviews"
+msgstr "Commenti e recensioni"
+
+msgctxt "Languages::text_new_post_notification"
+msgid "This is a notification of a new post to"
+msgstr "Questa è una notifica di un nuovo messaggio"
+
+msgctxt "Languages::text_approval_notice"
+msgid "This post needs approving"
+msgstr "Questo messaggio ha bisogno di approvazione"
+
+msgctxt "Languages::latest_reviews"
+msgid "Latest comments & reviews"
+msgstr "Ultimi commenti e recensioni"
+
+msgctxt "Languages::comment_by"
+msgid "Comment by"
+msgstr "Commento di"
+
+msgctxt "Languages::and"
+msgid "and"
+msgstr "e"
+
+msgctxt "Languages::add_post"
+msgid "Add post"
+msgstr "Aggiungi messaggio"
+
+msgctxt "Languages::not_approved"
+msgid "Not approved"
+msgstr "Non approvato"
+
+msgctxt "Languages::discussion_manager"
+msgid "Comments and reviews"
+msgstr "Commenti e recensioni"
+
+msgctxt "Languages::testimonials"
+msgid "Testimonials"
+msgstr "Testimonial"
+
+msgctxt "Languages::privileges.view_discussions"
+msgid "Can view"
+msgstr "Può visualizzare"
+
+msgctxt "Languages::privileges.manage_discussions"
+msgid "Can edit"
+msgstr "Può modificare"
+
+msgctxt "Languages::privilege_groups.discussions"
+msgid "Comments and reviews"
+msgstr "Commenti e recensioni"
+
+msgctxt "Languages::block_testimonials"
+msgid "Testimonials"
+msgstr "Testimonial"
+
+msgctxt "Languages::block_testimonials_description"
+msgid "User testimonials"
+msgstr "Testimonianze utenti"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Ordina per valutazione: crescente"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "Ordina per valutazione"
+
+msgctxt "Languages::reviews"
+msgid "review|reviews"
+msgstr "recensione|recensioni"
+
+msgctxt "Languages::write_review"
+msgid "Write a review"
+msgstr "Scrivi una recensione"
+
+msgctxt "SettingsSections::discussion::products"
+msgid "Products"
+msgstr "Prodotti"
+
+msgctxt "SettingsSections::discussion::categories"
+msgid "Categories"
+msgstr "Categorie"
+
+msgctxt "SettingsSections::discussion::orders"
+msgid "Orders"
+msgstr "Ordini"
+
+msgctxt "SettingsSections::discussion::pages"
+msgid "Pages"
+msgstr "Pagine"
+
+msgctxt "SettingsSections::discussion::testimonials"
+msgid "Testimonials"
+msgstr "Testimonial"
+
+msgctxt "SettingsSections::discussion::companies"
+msgid "Vendors"
+msgstr "Fornitori"
+
+msgctxt "SettingsOptions::discussion::product_posts_per_page"
+msgid "Posts per page"
+msgstr "Messaggi per pagina"
+
+msgctxt "SettingsOptions::discussion::product_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "L'amministratore deve approvare i messaggi inseriti"
+
+msgctxt "SettingsOptions::discussion::product_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "È consentito un solo messaggio per ogni IP"
+
+msgctxt "SettingsOptions::discussion::product_share_discussion"
+msgid "Share discussions with all stores"
+msgstr "Condividere discussioni con tutte le storie"
+
+msgctxt "SettingsTooltips::discussion::product_share_discussion"
+msgid "Show all comments and reviews of a product on all storefronts that the product is shared with"
+msgstr "Fa vedere tutti i commenti e reviste di uno prodotto su tutti i files salvati con quali il prodotto e condiviso"
+
+msgctxt "SettingsOptions::discussion::category_posts_per_page"
+msgid "Posts per page"
+msgstr "Messaggi per pagina"
+
+msgctxt "SettingsOptions::discussion::category_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "L'amministratore deve approvare i messaggi inseriti"
+
+msgctxt "SettingsOptions::discussion::category_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "È consentito un solo messaggio da ogni IP"
+
+msgctxt "SettingsOptions::discussion::order_posts_per_page"
+msgid "Posts per page"
+msgstr "Messaggi per pagina"
+
+msgctxt "SettingsOptions::discussion::order_initiate"
+msgid "Allow customer to initiate discussion"
+msgstr "Consentire ai clienti di avviare una discussione"
+
+msgctxt "SettingsOptions::discussion::page_posts_per_page"
+msgid "Posts per page"
+msgstr "Messaggi per pagina"
+
+msgctxt "SettingsOptions::discussion::page_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "L'amministratore deve approvare i messaggi inseriti"
+
+msgctxt "SettingsOptions::discussion::page_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "È consentito un solo messaggio per ogni IP"
+
+msgctxt "SettingsOptions::discussion::page_share_discussion"
+msgid "Share discussions with all stores"
+msgstr "Condividere discussioni con tutte le storie"
+
+msgctxt "SettingsTooltips::discussion::page_share_discussion"
+msgid "Show all comments and reviews of a page on all storefronts that the page is shared with"
+msgstr "Fa vedere tutti i commenti e reviste di una pagina, dove vi sono salvati con quali la pagina e condivisa"
+
+msgctxt "SettingsOptions::discussion::home_page_posts_per_page"
+msgid "Posts per page"
+msgstr "Messaggi per pagina"
+
+msgctxt "SettingsOptions::discussion::home_page_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "L'amministratore deve approvare i messaggi inseriti"
+
+msgctxt "SettingsOptions::discussion::home_page_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "È consentito un solo messaggio per ogni IP"
+
+msgctxt "SettingsOptions::discussion::home_page_testimonials"
+msgid "Testimonials"
+msgstr "Testimonial"
+
+msgctxt "SettingsOptions::discussion::testimonials_from_all_stores"
+msgid "Show testimonials from all stores"
+msgstr "Visualizza testimonial di tutti i negozi"
+
+msgctxt "SettingsOptions::discussion::product_discussion_type"
+msgid "Default value"
+msgstr "Valore predefinito"
+
+msgctxt "SettingsTooltips::discussion::product_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "Determina se i commenti e/o le recensioni sono consentiti per i prodotti di nuova creazione. Non influisce sui prodotti esistenti."
+
+msgctxt "SettingsOptions::discussion::product_review_after_purchase"
+msgid "Only buyers can post"
+msgstr "Solo gli acquirenti possono pubblicare"
+
+msgctxt "SettingsTooltips::discussion::product_review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "Consenti di lasciare recensioni per un prodotto solo a coloro che lo hanno acquistato."
+
+msgctxt "SettingsOptions::discussion::category_discussion_type"
+msgid "Default value"
+msgstr "Valore predefinito"
+
+msgctxt "SettingsTooltips::discussion::category_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created categories. Doesn't affect existing categories."
+msgstr "Determina se i commenti e / o le recensioni sono consentiti per le categorie appena create. Non influisce sulle categorie esistenti."
+
+msgctxt "SettingsOptions::discussion::page_discussion_type"
+msgid "Default value"
+msgstr "Valore predefinito"
+
+msgctxt "SettingsTooltips::discussion::page_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created pages. Doesn't affect existing pages."
+msgstr "Determina se i commenti e / o le revisioni sono consentiti per le pagine appena create. Non influisce sulle pagine esistenti."
+
+msgctxt "SettingsOptions::discussion::company_discussion_type"
+msgid "Reviews"
+msgstr "Recensioni"
+
+msgctxt "SettingsOptions::discussion::company_only_buyers"
+msgid "Only buyers can post"
+msgstr "Solo gli acquirenti possono pubblicare"
+
+msgctxt "SettingsTooltips::discussion::company_only_buyers"
+msgid "Allow leaving reviews for a vendor only to those who bought products from that vendor."
+msgstr "Consenti di lasciare recensioni per un fornitore solo a coloro che hanno acquistato prodotti da quel fornitore."
+
+msgctxt "SettingsOptions::discussion::company_posts_per_page"
+msgid "Posts per page"
+msgstr "Messaggi per pagina"
+
+msgctxt "SettingsOptions::discussion::company_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "L'amministratore deve approvare i messaggi inseriti"
+
+msgctxt "SettingsOptions::discussion::company_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "È consentito un solo messaggio per ogni IP"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::any"
+msgid "Any customer"
+msgstr "Qualsiasi cliente"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Solo i clienti anonimi"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Nessuna approvazione necessaria"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::any"
+msgid "Any customer"
+msgstr "Qualsiasi cliente"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Solo i clienti anonimi"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Nessuna approvazione necessaria"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::any"
+msgid "Any customer"
+msgstr "Qualsiasi cliente"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Solo i clienti anonimi"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Nessuna approvazione necessaria"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::any"
+msgid "Any customer"
+msgstr "Qualsiasi cliente"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Solo i clienti anonimi"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Nessuna approvazione necessaria"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::any"
+msgid "Any customer"
+msgstr "Qualsiasi cliente"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Solo i clienti anonimi"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Nessuna approvazione necessaria"
+
+msgctxt "Languages::discussion_tab_products"
+msgid "Product Reviews"
+msgstr "Recensioni Prodotto"
+
+msgctxt "Languages::discussion_tab_categories"
+msgid "Category Reviews"
+msgstr "Recensioni Categoria"
+
+msgctxt "Languages::discussion_tab_pages"
+msgid "Page Comments"
+msgstr "Commenti"
+
+msgctxt "Languages::discussion_tab_orders"
+msgid "Order Communication"
+msgstr "Altre comunicazioni"
+
+msgctxt "Languages::discussion_tab_home_page"
+msgid "Testimonials"
+msgstr "Testimonial"
+
+msgctxt "Languages::discussion_tab_companies"
+msgid "Company Reviews"
+msgstr "Recensioni Azienda"
+
+msgctxt "Languages::email_template.discussion_notification"
+msgid "Comments and reviews notification"
+msgstr "Informare su commenti e reviste"
+
+msgctxt "Languages::show_rating"
+msgid "Show review rating"
+msgstr "Mostra valutazione recensione"
+
+msgctxt "Languages::gdpr_discussions_data"
+msgid "Personal data from discussions"
+msgstr "Dati personali dalle discussioni"
+
+msgctxt "Languages::discussion.add_new_review"
+msgid "Discussion: new review"
+msgstr "Discussione: nuova recensione"
+
+msgctxt "Languages::discussion.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p> Il tuo nome apparirà accanto alla tua recensione o commento, visibile a tutti. Anche noi ([company]]) salviamo il tuo indirizzo IP come precauzione di sicurezza, ma può essere visualizzato solo dal nostro personale. Rimarrà nel nostro sistema fino a quando non ritirerai il tuo consenso. Se desideri che i tuoi dati personali vengano rimossi, invia un'e-mail a [email]. </p> <p> Se ritieni che i tuoi dati personali siano stati utilizzati in modo improprio, hai il diritto di presentare un reclamo a un'autorità di controllo . Siamo obbligati dal Regolamento generale sulla protezione dei dati dell'UE a informarti di questo diritto; in realtà non intendiamo abusare dei tuoi dati. </p>"
+
+msgctxt "Languages::discussion.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Acconsento al trattamento dei miei dati personali <u> come segue. </u>"
+
+msgctxt "Languages::discussion.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "Perfavore, accedi per scrivere una recensione"
+
+msgctxt "Languages::discussion.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "Non puoi scrivere una recensione per questo prodotto. I clienti possono scrivere recensioni solo per i prodotti che hanno acquistato. Se hai effettivamente acquistato questo prodotto da noi, ma visualizzi ancora questo messaggio, contattaci."
+
+msgctxt "Languages::discussion.you_have_to_buy_from_vendor_before_writing_review"
+msgid "You can't write a review for this vendor. Customers can write reviews for a vendor only after they buy something from that vendor. If you actually placed an order with this vendor, but are still seeing this message, please contact us."
+msgstr "Non puoi scrivere una recensione per questo venditore. I clienti possono scrivere recensioni per un venditore solo dopo aver acquistato qualcosa da quel venditore. Se hai effettivamente effettuato un ordine con questo venditore, ma visualizzi ancora questo messaggio, contattaci."
+
+msgctxt "Languages::discussion.anonymous_setting_restored_upgrade_notification_title"
+msgid "Comments and reviews add-on settings were changed"
+msgstr "Le impostazioni dei componenti aggiuntivi per commenti e recensioni sono state modificate"
+
+msgctxt "Languages::discussion.anonymous_setting_restored_upgrade_notification"
+msgid "In the 4.9.1 version the <strong>Only anonymous customers</strong> variant of the <strong>Administrator must approve posts submitted by</strong> setting was removed. Now, it is available again, with the ability to leave reviews for nonauthorized customers. Please check if the desirable value of the setting is selected."
+msgstr "Nella versione 4.9.1 la variante <strong> Solo i clienti anonimi </strong> dell'impostazione <strong> L'amministratore deve approvare i post inviati da </strong> è stata rimossa. Ora è di nuovo disponibile, con la possibilità di lasciare recensioni per i clienti non autorizzati. Verificare se è selezionato il valore desiderabile dell'impostazione."
+
+msgctxt "Languages::discussion.event.products.new_post"
+msgid "Products: new review posted"
+msgstr "Prodotti: nuova recensione pubblicata"
+
+msgctxt "Languages::discussion.event.testimonials.new_post"
+msgid "Testimonials: new review posted"
+msgstr "Testimonianze: nuova recensione pubblicata"
+
+msgctxt "Languages::discussion.event.orders.new_post"
+msgid "Order communication: new message added"
+msgstr "Comunicazione ordine: nuovo messaggio aggiunto"
+
+msgctxt "Languages::discussion.event.categories.new_post"
+msgid "Categories: new review posted"
+msgstr "Categorie: nuova recensione pubblicata"
+
+msgctxt "Languages::discussion.event.pages.new_post"
+msgid "Pages: new comment posted"
+msgstr "Pagine: nuovo commento pubblicato"
+
+msgctxt "Languages::discussion.event.vendors.new_post"
+msgid "Vendors: new review posted"
+msgstr "Venditori: nuova recensione pubblicata"
+

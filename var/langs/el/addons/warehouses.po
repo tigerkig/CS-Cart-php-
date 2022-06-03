@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.13.2/addons/warehouses.po\n"
+"X-Crowdin-File-ID: 4678\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::warehouses"
+msgid "Warehouses [Beta]"
+msgstr "Αποθήκες [Beta]"
+
+msgctxt "Addons::description::warehouses"
+msgid "Lets you set product stock separately for each store and warehouse. Shows to customers the availability of a product in stores or in particular rate areas."
+msgstr "Σας επιτρέπει να ορίσετε το απόθεμα προϊόντων ξεχωριστά για κάθε κατάστημα και αποθήκη. Δείχνει στους πελάτες τη διαθεσιμότητα ενός προϊόντος σε καταστήματα ή σε συγκεκριμένες περιοχές τιμών."
+
+msgctxt "Languages::warehouses.store_type"
+msgid "Type"
+msgstr "Τύπος"
+
+msgctxt "Languages::warehouses.store_type_store"
+msgid "Store"
+msgstr "Κατάστημα"
+
+msgctxt "Languages::warehouses.store_type_pickup"
+msgid "Pickup point"
+msgstr "Σημείο παραλαβής"
+
+msgctxt "Languages::warehouses.store_type_warehouse"
+msgid "Warehouse"
+msgstr "Αποθήκη"
+
+msgctxt "Languages::warehouses.name"
+msgid "Name"
+msgstr "Όνομα"
+
+msgctxt "Languages::warehouses.city"
+msgid "City"
+msgstr "Πόλη"
+
+msgctxt "Languages::warehouses.quantity"
+msgid "Quantity"
+msgstr "Ποσότητα"
+
+msgctxt "Languages::warehouses.settings"
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgctxt "Languages::warehouses.ship_to"
+msgid "Ship to"
+msgstr "Αποστολή σε"
+
+msgctxt "Languages::warehouses.ship_to_tooltip"
+msgid "Determines the rate areas in which the products from this warehouse will be considered available."
+msgstr "Καθορίζει τις περιοχές τιμών στις οποίες τα προϊόντα από αυτήν την αποθήκη θα θεωρούνται διαθέσιμα."
+
+msgctxt "Languages::warehouses.main_destination_tooltip"
+msgid "Determines where this place is located. In turn, this determines the shipping rate and delivery time to this place."
+msgstr "Καθορίζει πού βρίσκεται αυτό το μέρος. Με τη σειρά του, αυτό καθορίζει το κόστος αποστολής και το χρόνο παράδοσης σε αυτό το μέρος."
+
+msgctxt "Languages::warehouses.show_to"
+msgid "Show to"
+msgstr "Προβολή σε"
+
+msgctxt "Languages::warehouses.show_to_tooltip"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Σας επιτρέπει να προσφέρετε αυτό το σημείο παράδοσης στους κατοίκους από άλλες τιμές περιοχής στο ταμείο."
+
+msgctxt "Languages::warehouses.out_of_stock_products"
+msgid "[product] isn't in stock in the selected region.|The following products aren't in stock in the selected region: [products]"
+msgstr "[product] δεν είναι διαθέσιμο στην επιλεγμένη περιοχή. Τα παρακάτω προϊόντα δεν είναι διαθέσιμο στην περιοχή που επιλέξατε [products]"
+
+msgctxt "Languages::warehouses.warehouse_stock"
+msgid "Quantities"
+msgstr "Ποσότητες"
+
+msgctxt "Languages::warehouses.stores_and_warehouses"
+msgid "Stores & Warehouses"
+msgstr "Καταστήματα & Αποθήκες"
+
+msgctxt "Languages::warehouses.store_warehouse"
+msgid "Store / Warehouse"
+msgstr "Κατάστημα / Αποθήκη"
+
+msgctxt "Languages::warehouses.shipping_delay"
+msgid "Moving time"
+msgstr "Χρόνος μετακίνησης"
+
+msgctxt "Languages::warehouses.shipping_delay.tooltip"
+msgid "The time it takes to move products from here to another store or warehouse in this rate area."
+msgstr "Ο χρόνος που χρειάζεται για να μεταφέρετε τα προϊόντα από εδώ σε άλλο κατάστημα ή αποθήκη, σε αυτήν την περιοχή τιμής."
+
+msgctxt "Languages::warehouses.warn_about_delay"
+msgid "Warn about delay"
+msgstr "Ειδοποίηση για καθυστέρηση"
+
+msgctxt "Languages::warehouses.warn_about_delay.tooltip"
+msgid "If a product has to be moved to the rate area from here, show the moving time in the product list and cart."
+msgstr "Εάν ένα προϊόν πρέπει να μετακινηθεί από εδώ στην περιοχή τιμών, δείξτε τον χρόνο μετακίνησης στη λίστα προϊόντων και το καλάθι."
+
+msgctxt "Languages::warehouses.destinations_configuration.tooltip"
+msgid "Products can be taken from different stores and warehouses first, depending on where your customer is. <a href=\"[destinations_url]\" target=\"_blank\">Configure store and warehouse priority individually for each rate area.</a>"
+msgstr "Τα προϊόντα μπορούν να ληφθούν πρώτα από διαφορετικά καταστήματα και αποθήκες, ανάλογα με το πού βρίσκεται ο πελάτης σας. <a href=\"[destinations_url]\" target=\"_blank\">Ρυθμίστε την προτεραιότητα καταστήματος αποθήκης ξεχωριστά για κάθε περιοχή τιμών.</a>"
+
+msgctxt "Languages::warehouses.shipping_delay.description"
+msgid "Product is at a remote warehouse. If you order it, we'll send it [shipping_delay]."
+msgstr "Το προϊόν βρίσκεται σε απομακρυσμένη αποθήκη. Αν το παραγγείλετε, θα το στείλουμε σε [shipping_delay]."
+
+msgctxt "Languages::warehouses.shipping_delay.description.default"
+msgid "Product is at a remote warehouse. If you order it, shipping may take slightly longer."
+msgstr "Το προϊόν βρίσκεται σε απομακρυσμένη αποθήκη. Εάν το παραγγείλετε, η αποστολή ενδέχεται να διαρκέσει λίγο περισσότερο."
+
+msgctxt "Languages::warehouses.shipping_delay.description.short"
+msgid "If ordered: [shipping_delay]"
+msgstr "Κατόπιν παραγγελίας: [shipping_delay]"
+
+msgctxt "Languages::warehouses.shipping_delay_for_products"
+msgid "Some of the products you ordered are at a remote warehouse. Shipping may take slightly longer than stated here."
+msgstr "Κάποια από τα προϊόντα πού έχετε παραγγείλει βρίσκονται σε μία απομακρυσμένη αποθήκη. Η αποστολή μπορεί να διαρκέσει λίγο παραπάνω απο τον χρόνο που δηλώθηκε εδώ."
+
+msgctxt "Languages::warehouses.product_available_if_ordered"
+msgid "Available if ordered"
+msgstr "Διαθέσιμο κατόπιν παραγγελίας"
+
+msgctxt "Languages::warehouses.product_in_stock"
+msgid "In stock"
+msgstr "Σε απόθεμα"
+
+msgctxt "Languages::warehouses.in_n_stores"
+msgid "in [n] store|in [n] stores"
+msgstr "στο [n] κατάστημα|στα [n] καταστήματα"
+
+msgctxt "Languages::warehouses.product_availability"
+msgid "Availability in stores"
+msgstr "Διαθεσιμότητα στα καταστήματα"
+
+msgctxt "Languages::block_availability_in_stores"
+msgid "Availability in stores"
+msgstr "Διαθεσιμότητα στα καταστήματα"
+
+msgctxt "Languages::block_availability_in_stores_description"
+msgid "List of stores where the product can be purchased"
+msgstr "Λίστα με καταστήματα όπου μπορεί να αγορασθεί το συγκεκριμένο προϊόν"
+
+msgctxt "Languages::warehouses.store_and_address"
+msgid "Store and address"
+msgstr "Κατάστημα και διεύθυνση"
+
+msgctxt "Languages::warehouses.phone"
+msgid "Phone"
+msgstr "Αριθμός τηλεφώνου"
+
+msgctxt "Languages::warehouses.search_store"
+msgid "Search store"
+msgstr "Αναζήτηση καταστήματος"
+
+msgctxt "Languages::warehouses.stores_list"
+msgid "List"
+msgstr "Λίστα"
+
+msgctxt "Languages::warehouses.stores_map"
+msgid "Map"
+msgstr "Χάρτης"
+
+msgctxt "Languages::warehouses.no_matching_stores_found"
+msgid "No stores found matching the search criteria"
+msgstr "Δεν βρέθηκαν καταστήματα που να ταιριάζουν με τα κριτήρια αναζήτησης"
+
+msgctxt "Languages::warehouses.rate_area"
+msgid "Rate area"
+msgstr "Περιοχή τιμής"
+
+msgctxt "Languages::warehouses.shipping_delay_notification"
+msgid "Delay warning"
+msgstr "Ειδοποίηση καθυστέρησης"
+
+msgctxt "Languages::warehouses.shipping_delay_notification.tooltip"
+msgid "It will appear if products aren't available in the stores and warehouses above."
+msgstr "Θα εμφανιστεί αν τα προϊόντα δεν είναι διαθέσιμα στα παραπάνω καταστήματα και αποθήκες."
+
+msgctxt "Languages::warehouses.type_to_search_or_check_all"
+msgid "Type to search, or click the button on the right to add all rate areas"
+msgstr "Πληκτρολογήστε για αναζήτηση, ή κάντε κλικ στο κουμπί στα δεξιά για να κάνετε προσθήκη όλων των περιοχών τιμών"
+
+msgctxt "Languages::warehouses.any_store_type"
+msgid "Any type of store"
+msgstr "Οποιοδήποτε είδος καταστήματος"
+
+msgctxt "Languages::warehouses.add_all"
+msgid "Add all"
+msgstr "Προσθήκη όλων"
+
+msgctxt "Languages::warehouses.quantity_tab.no_data"
+msgid "This storefront doesn't have any stores or warehouses. Please <a href=\"[create_url]\">create one</a> or <a href=\"[list_url]\">make an existing one available</a> for this storefront"
+msgstr "Αυτή η βιτρίνα δεν διαθέτει καταστήματα ή αποθήκες. <a href=\"[create_url]\"> Δημιουργήστε ένα </a> ή <a href=\"[list_url]\"> δώστε ένα  διαθέσιμο </a> σ αυτήν τη βιτρίνα"
+
+msgctxt "Languages::warehouses.exim_reset_inventory_tooltip"
+msgid "This won't affect the products that have the quantity specified in the imported file. This also won't affect products at the warehouses that aren't updated in this preset."
+msgstr "Αυτό δεν θα επηρεάσει τα προϊόντα που έχουν καθορισμένη ποσότητα στο εισαγόμενο αρχείο. Αυτό επίσης δεν θα επηρεάσει τα προϊόντα στις αποθήκες που δεν ενημερώνονται σε αυτήν την προεπιλογή."
+
+msgctxt "Languages::commerceml.map.entity_type.warehouse"
+msgid "Warehouses"
+msgstr "Αποθήκες"
+
+msgctxt "Languages::commerceml.tab.warehouse"
+msgid "Warehouses"
+msgstr "Αποθήκες"
+
+msgctxt "Languages::warehouses.commerceml.import.error.product.warehouse_not_found"
+msgid "Couldn't find warehouse [id]"
+msgstr "Δεν ήταν δυνατή η εύρεση αποθήκης [id]"
+
+msgctxt "Languages::warehouses.commerceml.import.message.warehouse.created"
+msgid "Category [id] created; local ID: [local_id]"
+msgstr "Δημιουργήθηκε η κατηγορία [id]. τοπικό αναγνωριστικό: [local_id]"
+

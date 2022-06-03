@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/newsletters.po\n"
+"X-Crowdin-File-ID: 4594\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::newsletters"
+msgid "Newsletters"
+msgstr "النشرات الإخبارية"
+
+msgctxt "Addons::description::newsletters"
+msgid "Lets you configure newsletter sending"
+msgstr "يتيح لك تكوين إرسال الرسائل الإخبارية"
+
+msgctxt "Languages::newsletters_menu_description"
+msgid "Create and send newsletters to your customer."
+msgstr "قم بإنشاء وإرسال رسائل إخبارية إلى عميلك."
+
+msgctxt "Languages::news_plain"
+msgid "Plain"
+msgstr "سادة"
+
+msgctxt "Languages::text_signup_for_subscriptions"
+msgid "Sign up for our newsletters!"
+msgstr "الاشتراك في نشرتنا الإخبارية!"
+
+msgctxt "Languages::tmpl_subscription"
+msgid "Newsletters: subscription form"
+msgstr "النشرات الإخبارية: نموذج الاشتراك"
+
+msgctxt "Languages::unsubscribe_link"
+msgid "Unsubscribe link"
+msgstr "رابط إلغاء الاشتراك"
+
+msgctxt "Languages::ne_add_subscribers_from_users"
+msgid "Add subscribers from the list of users"
+msgstr "إضافة المشتركين من قائمة المستخدمين"
+
+msgctxt "Languages::ne_warning_subscr_email_exists"
+msgid "<b>[email]</b> is already in the subscribers list"
+msgstr "<b>[email]</b> موجود بالفعل في قائمة المشتركين"
+
+msgctxt "Languages::warning_subscribers_import"
+msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
+msgstr "بعض القوائم البريدية من ملف الإدخال لا يمكن العثور عليها في قاعدة البيانات. سيتم ترك بعض المشتركين المستورَدين دون تعيين."
+
+msgctxt "Languages::subscribers_menu_item_text"
+msgid "Subscribers"
+msgstr "المشتركين"
+
+msgctxt "Languages::block_mailing_lists"
+msgid "Newsletter subscription"
+msgstr "الاشتراك في النشرة الإخبارية"
+
+msgctxt "Languages::block_mailing_lists_description"
+msgid "Email field for newsletter subscription"
+msgstr "حقل البريد الإلكتروني للاشتراك في النشرة الإخبارية"
+
+msgctxt "Languages::block_lite_checkout_newsletters"
+msgid "Checkout: Newsletters"
+msgstr "الخروج: الرسائل الإخبارية"
+
+msgctxt "Languages::block_lite_checkout_newsletters_description"
+msgid "Ability to sign up for newsletters"
+msgstr "القدرة على الاشتراك في النشرات الإخبارية"
+
+msgctxt "Languages::privileges.view_newsletters"
+msgid "Can view"
+msgstr "يمكن العرض"
+
+msgctxt "Languages::privileges.manage_newsletters"
+msgid "Can edit"
+msgstr "قابل للتحرير"
+
+msgctxt "Languages::privilege_groups.newsletters"
+msgid "Newsletters"
+msgstr "النشرات الإخبارية"
+
+msgctxt "Languages::warning_newsletter_no_recipients"
+msgid "Newsletter hasn't been sent because no recipients were found matching the selected criteria."
+msgstr "لم يتم إرسال النشرة الإخبارية لأنه لم يتم العثور على أي مستلمين مطابقين للمعايير المحددة."
+
+msgctxt "Languages::text_newsletter_sent"
+msgid "The newsletter(s) have been sent successfully."
+msgstr "تم إرسال النشرة (النشرات) بنجاح."
+
+msgctxt "Languages::email_cannot_be_empty"
+msgid "E-mail cannot be empty"
+msgstr "لا يمكن أن يكون البريد الإلكتروني فارغًا"
+
+msgctxt "Languages::sending_email_to"
+msgid "Sending email to [email]..."
+msgstr "إرسال بريد إلكتروني إلى [email]..."
+
+msgctxt "Languages::text_subscriber_added"
+msgid "Your e-mail has been successfully added to our free e-mail updates list"
+msgstr "تمت إضافة البريد الإلكتروني الخاص بك بنجاح إلى قائمة تحديثات البريد الإلكتروني المجانية الخاصة بنا"
+
+msgctxt "Languages::error_email_already_subscribed"
+msgid "Your e-mail is already subscribed."
+msgstr "البريد الإلكتروني الخاص بك مشترك بالفعل."
+
+msgctxt "Languages::text_subscriber_removed"
+msgid "Your e-mail has been successfully removed from our free e-mail updates list"
+msgstr "تمت إزالة البريد الإلكتروني الخاص بك بنجاح من قائمة تحديثات البريد الإلكتروني المجانية الخاصة بنا"
+
+msgctxt "Languages::text_subscriber_activated"
+msgid "Your email has been successfully activated"
+msgstr "تهانينا! تم تنشيط بريدك الإلكتروني بنجاح"
+
+msgctxt "Languages::link_message_for_test_letter"
+msgid "The link will be displayed in a live newsletter"
+msgstr "سيتم عرض الرابط في رسالة إخبارية مباشرة"
+
+msgctxt "Languages::newsletters"
+msgid "Newsletters"
+msgstr "النشرات الإخبارية"
+
+msgctxt "Languages::autoresponders"
+msgid "Autoresponders"
+msgstr "المجيب التلقائي"
+
+msgctxt "Languages::campaigns"
+msgid "Campaigns"
+msgstr "الحملات"
+
+msgctxt "Languages::sent"
+msgid "Sent"
+msgstr "أرسلت"
+
+msgctxt "Languages::subscribers_num"
+msgid "Number of subscribers"
+msgstr "عدد المشتركين"
+
+msgctxt "Languages::editing_mailing_list"
+msgid "Editing mailing list"
+msgstr "تحرير القائمة البريدية"
+
+msgctxt "Languages::from_name"
+msgid "From name"
+msgstr "من الاسم"
+
+msgctxt "Languages::from_email"
+msgid "From email"
+msgstr "من البريد الإلكترونى"
+
+msgctxt "Languages::reply_to"
+msgid "Reply to"
+msgstr "الرد على"
+
+msgctxt "Languages::register_autoresponder"
+msgid "Confirmation email"
+msgstr "تأكيد البريد الإلكتروني"
+
+msgctxt "Languages::no_autoresponder"
+msgid "No autoresponder"
+msgstr "لا يوجد مجيب آلي"
+
+msgctxt "Languages::show_on_checkout"
+msgid "Show at checkout"
+msgstr "تظهر عند اتمام الشراء"
+
+msgctxt "Languages::hide_on_checkout"
+msgid "Hide at checkout"
+msgstr "إخفاء عند اتمام الشراء"
+
+msgctxt "Languages::addons.newsletters.show_on_registration_and_profile"
+msgid "Show on the Registration and Profile Details pages"
+msgstr "اعرض على صفحات التسجيل وصفحات الملف الشخصي"
+
+msgctxt "Languages::addons.newsletters.hide_on_registration_and_profile"
+msgid "Hide on the Registration and Profile Details pages"
+msgstr "إخفاء في صفحات تفاصيل التسجيل والملف الشخصي"
+
+msgctxt "Languages::show_on_separate_page"
+msgid "Show on separate page"
+msgstr "عرض في صفحة مُنفصلة"
+
+msgctxt "Languages::campaign_stats"
+msgid "Campaign statistics"
+msgstr "إحصائيات الحملة"
+
+msgctxt "Languages::add_campaign"
+msgid "Add campaign"
+msgstr "أضف حملة"
+
+msgctxt "Languages::new_campaign"
+msgid "New campaign"
+msgstr "حملة جديدة"
+
+msgctxt "Languages::newsletter_templates"
+msgid "Newsletter templates"
+msgstr "قوالب النشرة الإخبارية"
+
+msgctxt "Languages::newsletter_autoresponders"
+msgid "Newsletter autoresponders"
+msgstr "أجهزة الرد الآلي للنشرة الإخبارية"
+
+msgctxt "Languages::subject"
+msgid "Subject"
+msgstr "موضوع"
+
+msgctxt "Languages::add_newsletter"
+msgid "Add newsletter"
+msgstr "إضافة النشرة الإخبارية"
+
+msgctxt "Languages::add_template"
+msgid "Add template"
+msgstr "إضافة قالب"
+
+msgctxt "Languages::add_autoresponder"
+msgid "Add autoresponder"
+msgstr "إضافة الرد الآلي"
+
+msgctxt "Languages::more_subjects"
+msgid "Random subjects (one per line)"
+msgstr "مواضيع عشوائية (واحد في كل سطر)"
+
+msgctxt "Languages::body_html"
+msgid "HTML body"
+msgstr "نص HTML"
+
+msgctxt "Languages::no_template"
+msgid "No template"
+msgstr "لا يوجد قالب"
+
+msgctxt "Languages::load"
+msgid "Load"
+msgstr "تحميل"
+
+msgctxt "Languages::campaign"
+msgid "Campaign"
+msgstr "حملة"
+
+msgctxt "Languages::send_to"
+msgid "Send to"
+msgstr "ارسل إلى"
+
+msgctxt "Languages::add_recipients_from_users"
+msgid "Add recipients from users"
+msgstr "أضف مستلمين من المستخدمين"
+
+msgctxt "Languages::customers_with_abandoned"
+msgid "Customers with abandoned"
+msgstr "العملاء الذين تم التخلي عنهم"
+
+msgctxt "Languages::cart_or_wishlist"
+msgid "Cart or Wishlist"
+msgstr "عربة التسوق أو قائمة الرغبات"
+
+msgctxt "Languages::which_is"
+msgid "which is"
+msgstr "الذي"
+
+msgctxt "Languages::days_old"
+msgid "days old"
+msgstr "يوم"
+
+msgctxt "Languages::send_to_test_email"
+msgid "Send to test email"
+msgstr "إرسال لاختبار البريد الإلكتروني"
+
+msgctxt "Languages::save_and_send"
+msgid "Save and send"
+msgstr "احفظ وأرسل"
+
+msgctxt "Languages::newsletter"
+msgid "Newsletter"
+msgstr "النشرة الإخبارية"
+
+msgctxt "Languages::newsletter_template"
+msgid "Newsletter template"
+msgstr "قالب النشرة الإخبارية"
+
+msgctxt "Languages::newsletter_autoresponder"
+msgid "Newsletter autoresponder"
+msgstr "المجيب الآلي للنشرة الإخبارية"
+
+msgctxt "Languages::mailing_list"
+msgid "Mailing list"
+msgstr "القائمة البريدية"
+
+msgctxt "Languages::confirmed"
+msgid "Confirmed"
+msgstr "مؤكد"
+
+msgctxt "Languages::subscribed_to"
+msgid "Subscribed to [num] lists"
+msgstr "اشترك في قوائم [num]"
+
+msgctxt "Languages::subscribed"
+msgid "Subscribed"
+msgstr "مشترك"
+
+msgctxt "Languages::text_success_subscription"
+msgid "You have been successfully subscribed to our free e-mail updates and promotions!"
+msgstr "لقد تم اشتراكك بنجاح في تحديثاتنا وعروضنا الترويجية المجانية عبر البريد الإلكتروني!"
+
+msgctxt "Languages::text_unsubscribe_instructions"
+msgid "We respect your privacy and do not send unsolicited e-mail to users who have not requested correspondence. You have received this e-mail because you requested to receive our free updates and promotions.<br /><br /> If you wish to unsubscribe, please follow the link below:"
+msgstr "نحن نحترم خصوصيتك ولا نرسل بريدًا إلكترونيًا غير مرغوب فيه إلى المستخدمين الذين لم يطلبوا المراسلات. لقد تلقيت هذا البريد الإلكتروني لأنك طلبت تلقي تحديثاتنا وعروضنا الترويجية المجانية. <br /> <br /> إذا كنت ترغب في إلغاء الاشتراك ، يرجى اتباع الرابط أدناه:"
+
+msgctxt "Languages::updates_subscription"
+msgid "updates and promotions subscription"
+msgstr "الاشتراك في التحديثات والعروض الترويجية"
+
+msgctxt "Languages::ult_shared_with"
+msgid "Shared with:"
+msgstr "مشترك مع:"
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_email"
+msgid "Email of a sender."
+msgstr "البريد الإلكتروني للمرسل."
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_name"
+msgid "Name of a sender (e.g. company name)."
+msgstr "اسم المرسل (مثل اسم الشركة)."
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_reply_to"
+msgid "Email to send replies to."
+msgstr "بريد إلكتروني لإرسال ردود على."
+
+msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_more_subjects"
+msgid "If several subjects are specified, email subject is randomly picked from this list."
+msgstr "إذا تم تحديد عدة مواضيع ، فسيتم اختيار موضوع البريد الإلكتروني عشوائيًا من هذه القائمة."
+
+msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_users"
+msgid "If the message text contains the unsubscribe link, it will be empty for these users."
+msgstr "إذا كان نص الرسالة يحتوي على رابط إلغاء الاشتراك ، فسيكون فارغًا لهؤلاء المستخدمين."
+
+msgctxt "Languages::add_mailing_lists"
+msgid "Add mailing list"
+msgstr "إضافة قائمة بريدية"
+
+msgctxt "Languages::manage_subscribers"
+msgid "Manage subscribers"
+msgstr "إدارة المشتركين"
+
+msgctxt "Languages::new_mailing_lists"
+msgid "New mailing list"
+msgstr "قائمة بريدية جديدة"
+
+msgctxt "Languages::newsletters.new_subscribers"
+msgid "New subscribers"
+msgstr "المشتركون الجدد"
+
+msgctxt "SettingsSections::newsletters::general"
+msgid "General"
+msgstr "عام"
+
+msgctxt "SettingsOptions::newsletters::newsletters_per_pass"
+msgid "Newsletters sent per step"
+msgstr "يتم إرسال الرسائل الإخبارية في كل خطوة"
+
+msgctxt "SettingsOptions::newsletters::elm_advanced_mailing_server_options"
+msgid "Advanced mailing server options"
+msgstr "خيارات خادم البريد المتقدمة"
+
+msgctxt "SettingsOptions::newsletters::mailer_send_method"
+msgid "Method of sending e-mails"
+msgstr "طريقة إرسال رسائل البريد الإلكتروني"
+
+msgctxt "SettingsOptions::newsletters::elm_smtp_server_settings"
+msgid "SMTP server settings"
+msgstr "إعدادات خادم SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_host"
+msgid "SMTP host"
+msgstr "مضيف SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_username"
+msgid "SMTP username"
+msgstr "اسم مستخدم SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_password"
+msgid "SMTP password"
+msgstr "كلمة مرور SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_ecrypted_connection"
+msgid "Use Encrypted Connection"
+msgstr "إستخدام إتصال مشفر"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::none"
+msgid "None"
+msgstr "لا شيء"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::tls"
+msgid "TLS"
+msgstr "TLS"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::ssl"
+msgid "SSL"
+msgstr "SSL"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_auth"
+msgid "Use SMTP authentication"
+msgstr "استخدم مصادقة SMTP"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::smtp"
+msgid "via SMTP server"
+msgstr "عبر خادم SMTP"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::mail"
+msgid "via php mail function"
+msgstr "عبر وظيفة بريد php"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::default"
+msgid "use default settings"
+msgstr "استخدام الإعدادات الافتراضية"
+
+msgctxt "SettingsSections::newsletters::promotions"
+msgid "Promotions"
+msgstr "العروض الخاصة"
+
+msgctxt "SettingsOptions::newsletters::coupon"
+msgid "Choose a promotion whose promo code will be given at subscription"
+msgstr "اختر عرضًا ترويجيًا سيتم تقديم رمزه الترويجي عند الاشتراك"
+
+msgctxt "Languages::subscribers_promo_subject"
+msgid "Thank you for subscribing! Use the coupon code [coupon] in our special offer \"[promotion]\"."
+msgstr "شكرا لك على الاشتراك! استخدام رمز القسيمة [coupon] لدينا عرض خاص \"[promotion]\"."
+
+msgctxt "Languages::subscribers_no_promo"
+msgid "No promotion"
+msgstr "لا ترويج"
+
+msgctxt "Languages::promotion_cond_subscribed"
+msgid "Customer is subscribed"
+msgstr "العميل مشترك"
+
+msgctxt "Languages::addons.newsletters.email_exists_in_list"
+msgid "<b>[email]</b> is already in the mailing list"
+msgstr "<b>[email]</b> موجود بالفعل في القائمة البريدية"
+
+msgctxt "Languages::email_template.newsletters_newsletter"
+msgid "Newsletter"
+msgstr "النشرة الإخبارية"
+
+msgctxt "Languages::email_template.newsletters_promotion"
+msgid "Newsletters: promotion"
+msgstr "النشرات الإخبارية: الترويج"
+
+msgctxt "Languages::activation_key"
+msgid "Activation key"
+msgstr "مفتاح التفعيل"
+
+msgctxt "Languages::unsubscribe_key"
+msgid "Unsubscribe key"
+msgstr "مفتاح إلغاء الاشتراك"
+
+msgctxt "Languages::subscribers_date"
+msgid "Subscribers date"
+msgstr "تاريخ المشتركين"
+
+msgctxt "Languages::mailing_list_date"
+msgid "Mailing list date"
+msgstr "تاريخ القائمة البريدية"
+
+msgctxt "Languages::gdpr_newsletters"
+msgid "Personal data from newsletters"
+msgstr "البيانات الشخصية من الرسائل الإخبارية"
+
+msgctxt "Languages::newsletters.subscribe_to_newsletters"
+msgid "Newsletters: Subscribe to newsletters"
+msgstr "الرسائل الإخبارية: اشترك في النشرات الإخبارية"
+
+msgctxt "Languages::newsletters.agreement_text_short_subscribe_to_newsletters"
+msgid "I agree to have my personal data <u>processed as follows</u> and I want to subscribe for the following newsletters:"
+msgstr "أوافق على معالجة بياناتي الشخصية <u> على النحو التالي </u> وأريد الاشتراك في النشرات الإخبارية التالية:"
+
+msgctxt "Languages::newsletters.agreement_text_full_subscribe_to_newsletters"
+msgid "<p>When you sign up for a specific newsletter, we ([company]) add your email address to a corresponding mailing list. While it is there, we know that we can contact you by email regarding that topic.</p> <p>You can always have your email address removed from our mailing lists. There are multiple ways to do it:</p><ul> <li>Once your account is registered, just sign in and unsubscribe from newsletters in profile settings.</li> <li>Use the “Unsubscribe” link in our newsletters that you receive.</li> <li>Send an email to [email].</li> </ul> <p>We may use a third-party email service (MailChimp and/or Mad Mimi) to send newsletters. Some members of our staff can view mailing lists with email addresses. That way they’ll be able to remove your email address from the mailing list, should you request us to do so.</p> <p>Please note that mailing lists are independent from each other. If you decide not to receive newsletters at all, you’ll have to unsubscribe from all the mailing lists. Even if you do that, you’ll still receive account-related emails (such as order status notifications, password reset emails, and more). It is essential for operating an online store.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p> عند الاشتراك في رسالة إخبارية معينة ، فإننا ([company]) نضيف عنوان بريدك الإلكتروني إلى قائمة بريدية مقابلة. أثناء وجوده هناك ، نعلم أنه يمكننا الاتصال بك عبر البريد الإلكتروني بخصوص هذا الموضوع. </ p> <p> يمكنك دائمًا إزالة عنوان بريدك الإلكتروني من قوائمنا البريدية. هناك عدة طرق للقيام بذلك: </ p> <ul> <li> بمجرد تسجيل حسابك ، ما عليك سوى تسجيل الدخول وإلغاء الاشتراك من الرسائل الإخبارية في إعدادات الملف الشخصي. </li> <li> استخدم رابط \"إلغاء الاشتراك\" في الرسائل الإخبارية التي تتلقاها. </ li> <li> إرسال بريد إلكتروني إلى [email]. </ li> </ul> <p> قد نستخدم خدمة بريد إلكتروني لجهة خارجية (MailChimp و / أو Mad Mimi) لإرسالها النشرات الإخبارية. يمكن لبعض أعضاء فريق العمل لدينا عرض القوائم البريدية مع عناوين البريد الإلكتروني. بهذه الطريقة سيتمكنون من إزالة عنوان بريدك الإلكتروني من القائمة البريدية ، إذا طلبت منا القيام بذلك. </ p> <p> يرجى ملاحظة أن القوائم البريدية مستقلة عن بعضها البعض. إذا قررت عدم تلقي رسائل إخبارية على الإطلاق ، فسيتعين عليك إلغاء الاشتراك من جميع القوائم البريدية. حتى إذا قمت بذلك ، فستظل تتلقى رسائل البريد الإلكتروني المتعلقة بالحساب (مثل إشعارات حالة الطلب ، ورسائل إعادة تعيين كلمة المرور ، والمزيد). إنه ضروري لتشغيل متجر على الإنترنت. </ p> <p> إذا قررت أنك لم تعد ترغب في استخدام متجرنا وترغب في إزالة بياناتك الشخصية من قاعدة بياناتنا (أو إذا كنت ترغب في الحصول على كل شيء البيانات الشخصية المرتبطة بحسابك التي لدينا) ، يرجى إرسال بريد إلكتروني إلى [email]. </p> <p> إذا كنت تعتقد أنه قد تم إساءة استخدام بياناتك الشخصية ، فيحق لك تقديم شكوى إلى جهة إشرافية السلطة. نحن ملزمون بموجب اللائحة العامة لحماية البيانات في الاتحاد الأوروبي بإعلامك بهذا الحق ؛ لا ننوي في الواقع إساءة استخدام بياناتك. </p>"
+
+msgctxt "Languages::newsletters.use_for_subscribe_form"
+msgid "Subscribe form"
+msgstr "استمارة الاشتراك"
+
+msgctxt "Languages::newsletters.default_mailing_list"
+msgid "Default mailing list"
+msgstr "القائمة البريدية الافتراضية"
+

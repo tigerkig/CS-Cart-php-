@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.13.2/addons/product_reviews.po\n"
+"X-Crowdin-File-ID: 4622\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::product_reviews"
+msgid "Product reviews"
+msgstr ""
+
+msgctxt "Addons::description::product_reviews"
+msgid "Allows your customers to leave reviews for products. That can build up trust, provide social proof, and add user-generated content to your site."
+msgstr ""
+
+msgctxt "Languages::product_reviews.use_for_reviews"
+msgid "Comments and reviews forms"
+msgstr "Φορμες Σχόλιων και κριτικων"
+
+msgctxt "Languages::product_reviews.title_giftreg"
+msgid "Guestbook"
+msgstr "Βιβλίο επισκεπτών"
+
+msgctxt "Languages::product_reviews.title"
+msgid "Reviews"
+msgstr "Κριτικές"
+
+msgctxt "Languages::product_reviews.no_reviews_found"
+msgid "No reviews found"
+msgstr "Δε βρέθηκαν Κριτικές"
+
+msgctxt "Languages::product_reviews.your_rating"
+msgid "Your rating"
+msgstr "Η βαθμολογίας σας"
+
+msgctxt "Languages::product_reviews.comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "Σχόλια και κριτικές"
+
+msgctxt "Languages::product_reviews.rating"
+msgid "Rating"
+msgstr "Βαθμολογία"
+
+msgctxt "Languages::product_reviews.date"
+msgid "Date"
+msgstr "Ημ/νία"
+
+msgctxt "Languages::product_reviews.error_already_posted"
+msgid "You have posted in this review already"
+msgstr ""
+
+msgctxt "Languages::product_reviews.text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "Ευχαριστούμε για την δημοσίευση σας."
+
+msgctxt "Languages::product_reviews.text_review_pended"
+msgid "Your review will be checked before it gets published."
+msgstr "Η δημοσίευσή σας θα ελεγχθεί προτού δημοσιευτεί."
+
+msgctxt "Languages::product_reviews.reviews"
+msgid "Reviews: [n]"
+msgstr ""
+
+msgctxt "Languages::product_reviews.n_reviews"
+msgid "review|reviews"
+msgstr "κριτική|κριτικές"
+
+msgctxt "Languages::product_reviews.text_new_post_notification"
+msgid "This is a notification of a new post to product"
+msgstr "Αυτή είναι μια ειδοποίηση για νέα δημοσίευση στο Προϊόν"
+
+msgctxt "Languages::product_reviews.text_new_reply_notification"
+msgid "This is a notification of a new reply to your product review"
+msgstr "Αυτή είναι μια ειδοποίηση για νέα απάντηση σε κριτική σας στο Προϊόν"
+
+msgctxt "Languages::product_reviews.text_approval_notice"
+msgid "This review needs approving"
+msgstr "Αυτή η κριτική χρειάζεται έγκριση"
+
+msgctxt "Languages::product_reviews.latest_reviews"
+msgid "Latest reviews"
+msgstr "Τελευταίες Κριτικές"
+
+msgctxt "Languages::product_reviews.comment_by"
+msgid "Comment by"
+msgstr "Σχόλιο από"
+
+msgctxt "Languages::product_reviews.and"
+msgid "and"
+msgstr "και"
+
+msgctxt "Languages::product_reviews.approve"
+msgid "Approve"
+msgstr "Έγκριση"
+
+msgctxt "Languages::product_reviews.disapprove"
+msgid "Disapprove"
+msgstr "Απόρριψη"
+
+msgctxt "Languages::product_reviews.approved"
+msgid "Approved"
+msgstr "Εγκεκριμένα"
+
+msgctxt "Languages::product_reviews.not_approved"
+msgid "Not approved"
+msgstr "Μη εγκεκριμένα"
+
+msgctxt "Languages::product_reviews.manager"
+msgid "Comments and reviews"
+msgstr "Σχόλια και κριτικές"
+
+msgctxt "Languages::privileges.view_product_reviews"
+msgid "Can view"
+msgstr "Δυνατότητα Προβολής"
+
+msgctxt "Languages::privileges.manage_product_reviews"
+msgid "Can edit"
+msgstr "Δυνατότητα Επεξεργασίας"
+
+msgctxt "Languages::privilege_groups.product_reviews"
+msgid "Product reviews"
+msgstr "Κριτικές Προϊοντων"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Ταξινόμηση κατά βαθμολογία: άυξουσα"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "Ταξινόμηση κατά βαθμολογία"
+
+msgctxt "Languages::product_reviews.product_reviews"
+msgid "Product reviews"
+msgstr "Κριτικές Προϊοντων"
+
+msgctxt "Languages::product_reviews.menu_title"
+msgid "Reviews"
+msgstr "Κριτικές"
+
+msgctxt "Languages::product_reviews.menu_title_menu_description"
+msgid "Customer reviews on products"
+msgstr "Κριτικές πελατών για προϊόντα"
+
+msgctxt "Languages::product_reviews.write_review"
+msgid "Write a review"
+msgstr "Γράψτε μια κριτική"
+
+msgctxt "SettingsOptions::product_reviews::reviews_per_page"
+msgid "Reviews per page"
+msgstr "Κριτικές ανά σελίδα"
+
+msgctxt "SettingsOptions::product_reviews::review_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Ο διαχειριστής πρέπει να εγκρίνει τις δημοσιεύσεις από"
+
+msgctxt "SettingsOptions::product_reviews::review_ip_check"
+msgid "Allow one review per IP address"
+msgstr ""
+
+msgctxt "SettingsOptions::product_reviews::split_reviews_by_storefronts"
+msgid "Split reviews by storefront"
+msgstr "Διαχωρίστε τις κριτικές ανά κατάστημα"
+
+msgctxt "SettingsTooltips::product_reviews::product_reviews_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "Καθοριζει αν επιτρέπονται  σχόλια ή/και κριτικές για προϊόντα που μόλις έχουν δημιουργηθεί. Δέν επηρεάζει τα υπάρχοντα προϊόντα."
+
+msgctxt "SettingsOptions::product_reviews::review_after_purchase"
+msgid "Only buyers can post"
+msgstr "Αναρτηση μόνο από αγοραστές"
+
+msgctxt "SettingsTooltips::product_reviews::review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "Δώστε το δικαίωμα να αφήνουν κριτική για ένα προϊόν, μόνο αυτοί που αγόρασαν το εκάστοτε προϊόν."
+
+msgctxt "SettingsOptions::product_reviews::review_fields"
+msgid "Review fields"
+msgstr "Πεδία Κριτικών"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::advanced"
+msgid "Comment with advantages and disadvantages"
+msgstr "Σχολια με πλεονεκτήματα και μειονεκτήματα"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::simple"
+msgid "Only comment"
+msgstr "Μόνο Σχόλεια"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::any"
+msgid "Any customer"
+msgstr "Οποιοσδήποτε πελάτης"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Μόνο μη καταχωρημένοι πελάτες"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::disabled"
+msgid "No approval needed"
+msgstr "Δεν απαιτείται έγκριση"
+
+msgctxt "SettingsOptions::product_reviews::review_ask_for_customer_location"
+msgid "Ask for customer location"
+msgstr "Ζητήστε την τοποθεσία του πελάτη"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::none"
+msgid "None"
+msgstr "κανενα"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::country"
+msgid "Country"
+msgstr "Χώρα"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::city"
+msgid "City"
+msgstr "Πόλη"
+
+msgctxt "Languages::email_template.product_reviews_notification"
+msgid "Product reviews: New review notification"
+msgstr "Κριτικές προϊόντων: Ειδοποίηση για νέα Κριτική"
+
+msgctxt "Languages::email_template.product_reviews_reply_notification"
+msgid "Product reviews: Reply notification"
+msgstr "Κριτικές προϊόντων: Ειδοποίηση για Απάντηση"
+
+msgctxt "Languages::product_reviews.show_rating"
+msgid "Show review rating"
+msgstr "Εμφάνιση αξιολόγησης κριτικής"
+
+msgctxt "Languages::product_reviews.show_reviews"
+msgid "Show reviews"
+msgstr "Εμφάνιση κριτικών"
+
+msgctxt "Languages::product_reviews.show_review"
+msgid "Show review"
+msgstr "Εμφάνιση κριτικής"
+
+msgctxt "Languages::product_reviews.show_n_reviews"
+msgid "Show [n] review|Show [n] reviews"
+msgstr "Εμφάνιση [n] κριτικής | Εμφάνιση [n] κριτικών"
+
+msgctxt "Languages::product_reviews.scroll_to_reviews"
+msgid "Scroll to reviews"
+msgstr "Μεταβείτε στις κριτικές"
+
+msgctxt "Languages::product_reviews.show_review_images"
+msgid "Show review images"
+msgstr "Εμφάνιση εικόνων κριτικής"
+
+msgctxt "Languages::product_reviews.scroll_to_review_images"
+msgid "Scroll to review images"
+msgstr "Μεταβείτε στις εικόνες κριτικών"
+
+msgctxt "Languages::product_reviews.gdpr_reviews_data"
+msgid "Personal data from reviews"
+msgstr "Προσωπικά δεδομένα από κριτικές"
+
+msgctxt "Languages::product_reviews.add_new_review"
+msgid "reviews: new review"
+msgstr "κριτικές: νέα κριτική"
+
+msgctxt "Languages::product_reviews.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>το όνομά σας εμφανίζεται δίπλα σε κριτική ή σχόλιο, και θα ειναι ορατό σε όλους. Εμείς ([company]) επίσης αποθηκεύουμε τη διεύθυνση IP σας ως μια προφύλαξη ασφαλείας, αλλά μπορει να προβληθει μόνο στο προσωπικό μας. Θα παραμείνει στο σύστημά μας μέχρι να αποσύρευε τη συγκατάθεσή σας. Αν θα θέλατε τα προσωπικά σας δεδομένα να αφαιρεθούν, θα πρέπει να στείλετε ένα email στο [email].</p> <p>Αν πιστεύετε ότι τα προσωπικά σας δεδομένα έχουν υποστεί κατάχρηση, έχετε το δικαίωμα να υποβάλετε καταγγελία στην εποπτική αρχή (dpa.gr). Εμείς είμαστε υποχρεωμένοι από τo γενικό κανονισμό προστασίας δεδομένων (GDPR) της ΕΕ να σας ενημερώσυμε σχετικά με αυτό το δικαίωμα. Δεν σκοπεύουμε να καταχραστούμε τα δεδομένα σας.</p>"
+
+msgctxt "Languages::product_reviews.terms_n_conditions"
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Επιλέξτε αυτό το πλαίσιο ελέγχου για να αποδεχτείτε τους [terms_href]"
+
+msgctxt "Languages::product_reviews.terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Όρους και προϋποθέσεις"
+
+msgctxt "Languages::product_reviews.terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Παρακαλούμε διαβάστε αυτούς τους όρους και προϋποθέσεις (\"Όροι\", \"Όροι και προϋποθέσεις\") προσεκτικά πριν τη χρηση της ιστοεσελιδας και του  My Mobile App mobile application (η \"Υπηρεσια\")   <a href=\"http://www.mywebsite.com\"> http://www.mywebsite.com</a>  από την εταιρεία μου (\"εμείς\", \"εμείς\", ή \"μας\").</p> <p><strong>Με την πρόσβαση ή τη χρήση της υπηρεσίας συμφωνείτε ότι δεσμεύεστε από τους παρόντες όρους. Αν διαφωνείτε με οποιοδήποτε μέρος των όρων, τότε δεν μπορείτε να έχετε πρόσβαση στην υπηρεσία.</strong></p> <p><strong>Αγορές</strong></p> <p>Αν θέλετε να αγοράσετε οποιοδήποτε προϊόν ή υπηρεσία που διατίθεται μέσω της υπηρεσίας (\"αγορά\"), μπορεί να σας ζητηθεί να παράσχετε ορισμένες πληροφορίες σχετικές με την αγορά σας, συμπεριλαμβανομενης, χωρίς κανενα περιορισμό, ...</p> <p><strong>Περιεχομενο</strong></p> <p>Η υπρεσια μας, σάς δίνει τη δυνατότητα να δημοσιεύετε, σύνδεσετε, αποθήκευσετε, την κοινή χρήση και διάθεση με άλλον τρόπο ορισμένες πληροφορίες, κείμενο, γραφικά, βίντεο, ή άλλο υλικό («περιεχόμενο»). Είστε υπεύθυνοι για τη...</p> <p><strong>Αλλαγές</strong></p> <p>Διατηρεί το δικαίωμα, κατά την κρίση μας, να τις τροποποιηθουν ή να αντικατασταθουν αυτοι οι όροι οποιαδήποτε στιγμή. Αν μια αναθεώρηση είναι υλικη θα προσπαθησουμε να παρέχουμε προειδοποίηση τουλάχιστον 30 ημερών πριν από οποιαδήποτε ενεργοποίηση νέως όρων. Τι συνιστά μια υλική αλλαγή θα καθορίζεται κατά τη διακριτική μας ευχέρεια.</p> <p><strong>Επικοινωνήστε μαζί μας</strong></p> <p>Εάν έχετε οποιεσδήποτε ερωτήσεις σχετικά με αυτούς τους όρους, παρακαλώ επικοινωνήστε μαζί μας.</p>"
+
+msgctxt "Languages::product_reviews.moderation_rules"
+msgid "Before submitting a review, make sure that it does not violate the moderation rules: it does not contain links to third-party resources and insults."
+msgstr "Πριν υποβάλετε μια κριτική, βεβαιωθείτε ότι δεν παραβιάζει τους κανόνες εποπτείας: δεν περιέχει συνδέσμους προς πόρους τρίτων και προσβολές."
+
+msgctxt "Languages::product_reviews.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Συμφωνώ στην επεξεργασία των προσωπικών μου δεδομένων <u> ως εξής.</u>"
+
+msgctxt "Languages::product_reviews.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "Παρακαλούμε συνδεθείτε για να γράψετε μια κριτική"
+
+msgctxt "Languages::product_reviews.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "Δεν μπορείτε να γράψετε μια κριτική για το συγκεκριμένο προϊόν. Οι πελάτες μπορούν να γράψουν κριτικές για οποιοδήποτε προϊόν έχουν ήδη αγοράσει. Εάν παρότι έχετε αγοράσει κάποιον προϊόν από εμάς, εξακολουθείτε να λαμβάνετε αυτό το μήνυμα, παρακαλώ επικοινωνήστε μαζί μας."
+
+msgctxt "Languages::product_reviews.event.new_post"
+msgid "New review posted"
+msgstr "Δημοσιεύτηκε νέα κριτική"
+
+msgctxt "Languages::product_reviews.event.new_reply"
+msgid "New reply was added to review"
+msgstr "Προστέθηκε νέα απάντηση στην κριτική"
+
+msgctxt "Languages::product_reviews.helpfulness"
+msgid "Helpfulness"
+msgstr "Χρησιμότητα"
+
+msgctxt "Languages::product_reviews.vote_up"
+msgid "Vote up"
+msgstr "Ψηφίστε Θετικά"
+
+msgctxt "Languages::product_reviews.vote_down"
+msgid "Vote down"
+msgstr "Ψηφίστε Αρνητικά"
+
+msgctxt "Languages::sort_by_product_review_timestamp_desc"
+msgid "Sort by date: Newest to Oldest"
+msgstr "Ταξινόμηση κατά ημερομηνία: Νεότερο σε Παλαιότερο"
+
+msgctxt "Languages::sort_by_product_review_timestamp_asc"
+msgid "Sort by date: Oldest to Newest"
+msgstr "Ταξινόμηση κατά ημερομηνία: Παλαιότερο σε Νεότερο "
+
+msgctxt "Languages::sort_by_helpfulness_asc"
+msgid "Helpful last"
+msgstr "Χρήσιμο τελευταίο"
+
+msgctxt "Languages::sort_by_helpfulness_desc"
+msgid "Helpful first"
+msgstr "Χρήσιμο πρώτο"
+
+msgctxt "Languages::sort_by_rating_value_desc"
+msgid "Sort by rating: High to Low"
+msgstr "Ταξινόμηση κατά βαθμολογία: φθίσουσα"
+
+msgctxt "Languages::sort_by_rating_value_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Ταξινόμηση κατά βαθμολογία: άυξουσα"
+
+msgctxt "Languages::product_reviews.advantages"
+msgid "Advantages"
+msgstr "Πλεονεκτήματα"
+
+msgctxt "Languages::product_reviews.disadvantages"
+msgid "Disadvantages"
+msgstr "Μειονεκτήματα"
+
+msgctxt "Languages::product_reviews.comments"
+msgid "Comments"
+msgstr "Σχόλια"
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Σχόλιο"
+
+msgctxt "Languages::product_reviews.disabled"
+msgid "Disabled"
+msgstr "Απενεργοποιημένο"
+
+msgctxt "Languages::product_reviews.vendor"
+msgid "Vendor"
+msgstr "Πωλητής"
+
+msgctxt "Languages::product_reviews.vendor_reply"
+msgid "Vendor reply"
+msgstr "Απάντηση Πωλητή"
+
+msgctxt "Languages::product_reviews.type_message"
+msgid "Type a message..."
+msgstr "Πληκτρολογηστε ενα μηνυμα"
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Επιβεβαιωμένη Αγορά"
+
+msgctxt "Languages::product_reviews.reviews_lower"
+msgid "reviews"
+msgstr "κριτικές"
+
+msgctxt "Languages::product_reviews.review"
+msgid "Review"
+msgstr "Κριτική"
+
+msgctxt "Languages::product_reviews.write_your_review"
+msgid "Write your review"
+msgstr "Γράψτε μια κριτική"
+
+msgctxt "Languages::product_reviews.add_images"
+msgid "Add a photo"
+msgstr "Προσθέστε μια εικόνα"
+
+msgctxt "Languages::product_reviews.write_review_anonymously"
+msgid "Write your review anonymously"
+msgstr "Γράψτε την κριτική σας ανώνυμα"
+
+msgctxt "Languages::product_reviews.submit_review"
+msgid "Submit review"
+msgstr "Υποβολή κριτικής"
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Επιβεβαιωμένη Αγορά"
+
+msgctxt "Languages::product_reviews.with_photo"
+msgid "With photo"
+msgstr "Με εικόνα"
+
+msgctxt "Languages::product_reviews.without_photo"
+msgid "Without photo"
+msgstr "Χωρίς εικόνα"
+
+msgctxt "Languages::product_reviews.customer_photos"
+msgid "Customer photos"
+msgstr "Εικόνες Πελάτη"
+
+msgctxt "Languages::product_reviews.review_status"
+msgid "Review status"
+msgstr "Κατάσταση Κριτικής"
+
+msgctxt "Languages::product_reviews.star"
+msgid "star"
+msgstr "Αστέρι"
+
+msgctxt "Languages::product_reviews.stars"
+msgid "stars"
+msgstr "Αστέρια"
+
+msgctxt "Languages::product_reviews.n_stars"
+msgid "[n] star|[n] stars"
+msgstr ""
+
+msgctxt "Languages::product_reviews.out_of_five"
+msgid "out of 5"
+msgstr "από 5"
+
+msgctxt "Languages::product_reviews.review_this_product"
+msgid "Review this product"
+msgstr "Αξιολογήστε αυτό το προϊόν"
+
+msgctxt "Languages::product_reviews.review_this_product_description"
+msgid "Share your thoughts with other customers"
+msgstr "Μοιραστείτε τις σκέψεις σας με άλλους πελάτες"
+
+msgctxt "Languages::product_reviews.reply"
+msgid "Reply"
+msgstr "Απάντηση"
+
+msgctxt "Languages::product_reviews.first_and_last_name"
+msgid "First and last name"
+msgstr "Όνομα και Επίθετο"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_review"
+msgid "Thank you for your review"
+msgstr "Ευχαριστούμε για την κριτική σας."
+
+msgctxt "Languages::product_reviews.excellent"
+msgid "Excellent!"
+msgstr "Εξαιρετικό"
+
+msgctxt "Languages::product_reviews.very_good"
+msgid "Very Good"
+msgstr "Πολύ Καλό"
+
+msgctxt "Languages::product_reviews.average"
+msgid "Average"
+msgstr "Μέσο"
+
+msgctxt "Languages::product_reviews.fair"
+msgid "Fair"
+msgstr "Καλό"
+
+msgctxt "Languages::product_reviews.poor"
+msgid "Poor"
+msgstr "Κακό"
+
+msgctxt "Languages::product_reviews.five_star_icon"
+msgid "★★★★★"
+msgstr "★★★★★"
+
+msgctxt "Languages::product_reviews.four_star_icon"
+msgid "★★★★"
+msgstr "★★★★"
+
+msgctxt "Languages::product_reviews.three_star_icon"
+msgid "★★★"
+msgstr "★★★"
+
+msgctxt "Languages::product_reviews.two_star_icon"
+msgid "★★"
+msgstr "★★"
+
+msgctxt "Languages::product_reviews.one_star_icon"
+msgid "★"
+msgstr "★"
+
+msgctxt "Languages::product_reviews.product_details"
+msgid "Product details"
+msgstr "Λεπτομέρειες προϊόντος"
+
+msgctxt "Languages::product_reviews.rating_4_and_up"
+msgid "Rating 4+"
+msgstr "Βαθμολογία 4+"
+
+msgctxt "Languages::product_reviews.event.new_post.title"
+msgid "New review posted for a product"
+msgstr "Δημοσιεύτηκε νέα κριτική για ένα προϊόν"
+
+msgctxt "Languages::product_reviews.event.new_post.message"
+msgid "A new review has been posted for product [product]. Click this notification to see the review."
+msgstr "Μια νέα κριτική δημοσιεύτηκε για το προϊόν [product]. Κάντε κλικ σε αυτήν την ειδοποίηση για να δείτε την κριτική."
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Σχόλιο"
+
+msgctxt "Languages::product_reviews.copy_old_reviews_warning"
+msgid "You have product reviews in the old \"Comments and reviews\" add-on. While that add-on is installed, you'll be able copy those reviews to the new \"Product reviews\" add-on <a class=\"cm-post\" href=\"[url]\">in its settings</a>."
+msgstr "Έχετε κριτικές προϊόντων στο παλιό πρόσθετο \"Σχόλια και κριτικές\". Ενώ είναι εγκατεστημένο αυτό το πρόσθετο, θα μπορείτε να αντιγράψετε αυτές τις κριτικές στο νέο πρόσθετο \"Κριτικές προϊόντων\" <a class=\"cm-post\" href=\"[url]\"> στις ρυθμίσεις του </a> ."
+
+msgctxt "Languages::product_reviews.copy_old_reviews_notice"
+msgid "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Copy reviews from the \"Comments and reviews\" add-on<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Only reviews that have both a score and a user's comment will be copied. Go to your products and check the \\“Reviews\" setting on the \"Add-ons\" tab. You might have to allow communication and rating first.</li><li>A review without a score or without a comment will not be copied. To transfer it, you must first manually add the missing score or comment by editing the review.</li><li>While the old \"Comments and reviews\" add-on is installed, the reviews won't be removed from there. That way, you can choose to move to \"Product reviews\" whenever all your reviews are ready.</li><li>If you ever need to copy the reviews from the old add-on again in the future, just uninstall and reinstall the \"Product reviews\" add-on. This will remove all its reviews from the database, and you'll be able to import the reviews from the \"Comments and reviews\" add-on again.</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Copy product reviews</a></div>"
+msgstr "<h4 class = \"subheader hand\" data-toggle = \"collapse\" data-target = \"# collapsable_addon_product_reviews_notice\"> Αντιγράψτε κριτικές από το πρόσθετο \"Σχόλια και κριτικές\" <span class = \"icon-caret-down\"> </ span> </h4> <div id = \"collapsable_addon_product_reviews_notice\" class = \"in collapse\" style = \"height: auto;\"> <ol> <li> Θα αντιγραφούν μόνο κριτικές που έχουν βαθμολογία και σχόλια χρήστη. Μεταβείτε στα προϊόντα σας και ελέγξτε τη ρύθμιση \\ \"Κριτικές\" στην καρτέλα \"Πρόσθετα\". Ίσως χρειαστεί να επιτρέψετε πρώτα την επικοινωνία και την αξιολόγηση. </li> <li> Κριτική χωρίς βαθμολογία ή χωρίς σχόλιο δεν αντιγράφετε. Για να το μεταφέρετε, πρέπει πρώτα να προσθέσετε με μη αυτόματο τρόπο το σκορ ή το σχόλιο που λείπει με την επεξεργασία της κριτικής. </li> <li> Ενώ είναι εγκατεστημένο το παλιό πρόσθετο \"Σχόλια και κριτικές\", οι κριτικές δεν θα καταργηθούν από εκεί. Με αυτόν τον τρόπο, μπορείτε να επιλέξετε να μεταβείτε στις \"Κριτικές προϊόντων\" όταν θα είναι έτοιμες όλες οι κριτικές σας. </li> <li> Εάν χρειαστεί να αντιγράψετε ξανά τις κριτικές από το παλιό πρόσθετο στο μέλλον, απλώς καταργήστε την εγκατάσταση και επανεγκαταστήστε το πρόσθετο \"Κριτικές προϊόντων\". Αυτό θα καταργήσει όλες τις κριτικές του από τη βάση δεδομένων και θα μπορείτε να εισαγάγετε ξανά τις κριτικές από το πρόσθετο \"Σχόλια και κριτικές\". </li> </ ol > <a class=\"cm-post btn btn-primary\" href=\"[url]\"> Αντιγραφή κριτικών προϊόντων </a> </div>"
+
+msgctxt "Languages::product_reviews.update_reply"
+msgid "Update reply"
+msgstr "Ενημέρωση απάντησης"
+
+msgctxt "Languages::product_reviews.add_reply"
+msgid "Add reply"
+msgstr "Προσθήκη απάντησης"
+
+msgctxt "Languages::product_reviews.max_number_image_message"
+msgid "A review can have up to [max_image_number] images."
+msgstr "Μια κριτική μπορεί να έχει έως [max_image_number] εικόνες."
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_description"
+msgid "Drop images here"
+msgstr "Ρίξτε τις εικόνες εδώ"
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_info"
+msgid "Photo up to [max_size]"
+msgstr "Φωτογραφία έως [max_size]"
+
+msgctxt "Languages::product_reviews.admin_reply"
+msgid "Administrator reply"
+msgstr "Απάντηση διαχειριστή"
+
+msgctxt "Languages::product_reviews.company_reply"
+msgid "[company_name] reply"
+msgstr "Απάντηση [company_name] "
+
+msgctxt "Languages::product_reviews.hide_name"
+msgid "Hide my name in the review"
+msgstr "Απόκρυψη του ονόματός μου στην κριτική"
+
+msgctxt "Languages::product_reviews.product_is_rated_n_out_of_five_stars"
+msgid "The product is rated [n] out of 5 stars"
+msgstr ""
+
+msgctxt "Languages::product_reviews.click_to_see_reviews"
+msgid "Click to see the reviews"
+msgstr ""
+

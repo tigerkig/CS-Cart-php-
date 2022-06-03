@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.13.2/addons/client_tiers.po\n"
+"X-Crowdin-File-ID: 4540\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::client_tiers"
+msgid "Client tiers"
+msgstr "Úrovně klienta"
+
+msgctxt "Addons::description::client_tiers"
+msgid "Automatically assigns and removes customer's user group depending on money spent. Allows you to rank your customers (for example, bronze, silver, gold customers)."
+msgstr "Automaticky přiřazuje a odebírá zákaznické uživatelské skupiny na základě utracených peněz. Umožňuje vám hodnotit zákazníky (například zákazníky s úrovní Bronze, Silver a Gold)"
+
+msgctxt "SettingsSections::client_tiers::general"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "SettingsOptions::client_tiers::tiers_reporting_period"
+msgid "Reporting period"
+msgstr "Účtovací období "
+
+msgctxt "SettingsTooltips::client_tiers::tiers_reporting_period"
+msgid "Statistics from this period is checked to see if a customer is eligible for a certain tier"
+msgstr "Statistiky z tohoto období se kontrolují, aby se zjistilo, zda má zákazník nárok na určitou úroveň"
+
+msgctxt "SettingsOptions::client_tiers::upgrade_tier_option"
+msgid "Customer tier can upgrade"
+msgstr "Zákaznická úroveň se může upgradovat"
+
+msgctxt "SettingsOptions::client_tiers::automatic_downgrade"
+msgid "Tier check can downgrade customer's tier"
+msgstr "Kontrola úrovně může degradovat zákazníkovu úroveň "
+
+msgctxt "Languages::client_tiers.minimum_spend_value"
+msgid "Required spendings"
+msgstr "Nutné útraty"
+
+msgctxt "Languages::client_tiers.tooltip_minimum_spend_value"
+msgid "Set 0 if you don't want this user group to be assigned automatically. Otherwise, customer can get this user group after spending the specified sum during the reporting period set in the Client Tiers add-on."
+msgstr "Nastavte na 0, pokud nechcete tuto uživatelskou přiřazovat automaticky. Pokud tak neučiníte, zákazník po utracení určité částky během daného období dosáhne této uživatelské skupiny. Projděte si nastavení doplněk Úrovně klienta."
+
+msgctxt "Languages::client_tiers.bronze_level_customers"
+msgid "Bronze level customers"
+msgstr "Zákazníci na úrovni Bronze"
+
+msgctxt "Languages::client_tiers.silver_level_customers"
+msgid "Silver level customers"
+msgstr "Zákazníci na úrovni Silver"
+
+msgctxt "Languages::client_tiers.gold_level_customers"
+msgid "Gold level customers"
+msgstr "Zákazníci na úrovni Gold"
+
+msgctxt "Languages::client_tiers.client_success_set_tier"
+msgid "[username] spent [total] amount in reported period and moved to [new_group]"
+msgstr "[username] utratil částku [total] ve sledovaném období a byl přesunut do [new_group]"
+
+msgctxt "Languages::client_tiers.client_fail_set_new_tier"
+msgid "Couldn't assign user group [new_group] to customer with id [user_id]. Customer spent [total] in the reporting period, which is more than the required spendings for this user group."
+msgstr "Nešlo přiřadit uživatelskou skupinu [new_group] zákazníkovi s ID [user_id]. Zákazník utratil [total] ve sledovacím období, což je více, než bylo potřeba utratit pro tuto uživatelskou skupinu."
+
+msgctxt "Languages::client_tiers.client_fail_unset_old_tier"
+msgid "Couldn't remove user group [old_group] from customer with id [user_id]. With [total] spent in the reporting period, customer shouldn't be a part of this user group."
+msgstr "Nešlo odebrat uživatelskou skupinu [old_group] zákazníkovi s ID [user_id]. S útratou [total] ve sledovacím období by tento zákazník neměl být součástí této skupiny."
+
+msgctxt "Languages::client_tiers.client_success_unset_tier"
+msgid "Customer [username] was successfully removed from [old_group] due to [total] spent in reporting period."
+msgstr "Zákazník [username] byl úspěšně odstraněn z [old_group] kvůli útratě [total] za sledované období."
+
+msgctxt "Languages::log_type_client_tiers"
+msgid "Client Tiers"
+msgstr "Úrovně klienta"
+
+msgctxt "Languages::log_action_ct_success"
+msgid "Success"
+msgstr "Úspěch"
+
+msgctxt "Languages::log_action_ct_failure"
+msgid "Errors"
+msgstr "Chyby"
+
+msgctxt "Languages::client_tiers.previous_30_days"
+msgid "Previous 30 days"
+msgstr "Předešlých 30 dní"
+
+msgctxt "Languages::client_tiers.previous_month"
+msgid "Previous month"
+msgstr "Předchozí měsíc"
+
+msgctxt "Languages::client_tiers.previous_12_months"
+msgid "Previous 12 months"
+msgstr "Předchozích 12 měsíců"
+
+msgctxt "Languages::client_tiers.previous_year"
+msgid "Previous year"
+msgstr "Předchozí rok"
+
+msgctxt "Languages::client_tiers.after_completed_purchase"
+msgid "After the order is paid"
+msgstr "Potom, co je objednávka zaplacena"
+
+msgctxt "Languages::client_tiers.after_tier_check"
+msgid "After tier check only"
+msgstr "Pouze po kontrole úrovně"
+
+msgctxt "Languages::client_tiers.update_tiers"
+msgid "Tier check"
+msgstr "Kontrola úrovně"
+
+msgctxt "Languages::client_tiers.run_recalculation"
+msgid "Check customer tiers now"
+msgstr "Zkontrolovat uživatelské úrovně"
+
+msgctxt "Languages::client_tiers.run_tiers_updating_by_cron"
+msgid "Updating client tiers is the resource-intensive process. It's recommended to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+msgstr "Aktualizace zákaznických úrovní je náročný proces na systém. Je doporučeno ho spouštět v určitých časových intervalech. <br> Uděláte to tak, že následující příkaz přidáte do<a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cronu</a>:"
+
+msgctxt "Languages::client_tiers.all_been_recalculated"
+msgid "Tiers have been checked and updated"
+msgstr "Úrovně byly zkontrolovány a aktualizovány"
+
+msgctxt "Languages::client_tiers.silver_promotion"
+msgid "Silver tier promotion"
+msgstr "Povýšení úrovně Silver"
+
+msgctxt "Languages::client_tiers.bronze_promotion"
+msgid "Bronze tier promotion"
+msgstr "Povýšení úrovně Bronze"
+
+msgctxt "Languages::client_tiers.gold_promotion"
+msgid "Gold tier promotion"
+msgstr "Povýšení úrovně Gold"
+
+msgctxt "Languages::client_tiers.silver_promotion.detailed_description"
+msgid "Only Silver Level Customers are eligible for this promotion."
+msgstr "Pro toto povýšení jsou způsobilí pouze zákazníci úrovně Silver"
+
+msgctxt "Languages::client_tiers.silver_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Silver Level Customers."
+msgstr "Toto povýšení bylo vytvořeno automaticky jako část doplňku Úrovně klienta. Aplikuje se pouze na uživatele Silver úrovně."
+
+msgctxt "Languages::client_tiers.bronze_promotion.detailed_description"
+msgid "Only Bronze Level Customers are eligible for this promotion."
+msgstr "Pro toto povýšení jsou způsobilí pouze zákazníci úrovně Bronze"
+
+msgctxt "Languages::client_tiers.bronze_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Bronze Level Customers."
+msgstr "Toto povýšení bylo vytvořeno automaticky jako část doplňku Úrovně klienta. Aplikuje se pouze na uživatele Bronze úrovně."
+
+msgctxt "Languages::client_tiers.gold_promotion.detailed_description"
+msgid "Only Gold Level Customers are eligible for this promotion."
+msgstr "Pro toto povýšení jsou způsobilí pouze zákazníci úrovně Gold"
+
+msgctxt "Languages::client_tiers.gold_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Gold Level Customers."
+msgstr "Toto povýšení bylo vytvořeno automaticky jako část doplňku Úrovně klienta. Aplikuje se pouze na uživatele Gold úrovně."
+
+msgctxt "Languages::client_tiers.removed_from_old_group"
+msgid "Removed from user group"
+msgstr "Odebrat z uživatelské skupiny"
+
+msgctxt "Languages::client_tiers.moved_to_new_group"
+msgid "Moved to user group"
+msgstr "Přesunuto do uživatelské skupiny"
+
+msgctxt "Languages::client_tiers.installation_message"
+msgid "To help you get started, we have added user groups for Gold, Silver, and Bronze Level Customers, as well as corresponding promotions. Please check <a href=\"[user_groups]\" target=\"_blank\">user groups</a> and <a href=\"[promotions]\" target=\"_blank\">promotions</a>, and adjust them as needed. You can also delete them and create your own."
+msgstr "Aby se vám lépe začalo, přidali jsme uživatelské skupiny pro Gold, Silver a Bronze zákaznické úrovně a také odpovídající možnosti podpory. Podívejte se prosím na <a href=\"[user_groups]\" target=\"_blank\">uživatelské skupiny</a> a <a href=\"[promotions]\" target=\"_blank\">podporu</a> a nakonfigurujte tak, jak potřebujete. Můžete nastavení smazat a vytvořit vlastní."
+

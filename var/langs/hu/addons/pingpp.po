@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/pingpp.po\n"
+"X-Crowdin-File-ID: 4616\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::pingpp"
+msgid "Ping++ Payments"
+msgstr "Ping++ Fizetések"
+
+msgctxt "Addons::description::pingpp"
+msgid "Lets you accept payments via Alipay, WeChat, UnionPay, Fqlpay, Baifubao, Yeepay, Jdpay and QGBC"
+msgstr "Lehetővé teszi az Alipay, WeChat, UnionPay, Fqlpay, Baifubao, Yeepay, Jdpay és QGBC fizetési módok elfogadását."
+
+msgctxt "Languages::pingpp.pingpp"
+msgid "Ping++"
+msgstr "Ping++"
+
+msgctxt "Languages::pingpp.paying_with"
+msgid "Paying with [channel]"
+msgstr "Fizetés [channel] csatornával"
+
+msgctxt "Languages::pingpp.enable_cny_currency"
+msgid "To use the Ping++ payment method, you must have the Chinese yuan (CNY) currency enabled."
+msgstr "A Ping++ fizetési mód használatához a kínai jüan (CNY) pénznemnek engedélyezett státuszban kell lennie"
+
+msgctxt "Languages::pingpp.general_settings"
+msgid "General settings"
+msgstr "Általános beállítások"
+
+msgctxt "Languages::pingpp.channels"
+msgid "Payment channels"
+msgstr "Fizetési csatornák"
+
+msgctxt "Languages::channel"
+msgid "Channel"
+msgstr "Csatorna"
+
+msgctxt "Languages::pingpp.paid_at"
+msgid "Paid at [time]"
+msgstr "Fizetve [time] időpontban"
+
+msgctxt "Languages::pingpp.channels.alipay_qr.instructions"
+msgid "Open the <strong>Alipay</strong> application and scan the QR code to perform the payment. You will be redirected automatically after the payment will be received."
+msgstr "Nyisd meg a <strong>WeChat</strong> alkalmazást, és a fizetés végrehajtásához szkenneld be a QR-kódot. A fizetés beérkezése után automatikus átirányítás történik."
+
+msgctxt "Languages::pingpp.channels.wx_pub_qr.instructions"
+msgid "Open the <strong>WeChat</strong> application and scan the QR code to perform the payment. You will be redirected automatically after the payment will be received."
+msgstr "Nyisd meg a <strong>WeChat</strong> alkalmazást, és a fizetés végrehajtásához szkenneld be a QR-kódot. A fizetés beérkezése után automatikus átirányítás történik."
+
+msgctxt "Languages::pingpp.channels.wx_pub.instructions"
+msgid "Open this page in WeChat web browser to perform payment. You will be redirected automatically after the payment will be received."
+msgstr "Nyisd meg ezt az oldalt a WeChat webböngészőben a fizetés végrehajtásához. A fizetés beérkezése után automatikus átirányítás történik."
+
+msgctxt "Languages::pingpp.order"
+msgid "Order #[order_id]"
+msgstr "#[order_id] sz. megrendelés "
+
+msgctxt "Languages::pingpp.purchase_in"
+msgid "Purchase in [company]"
+msgstr "Vásárlás a [company] vállalatnál"
+
+msgctxt "Languages::pingpp.app_id"
+msgid "App ID"
+msgstr "Alkalmazás azonosítója"
+
+msgctxt "Languages::pingpp.api_key"
+msgid "API key"
+msgstr "API kulcs"
+
+msgctxt "Languages::pingpp.order_prefix"
+msgid "Order number prefix"
+msgstr "Rendelésszám előtag"
+
+msgctxt "Languages::pingpp.wx_settings"
+msgid "WeChat settings"
+msgstr "WeChat beállítások"
+
+msgctxt "Languages::pingpp.wx_app_id"
+msgid "App ID"
+msgstr "Alkalmazás azonosítója"
+
+msgctxt "Languages::pingpp.wx_app_secret"
+msgid "App secret"
+msgstr ""
+
+msgctxt "Languages::pingpp.scope.pc"
+msgid "Available on PC"
+msgstr "Elérhető PC-n"
+
+msgctxt "Languages::pingpp.scope.mobile"
+msgid "Available on mobile phones"
+msgstr "Elérhető mobiltelefonon"
+
+msgctxt "Languages::pingpp.scope.wx"
+msgid "Available in WeChat browser"
+msgstr "Elérhető a WeChat böngészőben"
+
+msgctxt "Languages::pingpp.channel.alipay_wap"
+msgid "Alipay Mobile"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.alipay_qr"
+msgid "Alipay QR code"
+msgstr "Alipay QR-kód"
+
+msgctxt "Languages::pingpp.channel.alipay_pc_direct"
+msgid "Alipay PC"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.wx_pub"
+msgid "WeChat"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.wx_wap"
+msgid "WeChat Mobile"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.wx_lite"
+msgid "WeChat Lite"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.wx_pub_qr"
+msgid "WeChat QR code"
+msgstr "WeChat QR-kód"
+
+msgctxt "Languages::pingpp.channel.bfb_wap"
+msgid "Baifubao Mobile"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.cp_b2b"
+msgid "Chinapay B2B"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.upacp_wap"
+msgid "China Unionpay Mobile"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.upacp_pc"
+msgid "China Unionpay PC"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.yeepay_wap"
+msgid "Yeepay"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.jdpay_wap"
+msgid "Jdpay"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.fqlpay_wap"
+msgid "Fqlpay"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.qgbc_wap"
+msgid "QGBC"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.product_category"
+msgid "Product category"
+msgstr "Termékkategória"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.identity_id"
+msgid "Identity ID"
+msgstr "Azonosító ID"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.identity_type"
+msgid "Identity type"
+msgstr "Azonosító típusa"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_type"
+msgid "Terminal type"
+msgstr "Terminál típusa"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_type.variants.0"
+msgid "IMEI"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_type.variants.1"
+msgid "MAC"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_type.variants.2"
+msgid "UUID"
+msgstr ""
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_type.variants.3"
+msgid "Other"
+msgstr "Egyéb"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_id"
+msgid "Terminal ID"
+msgstr "Terminál azonosítója"
+
+msgctxt "Languages::pingpp.channel.fqlpay_wap.settings.c_merch_id"
+msgid "Merchant ID"
+msgstr "Kereskedő azonosítója"
+
+msgctxt "Languages::pingpp.channel.qgbc_wap.settings.phone"
+msgid "Mobile phone number"
+msgstr "Mobil telefonszám"
+
+msgctxt "Languages::pingpp.payment_channel_is_not_selected"
+msgid "A payment channel must be selected to place the order"
+msgstr "A megrendelés leadásához fizetési csatornát kell választani  "
+
+msgctxt "Languages::pingpp.online_store"
+msgid "online store"
+msgstr "online piactér"
+
+msgctxt "Languages::pingpp.order_prefix_characters"
+msgid "The prefix must contain 7–10 alphanumeric characters."
+msgstr "Az előtagnak 7-10 alfanumerikus karaktert kell tartalmaznia."
+

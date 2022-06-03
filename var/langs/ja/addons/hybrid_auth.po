@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.13.2/addons/hybrid_auth.po\n"
+"X-Crowdin-File-ID: 4580\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::hybrid_auth"
+msgid "Social login"
+msgstr "ソーシャルログイン"
+
+msgctxt "Addons::description::hybrid_auth"
+msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
+msgstr "FacebookやTwitterなどのユーザー情報を利用したログイン機能を提供します"
+
+msgctxt "SettingsSections::hybrid_auth::general"
+msgid "General"
+msgstr "基本設定"
+
+msgctxt "SettingsOptions::hybrid_auth::icons_pack"
+msgid "Icons pack"
+msgstr "アイコンパック"
+
+msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
+msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
+msgstr "SNSアイコン用パックです。アイコンパックのパス : media/images/addons/addons/hybrid_auth/icons/"
+
+msgctxt "SettingsOptions::hybrid_auth::autogen_email"
+msgid "Autogeneration email"
+msgstr "Eメールアドレスの自動生成（非推奨）"
+
+msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
+msgid "Enables the email auto generation in case that a social network does not pass the address."
+msgstr "SNSサービスからEメールアドレスを取得できない場合に仮のEメールアドレスを自動生成します。（非推奨）"
+
+msgctxt "Languages::hybrid_auth"
+msgid "Social login"
+msgstr "ソーシャルログイン"
+
+msgctxt "Languages::hybrid_auth.linked_provider"
+msgid "Linked"
+msgstr "接続済み"
+
+msgctxt "Languages::hybrid_auth.not_linked_provider"
+msgid "Not linked"
+msgstr "未接続"
+
+msgctxt "Languages::hybrid_auth.providers"
+msgid "Providers"
+msgstr "SNSプロバイダ"
+
+msgctxt "Languages::hybrid_auth.add_provider"
+msgid "Add provider"
+msgstr "SNSプロバイダの追加"
+
+msgctxt "Languages::hybrid_auth.new_provider"
+msgid "New provider"
+msgstr "SNSプロバイダの追加"
+
+msgctxt "Languages::hybrid_auth.editing_provider"
+msgid "Editing provider"
+msgstr "SNSプロバイダの編集"
+
+msgctxt "Languages::hybrid_auth.callback_url"
+msgid "Callback URL"
+msgstr "コールバックURL"
+
+msgctxt "Languages::hybrid_auth.social_login"
+msgid "Or sign-in with another identity provider"
+msgstr "以下のサービスのIDを利用してログイン"
+
+msgctxt "Languages::hybrid_auth.unspecified_error"
+msgid "Unspecified error"
+msgstr "不明なエラー"
+
+msgctxt "Languages::hybrid_auth.configuration_error"
+msgid "Hybriauth configuration error"
+msgstr "ソーシャルログイン設定エラー"
+
+msgctxt "Languages::hybrid_auth.provider_error_configuration"
+msgid "Provider not properly configured"
+msgstr "SNSプロバイダが正しく設定されていません"
+
+msgctxt "Languages::hybrid_auth.wrong_provider"
+msgid "Unknown or disabled provider"
+msgstr "不明または無効なSNSプロバイダ"
+
+msgctxt "Languages::hybrid_auth.missing_credentials"
+msgid "Missing provider application credentials"
+msgstr "SNSプロバイダへの接続情報が見つかりません"
+
+msgctxt "Languages::hybrid_auth.failed_auth"
+msgid "Authentication failed. The user has canceled the authentication or the provider refused the connection"
+msgstr "お客様による認証手続きキャンセルまたSNSプロバイダにより接続が拒否されたため認証に失敗しました。"
+
+msgctxt "Languages::hybrid_auth.connecting_provider"
+msgid "Contacting <b>[provider]</b>. Please wait..."
+msgstr "<b>[provider]</b> に接続しています。しばらくお待ちください..."
+
+msgctxt "Languages::hybrid_auth.cant_create_profile"
+msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
+msgstr "以下の理由により会員登録およびログインに失敗しました :<br />- 同じEメールを使用している他のSNSプロバイダのIDを利用して当ショップに会員登録済み<br />- 通常の手順で当ショップにすでに会員登録済み<br />詳細についてはお手数ですが当ショップの管理者までお問い合わせください。"
+
+msgctxt "Languages::hybrid_auth.password_generated"
+msgid "We are glad to inform you that you have been successfully registered in the store. A password was generated for you"
+msgstr "お客様の会員登録が完了しました。Eメールとパスワードでログインする場合にはこちらのパスワードをご利用ください"
+
+msgctxt "Languages::hybrid_auth.change_password"
+msgid "You can change your password here"
+msgstr "パスワードはこちらから変更いただけます"
+
+msgctxt "Languages::hybrid_auth.link_provider"
+msgid "Social network accounts"
+msgstr "SNSアカウント"
+
+msgctxt "Languages::hybrid_auth.text_link_provider"
+msgid "Assign your social network account to this one and use it to log in"
+msgstr "指定したSNSサービスの会員情報を利用したログインが可能になります。"
+
+msgctxt "Languages::hybrid_auth.text_user_is_already_link"
+msgid "This social network account is already being used"
+msgstr "指定したSNSサービスのアカウントはすでに他の会員情報に関連づけられています"
+
+msgctxt "Languages::hybrid_auth.connect_social"
+msgid "Connect social account"
+msgstr "SNSサービスと会員アカウントの関連付け"
+
+msgctxt "Languages::hybrid_auth.connect_social_title"
+msgid "Such user already exists"
+msgstr "既存の会員アカウントとの関連付けが必要です"
+
+msgctxt "Languages::hybrid_auth.text_connect_social"
+msgid "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
+msgstr "<p>ご指定のSNSサービスで利用しているEメールアドレスですでに会員登録が行われています。</p><p>SNSサービスを利用して既存の会員アカウントへのログインを可能するにはEメールアドレスとパスワードを入力して会員アカウントとSNSサービスの関連付けを行ってください。</p><p>※ この関連付け作業は次回からは発生しません。</p>"
+
+msgctxt "Languages::hybrid_auth.specify_email"
+msgid "Specify email"
+msgstr "Eメールアドレスの登録"
+
+msgctxt "Languages::hybrid_auth.specify_email_title"
+msgid "The e-mail was not specified."
+msgstr "Eメールアドレスの登録が必要です。"
+
+msgctxt "Languages::hybrid_auth.text_specify_email"
+msgid "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
+msgstr "<p>SNSサービスを利用したログインの際にEメールアドレスを取得できませんでした。</p><p>Eメールアドレスを入力して「続ける」ボタンをクリックしてください。</p>"
+
+msgctxt "Languages::hybrid_auth_menu_description"
+msgid "Create social provider"
+msgstr "ソーシャルログイン機能を提供するSNSプロバイダを管理します。"
+
+msgctxt "Languages::public_key"
+msgid "Public key"
+msgstr "公開鍵"
+
+msgctxt "Languages::paypal_seamless"
+msgid "Use seamless checkout"
+msgstr "シームレスチェックアウトの利用"
+
+msgctxt "Languages::paypal_sandbox"
+msgid "Test mode"
+msgstr "テストモード"
+
+msgctxt "Languages::privileges.manage_providers"
+msgid "Can edit"
+msgstr "編集"
+
+msgctxt "Languages::privileges.view_providers"
+msgid "Can view"
+msgstr "閲覧"
+
+msgctxt "Languages::privilege_groups.social_login"
+msgid "Social login"
+msgstr "ソーシャルログイン"
+
+msgctxt "Languages::hybrid_auth.instruction_facebook"
+msgid "Use the application ID and Secret key that you've received after creating an application on <a href='https://developers.facebook.com/apps' target='_blank'>Facebook Developers</a>."
+msgstr "<a href='https://developers.facebook.com/apps' target='_blank'>Facebook Developers</a> でアプリ作成後に発行されるアプリケーションIDとシークレットキーを登録してください。"
+
+msgctxt "Languages::hybrid_auth.instruction_facebook_login"
+msgid "Use the application ID and Secret key that you've received after creating an application on <a href=\"https://developers.facebook.com/apps\" target=\"_blank\">Facebook Developers</a>. After that copy the value of the <b>Valid OAuth redirect URIs</b> field to the corresponding setting of the <b>Facebook Login</b> product in your Facebook application."
+msgstr "<a href=\"https://developers.facebook.com/apps\" target=\"_blank\">Facebook Developers</a> 上でアプリ作成後に発行されるIDとシークレットキーを登録してください。 <b>有効なOAuthリダイレクトURI</b> を Facebook アプリの <b>Facebookログイン</b>の設定にある同名のテキストボックスにコピーしてください。"
+
+msgctxt "Languages::hybrid_auth.instruction_google"
+msgid "Use ID and Secret key that you've received after creating a project on <a href='https://code.google.com/apis/console/?pli=1' target='_blank'>Google</a>."
+msgstr "<a href='https://code.google.com/apis/console/?pli=1' target='_blank'>Google</a> でプロジェクト作成後に発行されるIDとシークレットキーを登録してください。"
+
+msgctxt "Languages::hybrid_auth.instruction_paypal"
+msgid "Use the application ID and Secret key that you've received after creating an application on <a href='https://developer.paypal.com/developer/applications' target='_blank'>PayPal Developers</a>."
+msgstr "<a href='https://developer.paypal.com/developer/applications' target='_blank'>PayPal Developers</a> でアプリ作成後に発行されるアプリケーションIDとシークレットキーを登録してください。"
+
+msgctxt "Languages::hybrid_auth.instruction_twitter"
+msgid "Use ID (Consumer key) and Secret key that you've received after creating an application on <a href='https://apps.twitter.com/' target='_blank'>Twitter</a>."
+msgstr "<a href='https://apps.twitter.com/' target='_blank'>Twitter</a> でアプリ作成後に発行されるID（カスタマーキー）とシークレットキーを登録してください。"
+
+msgctxt "Languages::hybrid_auth.instruction_yahoo"
+msgid "Use ID (Identificator) and Secret key that you've received after creating an application on <a href='https://developer.yahoo.com/apps/create/' target='_blank'>Yahoo</a>."
+msgstr "<a href='https://developer.yahoo.com/apps/create/' target='_blank'>Yahoo</a> でアプリケーション作成後に発行されるアプリケーションID とシークレットキーを登録してください。"
+
+msgctxt "Languages::hybrid_auth.instruction_live"
+msgid "Use the application ID and Secret key that you've received after adding an application on <a href='https://account.live.com/developers/applications/create' target='_blank'>Live</a>."
+msgstr "<a href='https://account.live.com/developers/applications/create' target='_blank'>Live</a> でアプリ作成後に発行されるアプリケーションIDとシークレットキーを登録してください。"
+
+msgctxt "Languages::hybrid_auth.instruction_linkedin"
+msgid "Use ID (Consumer key) and Secret key that you've received after creating an application on <a href='https://www.linkedin.com/developer/apps' target='_blank'>LinkedIn Developers</a>."
+msgstr "<a href='https://www.linkedin.com/developer/apps' target='_blank'>LinkedIn Developers</a> でアプリ作成後に発行されるID（カスタマーキー）とシークレットキーを登録してください。"
+
+msgctxt "Languages::hybrid_auth.instruction_foursquare"
+msgid "Use the application ID and Secret key that you've received after creating an application on <a href='https://foursquare.com/developers/apps' target='_blank'>Fousquare</a>."
+msgstr "<a href='https://foursquare.com/developers/apps' target='_blank'>Fousquare</a> でアプリ作成後に発行されるアプリケーションIDとシークレットキーを登録してください。"
+
+msgctxt "Languages::email_template.hybrid_auth_create_profile"
+msgid "Create user profile via social login"
+msgstr "ソーシャルログイン経由での会員登録"
+
+msgctxt "Languages::hybrid_auth.provider_not_found"
+msgid "Provider [provider] not found"
+msgstr "[provider] プロバイダが見つかりませんでした"
+
+msgctxt "Languages::hybrid_auth.facebook_disabled_upgrade_notification_title"
+msgid "Social Login: Sign-ins via Facebook have been disabled due to an old PHP version"
+msgstr "ソーシャルログイン: PHPのバージョンが古いため Facebook のログインが無効化されました"
+
+msgctxt "Languages::hybrid_auth.facebook_disabled_upgrade_notification_text"
+msgid "<p>We had to move to a newer version of Facebook API, because the API version that we used previously is no longer supported. However, to work with the new API, [product] requires PHP 5.4. You are seeing this message because your server has an older PHP version.</p><p>The status of the <b>Facebook</b> provider under <b>Website → Social login</b> has been set to <i>Disabled</i>.</p><p>Please update your PHP version to 5.4 or higher before you re-enable Facebook.</p>"
+msgstr "<p>これまで使用していた Facebook API のバージョンはもうサポートされていないため、新しい Facebook API のバージョンに移行する必要がありました。しかし、新しい API を使用するためには、[product] は PHP 5.4 を必要とします。 ご利用のサーバーが古いバージョンの PHP を使用しているため、このメッセージが表示されています。</p><p><b>ウェブサイト → ソーシャルログイン</b>にある <b>Facebook</b> プロバイダのステータスは<i>無効</i>に設定されています。</p><p>再度 <b>Facebook</b> プロバイダのステータスを有効にする前に、ご利用のサーバーの PHP のバージョンを 5.4 あるいはそれ以上に更新してください。</p>"
+
+msgctxt "Languages::hybrid_auth.facebook_oauth_redirect_uris"
+msgid "Valid OAuth redirect URIs"
+msgstr "有効なOAuthリダイレクトURI"
+
+msgctxt "Languages::hybrid_auth.live_redirect_urls"
+msgid "Redirect URLs"
+msgstr "リダイレクトURL"
+
+msgctxt "Languages::hybrid_auth.linkedin_api_version"
+msgid "API version"
+msgstr "API バージョン"
+
+msgctxt "Languages::ttc_hybrid_auth.linkedin_api_version"
+msgid "LinkedIn <a target=\"_blank\" href=\"https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/migration-faq?context=linkedin/consumer/context\">deprecated API v1</a>, but old apps still use it. If you're configuring LinkedIn app for the first time now, use API v2. Old LinkedIn apps configured some time ago may still be using v1."
+msgstr "LinkedIn <a target=\"_blank\" href=\"https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/migration-faq?context=linkedin/consumer/context\">API v1</a> は古いアプリでまだ使用されています。はじめて LinkedIn アプリを設定する場合は API v2 を使用してください。"
+
+msgctxt "Languages::hybrid_auth.linkedin_api_v1"
+msgid "v1"
+msgstr "v1"
+
+msgctxt "Languages::hybrid_auth.linkedin_api_v2"
+msgid "v2"
+msgstr "v2"
+
+msgctxt "Languages::hybrid_auth.instruction_paypal_application"
+msgid "Use the application ID and Secret key that you've received after creating an application on <a href='https://developer.paypal.com/developer/applications' target='_blank'>PayPal Developers</a>. Please enable all Personal Profile scope attributes and at least one scope attribute in Address and in Account Information in your PayPal application settings."
+msgstr "<a href='https://developer.paypal.com/developer/applications' target='_blank'> PayPal Developers </a>でアプリケーションを作成した後に受け取ったアプリケーションIDとシークレットキーを使用します。 PayPalアプリケーション設定のアドレスとアカウント情報の、すべてのPersonal Profileのスコープと少なくとも1つのスコープを有効にしてください。"
+

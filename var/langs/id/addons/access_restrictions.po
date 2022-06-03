@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/access_restrictions.po\n"
+"X-Crowdin-File-ID: 4514\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::access_restrictions"
+msgid "Access restrictions"
+msgstr "Kamu udah makan say"
+
+msgctxt "Addons::description::access_restrictions"
+msgid "Lets you limit storefront and administrator area access to certain IP-addresses with different options"
+msgstr "Live a collection of short stories, when have you turned the pages do not let the same figure appear o"
+
+msgctxt "Languages::access_restrictions"
+msgid "Access restrictions"
+msgstr "Live a collection of short stories, when have you turned the pages do not let the same figure appear on the next sheet"
+
+msgctxt "Languages::add_ips"
+msgid "Add IPs"
+msgstr "Tambah IP"
+
+msgctxt "Languages::new_ips"
+msgid "New IPs"
+msgstr "IP Baru"
+
+msgctxt "Languages::add_domains"
+msgid "Add domains"
+msgstr "Tambahkan domain"
+
+msgctxt "Languages::new_domains"
+msgid "New domains"
+msgstr "Domain baru"
+
+msgctxt "Languages::add_emails"
+msgid "Add e-mail addresses"
+msgstr "Tambah alamat e-mail"
+
+msgctxt "Languages::new_emails"
+msgid "New e-mail addresses"
+msgstr "Alamat e-mail baru"
+
+msgctxt "Languages::new_credit_card"
+msgid "New credit card"
+msgstr "Kartu Kredit Baru"
+
+msgctxt "Languages::add_credit_card"
+msgid "Add credit card"
+msgstr "Tambah kartu kredit"
+
+msgctxt "Languages::privileges.manage_access_restrictions"
+msgid "Can edit"
+msgstr "Dapat mengedit"
+
+msgctxt "Languages::privilege_groups.access_restrictions"
+msgid "Access restrictions"
+msgstr "Batasan akses"
+
+msgctxt "Languages::domain"
+msgid "Domain"
+msgstr "Domain"
+
+msgctxt "Languages::warning_of_ip_adding"
+msgid "The entered IP address <b>[entered_ip]</b> forbids access to the administration panel from your computer (your IP is <b>[your_ip]</b>)."
+msgstr "Alamat IP yang dimasukkan <b>[entered_ip]</b> melarang akses ke panel pentadbir dari komputer anda (IP anda adalah <b>[your_ip]</b>)."
+
+msgctxt "Languages::text_cc_number_is_blocked"
+msgid "The credit card number <b>[cc_number]</b> is blocked by the administrator. Please contact the store administrator or try another one."
+msgstr "Nombor kartu kredit <b>[cc_number]</b> ditahan oleh admin. Silakan hubungi admin atau coba yang lain."
+
+msgctxt "Languages::text_not_valid_ip"
+msgid "<b>[ip]</b> is not a valid ip address."
+msgstr "<b>[ip]</b> bukanlah sebuah alamat Ip yang sah."
+
+msgctxt "Languages::text_not_valid_domain"
+msgid "<b>[domain]</b> is not a valid domain name."
+msgstr "<b>[domain]</b> bukanlah nama domain yang sah."
+
+msgctxt "Languages::text_not_valid_cc_number"
+msgid "<b>[cc_number]</b> is not a valid credit card number."
+msgstr "<b>[cc_number]</b> bukanlah nombor kad kredit yang sah."
+
+msgctxt "Languages::text_email_is_blocked"
+msgid "The e-mail address <b>[email]</b> is blocked by the administrator. Please contact the store administrator or try another one."
+msgstr "Alamat e-mail <b>[email]</b> ditahan oleh admin. Silahkan hubungi admin atau coba yang lain."
+
+msgctxt "Languages::text_ips_denied"
+msgid "You are not allowed to access this area"
+msgstr "Anda dilarang untuk mengakses kawasan ini"
+
+msgctxt "Languages::text_ip_blocked_failed_login"
+msgid "The IP was blocked after [number] unsuccessful logins"
+msgstr "IP ditahan setelah login tidak berhasil sebanyak [number]"
+
+msgctxt "Languages::text_ip_is_blocked"
+msgid "Your IP address is blocked."
+msgstr "Alamat IP anda di blokir."
+
+msgctxt "Languages::store_admin"
+msgid "Store administrator"
+msgstr "Admin Toko"
+
+msgctxt "Languages::your_ip_added"
+msgid "Your IP address <b>[ip]</b> has been added to the access restrictions table."
+msgstr "Alamat IP anda <b>[ip]</b> telah ditambahkan ke dalam jadual pembatasan akses."
+
+msgctxt "Languages::your_ip_enabled"
+msgid "Your IP address <b>[ip]</b> has been enabled in the access restrictions table."
+msgstr "Alamat IP Anda <b>[ip]</b> telah diaktifkan dalam tabel pembatasan akses."
+
+msgctxt "Languages::your_ip_removed"
+msgid "Your IP address <b>[ip]</b> has been removed from the access restrictions table."
+msgstr "Alamat IP Anda <b>[ip]</b> telah dihapus dari tabel pembatasan akses."
+
+msgctxt "Languages::ip_from"
+msgid "IP from"
+msgstr "IP dari"
+
+msgctxt "Languages::ip_to"
+msgid "IP to"
+msgstr "IP untuk"
+
+msgctxt "Languages::text_access_notice"
+msgid "You can use the wildcards for the \"Domain\", \"E-mail\" and \"Credit Card\" tabs: <br /><b>*</b> - can represent any number of characters, including zero<br /><b>?</b> - can represent any single character."
+msgstr "Anda boleh menggunakan wildcard untuk tab \"Domain\", \"E-mel\", dan \"Kad kredit\": <br/<b>*</b> - mengatakan boleh mewakili jumlah karakter, termasuk kosong <br/<b>?</b> - boleh mewakili setiap karakter tunggal."
+
+msgctxt "Languages::ips"
+msgid "IPs"
+msgstr "IPs"
+
+msgctxt "Languages::make_permanent"
+msgid "Make permanent"
+msgstr "Buat permanen"
+
+msgctxt "Languages::credit_card_number"
+msgid "Credit card number"
+msgstr "Nomor kartu kredit"
+
+msgctxt "SettingsSections::access_restrictions::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::access_restrictions::elm_administrator_area_settings"
+msgid "Administrator area settings"
+msgstr "Pengaturan wilayah administrator"
+
+msgctxt "SettingsOptions::access_restrictions::admin_reverse_ip_access"
+msgid "Allow login to the admin area from specified IPs only"
+msgstr "Mebolehkan login ke kawasan pentadbir dari IP yang telah ditetapkan"
+
+msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login"
+msgid "Block IP after a number of unsuccessful attempts"
+msgstr "Blokir IP setelah beberapa kali gagal mencoba"
+
+msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts"
+msgid "Number of unsuccessful attempts"
+msgstr "Jumlah kegagalan mencoba"
+
+msgctxt "SettingsOptions::access_restrictions::login_intervals"
+msgid "Time between unsuccessful login attempts (seconds)"
+msgstr "Waktu diantara gagal login (saat)"
+
+msgctxt "SettingsOptions::access_restrictions::time_block"
+msgid "Time for which the IP should be blocked (hours)"
+msgstr "Waktu pemblokiran IP (jam)"
+
+msgctxt "SettingsOptions::access_restrictions::elm_customer_and_affiliate_area_settings"
+msgid "Customer area settings"
+msgstr "Pengaturan wilayah pelanggan"
+
+msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login_customer"
+msgid "Block IP after a number of unsuccessful attempts"
+msgstr "Blokir IP setelah beberapa kali gagal mencoba"
+
+msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts_customer"
+msgid "Number of unsuccessful attempts"
+msgstr "Jumlah kegagalan mencoba"
+
+msgctxt "SettingsOptions::access_restrictions::login_intervals_customer"
+msgid "Time between unsuccessful login attempts (seconds)"
+msgstr "Waktu diantara gagal login (saat)"
+
+msgctxt "SettingsOptions::access_restrictions::time_block_customer"
+msgid "Time for which the IP should be blocked (hours)"
+msgstr "Waktu pemblokiran IP (jam)"
+

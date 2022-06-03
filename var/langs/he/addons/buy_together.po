@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/buy_together.po\n"
+"X-Crowdin-File-ID: 4534\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::buy_together"
+msgid "Buy together"
+msgstr "קנה משותפת"
+
+msgctxt "Addons::description::buy_together"
+msgid "Allows you to set up share discounts on certain product combinations"
+msgstr "מאפשר לך להגדיר שיתוף הנחות צירופים מסוימים של המוצר"
+
+msgctxt "Languages::buy_together"
+msgid "Buy together"
+msgstr "קניה משותפת"
+
+msgctxt "Languages::specify_options"
+msgid "Specify options"
+msgstr "ציין אפשרויות"
+
+msgctxt "Languages::total_list_price"
+msgid "Total list price"
+msgstr "סך הכל מחיר לפני הנחה"
+
+msgctxt "Languages::price_for_all"
+msgid "Price for all"
+msgstr "מחיר לעסקת חבילה"
+
+msgctxt "Languages::add_all_to_cart"
+msgid "Add all to cart"
+msgstr "הוסף את כל המוצרים לעגלה"
+
+msgctxt "Languages::editing_combination"
+msgid "Editing combination"
+msgstr "עריכת שילוב"
+
+msgctxt "Languages::buy_together_calculation_information"
+msgid "Total price: [total_price], Discount: [discount], Combination price: [combination_price]"
+msgstr "המחיר הכולל: [total_price], הנחה: [discount], המחיר המשולב: [combination_price]"
+
+msgctxt "Languages::display_in_promotions"
+msgid "Display in promotions"
+msgstr "הצג בקידומי מכירות"
+
+msgctxt "Languages::combination_products"
+msgid "Combination products"
+msgstr "שילוב מוצרים"
+
+msgctxt "Languages::share_discount"
+msgid "Share discount"
+msgstr "שתף הנחה"
+
+msgctxt "Languages::buy_together_is_not_compatible_with_configurator"
+msgid "[product_name] cannot be added to combination. Buy together is not compatible with the Product configurator add-on"
+msgstr "[product_name] לא יכול להיות מוסף לקומבינציה. קנייה משותפת לא תואמת לאד-און תצורת המוצר"
+
+msgctxt "Languages::buy_together_is_not_compatible_with_recurring_billing"
+msgid "[product_name] cannot be added to combination. Buy together is not compatible with the Recurring billing add-on"
+msgstr "[product_name] לא יכול להיות מוסף לקומבינציה. קנייה משותפת לא תואמת לאד-און חיוב חוזר"
+
+msgctxt "Languages::buy_together_combination_cannot_be_added"
+msgid "Combination cannot be added to cart"
+msgstr "לא ניתן להוסיף שילוב לסל"
+
+msgctxt "Languages::buy_together_product_was_removed"
+msgid "[product] did not have enough amount ([amount]) and was removed from the cart"
+msgstr "לא קיימים ([amount]) פריטים מהמוצר [product] ולכן המוצר הוסר מהעגלה"
+
+msgctxt "Languages::buy_together_fill_the_mandatory_fields"
+msgid "Please specify product options before adding this product combination to the cart."
+msgstr "נא ציין את האפשרויות של המוצר לפני הוספת שילוב של מוצר זה העגלה."
+
+msgctxt "Languages::buy_together_info_message_for_mve"
+msgid "Only vendors can add product combinations. To add a combination, first <a class=\"buy-together-js-company-switcher\" data-ca-switcher-company-id=\"[company_id]\" data-ca-switcher-param-name=\"company_id\" data-ca-switcher-product-id=\"[product_id]\">log in as vendor</a>."
+msgstr ""
+
+msgctxt "Languages::buy_together_info_message"
+msgid "To add a combination, first <a class=\"buy-together-js-storefront-switcher\" data-ca-switcher-storefront-id=\"[storefront_id]\" data-ca-switcher-param-name=\"switch_company_id\" data-ca-switcher-product-id=\"[product_id]\">select the storefront</a>."
+msgstr ""
+

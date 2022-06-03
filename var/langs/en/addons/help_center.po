@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::help_center"
+msgid "Help center"
+msgstr "Help center"
+
+msgctxt "Addons::description::help_center"
+msgid "Adds a help button with links to relevant documentation and/or videos to various pages in the admin panel."
+msgstr "Adds a help button with links to relevant documentation and/or videos to various pages in the admin panel."
+
+msgctxt "Languages::help_center.help"
+msgid "Help"
+msgstr "Help"
+
+msgctxt "Languages::help_center.see_all_n_results"
+msgid "See all [n] results..."
+msgstr "See all [n] results..."

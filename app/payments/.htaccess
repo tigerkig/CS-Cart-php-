@@ -1,0 +1,21 @@
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+
+<IfModule !mod_authz_core.c>
+    Order Deny,Allow
+    Deny from all
+</IfModule>
+
+<Files ~ "^.*\.php">
+    <IfModule mod_authz_core.c>
+        Require all granted
+    </IfModule>
+
+    <IfModule !mod_authz_core.c>
+        Order Deny,Allow
+        Allow from all
+    </IfModule>
+</Files>
+
+Options -Indexes

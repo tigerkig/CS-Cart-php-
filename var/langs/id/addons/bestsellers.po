@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/bestsellers.po\n"
+"X-Crowdin-File-ID: 4528\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::bestsellers"
+msgid "Bestsellers & On-Sale Products"
+msgstr "Penjualan terbaik & Pada produk yang dijual"
+
+msgctxt "Addons::description::bestsellers"
+msgid "Collects best selling & on sale product data and adds block fillings to show such products"
+msgstr "Koleksi terlaris & pada penjualan data produk menambahkan beberapa blok untuk menunjukkan produk tersebut"
+
+msgctxt "Languages::sort_by_bestsellers_asc"
+msgid "Sort by Bestselling: Low to High"
+msgstr "Urut berdasarkan posisi: Rendah - Tinggi"
+
+msgctxt "Languages::sort_by_bestsellers_desc"
+msgid "Sort by Bestselling"
+msgstr "Urutkan berdasarkan terlaris"
+
+msgctxt "Languages::sort_by_on_sale_asc"
+msgid "Sort by discount: Low to High"
+msgstr "Urut berdasarkan harda: Rendah - Tinggi"
+
+msgctxt "Languages::sort_by_on_sale_desc"
+msgid "Sort by discount: High to Low"
+msgstr "Urut berdasar Posisi: Tinggi - Rendah"
+
+msgctxt "Languages::sales_amount"
+msgid "Sales amount"
+msgstr "Jumlah penjualan"
+
+msgctxt "Languages::bestselling"
+msgid "Bestselling"
+msgstr "Terlaris"
+
+msgctxt "Languages::on_sale"
+msgid "On sale"
+msgstr "Dijual"
+
+msgctxt "Languages::similar"
+msgid "Similar"
+msgstr "Serupa"
+
+msgctxt "Languages::percent_range"
+msgid "Price range (in % of the main product's price)"
+msgstr "Kisaran harga (dalam % dari harga produk utama)"
+
+msgctxt "Languages::similar_category"
+msgid "Of the same category"
+msgstr "Dari kategori yang sama"
+
+msgctxt "Languages::similar_subcats"
+msgid "Consider subcategories"
+msgstr "Pertimbangkan subkategori"
+
+msgctxt "Languages::similar_in_stock"
+msgid "Only \"in stock\" products"
+msgstr "Hanya \"dalam stok\" produk"
+
+msgctxt "Languages::final_sale"
+msgid "Final sale"
+msgstr "Penjualan akhir"
+
+msgctxt "SettingsSections::bestsellers::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsSections::bestsellers::newest"
+msgid "Newest"
+msgstr "Terbaru"
+
+msgctxt "SettingsOptions::bestsellers::final_sale_from"
+msgid "Minimum final sale discount (%)"
+msgstr "Diskon penjualan akhir minimal (%)"
+
+msgctxt "SettingsOptions::bestsellers::sales_amount_from"
+msgid "Minimum sales amount to define bestsellers"
+msgstr "Minimal penjualan untuk menentukan yang terlaris"
+
+msgctxt "SettingsOptions::bestsellers::period"
+msgid "Period"
+msgstr "Periode"
+
+msgctxt "SettingsOptions::bestsellers::last_days"
+msgid "Last days"
+msgstr "Beberapa hari terakhir"
+
+msgctxt "SettingsVariants::bestsellers::period::all"
+msgid "All days"
+msgstr "Semua hari"
+
+msgctxt "SettingsVariants::bestsellers::period::today"
+msgid "Today"
+msgstr "Hari Ini"
+
+msgctxt "SettingsVariants::bestsellers::period::last_days"
+msgid "Last days"
+msgstr "Hari Terakhir"
+

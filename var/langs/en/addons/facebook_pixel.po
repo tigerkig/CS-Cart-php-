@@ -1,0 +1,33 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::facebook_pixel"
+msgid "Facebook Pixel"
+msgstr "Facebook Pixel"
+
+msgctxt "Addons::description::facebook_pixel"
+msgid "Integrates a Facebook Pixel with the store"
+msgstr "Integrates a Facebook Pixel with the store"
+
+msgctxt "SettingsSections::facebook_pixel::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::facebook_pixel::pixel_id"
+msgid "Facebook Pixel Identifier"
+msgstr "Facebook Pixel Identifier"
+
+msgctxt "SettingsOptions::facebook_pixel::track_all_page_views"
+msgid "Track all page views"
+msgstr "Track all page views"
+
+msgctxt "SettingsOptions::facebook_pixel::track_add_to_cart"
+msgid "Track adding product to cart"
+msgstr "Track adding product to cart"
+
+msgctxt "SettingsOptions::facebook_pixel::track_order_placed"
+msgid "Track placing order"
+msgstr "Track placing order"

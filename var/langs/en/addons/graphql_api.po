@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::graphql_api"
+msgid "GraphQL API"
+msgstr "GraphQL API"
+
+msgctxt "Addons::description::graphql_api"
+msgid "Provides administrators and vendors with the ability to manage products via GraphQL API endpoint"
+msgstr "Provides administrators and vendors with the ability to manage products via GraphQL API endpoint"

@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/discussion.po\n"
+"X-Crowdin-File-ID: 4550\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::discussion"
+msgid "Comments and reviews"
+msgstr "תגובות"
+
+msgctxt "Addons::description::discussion"
+msgid "Lets customers leave comments to categories, pages, etc., review vendors and write testimonials"
+msgstr ""
+
+msgctxt "Languages::use_for_discussion"
+msgid "Comments and reviews forms"
+msgstr "תגובות"
+
+msgctxt "Languages::comments_and_reviews_menu_description"
+msgid "Customer comments and reviews on products, categories, orders, etc."
+msgstr "הערות, ביקורות על מוצרים, קטגוריות, הזמנות, וכו '."
+
+msgctxt "Languages::discussion_title_category"
+msgid "Reviews"
+msgstr "ביקורות"
+
+msgctxt "Languages::discussion_title_giftreg"
+msgid "Guestbook"
+msgstr "ספר אורחים"
+
+msgctxt "Languages::discussion_title_home_page_menu_description"
+msgid "Manage the testimonials from your store visitors."
+msgstr "נהל את המלצות המבקרים בחנות שלך."
+
+msgctxt "Languages::discussion_title_order"
+msgid "Communication"
+msgstr "התקשרות"
+
+msgctxt "Languages::discussion_title_page"
+msgid "Comments"
+msgstr "הערות"
+
+msgctxt "Languages::discussion_title_product"
+msgid "Reviews"
+msgstr "ביקורות"
+
+msgctxt "Languages::discussion_title_return"
+msgid "Communication"
+msgstr "התקשרות"
+
+msgctxt "Languages::no_posts_found"
+msgid "No posts found"
+msgstr "לא נמצאו הודעות"
+
+msgctxt "Languages::your_rating"
+msgid "Your rating"
+msgstr "הדירוג שלך"
+
+msgctxt "Languages::comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "תגובות וביקורות"
+
+msgctxt "Languages::discussion_title_home_page"
+msgid "Testimonials"
+msgstr "המלצות"
+
+msgctxt "Languages::text_enabled_testimonials_notice"
+msgid "Testimonials are disabled. To enable, please go to <a href=\"[link]\">Comments and reviews: options</a> and select the \"Communication\", \"Rating\" or \"Communication and Rating\" value in \"Testimonials\" field."
+msgstr "המלצות אינן זמינות. כדי להפעיל, ללכת בבקשה <a href=\"[link]\">, תגובות: אפשרויות</a> ובחר הערך \"תקשורת\", \"דירוג\" או \"תקשורת ודירוג\" בשדה \"המלצות\"."
+
+msgctxt "Languages::discussion_title_company"
+msgid "Reviews"
+msgstr "ביקורות"
+
+msgctxt "Languages::communication_and_rating"
+msgid "Communication and Rating"
+msgstr "תקשורת ודירוג"
+
+msgctxt "Languages::communication"
+msgid "Communication"
+msgstr "התקשרות"
+
+msgctxt "Languages::rating"
+msgid "Rating"
+msgstr "דירוג"
+
+msgctxt "Languages::cant_find_thread"
+msgid "Thread can not be found."
+msgstr "שרשור לא נמצא."
+
+msgctxt "Languages::error_already_posted"
+msgid "You have posted in this discussion already"
+msgstr "פרסמת כבר בדיון זה"
+
+msgctxt "Languages::text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "תודה על הודעתך"
+
+msgctxt "Languages::text_post_pended"
+msgid "Your post will be checked before it gets published."
+msgstr "ההודעה שלך תיבדק לפני פרסום על ידי אחד המנהלים."
+
+msgctxt "Languages::discussion"
+msgid "Comments and reviews"
+msgstr "תגובות וביקורות"
+
+msgctxt "Languages::text_new_post_notification"
+msgid "This is a notification of a new post to"
+msgstr "זוהי הודעה על פוסט חדש ל"
+
+msgctxt "Languages::text_approval_notice"
+msgid "This post needs approving"
+msgstr "לתגובה הנ\"ל דרוש אישור"
+
+msgctxt "Languages::latest_reviews"
+msgid "Latest comments & reviews"
+msgstr "תגובות והערות אחרונות"
+
+msgctxt "Languages::comment_by"
+msgid "Comment by"
+msgstr "תגובה מאת"
+
+msgctxt "Languages::and"
+msgid "and"
+msgstr "ו"
+
+msgctxt "Languages::add_post"
+msgid "Add post"
+msgstr "הוספת תגובה"
+
+msgctxt "Languages::not_approved"
+msgid "Not approved"
+msgstr "לא אושרה"
+
+msgctxt "Languages::discussion_manager"
+msgid "Comments and reviews"
+msgstr "תגובות וביקורות"
+
+msgctxt "Languages::testimonials"
+msgid "Testimonials"
+msgstr "המלצות"
+
+msgctxt "Languages::privileges.view_discussions"
+msgid "Can view"
+msgstr "יכול לצפות"
+
+msgctxt "Languages::privileges.manage_discussions"
+msgid "Can edit"
+msgstr "ניתן לערוך"
+
+msgctxt "Languages::privilege_groups.discussions"
+msgid "Comments and reviews"
+msgstr "תגובות"
+
+msgctxt "Languages::block_testimonials"
+msgid "Testimonials"
+msgstr "המלצות"
+
+msgctxt "Languages::block_testimonials_description"
+msgid "User testimonials"
+msgstr "המלצות המשתמש"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "מיין לפי דירוג: מהנמוך לגבוה"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "מיין לפי דירוג"
+
+msgctxt "Languages::reviews"
+msgid "review|reviews"
+msgstr "תגובה|תגובות"
+
+msgctxt "Languages::write_review"
+msgid "Write a review"
+msgstr "כתוב ביקורת"
+
+msgctxt "SettingsSections::discussion::products"
+msgid "Products"
+msgstr "מוצרים"
+
+msgctxt "SettingsSections::discussion::categories"
+msgid "Categories"
+msgstr "קטגוריות"
+
+msgctxt "SettingsSections::discussion::orders"
+msgid "Orders"
+msgstr "הזמנות"
+
+msgctxt "SettingsSections::discussion::pages"
+msgid "Pages"
+msgstr "דפים"
+
+msgctxt "SettingsSections::discussion::testimonials"
+msgid "Testimonials"
+msgstr "המלצות"
+
+msgctxt "SettingsSections::discussion::companies"
+msgid "Vendors"
+msgstr "ספקים"
+
+msgctxt "SettingsOptions::discussion::product_posts_per_page"
+msgid "Posts per page"
+msgstr "הודעות בכל עמוד"
+
+msgctxt "SettingsOptions::discussion::product_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "מנהל המערכת חייב לאשר פוסטים שנכתבו על ידי"
+
+msgctxt "SettingsOptions::discussion::product_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "פוסט אחד בלבד מ- IP אחת מותרת"
+
+msgctxt "SettingsOptions::discussion::product_share_discussion"
+msgid "Share discussions with all stores"
+msgstr "לשתף בדיונים עם כל החנויות"
+
+msgctxt "SettingsTooltips::discussion::product_share_discussion"
+msgid "Show all comments and reviews of a product on all storefronts that the product is shared with"
+msgstr "הצג את כל התגובות של המוצר בכל החנויות שבהן המוצר משותף"
+
+msgctxt "SettingsOptions::discussion::category_posts_per_page"
+msgid "Posts per page"
+msgstr "פוסט לכל דף"
+
+msgctxt "SettingsOptions::discussion::category_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "מנהל מערכת חייב לאשר תגובות שנכתבו על ידי"
+
+msgctxt "SettingsOptions::discussion::category_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "פוסט אחד בלבד מ- IP אחת מותרת"
+
+msgctxt "SettingsOptions::discussion::order_posts_per_page"
+msgid "Posts per page"
+msgstr "פוסט לכל דף"
+
+msgctxt "SettingsOptions::discussion::order_initiate"
+msgid "Allow customer to initiate discussion"
+msgstr "לאפשר ללקוח ליזום דיונים"
+
+msgctxt "SettingsOptions::discussion::page_posts_per_page"
+msgid "Posts per page"
+msgstr "פוסט לכל דף"
+
+msgctxt "SettingsOptions::discussion::page_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "מנהל המערכת חייב לאשר פוסטים שנכתבו על ידי"
+
+msgctxt "SettingsOptions::discussion::page_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "פוסט אחד בלבד מ- IP אחת מותרת"
+
+msgctxt "SettingsOptions::discussion::page_share_discussion"
+msgid "Share discussions with all stores"
+msgstr "לשתף בדיונים עם כל החנויות"
+
+msgctxt "SettingsTooltips::discussion::page_share_discussion"
+msgid "Show all comments and reviews of a page on all storefronts that the page is shared with"
+msgstr "הצג את כל התגובות של המוצר בכל החנויות שבהן המוצר משותף"
+
+msgctxt "SettingsOptions::discussion::home_page_posts_per_page"
+msgid "Posts per page"
+msgstr "פוסט לכל דף"
+
+msgctxt "SettingsOptions::discussion::home_page_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "מנהל המערכת חייב לאשר פוסטים שנכתבו על ידי"
+
+msgctxt "SettingsOptions::discussion::home_page_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "אפשר תגובה אחת בלבד לכל כתובת IP"
+
+msgctxt "SettingsOptions::discussion::home_page_testimonials"
+msgid "Testimonials"
+msgstr "המלצות"
+
+msgctxt "SettingsOptions::discussion::testimonials_from_all_stores"
+msgid "Show testimonials from all stores"
+msgstr "הצג המלצות מכל החנויות"
+
+msgctxt "SettingsOptions::discussion::product_discussion_type"
+msgid "Default value"
+msgstr "ערך ברירת מחדל"
+
+msgctxt "SettingsTooltips::discussion::product_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "קובע אם תגובות מותרות עבור מוצרים שנוצרו לאחרונה. אינו משפיע על מוצרים קיימים."
+
+msgctxt "SettingsOptions::discussion::product_review_after_purchase"
+msgid "Only buyers can post"
+msgstr "רק הקונים יכולים לפרסם"
+
+msgctxt "SettingsTooltips::discussion::product_review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "אפשר להשאיר תגובות עבור מוצר רק לאלה שקנו מוצר זה."
+
+msgctxt "SettingsOptions::discussion::category_discussion_type"
+msgid "Default value"
+msgstr "ערך ברירת מחדל"
+
+msgctxt "SettingsTooltips::discussion::category_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created categories. Doesn't affect existing categories."
+msgstr "קובע אם תגובות מותרות עבור מוצרים שנוצרו לאחרונה. אינו משפיע על קטגוריות קיימות."
+
+msgctxt "SettingsOptions::discussion::page_discussion_type"
+msgid "Default value"
+msgstr "ערך ברירת מחדל"
+
+msgctxt "SettingsTooltips::discussion::page_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created pages. Doesn't affect existing pages."
+msgstr "קובע אם תגובות מותרות עבור מוצרים שנוצרו לאחרונה. אינו משפיע על דפים קיימים."
+
+msgctxt "SettingsOptions::discussion::company_discussion_type"
+msgid "Reviews"
+msgstr "תגובות"
+
+msgctxt "SettingsOptions::discussion::company_only_buyers"
+msgid "Only buyers can post"
+msgstr "רק הקונים יכולים לפרסם"
+
+msgctxt "SettingsTooltips::discussion::company_only_buyers"
+msgid "Allow leaving reviews for a vendor only to those who bought products from that vendor."
+msgstr "אפשר להשאיר תגובות עבור ספק רק לאלה שקנו מוצרים מהספק זה."
+
+msgctxt "SettingsOptions::discussion::company_posts_per_page"
+msgid "Posts per page"
+msgstr "פוסט לכל דף"
+
+msgctxt "SettingsOptions::discussion::company_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "מנהל המערכת חייב לאשר פוסטים שנכתבו על ידי"
+
+msgctxt "SettingsOptions::discussion::company_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "פוסט אחד בלבד מ- IP אחת מותרת"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::any"
+msgid "Any customer"
+msgstr "כל לקוח"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "רק לקוחות אנונימיים"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::disabled"
+msgid "No approval needed"
+msgstr "לא נדרש אישור"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::any"
+msgid "Any customer"
+msgstr "כל לקוח"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "רק לקוחות אנונימיים"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::disabled"
+msgid "No approval needed"
+msgstr "לא נדרש אישור"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::any"
+msgid "Any customer"
+msgstr "כל לקוח"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "רק לקוחות אנונימיים"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::disabled"
+msgid "No approval needed"
+msgstr "לא נדרש אישור"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::any"
+msgid "Any customer"
+msgstr "כל לקוח"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "רק לקוחות אנונימיים"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::disabled"
+msgid "No approval needed"
+msgstr "לא נדרש אישור"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::any"
+msgid "Any customer"
+msgstr "כל לקוח"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "רק לקוחות אנונימיים"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::disabled"
+msgid "No approval needed"
+msgstr "לא נדרש אישור"
+
+msgctxt "Languages::discussion_tab_products"
+msgid "Product Reviews"
+msgstr "תגובות של מוצר"
+
+msgctxt "Languages::discussion_tab_categories"
+msgid "Category Reviews"
+msgstr "תגובות של קטגוריה"
+
+msgctxt "Languages::discussion_tab_pages"
+msgid "Page Comments"
+msgstr "דף של תגובות"
+
+msgctxt "Languages::discussion_tab_orders"
+msgid "Order Communication"
+msgstr "סדר תקשורת"
+
+msgctxt "Languages::discussion_tab_home_page"
+msgid "Testimonials"
+msgstr "המלצות"
+
+msgctxt "Languages::discussion_tab_companies"
+msgid "Company Reviews"
+msgstr "תגובות של חברה"
+
+msgctxt "Languages::email_template.discussion_notification"
+msgid "Comments and reviews notification"
+msgstr "הודעה על תגובות"
+
+msgctxt "Languages::show_rating"
+msgid "Show review rating"
+msgstr "הצג דירוג תגובות"
+
+msgctxt "Languages::gdpr_discussions_data"
+msgid "Personal data from discussions"
+msgstr "הנתונים האישיים של דיונים"
+
+msgctxt "Languages::discussion.add_new_review"
+msgid "Discussion: new review"
+msgstr "לדיון: תגובה חדשה"
+
+msgctxt "Languages::discussion.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>שמך יופיע לאחר תגובוה, גלוי לכולם. אנחנו ([company]) גם נשמור את כתובת ה-IP שלך כאמצעי זהירות אבטחה, אבל רק ניתן לראות על ידי הצוות שלנו. היא תישאר במערכת שלנו עד שתסיר את הסכמתך. אם ברצונך להסיר את הנתונים האישיים שלך, שלח דוא\"ל אל [email].</p> <p>אם אתה סבור כי נעשה שימוש לרעה בנתונים האישיים שלך, יש לך זכות להגיש תלונה לרשות פיקוחית. אנו מחויבים על ידי כללי האיחוד האירופי להגנה על נתונים כדי ליידע אותך על זכות זו; אנחנו לא מתכוונים לעשות שימוש לרעה בנתונים שלך.</p>"
+
+msgctxt "Languages::discussion.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "אני מסכים שהנתונים האישיים שלי <u> יעובדו באופן הבא. </u>"
+
+msgctxt "Languages::discussion.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "נא להיכנס לצורך לכתוב תגובתך"
+
+msgctxt "Languages::discussion.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "אתה לא יכול לכתוב תגובה על המוצר הזה. הלקוחות יכולים לכתוב תגובה רק עבור המוצרים שהם קנו. אם למעשה קנה מוצר זה מאיתנו ועדיין רואים הודעה זו, אנא פנה אלינו."
+
+msgctxt "Languages::discussion.you_have_to_buy_from_vendor_before_writing_review"
+msgid "You can't write a review for this vendor. Customers can write reviews for a vendor only after they buy something from that vendor. If you actually placed an order with this vendor, but are still seeing this message, please contact us."
+msgstr "אתה לא יכול לכתוב תגובה עבור ספק זה. הלקוחות יכולים לכתוב תגובות עבור ספק רק לאחר שהם קנו ממנו את המוצר. אם הזמנתם מוצר אצל ספק זה ועדיין רואים הודעה זו, אנא פנה אלינו."
+
+msgctxt "Languages::discussion.anonymous_setting_restored_upgrade_notification_title"
+msgid "Comments and reviews add-on settings were changed"
+msgstr "הגדרות של ישום תגובות שונו"
+
+msgctxt "Languages::discussion.anonymous_setting_restored_upgrade_notification"
+msgid "In the 4.9.1 version the <strong>Only anonymous customers</strong> variant of the <strong>Administrator must approve posts submitted by</strong> setting was removed. Now, it is available again, with the ability to leave reviews for nonauthorized customers. Please check if the desirable value of the setting is selected."
+msgstr "ב- 4.9.1 הגירסה <strong>רק הלקוחות אנונימית</strong> גרסה של <strong>מנהל המערכת חייב לאשר פוסט שכתוב על ידי</strong> הגדרת הוסר. עכשיו, הוא זמין שוב, עם היכולת להשאיר תגובות עבור לקוחות לא רשומות במערכת. אנא בדוק אם ערך רצוי של הגדרת נבחר."
+
+msgctxt "Languages::discussion.event.products.new_post"
+msgid "Products: new review posted"
+msgstr "מוצרים: פורסמה תגובה חדשה"
+
+msgctxt "Languages::discussion.event.testimonials.new_post"
+msgid "Testimonials: new review posted"
+msgstr "תגובות: פורסמה תגובה חדשה"
+
+msgctxt "Languages::discussion.event.orders.new_post"
+msgid "Order communication: new message added"
+msgstr "הזמנת תקשורת: הודעה חדשה נוספה"
+
+msgctxt "Languages::discussion.event.categories.new_post"
+msgid "Categories: new review posted"
+msgstr "קטגוריות: פורסמה תגובה חדשה"
+
+msgctxt "Languages::discussion.event.pages.new_post"
+msgid "Pages: new comment posted"
+msgstr "דפים: פורסמה תגובה חדשה"
+
+msgctxt "Languages::discussion.event.vendors.new_post"
+msgid "Vendors: new review posted"
+msgstr "ספקים: פורסמה תגובה חדשה"
+

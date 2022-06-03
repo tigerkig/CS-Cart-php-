@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.13.2/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 4578\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "Υποστήριξη οθονών HiDPI"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "Υποστήριξη οθονών Retina"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "Γενικά"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Θεωρήστε HiDPI όλες τις εικόνες που έχουν γίνει upload"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Θεωρήστε HiDPI όλες τις εικόνες που έχουν γίνει upload"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "Κάντε όλα τα πλαίσια ελέγχου με την περιγραφή \"Ανεβάζω μια εικόνα HiDPI\" εξορισμού ενεργοποιημένα, όπου πρόκειται να ανέβει μία εικόνα. Οποιοσδήποτε έχει σκοπό να ανεβάσει μία εικόνα, θα έχει την δυνατότητα να απενεργοποιήσετε τα πλαίσια ελέγχου, όταν είναι απαραίτητο."
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "Η υποστήριξη HiDPI είναι ενεργοποιημένη"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "Ανεβάζω μια εικόνα HiDPI."
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "Αν το πλαίσιο ελέγχου είναι επιλεγμένο, η εικόνα προέλευσης θα εμφανιστεί δύο φορές downscaled. Αυτή η ρύθμιση επηρεάζει μόνο την εμφάνιση της εικόνας προέλευσης και όχι της μικρογραφίας. Εάν θέλετε να εμφανίζεται μια εικόνα στο αρχικό της μέγεθος, απενεργοποιήστε αυτό το πλαίσιο ελέγχου."
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "Αποκατάσταση εικόνας"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "Η προηγούμενη έκδοση της οθόνης HiDPI που υποστηρίζει το πρόσθετο συρρικνωνε τις μεταφορτωμένες εικόνες. Δεν υπάρχει ανάγκη για αυτό πλεον. Αλλά για να κάνετε τις εικόνες σας ωραίες και ευκρινής, πρέπει να κάνετε κλικ στην επιλογή επαναφορά."
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "Επαναφορά"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong> Προσοχή! </strong> Αυτή η διαδικασία είναι μη αναστρέψιμη: όταν επαναφέρετε την αναβάθμιση, οι χειρισμοί αποκατάστασης εικόνας δεν θα επανέλθουν. Επομένως, βεβαιωθείτε ότι έχετε κάνει backup. Η διαδικασία μπορεί να διαρκέσει λίγο χρόνο - εξαρτάται από τον αριθμό των εικόνων στο κατάστημά σας."
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_title"
+msgid "Make sure your images look good."
+msgstr "Βεβαιωθείτε ότι οι εικόνες σας φαίνονται καλά"
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "Κάποιες από τις παλιές εικόνες του καταστήματος σας, είναι ακόμα χαμηλής ποιότητας. Για να έχετε την μέγιστη δυνατή ποιότητα, παρακαλώ <a href=\"[convert_url]\">επαναφέρετε τις εικόνες υψηλής ποιότητας</a>. Η διαδικασία είναι γίνεται με αυτόματο τρόπο."
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_text"
+msgid "<p>The previous version of the <b>[addon_name]</b> add-on shrank the uploaded images. We improved the add-on, so there is no need for that now. However, the existing images remain shrunk and don’t look good.</p><p>We can make your existing images look nice and sharp, but that procedure will take some time. That’s why we need you to start it.</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Make image look good</a></p>"
+msgstr "<p>Η προηγούμενη έκδοση του <b>[addon_name]</b> πρόσθετου συρρίκνωνε τις εικόνες που μεταφορτώσατε. Βελτιώσαμε το πρόσθετο, για να μην συμβαίνει το ίδιο από εδώ και πέρα. Παρόλα αυτά οι εικόνες που ήδη έχουν μεταφορτωθεί θα παραμείνουν συρρικνωμένες και δεν θα φαίνονται όμορφες.</p><p>Μπορούμε να κάνουμε τις ήδη μεταφορτωμένες εικόνες να φαίνονται όμορφες, αλλά η διαδικασία θα διαρκέσει κάποιον χρόνο. Για αυτό καλύτερα να την ξεκινήσετε τώρα</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Κάνε τις εικόνες να φαίνονται όμορφες</a></p>"
+

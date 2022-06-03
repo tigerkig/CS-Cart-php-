@@ -1,0 +1,33 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::onekpay"
+msgid "BillriantPay payments"
+msgstr "BillriantPay payments"
+
+msgctxt "Addons::description::onekpay"
+msgid "Lets you accept payments via BillriantPay."
+msgstr "Lets you accept payments via BillriantPay."
+
+msgctxt "Languages::onekpay.merchant_number"
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+msgctxt "Languages::onekpay.terminal_number"
+msgid "Terminal ID"
+msgstr "Terminal ID"
+
+msgctxt "Languages::onekpay.secure_hash"
+msgid "Secure hash"
+msgstr "Secure hash"
+
+msgctxt "Languages::onekpay.payment_failed"
+msgid "Payment failed: [error_message]"
+msgstr "Payment failed: [error_message]"
+
+msgctxt "Languages::onekpay.short_notice"
+msgid "<a href=\"http://www.billriant.com\" target=\"_blank\">BillriantPay</a> is a global payment service provider, which works safely, drives merchants’ performance, and reduces a risk. BillriantPay understands the day-to-day realities and requirements of a modern eCommerce business so as to offer and build solutions that fit a wide range of businesses. BillriantPay helps you build stronger relationships with your buyers by streamlining the payment processes. <br /><br />Our advantages:<br />- Secure and fast<br />- Simple and easy to configure<br />- Flexible terms and conditions for different industries<br /><br /><strong><a href=\"https://merchant.billriant.com/login?from=cs-cart\" target=\"_blank\">Sign-up to Login and Pay with BillriantPay</a></strong>"
+msgstr "<a href=\"http://www.billriant.com\" target=\"_blank\">BillriantPay</a> is a global payment service provider, which works safely, drives merchants’ performance, and reduces a risk. BillriantPay understands the day-to-day realities and requirements of a modern eCommerce business so as to offer and build solutions that fit a wide range of businesses. BillriantPay helps you build stronger relationships with your buyers by streamlining the payment processes. <br /><br />Our advantages:<br />- Secure and fast<br />- Simple and easy to configure<br />- Flexible terms and conditions for different industries<br /><br /><strong><a href=\"https://merchant.billriant.com/login?from=cs-cart\" target=\"_blank\">Sign-up to Login and Pay with BillriantPay</a></strong>"

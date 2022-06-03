@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/client_tiers.po\n"
+"X-Crowdin-File-ID: 4540\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::client_tiers"
+msgid "Client tiers"
+msgstr "Tingkatan klien"
+
+msgctxt "Addons::description::client_tiers"
+msgid "Automatically assigns and removes customer's user group depending on money spent. Allows you to rank your customers (for example, bronze, silver, gold customers)."
+msgstr "Secara otomatis menetapkan dan menghapus grup pengguna pelanggan tergantung uang yang dikeluarkan. Mengizinkan anda untuk menentukan peringkat pelanggan anda (sebagai contoh, pelanggan perunggu, perak, emas)."
+
+msgctxt "SettingsSections::client_tiers::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::client_tiers::tiers_reporting_period"
+msgid "Reporting period"
+msgstr "Periode pelaporkan"
+
+msgctxt "SettingsTooltips::client_tiers::tiers_reporting_period"
+msgid "Statistics from this period is checked to see if a customer is eligible for a certain tier"
+msgstr "Statistik dari periode ini diperiksa untuk melihat apakah pelanggan memenuhi syarat untuk  tingkatan tertentu"
+
+msgctxt "SettingsOptions::client_tiers::upgrade_tier_option"
+msgid "Customer tier can upgrade"
+msgstr "Tingkatan pelanggan bisa ditingkatkan"
+
+msgctxt "SettingsOptions::client_tiers::automatic_downgrade"
+msgid "Tier check can downgrade customer's tier"
+msgstr "Pemeriksaan tingkatan bisa menurunkan tingkatan pelanggan"
+
+msgctxt "Languages::client_tiers.minimum_spend_value"
+msgid "Required spendings"
+msgstr "Memperlukan pengeluaran"
+
+msgctxt "Languages::client_tiers.tooltip_minimum_spend_value"
+msgid "Set 0 if you don't want this user group to be assigned automatically. Otherwise, customer can get this user group after spending the specified sum during the reporting period set in the Client Tiers add-on."
+msgstr "Setel ke 0 jika anda tidak ingin grup pengguna ini ditetapkan secara otomatis. Jika tidak, pelanggan bisa mendapatkan grup pengguna ini setelah mengeluarkan jumlah tertentu saat periode pelaporan yang ditetapkan dalam add-on Tingkatan Klien."
+
+msgctxt "Languages::client_tiers.bronze_level_customers"
+msgid "Bronze level customers"
+msgstr "Pelanggan tingkat perunggu"
+
+msgctxt "Languages::client_tiers.silver_level_customers"
+msgid "Silver level customers"
+msgstr "Pelanggan tingkat perak"
+
+msgctxt "Languages::client_tiers.gold_level_customers"
+msgid "Gold level customers"
+msgstr "Pelanggan tingkat emas"
+
+msgctxt "Languages::client_tiers.client_success_set_tier"
+msgid "[username] spent [total] amount in reported period and moved to [new_group]"
+msgstr "[username] mengeluarkan [total] jumlah dalam periode pelaporan dan dipindahkan ke [new_group]"
+
+msgctxt "Languages::client_tiers.client_fail_set_new_tier"
+msgid "Couldn't assign user group [new_group] to customer with id [user_id]. Customer spent [total] in the reporting period, which is more than the required spendings for this user group."
+msgstr "Tidak dapat menetapkan grup pengguna [new_group] kepada pelanggan dengan id [user_id]. Pelanggan mengeluarkan [total] dalam periode pelaporan, lebih dari pengeluaran yang dibutuhkan untuk grup pengguna ini."
+
+msgctxt "Languages::client_tiers.client_fail_unset_old_tier"
+msgid "Couldn't remove user group [old_group] from customer with id [user_id]. With [total] spent in the reporting period, customer shouldn't be a part of this user group."
+msgstr "Tidak dapat menghapus grup pengguna [old_group] dari pengguna dengan id [user_id]. dengan [total] dibelanjakan dalam periode pelaporan, pelanggan tidak seharusnya menjadi bagian dari grup pengguna ini."
+
+msgctxt "Languages::client_tiers.client_success_unset_tier"
+msgid "Customer [username] was successfully removed from [old_group] due to [total] spent in reporting period."
+msgstr "Pengguna [username] berhasil dihapus dari [old_group] disebabkan oleh [total] dibelanjankan dalam periode pelaporan."
+
+msgctxt "Languages::log_type_client_tiers"
+msgid "Client Tiers"
+msgstr "Tingkatan Klien"
+
+msgctxt "Languages::log_action_ct_success"
+msgid "Success"
+msgstr "Sukses"
+
+msgctxt "Languages::log_action_ct_failure"
+msgid "Errors"
+msgstr "Kesalahan"
+
+msgctxt "Languages::client_tiers.previous_30_days"
+msgid "Previous 30 days"
+msgstr "30 hari yang lalu"
+
+msgctxt "Languages::client_tiers.previous_month"
+msgid "Previous month"
+msgstr "Bulan lalu"
+
+msgctxt "Languages::client_tiers.previous_12_months"
+msgid "Previous 12 months"
+msgstr "12 bulan yang lalu"
+
+msgctxt "Languages::client_tiers.previous_year"
+msgid "Previous year"
+msgstr "Tahun lalu"
+
+msgctxt "Languages::client_tiers.after_completed_purchase"
+msgid "After the order is paid"
+msgstr "Setelah pesanan dibayar"
+
+msgctxt "Languages::client_tiers.after_tier_check"
+msgid "After tier check only"
+msgstr "Setelah hanya pemeriksaan tingkatan"
+
+msgctxt "Languages::client_tiers.update_tiers"
+msgid "Tier check"
+msgstr "Pemeriksaan tingkatan"
+
+msgctxt "Languages::client_tiers.run_recalculation"
+msgid "Check customer tiers now"
+msgstr "Periksa tingkatan pelanggan sekarang"
+
+msgctxt "Languages::client_tiers.run_tiers_updating_by_cron"
+msgid "Updating client tiers is the resource-intensive process. It's recommended to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+msgstr "Memperbarui tingkatan klien adalah proses intesif sumber daya. Ini direkomendasikan untuk menjalankannya secara otomatis pada waktu interval tertentu.<br>Untuk bisa melakukannya, tambahkan perintah sebagai berikut ke <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+
+msgctxt "Languages::client_tiers.all_been_recalculated"
+msgid "Tiers have been checked and updated"
+msgstr "Tingkatan telah diperiksa dan diperbarui"
+
+msgctxt "Languages::client_tiers.silver_promotion"
+msgid "Silver tier promotion"
+msgstr "Promosi tingkatan perak"
+
+msgctxt "Languages::client_tiers.bronze_promotion"
+msgid "Bronze tier promotion"
+msgstr "Promosi tingkatan perunggu"
+
+msgctxt "Languages::client_tiers.gold_promotion"
+msgid "Gold tier promotion"
+msgstr "Promosi tingkatan emas"
+
+msgctxt "Languages::client_tiers.silver_promotion.detailed_description"
+msgid "Only Silver Level Customers are eligible for this promotion."
+msgstr "Hanya Pelanggan Tingkat Perak yang memenuhi syarat untuk promosi ini."
+
+msgctxt "Languages::client_tiers.silver_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Silver Level Customers."
+msgstr "Promosi ini telah dibuat secara otomatis sebagai bagian dari add-on Tingkatan Klie. Itu berlaku hanya pada Pelanggan Tingkat Perak."
+
+msgctxt "Languages::client_tiers.bronze_promotion.detailed_description"
+msgid "Only Bronze Level Customers are eligible for this promotion."
+msgstr "Hanya Pelanggan Tingkat Perunggu yang memenuhi syarat untuk promosi ini."
+
+msgctxt "Languages::client_tiers.bronze_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Bronze Level Customers."
+msgstr "Promosi ini telah dibuat secara otomatis sebagai bagian dari add-on Tingkatan Klie. Itu berlaku hanya pada Pelanggan Tingkat Perunggu."
+
+msgctxt "Languages::client_tiers.gold_promotion.detailed_description"
+msgid "Only Gold Level Customers are eligible for this promotion."
+msgstr "Hanya Pelanggan Tingkat Emas yang memenuhi syarat untuk promosi ini."
+
+msgctxt "Languages::client_tiers.gold_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Gold Level Customers."
+msgstr "Promosi ini telah dibuat secara otomatis sebagai bagian dari add-on Tingkatan Klie. Itu berlaku hanya pada Pelanggan Tingkat Emas."
+
+msgctxt "Languages::client_tiers.removed_from_old_group"
+msgid "Removed from user group"
+msgstr "Dihapus dari grup pengguna"
+
+msgctxt "Languages::client_tiers.moved_to_new_group"
+msgid "Moved to user group"
+msgstr "Dipindahkan ke grup pengguna"
+
+msgctxt "Languages::client_tiers.installation_message"
+msgid "To help you get started, we have added user groups for Gold, Silver, and Bronze Level Customers, as well as corresponding promotions. Please check <a href=\"[user_groups]\" target=\"_blank\">user groups</a> and <a href=\"[promotions]\" target=\"_blank\">promotions</a>, and adjust them as needed. You can also delete them and create your own."
+msgstr "Untuk membantu anda memulai, kami telah menambahkan grup pengguna untuk Pelanggan Tingkat Emas, Perak, Perunggu, beserta promosi yang sesuai. Harap periksa <a href=\"[user_groups]\" target=\"_blank\">grup pengguna</a> dan <a href=\"[promotions]\" target=\"_blank\">promosi</a>, dan sesuaikan sesuai kebutuhan. Anda juga bisa menghapusnya dan membuatnya sendiri."
+

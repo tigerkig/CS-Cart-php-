@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/google_export.po\n"
+"X-Crowdin-File-ID: 4570\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::google_export"
+msgid "Google export"
+msgstr "Google eksport"
+
+msgctxt "Addons::description::google_export"
+msgid "Expands the Data Feeds add-on to work with Google Base and creates an example of such data feed"
+msgstr "Memperluas pengaya Data Feed untuk bekerja dengan Google Base dan membuat contoh umpan data tersebut"
+
+msgctxt "Languages::google_export_general_info"
+msgid "<p>Note: toggle this setting if you need multi-language Google categories installed. Supports French, German, Italian, Spanish, and British English. Pay attention that this operation can take a significant amount of time.</p>"
+msgstr "<p>Catatan: toggle pengaturan ini jika Anda memerlukan kategori Google multi bahasa yang diinstal. Mendukung bahasa Prancis, Jerman, Italia, Spanyol, dan Inggris Inggris. Perhatikan bahwa operasi ini dapat memakan banyak waktu.</p>"
+
+msgctxt "Languages::google_export_start_import"
+msgid "Start importing"
+msgstr "Mulai mengimpor"
+
+msgctxt "SettingsSections::google_export::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::google_export::general_info"
+msgid "General info"
+msgstr "Informasi Umum"
+
+msgctxt "SettingsOptions::google_export::additional_langs"
+msgid "Install additional languages for Google categories"
+msgstr "Pasang bahasa tambahan untuk kategori Google"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices"
+msgid "Don't export items with a price value of 0.00"
+msgstr "Jangan ekspor barang dengan nilai harga 0.00"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices_description"
+msgid "You must not include a price value of 0.00 for your Google Products Feed items. Items with zero prices may not appear in the search results."
+msgstr "Anda tidak boleh memasukkan nilai harga 0,00 untuk item Feed Produk Google Anda. Item dengan harga nol mungkin tidak muncul dalam hasil pencarian."
+
+msgctxt "Languages::addons.google_export.notice"
+msgid "Before you export products to Google Product Feed, make sure that the Code of your store's <a href=\"[currency_url]\">primary currency</a> conforms to <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> and used <a href=\"[settings_url]\">Weight symbol</a> is one of the following: lb, oz, g, kg"
+msgstr "Sebelum mengekspor produk ke Umpan Produk Google, pastikan Kode <a href=\"[currency_url]\"> mata uang utama toko </a> sesuai dengan <a href = \"http: //www.currency-iso. org / en / home / tables / table-a1.html \"> ISO 4217 </a> dan gunakan <a href=\"[settings_url]\"> Simbol berat </a> adalah salah satu dari berikut ini: lb, oz, g, kg"
+
+msgctxt "Languages::addons.google_export.google_export"
+msgid "Google export"
+msgstr "Ekspor Google"
+
+msgctxt "Languages::google_name_option"
+msgid "Equivalent in Google:"
+msgstr "Setara di Google:"
+
+msgctxt "Languages::addons.google_export.tax_notice"
+msgid "For the US, don't include tax in the price. For Canada and India, do not include any value added tax in the price. For all other countries, value added tax (VAT) has to be included in the price."
+msgstr "Bagi AS, jangan termasuk pajak dalam harga. Untuk Kanada dan India, jangan sertakan pajak pertambahan nilai dalam harga. Untuk semua negara lain, pajak pertambahan nilai (PPN) harus disertakan dalam harga."
+
+msgctxt "Languages::addons.google_export.info_google_features"
+msgid "<p>Before you export a data feed file for Google Merchant, make sure to edit your products and specify the values of product features that belong to the Google Export group. You can do this via product import and export, or mass editing.</p><p> GTIN is a key identifier of a product. If you didn't specify GTIN as a feature, product's SKU from the CODE field will be used. GTINs for option combinations are always taken from the CODE fields of combinations.</p>"
+msgstr "<p>Sebelum mengekspor file data feed untuk Google Merchant, pastikan untuk mengedit produk Anda dan menentukan nilai fitur produk yang termasuk dalam grup Google Export. Anda bisa melakukan ini melalui produk impor dan ekspor, atau pengeditan massal.</p><p>GTIN adalah pengenal kunci suatu produk. Jika Anda tidak menentukan GTIN sebagai fitur, SKU produk dari field KODE akan digunakan. GTIN untuk kombinasi opsi selalu diambil dari kolom kombinasi KODE.</p>"
+
+msgctxt "Languages::tt_addons_google_export_hooks_product_options_properties_post_google_name_option"
+msgid "When you export a data feed file, this option will provide data for the selected Google field type."
+msgstr "Saat mengekspor file umpan data, opsi ini akan menyediakan data untuk jenis bidang Google yang dipilih."
+
+msgctxt "Languages::addons.google_export.text_info_setting_options"
+msgid "Please make sure that you selected this option as \"Equivalent in Google\" for one of the options in your store. Otherwise the data feed file may not be exported properly."
+msgstr "Pastikan Anda memilih opsi ini sebagai \"Setara di Google\" untuk salah satu opsi di toko Anda. Jika tidak, data feed file mungkin tidak diekspor dengan benar."
+

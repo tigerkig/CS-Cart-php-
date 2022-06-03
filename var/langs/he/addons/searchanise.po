@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/searchanise.po\n"
+"X-Crowdin-File-ID: 4640\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::searchanise"
+msgid "Searchanise"
+msgstr "Searchanise"
+
+msgctxt "Addons::description::searchanise"
+msgid "Turns on the <a target=\"_blank\" href=\"http://searchanise.com/\">Searchanise</a> fast search service"
+msgstr "מפעיל את <a target=\"_blank\" href=\"http://searchanise.com/\">Searchanise</a> שירות חיפוש מהיר"
+
+msgctxt "Languages::searchanise_menu_description"
+msgid "Manage search settings, customize view and merchandise products."
+msgstr "נהל את הגדרות החיפוש, התאם את התצוגה ואת מגוון המוצרים"
+
+msgctxt "Languages::searchanise"
+msgid "Searchanise"
+msgstr "Searchanise"
+
+msgctxt "Languages::text_se_import_status_queued"
+msgid "The product catalog is queued for syncing with Searchanise."
+msgstr "קטלוג מוצרים נמצא בתור לסנכרון עם Searchanise"
+
+msgctxt "Languages::text_se_re_indexation_required"
+msgid "Searchanise: Re-indexation required (click the <strong>Force re-indexation</strong> button in the <a href=\"[link]\">Searchanise admin panel</a>)."
+msgstr "Searchanise: נדרשת אינדקסציה מחדש (הקלק על <strong>Force re-indexation</strong> כפתור ב<a href=\"[link]\">Searchanise פאנל הניהול של</a>)."
+
+msgctxt "Languages::text_se_new_engine_store"
+msgid "Searchanise: New search engine for [store] created. Catalog import started."
+msgstr "נוצר מנוע חיפוש חדש עבור [store]. ייבוא קטלוג התחיל."
+
+msgctxt "Languages::text_se_seo_settings_notice"
+msgid "If you have modified any SEO add-on settings, please <a href=\"[link]\">Re-indexation</a> product catalog with Searchanise to update product URLs."
+msgstr "אם שינית הגדרות תוסף SEO כלשהו, אז <a href=\"[link]\">Re-indexation</a> קטלוג מוצרים עם Searchanise כדי לעדכן את URL של המוצרים."
+
+msgctxt "Languages::text_se_connect_error"
+msgid "An error occurred during Searchanise registration. Please try later."
+msgstr "שגיאה אראה בעת הרשמה ל Searchanise. נסה שום יותר מאוחר."
+
+msgctxt "Languages::text_se_import_status_processing"
+msgid "The product catalog syncing is in progress."
+msgstr "סנכרון קטלוג מוצרים בתהליך"
+
+msgctxt "Languages::text_se_import_status_done"
+msgid "The product catalog was synced successfully with Searchanise."
+msgstr "קטלוג המוצרים סונכרן בהצלחה עם Searchanse."
+
+msgctxt "Languages::text_se_import_status_none"
+msgid "The product catalog is not synced with Searchanise yet. Please press \"Sync\" button to start."
+msgstr "קטלוג המוצרים עדיין לא סונכרן עם Searchanise. הקלק על  \"Sync\" כפתור כדי להתחיל."
+
+msgctxt "Languages::text_se_data_update"
+msgid "Please note that the data on Searchanise server is updated with a 2-3 minute delay after you make changes in your store."
+msgstr "שים לב שהנתונים בשרת Searchanise .מתעדכנים בדיחוי של 2-3 דקות לאחר שערכת שינויים בחנות שלך"
+
+msgctxt "Languages::text_se_signup"
+msgid "Click the button below to connect to Searchanise."
+msgstr "הקלק על כפתור למטה כדי להתחבר ל Searchanise."
+
+msgctxt "Languages::text_se_just_connected"
+msgid "Congratulations, you've just connected to Searchanise."
+msgstr "ברכות, כרגע התחברת ל Searchanise."
+
+msgctxt "Languages::text_se_connected"
+msgid "You've connected to Searchanise."
+msgstr "התחברת ל Searchanise."
+
+msgctxt "Languages::text_se_ajax_connecting"
+msgid "Product indexation has started in your store. It may take some time. Wait just a little, we've almost finished."
+msgstr "אינדקסציה של המוצרים בחנות שלך החלה. זה ייקח זמן מה. המתן מעט, כמעט סיימנו."
+
+msgctxt "Languages::text_se_database_restore_notice"
+msgid "You've just restored your data from the database dump file. If this dump contains product data, please <a href=\"[link]\">Re-indexation</a> it with Searchanise."
+msgstr "כרגע שחזרת את המידע שלך מתוך  קובץ dump של בסיס נתונים. אם dump כולל נתוני המוצר ערוך<a href=\"[link]\">אינדקסציה מחדש   </a> שלו עם Searchanise."
+
+msgctxt "Languages::text_se_only_root_can_register"
+msgid "Only the root admin has the permission to connect to Searchanise"
+msgstr "רק מנהל בעל הרשאת שורש רשאי להתחבר ל Searchanise"
+
+msgctxt "Languages::se_did_you_mean"
+msgid "Did you mean"
+msgstr "האם התכוונת"
+
+msgctxt "Languages::se_product_id"
+msgid "Product Id"
+msgstr "של המוצר Id"
+
+msgctxt "Languages::se_title"
+msgid "Title"
+msgstr "כותרת"
+
+msgctxt "Languages::se_summary"
+msgid "Description"
+msgstr "תיאור"
+
+msgctxt "Languages::se_link"
+msgid "Product Url"
+msgstr "המוצר Url"
+
+msgctxt "Languages::se_price"
+msgid "Price"
+msgstr "מחיר"
+
+msgctxt "Languages::se_list_price"
+msgid "List Price"
+msgstr "מחיר מחירון"
+
+msgctxt "Languages::se_quantity"
+msgid "Quantity"
+msgstr "כמות"
+
+msgctxt "Languages::se_product_code"
+msgid "Product Code"
+msgstr "קוד המוצר"
+
+msgctxt "Languages::se_image_link"
+msgid "Image Url"
+msgstr "של התמונה Url"
+
+msgctxt "Languages::se_category_Id"
+msgid "Category Id"
+msgstr "של הקטגוריה Id"
+
+msgctxt "Languages::se_category_usergroup_ids"
+msgid "Category Usergroup Ids"
+msgstr "של קטגוריה של קבוצת משתמשים Ids"
+
+msgctxt "Languages::se_usergroup_ids"
+msgid "Usergroup Ids"
+msgstr "של קבוצות משתמשים Ids"
+
+msgctxt "Languages::se_company_id"
+msgid "Company Id"
+msgstr "של החברה Id"
+
+msgctxt "Languages::se_empty_categories"
+msgid "Without Categories"
+msgstr "ללא קטגוריות"
+
+msgctxt "Languages::se_active_companies"
+msgid "Company is active"
+msgstr "החברה פעילה"
+
+msgctxt "Languages::se_price_for_usergroup_id"
+msgid "Price for usergroup Id ([id])"
+msgstr "של מחיר עבור קבוצת משתמשים Id ([id])"
+
+msgctxt "Languages::se_for_feature_id"
+msgid "Feature \"[id]\" Id"
+msgstr "של תכונה \"[id]\" Id"
+
+msgctxt "Languages::se_relevance"
+msgid "Relevance"
+msgstr "רלוונטיות"
+
+msgctxt "Languages::se_products"
+msgid "Products"
+msgstr "מוצרים"
+
+msgctxt "Languages::se_popular_suggestions"
+msgid "Popular suggestions"
+msgstr "הצעות פופולריות"
+
+msgctxt "Languages::sort_by_relevance_asc"
+msgid "Sort by Relevance"
+msgstr "מיין לפי רלוונטיות"
+
+msgctxt "Languages::se_api_key"
+msgid "API key"
+msgstr "API מפתח"
+
+msgctxt "Languages::se_private_key"
+msgid "Private key"
+msgstr "מפתח פרטי"
+
+msgctxt "Languages::se_options_combinations_codes"
+msgid "Options combinations codes"
+msgstr "אפשרויות צירופי הקודים"
+
+msgctxt "Languages::se_master_product_status"
+msgid "Common product status"
+msgstr "סטטוס מוצר נפוץ"
+
+msgctxt "Languages::se_is_vendor_product"
+msgid "Vendor product flag"
+msgstr "דגל מוצר של הספק"
+
+msgctxt "Languages::se_is_master_product"
+msgid "Сommon product flag"
+msgstr "דגל מוצר נפוץ"
+
+msgctxt "Languages::se_connection_warning"
+msgid "Searchanise: There is no connection to Searchanise server! For Searchanise to work properly, the store server must be able to access www.searchanise.com. Please contact Searchanise <a href=\"mailto: [email]\">[email]</a> technical support or your system administrator."
+msgstr "Searchanise: אין חיבור לשרת Searchanise! כדי ש Searchanise יעבוד בצורה תקינה, על שרת החנות להתחבר ל www.searchanise.com. צור קשר עם Searchanise <a href=\"mailto: [email]\">[email]</a> תמיכה טכנית או מנהל המערכת שלך."
+
+msgctxt "Languages::se_queue_warning"
+msgid "Searchanise: We found an issue with the export of changes in your store catalog. To resolve the issue please contact the Searchanise <a href=\"mailto: [email]\">[email]</a> technical support."
+msgstr "Searchanise: גילינו בעיה עם ייצוא של השינויים בקטלוג החנות שלך. כדי לפתור את הבעיה צור קשר עם Searchanise <a href=\"mailto: [email]\">[email]</a> ,תמיכה טכנית של."
+
+msgctxt "SettingsSections::searchanise::configuration"
+msgid "Configuration"
+msgstr "תצורה"
+

@@ -1,0 +1,57 @@
+// Sign-in form
+#main_column_login {
+    height: 100%;
+    &:before {
+        content: ' ';
+        display: inline-block;
+        vertical-align: middle;
+        height: 100%;
+    }
+}
+
+.signin-modal {
+    top: 25%;
+    top: ~"calc(50% - 143px)";
+    margin-left: -136px;
+    width: 272px !important;
+    height: auto !important;
+    border: 1px solid #d3dbe2;
+    .border-radius(@baseBorderRadius);
+    .box-shadow(none);
+    form {
+        margin-bottom: 0;
+    }
+    h4 {
+        margin: 4px 0;
+        color: #555;
+        font-size: 17px;
+        a {
+            color: #555;
+        }
+    }
+    .modal-body {
+        .control-group {
+            &:last-child {
+                margin-bottom: 0;
+            }
+            label.cm-required {
+                width: 240px !important;
+                background: none;
+            }
+            input[type="text"],
+            input[type="password"] {
+                width: 240px;
+            }
+        }
+    }
+    .modal-footer {
+        text-align: left;
+        border-top: 1px solid #eee;
+        .border-radius(0 0 @baseBorderRadius @baseBorderRadius);
+        .box-shadow(none);
+        a {
+            height: 32px;
+            line-height: 32px;
+        }
+    }
+}

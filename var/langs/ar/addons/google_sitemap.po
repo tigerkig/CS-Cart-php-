@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/google_sitemap.po\n"
+"X-Crowdin-File-ID: 4572\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::google_sitemap"
+msgid "Google sitemap"
+msgstr "خريطة الموقع جوجل"
+
+msgctxt "Addons::description::google_sitemap"
+msgid "Creates a sitemap.xml for Google"
+msgstr "يقوم بإنشاء sitemap.xml جوجل"
+
+msgctxt "Languages::google_sitemap.text_regenerate"
+msgid "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
+msgstr "إذا تمت إضافة أو تغيير المنتجات والفئات وما إلى ذلك ، فيرجى <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\"> إعادة إنشاء خريطة موقع </a> <br /> <br /> [sitemap_available_in_customer]"
+
+msgctxt "Languages::google_sitemap.text_select_storefront"
+msgid "To generate a sitemap, please select storefront first."
+msgstr "لإنشاء ملف sitemap ، يرجى تحديد واجهة المتجر أولاً."
+
+msgctxt "Languages::sitemap_available_in_customer"
+msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+msgstr "يتوفر ملف Sitemap عن طريق هذا الرابط: <a href=\"[sitemap_url]\"> [sitemap_url] </a> <br /> <br /> يمكن الوصول إلى ملف Sitemap عن طريق عنوان URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+
+msgctxt "Languages::always"
+msgid "Always"
+msgstr "دائماً"
+
+msgctxt "Languages::hourly"
+msgid "Hourly"
+msgstr "كل ساعة"
+
+msgctxt "Languages::daily"
+msgid "Daily"
+msgstr "يومي"
+
+msgctxt "Languages::weekly"
+msgid "Weekly"
+msgstr "اسبوعي"
+
+msgctxt "Languages::monthly"
+msgid "Monthly"
+msgstr "شهري"
+
+msgctxt "Languages::yearly"
+msgid "Yearly"
+msgstr "سنوي"
+
+msgctxt "Languages::never"
+msgid "Never"
+msgstr "ابدا"
+
+msgctxt "Languages::google_sitemap.generate_map"
+msgid "The sitemap is not generated yet. Please go to add-on settings and press \"Regenerate a sitemap\" button"
+msgstr "لم يتم إنشاء ملف sitemap بعد. يرجى الانتقال إلى إعدادات الوظائف الإضافية والضغط على زر \"إعادة إنشاء موقع sitemap\""
+
+msgctxt "Languages::google_sitemap.map_generated"
+msgid "The sitemap was generated successfully"
+msgstr "تم إنشاء ملف sitemap بنجاح"
+
+msgctxt "SettingsSections::google_sitemap::general"
+msgid "General"
+msgstr "عام"
+
+msgctxt "SettingsOptions::google_sitemap::information"
+msgid "Information"
+msgstr "معلومات"
+
+msgctxt "SettingsOptions::google_sitemap::clear_url"
+msgid "Clear cache"
+msgstr "مسح ذاكرة التخزين المؤقت"
+
+msgctxt "SettingsOptions::google_sitemap::site_setting"
+msgid "Homepage settings"
+msgstr "إعدادات الصفحة الرئيسية"
+
+msgctxt "SettingsOptions::google_sitemap::site_change"
+msgid "Update frequency"
+msgstr "معدل التحديث"
+
+msgctxt "SettingsOptions::google_sitemap::site_priority"
+msgid "Priority"
+msgstr "الأولوية"
+
+msgctxt "SettingsOptions::google_sitemap::products_setting"
+msgid "Products settings"
+msgstr "إعدادات المنتجات"
+
+msgctxt "SettingsOptions::google_sitemap::include_products"
+msgid "Include in sitemap"
+msgstr "تضمين في خريطة الموقع"
+
+msgctxt "SettingsOptions::google_sitemap::products_change"
+msgid "Update frequency"
+msgstr "معدل التحديث"
+
+msgctxt "SettingsOptions::google_sitemap::products_priority"
+msgid "Priority"
+msgstr "الأولوية"
+
+msgctxt "SettingsOptions::google_sitemap::categories_setting"
+msgid "Categories settings"
+msgstr "إعدادات الفئات"
+
+msgctxt "SettingsOptions::google_sitemap::include_categories"
+msgid "Include in sitemap"
+msgstr "تضمين في خريطة الموقع"
+
+msgctxt "SettingsOptions::google_sitemap::categories_change"
+msgid "Update frequency"
+msgstr "معدل التحديث"
+
+msgctxt "SettingsOptions::google_sitemap::categories_priority"
+msgid "Priority"
+msgstr "الأولوية"
+
+msgctxt "SettingsOptions::google_sitemap::pages_setting"
+msgid "Pages settings"
+msgstr "إعدادات الصفحات"
+
+msgctxt "SettingsOptions::google_sitemap::include_pages"
+msgid "Include in sitemap"
+msgstr "تضمين في خريطة الموقع"
+
+msgctxt "SettingsOptions::google_sitemap::pages_change"
+msgid "Update frequency"
+msgstr "معدل التحديث"
+
+msgctxt "SettingsOptions::google_sitemap::pages_priority"
+msgid "Priority"
+msgstr "الأولوية"
+
+msgctxt "SettingsOptions::google_sitemap::extended_setting"
+msgid "Brand/Manufacturer feature pages settings"
+msgstr "إعدادات صفحات ميزات العلامة التجارية / الشركة المصنعة"
+
+msgctxt "SettingsOptions::google_sitemap::include_extended"
+msgid "Include in sitemap"
+msgstr "تضمين في خريطة الموقع"
+
+msgctxt "SettingsOptions::google_sitemap::extended_change"
+msgid "Update frequency"
+msgstr "معدل التحديث"
+
+msgctxt "SettingsOptions::google_sitemap::extended_priority"
+msgid "Priority"
+msgstr "الأولوية"
+
+msgctxt "SettingsOptions::google_sitemap::companies_setting"
+msgid "Companies settings"
+msgstr "إعدادات الشركات"
+
+msgctxt "SettingsOptions::google_sitemap::include_companies"
+msgid "Include in sitemap"
+msgstr "تضمين في خريطة الموقع"
+
+msgctxt "SettingsOptions::google_sitemap::companies_change"
+msgid "Update frequency"
+msgstr "معدل التحديث"
+
+msgctxt "SettingsOptions::google_sitemap::companies_priority"
+msgid "Priority"
+msgstr "الأولوية"
+
+msgctxt "Languages::google_sitemap.export_progress_entry"
+msgid "[storefront]: [object]"
+msgstr "[storefront]: [object]"
+

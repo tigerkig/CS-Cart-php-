@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/attachments.po\n"
+"X-Crowdin-File-ID: 4520\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "קבצים מצורפים"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "מאפשרת לך לצרף קבצים להודעות מוצרים"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "קבצים מצורפים"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "נספח חדש"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "הוסף קובץ מצורף"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "עריכת קובץ מצורף"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "נא ציין את תיקיית התמונות בתוך תיקיית ה שורש של החנות. הכנס את התמונות שברצונך לייבא לתיקייה זו."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "ייבוא תמונות עבור חלק מהמוצרים נכשל. תמונות לא קיימות (או שאין גישה אליהן) או שנתיב אל תמונות אלה בקובץ המיובא לא נכון."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "קבצים מצורפים למוצר"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "תוחם קבצים מצורפים"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "תוחם בין קבצים מצורפים של מוצר."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "מחק קבצים מצורפים קיימים"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "אם תהפוך הגדרה זו לזמינה, ולאחר מכן החותם נוספים של המוצרים המיובאים יוחלפו עם תמונות שצוינו בקובץ המיובא (אם אין תמונות מצוינות, התמונות הישן יישאר). אם ההגדרה אינה זמינה, תמונות נוספות החדש פשוט יתווספו לתמונות הקיים."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "ספריית קבצים מצורפים"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "שמור קבצים מצורפים בשרת שלך"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "קבצים מצורפים הרשומים ככתובות אתרים בקובץ המיובא יורדו לשרת שלך."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr ""
+

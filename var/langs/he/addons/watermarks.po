@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/watermarks.po\n"
+"X-Crowdin-File-ID: 4680\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::watermarks"
+msgid "Watermarks"
+msgstr "סימני מים"
+
+msgctxt "Addons::description::watermarks"
+msgid "Allows you to add watermarks to product and category images"
+msgstr "מאפשר לך להוסיף סימני מים לתמונות מוצר וקטגוריות"
+
+msgctxt "Languages::wt_watermarks"
+msgid "Watermarks"
+msgstr "סימני מים"
+
+msgctxt "Languages::wt_graphic_watermark"
+msgid "Graphic watermark"
+msgstr "סימני מים גרפיים"
+
+msgctxt "Languages::wt_text_watermark"
+msgid "Text watermark"
+msgstr "סימני מים טקסטואליים"
+
+msgctxt "Languages::wt_watermark_vertical_position"
+msgid "Watermark vertical position"
+msgstr "סימני מים במיקום אנכי"
+
+msgctxt "Languages::wt_watermark_horizontal_position"
+msgid "Watermark horizontal position"
+msgstr "סימני מים במיקום אופקי"
+
+msgctxt "Languages::wt_watermark_position"
+msgid "Watermark position"
+msgstr "מיקום סימן מים"
+
+msgctxt "Languages::wt_watermark_image"
+msgid "Watermark image"
+msgstr "תמונה עם סימן מים"
+
+msgctxt "Languages::wt_watermark_text"
+msgid "Watermark text"
+msgstr "טקסט עם סימן מים"
+
+msgctxt "Languages::wt_font"
+msgid "Font"
+msgstr "גופן"
+
+msgctxt "Languages::wt_font_color"
+msgid "Font color"
+msgstr "צבע גופן"
+
+msgctxt "Languages::wt_font_size_icon"
+msgid "Font size (thumbnail)"
+msgstr "גודל גופן (תמונה ממוזערת)"
+
+msgctxt "Languages::wt_font_size_detailed"
+msgid "Font size (larger image)"
+msgstr "גודל גופן (תמונה גדולה יותר)"
+
+msgctxt "Languages::wt_watermark_icon"
+msgid "Thumbnail watermark"
+msgstr "תמונה ממוזערת עם סימן מים"
+
+msgctxt "Languages::wt_watermark_detailed"
+msgid "Popup larger image watermark"
+msgstr "תמונה גדולה יותר קופצת עם סימן מים"
+
+msgctxt "Languages::wt_fail_apply_graphic_watermark"
+msgid "Failed to apply the watermark to [image_type]. The watermark image is not added."
+msgstr "הוספת סימן מים אל נכשל [image_type]. סימן מים לא נוסף."
+
+msgctxt "Languages::wt_icons"
+msgid "thumbnails"
+msgstr "תמונות ממוזערות"
+
+msgctxt "Languages::wt_detailed"
+msgid "popup larger images"
+msgstr "תמונות קופצות גדולות יותר"
+
+msgctxt "Languages::wt_images_access_description"
+msgid "To deny access to your original images, please add the following instructions to the '.htaccess' file in the 'images' directory of your installation. It will protect your original images. Even if an original image is opened, the corresponding watermarked image will be show instead."
+msgstr "כדי למנוע גישה לתמונות המקוריות שלך, הוסף את ההוראות הבאות ל '.htaccess' קובץ ב 'images' תקיית התקנה. הדבר יגן על התמונות המקוריות שלך. גם אם תפתח תמונה מקורית, במקומה תוצג תמונה תואמת עם סימני מים."
+
+msgctxt "Languages::wt_watermarks_access_description"
+msgid "To generate watermarked images automatically even if they are requested not from your store pages, please add the '.htaccess' file with the following instructions to the 'images/watermarked' directory of your installation."
+msgstr "כדי ליצור תמונות עם סימני מים אוטומטית גם אם הן נדרשו לא מדפי החנות שלך, הוסף '.htaccess' קובץ עם הוראות הבאות ל'images/watermarked' תקיית התקנה."
+
+msgctxt "Languages::wt_access_note"
+msgid "Please note, if you disable or uninstall the 'Watermarks' add-on, you should remove these instructions from '.htaccess' files manually. Otherwise category and product images will be unavailable."
+msgstr "שים לב שאם תבטל או תסיר את  'Watermarks' תוסף, עליך להסיר את ההוראות האלה מ '.htaccess' ידנית. אחרת תמונות הקטגוריה והמוצרים לא יהיו זמינות."
+
+msgctxt "Languages::wt_access_warning"
+msgid "Watermark creating is disabled. If there are any \"Rewrite watermarks rules\" instructions in the \"images/.htaccess\" file, you should remove them manually. Otherwise category and product images will be unavailable."
+msgstr "יצירת סימני מים מבוטלת אם ישנן  \"Rewrite watermarks rules\" הוראות כלשהן ב \"images/.htaccess\" קבצים ידנית. אחרת תמונות הקטגוריות והמוצרים לא יהיו זמינות."
+
+msgctxt "Languages::wt_images_access_info"
+msgid "Images access"
+msgstr "גישה לתמונות"
+
+msgctxt "SettingsSections::watermarks::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::watermarks::watermark"
+msgid "Watermark"
+msgstr "סימן מים"
+
+msgctxt "SettingsOptions::watermarks::apply_to_product"
+msgid "Product watermarks"
+msgstr "סימני מים של המוצר"
+
+msgctxt "SettingsOptions::watermarks::use_for_product_icons"
+msgid "Resized images"
+msgstr "תמונות בשינוי גודל"
+
+msgctxt "SettingsOptions::watermarks::use_for_product_detailed"
+msgid "Original size images"
+msgstr "תמונות בגודל מקורי"
+
+msgctxt "SettingsOptions::watermarks::apply_to_categories"
+msgid "Category watermarks"
+msgstr "קטגוריות של סימני מים"
+
+msgctxt "SettingsOptions::watermarks::use_for_category_icons"
+msgid "Resized images"
+msgstr "תמונות בשינוי גודל"
+
+msgctxt "SettingsOptions::watermarks::use_for_category_detailed"
+msgid "Original size images"
+msgstr "תמונות בגודל מקורי"
+
+msgctxt "SettingsOptions::watermarks::images_access_info"
+msgid "Images access"
+msgstr "גישה לתמונות"
+

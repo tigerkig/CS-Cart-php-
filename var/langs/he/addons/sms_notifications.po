@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/sms_notifications.po\n"
+"X-Crowdin-File-ID: 4644\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::sms_notifications"
+msgid "SMS notifications"
+msgstr "SMS הודעות"
+
+msgctxt "Addons::description::sms_notifications"
+msgid "Allows you to set up administrator SMS order notifications"
+msgstr "מאפשר לך להגדיר הודעות SMS של המנהל בנוגע להזמנות"
+
+msgctxt "Languages::unicode_not_enabled"
+msgid "Unicode support can not be enabled: 'mbstring' PHP extension is not installed."
+msgstr "Unicode לא ניתן להפעיל תמיכה ב: 'mbstring' PHP הרחבה לא מותקנת."
+
+msgctxt "SettingsSections::sms_notifications::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::sms_notifications::phone_number"
+msgid "Phone number"
+msgstr "מספר טלפון"
+
+msgctxt "SettingsOptions::sms_notifications::phone_number_from"
+msgid "Send from number"
+msgstr ""
+
+msgctxt "SettingsOptions::sms_notifications::elm_clickatell_settings"
+msgid "Clickatell settings"
+msgstr "Clickatell הגדרות"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_user"
+msgid "Username"
+msgstr "שם משתמש"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_api_id"
+msgid "API ID"
+msgstr "API ID"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_password"
+msgid "Password"
+msgstr "סיסמה"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_unicode"
+msgid "Use Unicode"
+msgstr "השתמש ב Unicode"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_concat"
+msgid "Split long sms into several parts"
+msgstr "פצל SMS ארוכים למספר חלקים"
+
+msgctxt "SettingsOptions::sms_notifications::elm_send_sms_if"
+msgid "Send SMS if"
+msgstr "שלח SMS אם"
+
+msgctxt "SettingsOptions::sms_notifications::sms_new_order_placed"
+msgid "New order has been placed"
+msgstr "בוצעה הזמנה חדשה"
+
+msgctxt "SettingsOptions::sms_notifications::sms_new_cusomer_registered"
+msgid "New customer has been registered"
+msgstr "נרשם לקוח חדש"
+
+msgctxt "SettingsOptions::sms_notifications::sms_product_negative_amount"
+msgid "Product quantity is less than zero"
+msgstr "כמות המוצר קטנה מאפס"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_min_amout"
+msgid "Only send when order total amount is more than"
+msgstr "שלח רק כאשר ס\"הכ סכום ההזמנה עולה על"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_shipping"
+msgid "Only send for these shipping methods"
+msgstr "שלח עבור שיטות משלוח האלה בלבד"
+
+msgctxt "SettingsOptions::sms_notifications::elm_sms_content"
+msgid "SMS content"
+msgstr "SMS תוכן"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_payment_info"
+msgid "Add payment info"
+msgstr "הוסף מידע על תשלום"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_customer_email"
+msgid "Add customers e-mail"
+msgstr "הוסף כתובת דואר אלקטרוני של הלקוחות"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_1"
+msgid "Do not split"
+msgstr "אל תפצל"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_2"
+msgid "2 sms"
+msgstr "2 sms"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_3"
+msgid "3 sms"
+msgstr "3 sms"
+

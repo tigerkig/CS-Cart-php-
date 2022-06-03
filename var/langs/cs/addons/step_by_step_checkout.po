@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.13.2/addons/step_by_step_checkout.po\n"
+"X-Crowdin-File-ID: 4648\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::step_by_step_checkout"
+msgid "Step-by-Step Checkout [Deprecated]"
+msgstr "Starý checkout [více krokový]"
+
+msgctxt "Addons::description::step_by_step_checkout"
+msgid "Brings back the old checkout page split into multiple steps."
+msgstr "Vrátí zpět starou stránku nákupního procesu rozdělenou do několika kroků."
+
+msgctxt "SettingsOptions::step_by_step_checkout::step_by_step_checkout_information"
+msgid "Information"
+msgstr "Informace"
+
+msgctxt "SettingsOptions::step_by_step_checkout::step_by_step_checkout_general_settings"
+msgid "Checkout settings"
+msgstr "Nastavení objednávkového procesu"
+
+msgctxt "Languages::step_by_step_checkout.layout_can_be_setup"
+msgid "Step-by-step checkout requires additional configuration to work properly. Please follow the instructions <a href=\"[href]\">in the settings of the Step-by-Step Checkout add-on</a>"
+msgstr "Více krokový checkout vyžaduje pro správné fungování další konfiguraci. Postupujte podle pokynů <a href=\"[href]\"> v nastavení doplňku Check-by-Step Checkout </a>"
+
+msgctxt "Languages::step_by_step_checkout.setup_layout_instruction"
+msgid "Configure blocks as follows to make step-by-step checkout work properly:</br><ol><li>Go to <b>Design → Layouts</b> and switch to the <b>Checkout</b> tab.</li><li>Find the grid with the disabled <b>Main Content</b> block. Click the gear icon of the grid to open its settings, change the <b>Wrapper</b> from <i>Lite checkout</i> to <i>None</i>, then save your changes.</li><li>Activate the <b>Main Content</b> block in that grid.</li><li>Deactivate all the other blocks in that grid. Here is the list of blocks that exist there by default: <i>Deliver to, Shipping methods, Customer, Address, Customer information, Customer's notes, Payment methods, Terms and conditions, Sign up for our newsletters!</i></li></ol>"
+msgstr "Konfigurujte bloky následujícím způsobem, aby postupná platba fungovala správně: </br> <ol> <li> Přejděte na <b> Design→ Rozvržení obsahu </b> a přepněte na záložku<b> Checkout</b> . </li> <li> Najděte mřížku s deaktivovaným blokem <b> Main content </b>. Kliknutím na ikonu ozubeného kola mřížky otevřete její nastavení, změňte <b> Wrapper</b> z <i> Lite checkout</i> na <i> Žádné </i> a poté uložte změny. </ Li > <li> Aktivujte blok <b> Main content </b> . </li> <li> Deaktivujte všechny ostatní bloky v této mřížce.</ li> </ol>"
+
+msgctxt "Languages::step_by_step_checkout.layout_page_was_backed_up"
+msgid "We've backed up the layout of your checkout in <b>[file_path]</b>. If you ever decide to use step-by-step checkout again, you'll be able to import that layout instead of configuring it manually as described in the add-on's settings."
+msgstr "Rozložení nákupního procesu jsme zálohovali v <b> [file_path] </b>. Pokud se někdy rozhodnete znovu použít více krokový checkout, budete moci toto rozložení importovat namísto ruční konfigurace, jak je popsáno v nastavení doplňku."
+
+msgctxt "Languages::step_by_step_checkout.check_layout_back_ups"
+msgid "You already have back-ups of checkout layouts in <b>[file_path]</b>. Instead of following the instruction below, you can simply import the backup."
+msgstr "V <b> [file_path] </b> již máte zálohy rozvržení. Místo toho, abyste postupovali podle níže uvedených pokynů, můžete zálohu jednoduše importovat."
+
+msgctxt "Languages::step_by_step_checkout.tooltip.email_can_not_be_disabled"
+msgid "The <strong>Email</strong> field can't be disabled for the old checkout. To disable the <strong>Email</strong> field, please uninstall the <strong>Step-by-Step Checkout [Deprecated]</strong> add-on first."
+msgstr "U starý checkout nelze pole <strong> E-mail </strong> deaktivovat. Chcete-li pole <strong> E-mail </strong> deaktivovat, nejprve odinstalujte doplněk <strong> Více krokový nákupní proces je však již zastaralý a nepodporován </strong>."
+
+msgctxt "Languages::step_by_step_checkout.upgrade_notification.try_new_checkout_title"
+msgid "Try the new checkout"
+msgstr "Vyzkoušejte nový proces objednávky"
+
+msgctxt "Languages::step_by_step_checkout.upgrade_notification.try_new_checkout_message"
+msgid "<p>We have created a new checkout page. It is more compact and customizable. To try it, disable the <b>[addon_name]</b> add-on.</p><p>Once you do that, you’ll be able to customize the checkout page via block manager. Go to <b>Design → Layouts</b> and switch to the <i>Checkout</i> tab. Move the blocks, hide the ones you don’t need, and change their settings as you see fit.</p><p><a href=\"[disable_checkout]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Disable old checkout here</a></p>"
+msgstr "<p> Vytvořili jsme nový vzhled nákupního procesu. Je kompaktnější a přizpůsobitelnější. Chcete-li to zkusit, deaktivujte doplněk <b> [addon_name] </b>. </p> <p> Jakmile to uděláte, budete moci přizpůsobit stránku checkoutu prostřednictvím správce bloků. Přejděte na <b> Design→ Rozvržení obsahu </b> a přepněte na kartu <i> Checkout</i>. Přesuňte bloky, skryjte ty, které nepotřebujete, a změňte jejich nastavení, jak uznáte za vhodné. </p> <p> <a href = \"[disable_checkout]\" target = \"_ blank\" class = \"btn btn-large btn-primary \"> Zde deaktivujte starý nákupní proces </a> </p>"
+

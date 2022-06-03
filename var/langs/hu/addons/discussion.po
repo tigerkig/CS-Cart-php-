@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/discussion.po\n"
+"X-Crowdin-File-ID: 4550\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::discussion"
+msgid "Comments and reviews"
+msgstr "Hozzászólások és értékelések"
+
+msgctxt "Addons::description::discussion"
+msgid "Lets customers leave comments to categories, pages, etc., review vendors and write testimonials"
+msgstr "Lehetővé teszi, hogy  a vásárlók hozzászóljanak a kategóriákhoz, oldalakhoz stb., értékeljék az termelőket és ajánlásokat írjanak"
+
+msgctxt "Languages::use_for_discussion"
+msgid "Comments and reviews forms"
+msgstr "Hozzászólások és értékelések űrlapjai"
+
+msgctxt "Languages::comments_and_reviews_menu_description"
+msgid "Customer comments and reviews on products, categories, orders, etc."
+msgstr "Vevői hozzászólások és értékelések a termékekről, kategóriákról, megrendelésekről stb."
+
+msgctxt "Languages::discussion_title_category"
+msgid "Reviews"
+msgstr "Értékelések"
+
+msgctxt "Languages::discussion_title_giftreg"
+msgid "Guestbook"
+msgstr "Vendégkönyv"
+
+msgctxt "Languages::discussion_title_home_page_menu_description"
+msgid "Manage the testimonials from your store visitors."
+msgstr "A látogatók véleményeinek kezelése."
+
+msgctxt "Languages::discussion_title_order"
+msgid "Communication"
+msgstr "Kommunikáció"
+
+msgctxt "Languages::discussion_title_page"
+msgid "Comments"
+msgstr "Hozzászólások"
+
+msgctxt "Languages::discussion_title_product"
+msgid "Reviews"
+msgstr "Értékelések"
+
+msgctxt "Languages::discussion_title_return"
+msgid "Communication"
+msgstr "Kommunikáció"
+
+msgctxt "Languages::no_posts_found"
+msgid "No posts found"
+msgstr "Nincsenek bejegyzések"
+
+msgctxt "Languages::your_rating"
+msgid "Your rating"
+msgstr "Az Ön értékelése"
+
+msgctxt "Languages::comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "Hozzászólások és értékelések"
+
+msgctxt "Languages::discussion_title_home_page"
+msgid "Testimonials"
+msgstr "Ajánlások"
+
+msgctxt "Languages::text_enabled_testimonials_notice"
+msgid "Testimonials are disabled. To enable, please go to <a href=\"[link]\">Comments and reviews: options</a> and select the \"Communication\", \"Rating\" or \"Communication and Rating\" value in \"Testimonials\" field."
+msgstr "Észrevételek írása le van tiltva. A <a href=\"[link]\">Hozzászólások és értékelések: opciók</a> résznél lehet engedélyezni, ha kijelöli az \"Vélemények\" mezőben az \"Vélemény írása\", \"Pontozás\" vagy a \"Vélemény írása és pontozás\" valamelyikét."
+
+msgctxt "Languages::discussion_title_company"
+msgid "Reviews"
+msgstr "Értékelések"
+
+msgctxt "Languages::communication_and_rating"
+msgid "Communication and Rating"
+msgstr "Kommunikáció és Értékelés"
+
+msgctxt "Languages::communication"
+msgid "Communication"
+msgstr "Kommunikáció"
+
+msgctxt "Languages::rating"
+msgid "Rating"
+msgstr "Értékelés"
+
+msgctxt "Languages::cant_find_thread"
+msgid "Thread can not be found."
+msgstr "Beszélgetés nem található."
+
+msgctxt "Languages::error_already_posted"
+msgid "You have posted in this discussion already"
+msgstr "Már hozzászólt ehhez a témához"
+
+msgctxt "Languages::text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "Köszönjük bejegyzését"
+
+msgctxt "Languages::text_post_pended"
+msgid "Your post will be checked before it gets published."
+msgstr "A hozzászólása a közzététel előtt ellenőrzésre kerül."
+
+msgctxt "Languages::discussion"
+msgid "Comments and reviews"
+msgstr "Hozzászólások és értékelések"
+
+msgctxt "Languages::text_new_post_notification"
+msgid "This is a notification of a new post to"
+msgstr "Ez egy értesítés új hozzászólásról. Téma:"
+
+msgctxt "Languages::text_approval_notice"
+msgid "This post needs approving"
+msgstr "A hozzászólást jóvá kell hagyni"
+
+msgctxt "Languages::latest_reviews"
+msgid "Latest comments & reviews"
+msgstr "Legutolsó hozzászólások és értékelések"
+
+msgctxt "Languages::comment_by"
+msgid "Comment by"
+msgstr "Hozzászólást írta:"
+
+msgctxt "Languages::and"
+msgid "and"
+msgstr "és"
+
+msgctxt "Languages::add_post"
+msgid "Add post"
+msgstr "Bejegyzés hozzáadása"
+
+msgctxt "Languages::not_approved"
+msgid "Not approved"
+msgstr "Nem jóváhagyott"
+
+msgctxt "Languages::discussion_manager"
+msgid "Comments and reviews"
+msgstr "Hozzászólások és értékelések"
+
+msgctxt "Languages::testimonials"
+msgid "Testimonials"
+msgstr "Ajánlások"
+
+msgctxt "Languages::privileges.view_discussions"
+msgid "Can view"
+msgstr "Megtekinthető"
+
+msgctxt "Languages::privileges.manage_discussions"
+msgid "Can edit"
+msgstr "Szerkeszthető"
+
+msgctxt "Languages::privilege_groups.discussions"
+msgid "Comments and reviews"
+msgstr "Hozzászólások és értékelések"
+
+msgctxt "Languages::block_testimonials"
+msgid "Testimonials"
+msgstr "Ajánlások"
+
+msgctxt "Languages::block_testimonials_description"
+msgid "User testimonials"
+msgstr "Felhasználói ajánlások"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Értékelés alapján: legkisebbtől legnagyobbig"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "Értékelés alapján"
+
+msgctxt "Languages::reviews"
+msgid "review|reviews"
+msgstr "értékelés|értékelések"
+
+msgctxt "Languages::write_review"
+msgid "Write a review"
+msgstr "Értékelje Ön is"
+
+msgctxt "SettingsSections::discussion::products"
+msgid "Products"
+msgstr "Termékek"
+
+msgctxt "SettingsSections::discussion::categories"
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgctxt "SettingsSections::discussion::orders"
+msgid "Orders"
+msgstr "Rendelések"
+
+msgctxt "SettingsSections::discussion::pages"
+msgid "Pages"
+msgstr "Oldalak"
+
+msgctxt "SettingsSections::discussion::testimonials"
+msgid "Testimonials"
+msgstr "Ajánlások"
+
+msgctxt "SettingsSections::discussion::companies"
+msgid "Vendors"
+msgstr "Beszállítók"
+
+msgctxt "SettingsOptions::discussion::product_posts_per_page"
+msgid "Posts per page"
+msgstr "Bejegyzések oldalanként"
+
+msgctxt "SettingsOptions::discussion::product_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Az adminisztrátornak jóvá kell hagynia a következő hozzászólásait:"
+
+msgctxt "SettingsOptions::discussion::product_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Egy IP címről csak egy hozzászólás engedélyezett"
+
+msgctxt "SettingsOptions::discussion::product_share_discussion"
+msgid "Share discussions with all stores"
+msgstr "Hozzászólások megosztása valamennyi piactérrel"
+
+msgctxt "SettingsTooltips::discussion::product_share_discussion"
+msgid "Show all comments and reviews of a product on all storefronts that the product is shared with"
+msgstr "Egy termék összes megjegyzésének és értékelésének megjelenítése az összes olyan piactéren, amellyel a termék meg van osztva."
+
+msgctxt "SettingsOptions::discussion::category_posts_per_page"
+msgid "Posts per page"
+msgstr "Bejegyzések oldalanként"
+
+msgctxt "SettingsOptions::discussion::category_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "A rendszergazdának jóvá kell hagynia a következő hozzászólásait"
+
+msgctxt "SettingsOptions::discussion::category_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Egy IP címről csak egy hozzászólás engedélyezett"
+
+msgctxt "SettingsOptions::discussion::order_posts_per_page"
+msgid "Posts per page"
+msgstr "Bejegyzések oldalanként"
+
+msgctxt "SettingsOptions::discussion::order_initiate"
+msgid "Allow customer to initiate discussion"
+msgstr "A vásárló is indíthat kommunikációt"
+
+msgctxt "SettingsOptions::discussion::page_posts_per_page"
+msgid "Posts per page"
+msgstr "Bejegyzések oldalanként"
+
+msgctxt "SettingsOptions::discussion::page_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "A rendszergazdának jóvá kell hagynia a következő hozzászólásait"
+
+msgctxt "SettingsOptions::discussion::page_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Egy IP címről csak egy hozzászólás engedélyezett"
+
+msgctxt "SettingsOptions::discussion::page_share_discussion"
+msgid "Share discussions with all stores"
+msgstr "Hozzászólások megosztása valamennyi piactérrel"
+
+msgctxt "SettingsTooltips::discussion::page_share_discussion"
+msgid "Show all comments and reviews of a page on all storefronts that the page is shared with"
+msgstr "Egy oldal összes megjegyzésének és értékelésének megjelenítése az összes olyan piactéren amellyel az oldal meg van osztva."
+
+msgctxt "SettingsOptions::discussion::home_page_posts_per_page"
+msgid "Posts per page"
+msgstr "Bejegyzések oldalanként"
+
+msgctxt "SettingsOptions::discussion::home_page_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "A rendszergazdának jóvá kell hagynia a következő hozzászólásait"
+
+msgctxt "SettingsOptions::discussion::home_page_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Egy IP címről csak egy hozzászólás engedélyezett"
+
+msgctxt "SettingsOptions::discussion::home_page_testimonials"
+msgid "Testimonials"
+msgstr "Ajánlások"
+
+msgctxt "SettingsOptions::discussion::testimonials_from_all_stores"
+msgid "Show testimonials from all stores"
+msgstr "Az összes bolt értékelésének megjelenítése"
+
+msgctxt "SettingsOptions::discussion::product_discussion_type"
+msgid "Default value"
+msgstr "Alapértelmezett érték"
+
+msgctxt "SettingsTooltips::discussion::product_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "Meghatározza, hogy az újonnan létrehozott termékekhez engedélyezettek-e a megjegyzések és/vagy az értékelések. Nem érinti a meglévő termékeket."
+
+msgctxt "SettingsOptions::discussion::product_review_after_purchase"
+msgid "Only buyers can post"
+msgstr "Csak vevők írhatnak hozzászólást"
+
+msgctxt "SettingsTooltips::discussion::product_review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "Csak azoknak engedélyezi a termékkel kapcsolatos vélemények írását, akik megvásárolták az adott terméket."
+
+msgctxt "SettingsOptions::discussion::category_discussion_type"
+msgid "Default value"
+msgstr "Alapértelmezett érték"
+
+msgctxt "SettingsTooltips::discussion::category_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created categories. Doesn't affect existing categories."
+msgstr "Meghatározza, hogy az újonnan létrehozott kategóriákhoz engedélyezettek-e a megjegyzések és/vagy az értékelések. Nem érinti a meglévő kategóriákat."
+
+msgctxt "SettingsOptions::discussion::page_discussion_type"
+msgid "Default value"
+msgstr "Alapértelmezett érték"
+
+msgctxt "SettingsTooltips::discussion::page_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created pages. Doesn't affect existing pages."
+msgstr "Meghatározza, hogy az újonnan létrehozott oldalakhoz engedélyezettek-e a megjegyzések és/vagy az értékelések. Nem érinti a meglévő oldalakat."
+
+msgctxt "SettingsOptions::discussion::company_discussion_type"
+msgid "Reviews"
+msgstr "Értékelések"
+
+msgctxt "SettingsOptions::discussion::company_only_buyers"
+msgid "Only buyers can post"
+msgstr "Csak vevők írhatnak hozzászólást"
+
+msgctxt "SettingsTooltips::discussion::company_only_buyers"
+msgid "Allow leaving reviews for a vendor only to those who bought products from that vendor."
+msgstr "Csak azok számára engedélyezi az értékelések írását termelőre vonatkozóan, akik az adott termelőtől vásároltak termékeket."
+
+msgctxt "SettingsOptions::discussion::company_posts_per_page"
+msgid "Posts per page"
+msgstr "Bejegyzések oldalanként"
+
+msgctxt "SettingsOptions::discussion::company_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "A rendszergazdának jóvá kell hagynia a következő hozzászólásait"
+
+msgctxt "SettingsOptions::discussion::company_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Egy IP címről csak egy hozzászólás engedélyezett"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::any"
+msgid "Any customer"
+msgstr "Bármely vevő"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Csak névtelen vevők"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Jóváhagyás nem szükséges"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::any"
+msgid "Any customer"
+msgstr "Bármely vevő"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Csak névtelen vevők"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Jóváhagyás nem szükséges"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::any"
+msgid "Any customer"
+msgstr "Bármely vevő"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Csak névtelen vevők"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Jóváhagyás nem szükséges"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::any"
+msgid "Any customer"
+msgstr "Bármely vevő"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Csak névtelen vevők"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Jóváhagyás nem szükséges"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::any"
+msgid "Any customer"
+msgstr "Bármely vevő"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Csak névtelen vevők"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Jóváhagyás nem szükséges"
+
+msgctxt "Languages::discussion_tab_products"
+msgid "Product Reviews"
+msgstr "Termék értékelések"
+
+msgctxt "Languages::discussion_tab_categories"
+msgid "Category Reviews"
+msgstr "Kategória értékelések"
+
+msgctxt "Languages::discussion_tab_pages"
+msgid "Page Comments"
+msgstr "Oldal kommentek"
+
+msgctxt "Languages::discussion_tab_orders"
+msgid "Order Communication"
+msgstr "Rendelés kommunikáció"
+
+msgctxt "Languages::discussion_tab_home_page"
+msgid "Testimonials"
+msgstr "Ajánlások"
+
+msgctxt "Languages::discussion_tab_companies"
+msgid "Company Reviews"
+msgstr "Cég értékelések"
+
+msgctxt "Languages::email_template.discussion_notification"
+msgid "Comments and reviews notification"
+msgstr "Értesítés hozzászólásról és értékelésről"
+
+msgctxt "Languages::show_rating"
+msgid "Show review rating"
+msgstr "Hozzászólások értékelések megjelenítése"
+
+msgctxt "Languages::gdpr_discussions_data"
+msgid "Personal data from discussions"
+msgstr "Hozzászólásokból származó személyes adatok"
+
+msgctxt "Languages::discussion.add_new_review"
+msgid "Discussion: new review"
+msgstr "Hozzászólás: új értékelés"
+
+msgctxt "Languages::discussion.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>A neved mindenki számára láthatóan megjelenik az értékelésed vagy hozzászólásod mellett. Mi, a ([company]) társaság is elmentjük biztonsági óvintézkedésként az IP-címed, de azt csak a munkatársaink láthatják. A rendszerünkben marad, amíg vissza nem vonod a hozzájárulásod. Ha szeretnéd, hogy személyes adataidat eltávolítsuk, küldj egy e-mailt a [email] címre.</p> <p>Ha úgy véled, hogy személyes adataiddal visszaéltek, jogodban áll panaszt tenni a felügyeleti hatóságnál. Az EU általános adatvédelmi rendelete kötelez bennünket arra, hogy tájékoztassunk erről a jogodról; valójában nem áll szándékunkban visszaélni adataiddal.</p>"
+
+msgctxt "Languages::discussion.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Hozzájárulok ahhoz, hogy személyes adataimat <u>az alábbiak szerint kezeljék.</u>"
+
+msgctxt "Languages::discussion.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "Kérjük, jelentkezz be, hogy értékelést írhass"
+
+msgctxt "Languages::discussion.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "Nem írhatsz értékelést erről a termékről. A vásárlók csak az általuk megvásárolt termékekről írhatnak értékelést. Ha valóban megvásároltad tőlünk ezt a terméket, de még mindig ezt az üzenetet látod, kérjük, lépj kapcsolatba velünk."
+
+msgctxt "Languages::discussion.you_have_to_buy_from_vendor_before_writing_review"
+msgid "You can't write a review for this vendor. Customers can write reviews for a vendor only after they buy something from that vendor. If you actually placed an order with this vendor, but are still seeing this message, please contact us."
+msgstr "Nem írhatsz értékelést erről a termelőről. A vásárlók csak akkor írhatnak értékelést termelőről, ha már vásároltak valamit az adott termelőtől. Ha ténylegesen rendeltél ettől a termelőtől, de még mindig ezt az üzenetet látod, kérjük, lépj kapcsolatba velünk."
+
+msgctxt "Languages::discussion.anonymous_setting_restored_upgrade_notification_title"
+msgid "Comments and reviews add-on settings were changed"
+msgstr "A hozzászólások és értékelések bővítmény beállításai megváltoztak"
+
+msgctxt "Languages::discussion.anonymous_setting_restored_upgrade_notification"
+msgid "In the 4.9.1 version the <strong>Only anonymous customers</strong> variant of the <strong>Administrator must approve posts submitted by</strong> setting was removed. Now, it is available again, with the ability to leave reviews for nonauthorized customers. Please check if the desirable value of the setting is selected."
+msgstr "A 4.9.1-es verzióban a <strong>adminisztrátornak jóvá kell hagynia a </strong> által beküldött hozzászólásokat beállítás <strong>csak névtelen vásárlók</strong> változata eltávolításra került. Most újra elérhető, a nem engedélyezett vásárlók értékelésének lehetőségével együtt. Kérjük, ellenőrizd, hogy a beállítás kívánatos értéke van-e kiválasztva."
+
+msgctxt "Languages::discussion.event.products.new_post"
+msgid "Products: new review posted"
+msgstr "Termékek: új értékelés érkezett"
+
+msgctxt "Languages::discussion.event.testimonials.new_post"
+msgid "Testimonials: new review posted"
+msgstr "Ajánlások: új értékelés érkezett"
+
+msgctxt "Languages::discussion.event.orders.new_post"
+msgid "Order communication: new message added"
+msgstr "Rendeléssel kapcsolatos kommunikáció: új üzenet hozzáadva"
+
+msgctxt "Languages::discussion.event.categories.new_post"
+msgid "Categories: new review posted"
+msgstr "Kategóriák: új értékelés érkezett"
+
+msgctxt "Languages::discussion.event.pages.new_post"
+msgid "Pages: new comment posted"
+msgstr "Oldalak: új hozzászólás érkezett"
+
+msgctxt "Languages::discussion.event.vendors.new_post"
+msgid "Vendors: new review posted"
+msgstr "Termelők: új értékelés érkezett"
+

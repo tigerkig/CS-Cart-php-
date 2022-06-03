@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.13.2/addons/bulk_add_to_cart.po\n"
+"X-Crowdin-File-ID: 4532\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::bulk_add_to_cart"
+msgid "Add products to cart in bulk"
+msgstr "Adicionar produtos ao carrinho em massa"
+
+msgctxt "Addons::description::bulk_add_to_cart"
+msgid "Allows customers to quickly add a large number of products to the cart from the catalog."
+msgstr "Permite que os clientes adicionem rapidamente um grande número de produtos ao carrinho através do catálogo."
+
+msgctxt "Languages::bulk_add_to_cart.install_text"
+msgid "<b>Product list default view</b> has been set to <b>\"Compact list\"</b>. The <b>\"Grid\"</b> and <b>\"List without options\"</b> product list views are no longer available."
+msgstr "A <b>visualização padrão da lista de produtos</b> foi definida como <b>\"Lista compacta\"</b>. Os modos de visualização <b>\"Grade\"</b> e <b>\"Lista sem opções\"</b> agora estão indisponíveis."
+
+msgctxt "Languages::bulk_add_to_cart.short_list_warning_install"
+msgid "The <b>Compact list</b> view is not available. Compact list is required for the add-on to work."
+msgstr "A visualização <b>\"Lista compacta\"</b> não está disponível. Essa visualização é necessária para que o add-on funcione."
+
+msgctxt "Languages::bulk_add_to_cart.add_selected_products_to_cart"
+msgid "Add selected to cart <bdi>(<span [attr]>[number]</span>)</bdi>"
+msgstr "Adicionar selecionados ao carrinho <bdi>(<span [attr]>[number]</span>)</bdi>"
+

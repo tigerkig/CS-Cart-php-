@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/email_marketing.po\n"
+"X-Crowdin-File-ID: 4556\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::email_marketing"
+msgid "E-mail marketing"
+msgstr "שיווק בדוא\"ל"
+
+msgctxt "Addons::description::email_marketing"
+msgid "Synchronizes your newsletter subscriber lists with MailChimp and Mad Mimi"
+msgstr "סינכרון רשימות הלקוחות שלך ידיעון עם MailChimp ו- Mad Mimi"
+
+msgctxt "Languages::subscribers_menu_description"
+msgid "Manage newsletter subscribers and settings."
+msgstr "ניהול מנויים לידיעון והגדרות."
+
+msgctxt "Languages::email_marketing.subscription_confirmed"
+msgid "Thank you for subscribing to our newsletter"
+msgstr "תודה לך על הרשמה לניוזלטר שלנו"
+
+msgctxt "Languages::email_marketing.text_subscription_confirmed"
+msgid "Your subscription has been confirmed. No extra actions is required."
+msgstr "המנוי שלך אומת. אין פעולות נוספות נדרש."
+
+msgctxt "Languages::email_marketing.subscription_pending"
+msgid "Email confirmation is required!"
+msgstr "נדרש אימות דואר אלקטרוני!"
+
+msgctxt "Languages::email_marketing.text_subscription_pending"
+msgid "Thank you for subscribing to our newsletter.<p>A confirmation email has been sent to you. Please use the link in the email to confirm your subscription</p>"
+msgstr "תודה על הרשמה לניוזלטר שלנו.<p>דוא\"ל עם אישור נשלח אליך. אנא השתמש קישור בדוא\"ל כדי לאשר את המנוי</p>"
+
+msgctxt "Languages::email_marketing.confirm_subscription"
+msgid "Please confirm subscription"
+msgstr "אנא אשרו את המנוי"
+
+msgctxt "Languages::email_marketing.text_confirm_subscription"
+msgid "We received a subscription request from you. Please confirm it:<p><a href=\"[href]\">Click here to confirm your subscription to our newsletter</a></p>If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above."
+msgstr "קיבלנו את בקשתך להצטרף לרשימת הניוזלטר שלנו. \n"
+"לאישור ההרשמה לחץ על הלינק המוצרף:<p><a href=\"[href]\"></a></p>\n\n"
+"במידה וקיבלת הודעה זו בטעות פשוט מחק אותה או התעלם\n"
+"לא תירשם לרשימה כל עוד לא לחצת על הלינק המאשר זאת."
+
+msgctxt "Languages::email_marketing.subscription_confirmed_2"
+msgid "Subscription confirmed"
+msgstr "המינוי אושר"
+
+msgctxt "Languages::email_marketing.text_subscription_confirmed_2"
+msgid "Your subscription to our newsletter has been confirmed. Thank you for subscribing!"
+msgstr "המנוי לניוזלטר שלנו אושר. תודה לך על ההרשמה!"
+
+msgctxt "Languages::email_marketing.email_subscribed"
+msgid "You were subscribed to our newsletter"
+msgstr "נרשמת בהצלחה לרשימת הניוזלטר שלנו"
+
+msgctxt "Languages::email_marketing.text_email_subscribed"
+msgid "Thank you for subscribing to our newsletter. <p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "תודה על הרשמה לניוזלטר שלנו. <p>אם בכל עת ברצונך להפסיק לקבל הודעות דוא ל שלנו, <a href=\"[href]\">לחץ על קישור זה כדי לבטל את המנוי</a>.</p>"
+
+msgctxt "Languages::email_marketing.email_subscribed_2optin"
+msgid "Subscription confirmed"
+msgstr "רישום המנוי אושר"
+
+msgctxt "Languages::email_marketing.text_email_subscribed_2optin"
+msgid "Your subscription to our newsletter has been confirmed.<p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "תודה לך על הרשמתך לניוזלטר שלנו. <p>אם בזמן כלשהו ברצונך להפסיק לקבל מאיתנו דיוור, <a href=\"[href]\">באפשרותך ללחוץ על קישור זה כדי להסיר עצמך מהרשימה</a>.</p>"
+
+msgctxt "Languages::email_marketing.unsubscribe_successful"
+msgid "Unsubscribe successful"
+msgstr "ביטול את המנוי מוצלח"
+
+msgctxt "Languages::email_marketing.text_unsubscribe_successful"
+msgid "Your email has been removed from our list."
+msgstr "כתובת הדואר שלך הוסרה מהרשימות בהצלחה."
+
+msgctxt "Languages::email_marketing.export_all"
+msgid "Export all"
+msgstr "ייצא הכל"
+
+msgctxt "Languages::email_marketing.enter_api_key_and_save"
+msgid "Enter API key and save first"
+msgstr "הזן את ה-API ושמור קודם"
+
+msgctxt "Languages::email_marketing.warning_email_exists"
+msgid "[email] is already subscribed"
+msgstr "[email] זה כבר רשום כמנוי"
+
+msgctxt "Languages::email_marketing.new_subscriber"
+msgid "New subscriber"
+msgstr "מנוי חדש"
+
+msgctxt "Languages::email_marketing.sync"
+msgid "Sync"
+msgstr "סינכרון"
+
+msgctxt "Languages::email_marketing.text_subscribe"
+msgid "Subscribe to our newsletter"
+msgstr "הירשם כמנוי לידיעון שלנו"
+
+msgctxt "Languages::email_marketing.tmpl_subscription"
+msgid "Email marketing: Newsletter subscription form"
+msgstr "שיווק בדואר אלקטרוני: טופס מנוי לידיעון"
+
+msgctxt "Languages::privileges.manage_email_marketing"
+msgid "Can edit"
+msgstr "ניתן לערוך"
+
+msgctxt "Languages::privileges.view_email_marketing"
+msgid "Can view"
+msgstr "יכול לראות"
+
+msgctxt "Languages::privilege_groups.email_marketing"
+msgid "Email marketing"
+msgstr "שיווק בדוא\"ל"
+
+msgctxt "Languages::email_marketing.error_no_list"
+msgid "Please select mailing list in add-on settings to start import"
+msgstr "נא בחרו רשימת התפוצה הרחבה הגדרות כדי להתחיל לייבא"
+
+msgctxt "SettingsSections::email_marketing::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsSections::email_marketing::mailchimp"
+msgid "MailChimp"
+msgstr "MailChimp"
+
+msgctxt "SettingsSections::email_marketing::madmimi"
+msgid "MadMimi"
+msgstr "MadMimi"
+
+msgctxt "SettingsOptions::email_marketing::em_show_on_checkout"
+msgid "Newsletter checkbox on checkout"
+msgstr "תיבת סימון עלון על קופה"
+
+msgctxt "SettingsOptions::email_marketing::em_checkout_enabled"
+msgid "Tick off by default"
+msgstr "Tick כבוי כברירת מחדל"
+
+msgctxt "SettingsOptions::email_marketing::em_double_opt_in"
+msgid "Double opt-in"
+msgstr "זוגי (opt-in)"
+
+msgctxt "SettingsOptions::email_marketing::em_welcome_letter"
+msgid "Send a welcome letter with the unsubscribe link"
+msgstr "לשלוח מכתב הפתיחה עם קישור לביטול המנוי"
+
+msgctxt "SettingsOptions::email_marketing::em_service"
+msgid "Email integration provider"
+msgstr "ספק אינטגרציה דואר האלקטרוני"
+
+msgctxt "SettingsOptions::email_marketing::em_mailchimp_api_key"
+msgid "API key"
+msgstr "API מפתח"
+
+msgctxt "SettingsOptions::email_marketing::em_mailchimp_list"
+msgid "List"
+msgstr "רשימה"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_username"
+msgid "E-mail"
+msgstr "דואר אלקטרוני"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_api_key"
+msgid "API key"
+msgstr "מפתח API"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_list"
+msgid "List"
+msgstr "רשימה"
+
+msgctxt "SettingsVariants::email_marketing::em_service::dummy"
+msgid "--"
+msgstr "--"
+
+msgctxt "SettingsVariants::email_marketing::em_service::mailchimp"
+msgid "MailChimp"
+msgstr "MailChimp"
+
+msgctxt "SettingsVariants::email_marketing::em_service::madmimi"
+msgid "MadMimi"
+msgstr "MadMimi"
+
+msgctxt "Languages::email_template.email_marketing_confirmation"
+msgid "Email marketing: subscription confirmation"
+msgstr "דוא\"ל שיווק: אישור המנוי"
+
+msgctxt "Languages::email_template.email_marketing_welcome"
+msgid "Email marketing: welcome letter"
+msgstr "דוא\"ל שיווק: מכתב"
+
+msgctxt "Languages::email_template.email_marketing_welcome_2optin"
+msgid "Email marketing: welcome letter (2optin)"
+msgstr "דוא\"ל שיווק: מכתב (2optin)"
+

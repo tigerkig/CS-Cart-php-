@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/sms_notifications.po\n"
+"X-Crowdin-File-ID: 4644\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::sms_notifications"
+msgid "SMS notifications"
+msgstr "Notifikasi SMS"
+
+msgctxt "Addons::description::sms_notifications"
+msgid "Allows you to set up administrator SMS order notifications"
+msgstr "Memungkinkan Anda untuk mengatur notifikasi pesanan SMS administrator"
+
+msgctxt "Languages::unicode_not_enabled"
+msgid "Unicode support can not be enabled: 'mbstring' PHP extension is not installed."
+msgstr "Dukungan Unicode tidak dapat diaktifkan: 'mbstring' ekstensi PHP tidak diinstal."
+
+msgctxt "SettingsSections::sms_notifications::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::sms_notifications::phone_number"
+msgid "Phone number"
+msgstr "Nomor telepon"
+
+msgctxt "SettingsOptions::sms_notifications::phone_number_from"
+msgid "Send from number"
+msgstr ""
+
+msgctxt "SettingsOptions::sms_notifications::elm_clickatell_settings"
+msgid "Clickatell settings"
+msgstr "Pengaturan clickatell"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_user"
+msgid "Username"
+msgstr "Nama pengguna"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_api_id"
+msgid "API ID"
+msgstr "ID API"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_password"
+msgid "Password"
+msgstr "Kata sandi"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_unicode"
+msgid "Use Unicode"
+msgstr "Gunakan Unicode"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_concat"
+msgid "Split long sms into several parts"
+msgstr "Split sms panjang menjadi beberapa bagian"
+
+msgctxt "SettingsOptions::sms_notifications::elm_send_sms_if"
+msgid "Send SMS if"
+msgstr "Kirim SMS jika"
+
+msgctxt "SettingsOptions::sms_notifications::sms_new_order_placed"
+msgid "New order has been placed"
+msgstr "New rangka telah ditempatkan"
+
+msgctxt "SettingsOptions::sms_notifications::sms_new_cusomer_registered"
+msgid "New customer has been registered"
+msgstr "Pelanggan baru telah terdaftar"
+
+msgctxt "SettingsOptions::sms_notifications::sms_product_negative_amount"
+msgid "Product quantity is less than zero"
+msgstr "Kuantitas produk kurang dari nol"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_min_amout"
+msgid "Only send when order total amount is more than"
+msgstr "Hanya kirim bila jumlah pesanan lebih dari"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_shipping"
+msgid "Only send for these shipping methods"
+msgstr "Kirimkan saja metode pengiriman ini"
+
+msgctxt "SettingsOptions::sms_notifications::elm_sms_content"
+msgid "SMS content"
+msgstr "Konten SMS"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_payment_info"
+msgid "Add payment info"
+msgstr "Tambahkan info pembayaran"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_customer_email"
+msgid "Add customers e-mail"
+msgstr "Tambahkan e-mail pelanggan"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_1"
+msgid "Do not split"
+msgstr "Jangan berpisah"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_2"
+msgid "2 sms"
+msgstr "2 sms"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_3"
+msgid "3 sms"
+msgstr "3 sms"
+

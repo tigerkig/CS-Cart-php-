@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /release-4.13.2/addons/image_zoom.po\n"
+"X-Crowdin-File-ID: 4582\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::image_zoom"
+msgid "Image zoom"
+msgstr "Zoom immagine"
+
+msgctxt "Addons::description::image_zoom"
+msgid "Shows zoomed image on product image hover"
+msgstr "Mostra immagine ingrandita posizionandosi sopra l'immagine prodotto"
+
+msgctxt "SettingsSections::image_zoom::general"
+msgid "General"
+msgstr "Generale"
+
+msgctxt "SettingsOptions::image_zoom::cz_animation_time"
+msgid "Animation time"
+msgstr "Tempo di animazione"
+
+msgctxt "SettingsOptions::image_zoom::cz_zoom_position"
+msgid "Zoom position"
+msgstr "Posizione dello zoom"
+
+msgctxt "SettingsTooltips::image_zoom::cz_animation_time"
+msgid "Duration of the animation effects in milliseconds."
+msgstr "Durata degli effetti di animazione in millisecondi."
+
+msgctxt "SettingsTooltips::image_zoom::cz_zoom_position"
+msgid "Specifies position of zoom window."
+msgstr "Specifica la posizione della finestra di zoom."
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::3"
+msgid "Upper right corner"
+msgstr "Angolo in alto a destra"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::5"
+msgid "Bottom right corner"
+msgstr "Angolo in basso a destra"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::11"
+msgid "Bottom left corner"
+msgstr "Angolo in basso a sinistra"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::13"
+msgid "Upper left corner"
+msgstr "Angolo in alto a sinistra"
+
+msgctxt "Languages::image_zoom.rework_update_notification.title"
+msgid "Image Zoom add-on reworked"
+msgstr "Componente aggiuntivo Zoom immagine rielaborato"
+
+msgctxt "Languages::image_zoom.rework_update_notification.message"
+msgid "<p>We reworked the <b>Image zoom</b> add-on, because it used a third-party solution incompatible with modern versions of jQuery. As a result of the rework, some settings of the add-on were removed.</p><p>Please check how the image zoom looks on the product pages now. If you'd like to make any changes to the looks, adjust the settings of the <b>Image zoom</b> add-on.</p><p><a href=\"[image_zoom_settings]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Check Image Zoom settings</a></p>"
+msgstr "<p> Abbiamo rielaborato il componente aggiuntivo <b> Zoom immagine </b>, perché utilizzava una soluzione di terze parti incompatibile con le versioni moderne di jQuery. Come risultato della rielaborazione, alcune impostazioni del componente aggiuntivo sono state rimosse. </p> <p> Controlla ora come appare lo zoom dell'immagine sulle pagine dei prodotti. Se desideri apportare modifiche all'aspetto, regola le impostazioni del componente aggiuntivo <b> Zoom immagine </b>. </p> <p> <a href=\"[image_zoom_settings]\" target=\"_blank\" class=\"btn btn-large btn-primary\"> Controlla le impostazioni dello zoom immagine </a> </p>"
+

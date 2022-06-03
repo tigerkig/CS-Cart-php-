@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /release-4.13.2/addons/required_products.po\n"
+"X-Crowdin-File-ID: 4632\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::required_products"
+msgid "Required products"
+msgstr "Productos requeridos"
+
+msgctxt "Addons::description::required_products"
+msgid "Makes it possible to specify products required for purchase"
+msgstr "Permite especificar los productos necesarios para la compra"
+
+msgctxt "Languages::required_products"
+msgid "Required products"
+msgstr "Productos requeridos"
+
+msgctxt "Languages::required_products_added"
+msgid "The following required product(s) were added to your cart"
+msgstr "Los siguientes productos solicitados se agregaron a su carrito. \n"
+"El siguiente producto solicitado fue agregado a su carrito"
+
+msgctxt "Languages::required_products_out_of_stock"
+msgid "This product cannot be added to your cart, because following required product(s) are out of stock:"
+msgstr "Este producto no puede ser agregado a su carrito, porque el siguiente producto solicitado no se encuentra en existencia:\n\n"
+"Este producto no puede ser agregado a su carrito, porque los siguientes productos solicitados no se encuentran en existencia:"
+

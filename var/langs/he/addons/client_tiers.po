@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/client_tiers.po\n"
+"X-Crowdin-File-ID: 4540\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::client_tiers"
+msgid "Client tiers"
+msgstr "לקוח צד ג'"
+
+msgctxt "Addons::description::client_tiers"
+msgid "Automatically assigns and removes customer's user group depending on money spent. Allows you to rank your customers (for example, bronze, silver, gold customers)."
+msgstr "מקצה ומסיר אוטומטית את קבוצת המשתמשים של הלקוח בהתאם לכסף שהוצא. מאפשר לך לדרג את הלקוחות שלך (לדוגמא, לקוחות ברונזה, כסף, זהב)."
+
+msgctxt "SettingsSections::client_tiers::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::client_tiers::tiers_reporting_period"
+msgid "Reporting period"
+msgstr "תקופת הדיווח"
+
+msgctxt "SettingsTooltips::client_tiers::tiers_reporting_period"
+msgid "Statistics from this period is checked to see if a customer is eligible for a certain tier"
+msgstr "נתונים סטטיסטיים מתקופה זו נבדקים כדי לראות אם לקוח זכאי לשכבה מסוימת"
+
+msgctxt "SettingsOptions::client_tiers::upgrade_tier_option"
+msgid "Customer tier can upgrade"
+msgstr "רמת הלקוח יכולה לשדרג"
+
+msgctxt "SettingsOptions::client_tiers::automatic_downgrade"
+msgid "Tier check can downgrade customer's tier"
+msgstr "בדיקת שכבות יכולה להוריד את הרמה של הלקוח"
+
+msgctxt "Languages::client_tiers.minimum_spend_value"
+msgid "Required spendings"
+msgstr "הוצאות חובה"
+
+msgctxt "Languages::client_tiers.tooltip_minimum_spend_value"
+msgid "Set 0 if you don't want this user group to be assigned automatically. Otherwise, customer can get this user group after spending the specified sum during the reporting period set in the Client Tiers add-on."
+msgstr "קבע 0 אם אינך רוצה שקבוצת משתמשים זו יוקצה אוטומטית. אחרת, לקוח יכול להשיג קבוצת משתמשים זו לאחר שהוציא את הסכום שצוין במהלך תקופת הדיווח שנקבעה בתוסף שכבות הלקוחות."
+
+msgctxt "Languages::client_tiers.bronze_level_customers"
+msgid "Bronze level customers"
+msgstr "לקוחות ברמת ברונזה "
+
+msgctxt "Languages::client_tiers.silver_level_customers"
+msgid "Silver level customers"
+msgstr "לקוחות ברמת הכסף"
+
+msgctxt "Languages::client_tiers.gold_level_customers"
+msgid "Gold level customers"
+msgstr "לקוחות ברמה זהב"
+
+msgctxt "Languages::client_tiers.client_success_set_tier"
+msgid "[username] spent [total] amount in reported period and moved to [new_group]"
+msgstr "[username] בילה [total] סכום בתקופה המדווחת ועבר ל[new_group]"
+
+msgctxt "Languages::client_tiers.client_fail_set_new_tier"
+msgid "Couldn't assign user group [new_group] to customer with id [user_id]. Customer spent [total] in the reporting period, which is more than the required spendings for this user group."
+msgstr "לא ניתן היה להקצות קבוצת משתמשים [new_group] ללקוח עם מזהה [user_id]. הלקוח בילה [total] בתקופת הדיווח, שהיא יותר מזו הוצאות נדרשות עבור קבוצת משתמשים זו."
+
+msgctxt "Languages::client_tiers.client_fail_unset_old_tier"
+msgid "Couldn't remove user group [old_group] from customer with id [user_id]. With [total] spent in the reporting period, customer shouldn't be a part of this user group."
+msgstr "לא ניתן היה להסיר את קבוצת המשתמשים [old_group] מלקוח עם מזהה [user_id]. עם [total] בילה בתקופת הדיווח, הלקוח לא אמור להיות חלק מקבוצת משתמשים זו."
+
+msgctxt "Languages::client_tiers.client_success_unset_tier"
+msgid "Customer [username] was successfully removed from [old_group] due to [total] spent in reporting period."
+msgstr "לקוח [username] הוסר בהצלחה מ[old_group] עקב [total] בילה בתקופת הדיווח."
+
+msgctxt "Languages::log_type_client_tiers"
+msgid "Client Tiers"
+msgstr "לקוח צד ג'"
+
+msgctxt "Languages::log_action_ct_success"
+msgid "Success"
+msgstr "מוצלח"
+
+msgctxt "Languages::log_action_ct_failure"
+msgid "Errors"
+msgstr "שגיאות"
+
+msgctxt "Languages::client_tiers.previous_30_days"
+msgid "Previous 30 days"
+msgstr "30 הימים האחרונים"
+
+msgctxt "Languages::client_tiers.previous_month"
+msgid "Previous month"
+msgstr "חודש קודם"
+
+msgctxt "Languages::client_tiers.previous_12_months"
+msgid "Previous 12 months"
+msgstr "12 החודשים האחרונים"
+
+msgctxt "Languages::client_tiers.previous_year"
+msgid "Previous year"
+msgstr "שנה קודמת"
+
+msgctxt "Languages::client_tiers.after_completed_purchase"
+msgid "After the order is paid"
+msgstr "לאחר תשלום ההזמנה"
+
+msgctxt "Languages::client_tiers.after_tier_check"
+msgid "After tier check only"
+msgstr "לאחר בדיקת שכבות בלבד"
+
+msgctxt "Languages::client_tiers.update_tiers"
+msgid "Tier check"
+msgstr "בדיקת רמה"
+
+msgctxt "Languages::client_tiers.run_recalculation"
+msgid "Check customer tiers now"
+msgstr "בדוק את רמות הלקוחות כעת"
+
+msgctxt "Languages::client_tiers.run_tiers_updating_by_cron"
+msgid "Updating client tiers is the resource-intensive process. It's recommended to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+msgstr "עדכון שכבות לקוח הוא התהליך עתיר המשאבים. מומלץ להריץ אותו באופן אוטומטי בפרקי זמן מסוימים.<br>לשם כך, הוסף את הפקודה הבאה ל <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+
+msgctxt "Languages::client_tiers.all_been_recalculated"
+msgid "Tiers have been checked and updated"
+msgstr "הרמות נבדקו ועודכנו"
+
+msgctxt "Languages::client_tiers.silver_promotion"
+msgid "Silver tier promotion"
+msgstr "רמת כסף של קידום"
+
+msgctxt "Languages::client_tiers.bronze_promotion"
+msgid "Bronze tier promotion"
+msgstr "רמת ברונזה של קידום"
+
+msgctxt "Languages::client_tiers.gold_promotion"
+msgid "Gold tier promotion"
+msgstr "רמת זהב של קידום"
+
+msgctxt "Languages::client_tiers.silver_promotion.detailed_description"
+msgid "Only Silver Level Customers are eligible for this promotion."
+msgstr "אך ורק לקוחות ברמת הכסף זכאים לקידום זה."
+
+msgctxt "Languages::client_tiers.silver_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Silver Level Customers."
+msgstr "קידום זה נוצר באופן אוטומטי כחלק מהתוסף של רמת הלקוחות. זה חל רק על לקוחות ברמהת  הכסף."
+
+msgctxt "Languages::client_tiers.bronze_promotion.detailed_description"
+msgid "Only Bronze Level Customers are eligible for this promotion."
+msgstr "אך ורק לקוחות ברמת ברונזה זכאים לקידום זה."
+
+msgctxt "Languages::client_tiers.bronze_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Bronze Level Customers."
+msgstr "קידום זה נוצר באופן אוטומטי כחלק מהתוסף של רמת הלקוחות. זה חל רק על לקוחות ברמהת  הברונזה."
+
+msgctxt "Languages::client_tiers.gold_promotion.detailed_description"
+msgid "Only Gold Level Customers are eligible for this promotion."
+msgstr "אך ורק לקוחות ברמת הזהב זכאים לקידום זה."
+
+msgctxt "Languages::client_tiers.gold_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Gold Level Customers."
+msgstr "קידום זה נוצר באופן אוטומטי כחלק מהתוסף של רמת הלקוחות. זה חל רק על לקוחות ברמהת  הזהב."
+
+msgctxt "Languages::client_tiers.removed_from_old_group"
+msgid "Removed from user group"
+msgstr "הוסר מקבוצת המשתמשים"
+
+msgctxt "Languages::client_tiers.moved_to_new_group"
+msgid "Moved to user group"
+msgstr "הועבר לקבוצת המשתמשים"
+
+msgctxt "Languages::client_tiers.installation_message"
+msgid "To help you get started, we have added user groups for Gold, Silver, and Bronze Level Customers, as well as corresponding promotions. Please check <a href=\"[user_groups]\" target=\"_blank\">user groups</a> and <a href=\"[promotions]\" target=\"_blank\">promotions</a>, and adjust them as needed. You can also delete them and create your own."
+msgstr "כדי לעזור לך להתחיל, הוספנו קבוצות משתמשים ללקוחות רמת זהב, כסף וברונזה, כמו גם מבצעים מקבילים. בבקשה תבדוק <a href=\"[user_groups]\" target=\"_blank\">קבוצות המשתמש</a> ו<a href=\"[promotions]\" target=\"_blank\">מבצעים</a>, והתאם אותם לפי הצורך. אתה יכול גם למחוק אותם וליצור משלך."
+

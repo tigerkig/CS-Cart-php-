@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/wishlist.po\n"
+"X-Crowdin-File-ID: 4682\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::wishlist"
+msgid "Wish List"
+msgstr "Daftar keinginan"
+
+msgctxt "Addons::description::wishlist"
+msgid "Lets customers store items in personal wish lists"
+msgstr "Memungkinkan pelanggan menyimpan barang dalam daftar keinginan pribadi"
+
+msgctxt "Languages::add_to_wishlist"
+msgid "Add to wish list"
+msgstr "Tambahkan ke Daftar Keinginan"
+
+msgctxt "Languages::clear_wishlist"
+msgid "Clear wish list"
+msgstr "Daftar keinginan jelas"
+
+msgctxt "Languages::view_wishlist"
+msgid "View wish list"
+msgstr "Lihat daftar keinginan"
+
+msgctxt "Languages::wishlist_content"
+msgid "Wish list content"
+msgstr "Daftar keinginan"
+
+msgctxt "Languages::wishlist"
+msgid "Wish list"
+msgstr "Daftar harapan"
+
+msgctxt "Languages::wishlist_short"
+msgid "Wish list"
+msgstr ""
+
+msgctxt "Languages::wishlist_note"
+msgid "Go to your wishlist"
+msgstr "Pergi ke daftar keinginan Anda"
+
+msgctxt "Languages::text_failed_gift_certificate_addition"
+msgid "Failed to add the certificate. Make sure the summary amount is not zero."
+msgstr "Gagal menambahkan sertifikat. Pastikan jumlah ringkasannya tidak nol."
+
+msgctxt "Languages::text_gift_cert_added_to_wishlist"
+msgid "The gift certificate has been added to the wish list"
+msgstr "Sertifikat hadiah telah ditambahkan ke daftar keinginan"
+
+msgctxt "Languages::product_added_to_wl"
+msgid "The product was added to your Wish list"
+msgstr "Produk ditambahkan ke daftar keinginan Anda"
+
+msgctxt "Languages::product_in_wishlist"
+msgid "This product is already in the wish list"
+msgstr "Produk ini sudah ada dalam daftar keinginan"
+
+msgctxt "Languages::wishlist_products"
+msgid "Wish list products"
+msgstr "Daftar keinginan produk"
+

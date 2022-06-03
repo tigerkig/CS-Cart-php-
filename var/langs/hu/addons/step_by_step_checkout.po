@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/step_by_step_checkout.po\n"
+"X-Crowdin-File-ID: 4648\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::step_by_step_checkout"
+msgid "Step-by-Step Checkout [Deprecated]"
+msgstr "Pénztár lépésről lépésre [Deprecated]"
+
+msgctxt "Addons::description::step_by_step_checkout"
+msgid "Brings back the old checkout page split into multiple steps."
+msgstr "Visszahozza a régi, több lépésre osztott pénztári oldalt."
+
+msgctxt "SettingsOptions::step_by_step_checkout::step_by_step_checkout_information"
+msgid "Information"
+msgstr "Információ"
+
+msgctxt "SettingsOptions::step_by_step_checkout::step_by_step_checkout_general_settings"
+msgid "Checkout settings"
+msgstr "Pénztárbeállítások"
+
+msgctxt "Languages::step_by_step_checkout.layout_can_be_setup"
+msgid "Step-by-step checkout requires additional configuration to work properly. Please follow the instructions <a href=\"[href]\">in the settings of the Step-by-Step Checkout add-on</a>"
+msgstr "A lépésről lépésre történő pénztári folyamathoz további konfiguráció szükséges ahhoz, hogy megfelelően működjön. Kérjük, kövesd a <a href=\"[href]\">utasításokat a Pénztár lépésről lépésre bővítményben található beállításokban</a> "
+
+msgctxt "Languages::step_by_step_checkout.setup_layout_instruction"
+msgid "Configure blocks as follows to make step-by-step checkout work properly:</br><ol><li>Go to <b>Design → Layouts</b> and switch to the <b>Checkout</b> tab.</li><li>Find the grid with the disabled <b>Main Content</b> block. Click the gear icon of the grid to open its settings, change the <b>Wrapper</b> from <i>Lite checkout</i> to <i>None</i>, then save your changes.</li><li>Activate the <b>Main Content</b> block in that grid.</li><li>Deactivate all the other blocks in that grid. Here is the list of blocks that exist there by default: <i>Deliver to, Shipping methods, Customer, Address, Customer information, Customer's notes, Payment methods, Terms and conditions, Sign up for our newsletters!</i></li></ol>"
+msgstr "A blokkokat az alábbiak szerint konfiguráld, hogy a lépésről lépésre történő pénztári folyamat megfelelően működjön:</br><ol><li>Menj a <b>Design → Elrendezés</b> menüpontba, és válts a <b>Pénztár</b> fülre.</li><li>Keresd meg a rácsot a letiltott <b>Fő tartalom</b> blokkal. Kattints a rács fogaskerék ikonjára a beállítások megnyitásához, módosítsd a <b>Csomagolás</b>-t <i>Lite checkout</i>-ról <i>None</i>-ra, majd mentsd a módosításokat.</li><li>A <b>Fő tartalom</b> blokkot aktiváld az adott rácsban.</li><li>Az összes többi blokkot deaktiváld az adott rácsban. Itt van az ott alapértelmezés szerint létező blokkok listája: <i>Kézbesítési cím, Szállítási módok, Vásárló, Cím, Vásárlói információk, Vásárlói megjegyzések, Fizetési módok, Általános Szerződési Feltételek, Feliratkozás hírlevelünkre!</i></li></ol>."
+
+msgctxt "Languages::step_by_step_checkout.layout_page_was_backed_up"
+msgid "We've backed up the layout of your checkout in <b>[file_path]</b>. If you ever decide to use step-by-step checkout again, you'll be able to import that layout instead of configuring it manually as described in the add-on's settings."
+msgstr "A pénztárad elrendezését a <b>[file_path]</b> fájlban mentettük le. Ha valaha is úgy döntesz, hogy ismét a Pénztár lépésről lépésre folyamatot használod, akkor ezt az elrendezést importálhatod ahelyett, hogy manuálisan konfigurálnád a bővítmény beállításaiban leírtak szerint."
+
+msgctxt "Languages::step_by_step_checkout.check_layout_back_ups"
+msgid "You already have back-ups of checkout layouts in <b>[file_path]</b>. Instead of following the instruction below, you can simply import the backup."
+msgstr "A <b>[file_path]</b>-ban már rendelkezik biztonsági mentésekkel a pénztár elrendezéseiről. Az alábbi utasítás követése helyett egyszerűen importálhatja a biztonsági másolatot."
+
+msgctxt "Languages::step_by_step_checkout.tooltip.email_can_not_be_disabled"
+msgid "The <strong>Email</strong> field can't be disabled for the old checkout. To disable the <strong>Email</strong> field, please uninstall the <strong>Step-by-Step Checkout [Deprecated]</strong> add-on first."
+msgstr "A <strong>Email</strong> mezőt nem lehet letiltani a régi pénztárnál. Az <strong>Email</strong> mező letiltásához először távolítsd el a <strong>Pénztár lépésről lépésre [Deprecated]</strong> bővítményt."
+
+msgctxt "Languages::step_by_step_checkout.upgrade_notification.try_new_checkout_title"
+msgid "Try the new checkout"
+msgstr "Próbáld ki az új pénztárat"
+
+msgctxt "Languages::step_by_step_checkout.upgrade_notification.try_new_checkout_message"
+msgid "<p>We have created a new checkout page. It is more compact and customizable. To try it, disable the <b>[addon_name]</b> add-on.</p><p>Once you do that, you’ll be able to customize the checkout page via block manager. Go to <b>Design → Layouts</b> and switch to the <i>Checkout</i> tab. Move the blocks, hide the ones you don’t need, and change their settings as you see fit.</p><p><a href=\"[disable_checkout]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Disable old checkout here</a></p>"
+msgstr "<p>Új pénztároldalt készítettünk. Kompaktabb és testreszabhatóbb. Ha ki szeretnéd próbálni, tiltsd le a <b>[addon_name]</b> bővítményt. </p><p>Amint ezt megtetted, a blokk-kezelőn keresztül testre tudod szabni a pénztár oldalát. Menj a <b>Design → Elrendezés</b> menüpontra, és válts a <i>Pénztár</i> fülre. Mozgasd át a blokkokat, rejtsd el azokat, amelyek nem szükségesek, és módosítsd a beállításaikat tetszés szerint.</p><p><a href=\"[disable_checkout]\" target=\"_blank\" class=\"btn btn-large btn-primary\">A régi pénztár kikapcsolása itt</a></p>"
+

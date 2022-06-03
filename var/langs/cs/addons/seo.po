@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.13.2/addons/seo.po\n"
+"X-Crowdin-File-ID: 4642\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::seo"
+msgid "SEO"
+msgstr "SEO"
+
+msgctxt "Addons::description::seo"
+msgid "Adds Search engine-friendly URLs support"
+msgstr "Optimalizováno pro vyhledávače a čitelné URL"
+
+msgctxt "Languages::seo_rules_menu_description"
+msgid "Use this section to define global rules for the URLs rewritten in your store."
+msgstr "V této části můžete definovat globální pravidla nahradí odkazy ve vašem obchodě."
+
+msgctxt "Languages::seo.redirects_manager_menu_description"
+msgid "Manages redirect rules from old URLs"
+msgstr "Spravuje přesměrování pravidla ze staré URL"
+
+msgctxt "Languages::controller_description"
+msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "Chcete-li pro URL adresu zadat SEO název, např. http://example.com/index.php?dispatch=<b>categories.catalog</b>, musíte zadat hodnotu \"<b>categories.catalog</b>\" do pole \"<b> Hodnota parametru 'odeslání' z URL</b>\" a specifikovat SEO název do pole \"<b>SEO název</b>\"."
+
+msgctxt "Languages::seo_name"
+msgid "SEO name"
+msgstr "Název SEO"
+
+msgctxt "Languages::warning_seo_urls_disabled"
+msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
+msgstr "URL optimalizované pro SEO jsou vypnuty. Zkontrolujte nastavení svého webového serveru."
+
+msgctxt "Languages::dispatch_value"
+msgid "Dispatch value"
+msgstr "Hodnota parametru «dispatch»"
+
+msgctxt "Languages::url_dispatch_part"
+msgid "The value of the \"dispatch\" parameter from the URL"
+msgstr "Hodnota parametru «dispatch» z URL"
+
+msgctxt "Languages::new_rule"
+msgid "New rule"
+msgstr "Nové pravidlo"
+
+msgctxt "Languages::seo_rules"
+msgid "SEO rules"
+msgstr "SEO pravidla"
+
+msgctxt "Languages::seo_page_title"
+msgid "page [n]"
+msgstr "strana [n]"
+
+msgctxt "Languages::privileges.manage_seo_rules"
+msgid "Can edit"
+msgstr "Může upravovat"
+
+msgctxt "Languages::privilege_groups.seo"
+msgid "SEO"
+msgstr "SEO"
+
+msgctxt "Languages::privileges.view_seo_rules"
+msgid "Can view"
+msgstr "Může vidět"
+
+msgctxt "Languages::seo.redirects_manager"
+msgid "301 redirects"
+msgstr "301 přesměrování"
+
+msgctxt "Languages::seo.old_url"
+msgid "Old URL"
+msgstr "Staré URL"
+
+msgctxt "Languages::seo.new_url"
+msgid "New URL"
+msgstr "Nové URL"
+
+msgctxt "Languages::seo.new_redirect"
+msgid "New Redirect"
+msgstr "Nové přesměrování"
+
+msgctxt "Languages::seo.error_old_url_exists"
+msgid "The URL you're redirecting from is already exist"
+msgstr "URL, s níž chcete přesměrovat již existuje"
+
+msgctxt "Languages::seo.rich_snippets"
+msgid "Google rich snippets preview"
+msgstr "Google nádherný náhled úryvků"
+
+msgctxt "Languages::seo.rich_snippets_rating"
+msgid "Rating"
+msgstr "Klasifikace"
+
+msgctxt "Languages::seo.rich_snippets_reviews"
+msgid "[n] review|[n] reviews"
+msgstr "[n] přezkoumání|[n] recenzí"
+
+msgctxt "Languages::seo.create_redirect"
+msgid "Create redirect from old URL"
+msgstr "Vytvořte staré přesměrování URL"
+
+msgctxt "Languages::seo.error_incorrect_url"
+msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Nesprávný formát pro <b>[url]</b> URL. Například, pokud vaše adresa URL je <b>http://example.com/path/to/object</b>, budete muset zadat <b>/path/to/object</b>"
+
+msgctxt "Languages::tt_addons_seo_views_seo_redirects_manage_seo.old_url"
+msgid "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Například, pokud vaše adresa URL je <b>http://example.com/path/to/object</b>, budete muset zadat <b>/path/to/object</b>"
+
+msgctxt "SettingsSections::seo::general"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "SettingsOptions::seo::seo_product_type"
+msgid "Product SEO URL format"
+msgstr "Formát SEO URL zboží"
+
+msgctxt "SettingsOptions::seo::seo_category_type"
+msgid "Category SEO URL format"
+msgstr "Kategorie SEO formát adresy URL"
+
+msgctxt "SettingsOptions::seo::seo_page_type"
+msgid "Page SEO URL format"
+msgstr "URL formátu SEO stránky"
+
+msgctxt "SettingsOptions::seo::seo_other_type"
+msgid "Other SEO URL format"
+msgstr "Další formát URL (SEO)"
+
+msgctxt "SettingsOptions::seo::seo_language"
+msgid "Show additional language in the URL"
+msgstr "Zobrazit další jazyk v URL"
+
+msgctxt "SettingsOptions::seo::single_url"
+msgid "Use single URL for all languages"
+msgstr "Jedna URL pro všechny jazyky"
+
+msgctxt "SettingsOptions::seo::non_latin_symbols"
+msgid "Allow non-latin symbols in URL"
+msgstr "Povolit non-latin znaky v URL"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
+msgid "/product-name/"
+msgstr "/product-name/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file"
+msgid "/product-name.html"
+msgstr "/product-name.html"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
+msgid "/category-name/[subcategory-name/]product-name/"
+msgstr "/category-name/[subcategory-name/]product-name/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category"
+msgid "/category-name/[subcategory-name/]product-name.html"
+msgstr "/category-name/[subcategory-name/]product-name.html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
+msgid "/parent-category/category/[page-2/]"
+msgstr "/parent-category/category/[page-2/]"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category"
+msgid "/parent-category/category-[page-2].html"
+msgstr "/parent-category/category-[page-2].html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::root_category"
+msgid "/category/[page-2/]"
+msgstr "/category/[page-2/]"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page"
+msgid "/parent-page/page.html"
+msgstr "/parent-page/page.html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page_nohtml"
+msgid "/parent-page/page/"
+msgstr "/parent-page/page/"
+
+msgctxt "SettingsVariants::seo::seo_page_type::root_page"
+msgid "/page/"
+msgstr "/page/"
+
+msgctxt "SettingsVariants::seo::seo_other_type::directory"
+msgid "/item/"
+msgstr "/item/"
+
+msgctxt "SettingsVariants::seo::seo_category_type::file"
+msgid "/category[-page-2].html"
+msgstr "/category[-page-2].html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::file"
+msgid "/page.html"
+msgstr "/page.html"
+
+msgctxt "SettingsVariants::seo::seo_other_type::file"
+msgid "/item.html"
+msgstr "/item.html"
+
+msgctxt "Languages::seo.important_language_text"
+msgid "<b>Warning!</b> The <b>SEO</b> add-on is currently configured to use a single URL for all languages. If you hide, disable, or delete a default language of one of the storefronts, the SEO URLs will be changed."
+msgstr "<b>Varování!</b> <b>SEO</b> doplněk je aktuálně nakonfigurován pro použití jedné URL pro všechny jazyky. Pokud skryjete, zakážete nebo smažete defaultní jazyk v jednom z obchodů, SEO URL budou změněny! "
+
+msgctxt "Languages::seo.upgrade_notes.seo_language.title"
+msgid "Changes in SEO add-on"
+msgstr "Změny v doplňku SEO"
+
+msgctxt "Languages::seo.upgrade_notes.seo_language.message"
+msgid "To improve rating in search engines, we have changed the behavior of the \"Show language in URL\" setting. The default language of the storefront will no longer be displayed in the URL. If your storefront in the default language was previously located at <b>[old_store_url]</b>, it will now be available at <b>[new_store_url]</b>.<br/>All old URLs will be redirected correctly to the new ones."
+msgstr "K vylepšení hodnocení ve vyhledávacích službách jsme změnili chování  v nastavení \"Zobraz jazyk URL\". Defaultní jazyk obchodu již v odkaze není zobrazen. Pokud váš obchod byl dříve s defaultním jazykem lokalizován na této adrese <b>[old_store_url]</b>, bude nyní dostupný zde <b>[new_store_url]</b>. <br/>Všechny staré adresy budou správně přesměrovány na nové adresy. "
+
+msgctxt "Languages::seo.product_feature.feature_code.notice"
+msgid "A suitable code can help this feature appear with the product in search engines. Supported codes:"
+msgstr "Patřičný kód může pomoci s touto možností lépe zobrazovat produkty ve vyhledávačích. Podporované kódy: "
+
+msgctxt "Languages::seo.brand"
+msgid "Brand"
+msgstr "Značka"
+
+msgctxt "Languages::seo.feature_code.brand.description"
+msgid "Name used by an organization or business person for labeling a product"
+msgstr "Jméno použité organizací nebo podnikatelem pro označení produktu"
+
+msgctxt "Languages::seo.isbn"
+msgid "ISBN"
+msgstr "ISBN"
+
+msgctxt "Languages::seo.feature_code.isbn.description"
+msgid "International Standard Book Number"
+msgstr "Mezinárodní standardní číslo knížky (ISBN)"
+
+msgctxt "Languages::seo.gtin"
+msgid "GTIN"
+msgstr "GTIN"
+
+msgctxt "Languages::seo.feature_code.gtin.description"
+msgid "Global Trade Item Number"
+msgstr "Globální obchodní číslo produktu"
+
+msgctxt "Languages::seo.MPN"
+msgid "MPN"
+msgstr "MPN"
+
+msgctxt "Languages::seo.feature_code.mpn.description"
+msgid "Manufacturer Part Number"
+msgstr "Číslo výrobce (part)"
+
+msgctxt "Languages::seo.storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of this storefront, the SEO URLs will be changed."
+msgstr "<a href=\"[link]\">SEO</a> doplněk je aktuálně nakonfigurován k použití jedné URL adresy pro všechny jazyky. Pokud změníte defaultní jazyk tohoto obchodu, SEO URL budou změněny pro všechny obchody."
+
+msgctxt "Languages::seo.default_storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of the default storefront, the SEO URLs will be changed for all storefronts."
+msgstr "<a href=\"[link]\">SEO</a> doplněk je aktuálně nakonfigurován k použití jedné URL adresy pro všechny jazyky. Pokud změníte defaultní jazyk defaultního obchodu, SEO URL budou změněny pro všechny obchody."
+
+msgctxt "Languages::seo.error_at_creation_seo_name"
+msgid "The following SEO name already exists in your store: <b>[names]</b>. <p> The following SEO name was used instead: <b>[new_names]</b>.|The following SEO names already exist in your store: <b>[names]</b>. The following SEO names were used instead: <b>[new_names]</b>."
+msgstr "Následující SEO název již existuje ve vašem obchodě: <b>[names]</b>.<p>Namísto toho bylo použito toto: <b>[new_names]</b>. |Následující SEO názvy již existují ve vašem obchodě: <b>[names]</b>.<p>Namísto toho bylo použito toto: <b>[new_names]</b>. "
+

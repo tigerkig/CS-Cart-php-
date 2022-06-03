@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /release-4.13.2/addons/advanced_import.po\n"
+"X-Crowdin-File-ID: 4684\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::advanced_import"
+msgid "Advanced products import"
+msgstr "Zaawansowany import produktów"
+
+msgctxt "Addons::description::advanced_import"
+msgid "Allows you to match the fields in the imported file with the product properties. These matchings and other import settings can also be saved as presets for later use."
+msgstr "Pozwala dopasować pola importowanego pliku do właściwości produktu. Te dopasowania i inne ustawienia importu można również zapisać jako ustawienia wstępne do późniejszego wykorzystania."
+
+msgctxt "Languages::advanced_import.never"
+msgid "Never"
+msgstr "Nigdy"
+
+msgctxt "Languages::advanced_import.last_status.X"
+msgid "&mdash;"
+msgstr "&mdash;"
+
+msgctxt "Languages::advanced_import.last_status.S"
+msgid "Success"
+msgstr "Zakończony pomyślnie"
+
+msgctxt "Languages::advanced_import.last_status.P"
+msgid "In progress"
+msgstr "W trakcie"
+
+msgctxt "Languages::advanced_import.last_status.F"
+msgid "Failure"
+msgstr "Błędny"
+
+msgctxt "Languages::advanced_import.user_upload"
+msgid "User upload"
+msgstr "Upload użytkownika"
+
+msgctxt "Languages::advanced_import.last_launch"
+msgid "Last import"
+msgstr "Ostatni import"
+
+msgctxt "Languages::advanced_import.last_status"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "Languages::advanced_import.file"
+msgid "File"
+msgstr "Plik"
+
+msgctxt "Languages::advanced_import.has_modifiers"
+msgid "Has modifiers"
+msgstr "Ma modyfikatory"
+
+msgctxt "Languages::advanced_import.import_products"
+msgid "Import products"
+msgstr "Import produktów"
+
+msgctxt "Languages::advanced_import.import_products_w_preset"
+msgid "Import products: [preset]"
+msgstr "Import produktów: [preset]"
+
+msgctxt "Languages::advanced_import.import_file"
+msgid "Import file"
+msgstr "Plik importu"
+
+msgctxt "Languages::advanced_import.fields_mapping"
+msgid "Fields mapping"
+msgstr "Mapowanie pól"
+
+msgctxt "Languages::advanced_import.fields_mapping.description"
+msgid "This table contains the list of columns from the imported file. For each column you'd like to import, select a corresponding product property in [product]. Then check what sort of data will be imported from that column, and use modifiers to change that data, if necessary. Remember to save your changes."
+msgstr "Ta tabela zawiera listę kolumn z importowanego pliku. Dla każdej kolumny, którą chcesz zaimportować wybierz odpowiedni obiekt produktu w [product]. Następnie sprawdzić, jaki rodzaj danych zostanie zaimportowany z tej kolumny i używaj modyfikatorów do zmiany tych danych, jeśli to konieczne. Pamiętaj, aby zapisać zmiany."
+
+msgctxt "Languages::advanced_import.column_header"
+msgid "Column name in the imported file"
+msgstr "Nazwa kolumny w zaimportowanym pliku"
+
+msgctxt "Languages::advanced_import.product_property"
+msgid "Product property in [product]"
+msgstr "Właściwości produktu w [product]"
+
+msgctxt "Languages::advanced_import.first_line_import_value"
+msgid "Example of the imported value"
+msgstr "Przykład importowanych wartości"
+
+msgctxt "Languages::advanced_import.editing_preset"
+msgid "Editing preset: [preset]"
+msgstr "Edycji ustawienia: [preset]"
+
+msgctxt "Languages::advanced_import.add_preset"
+msgid "Add preset"
+msgstr "Dodawanie ustawień domyślnych"
+
+msgctxt "Languages::advanced_import.new_preset"
+msgid "New preset"
+msgstr "Nowe ustawienie wstępne"
+
+msgctxt "Languages::advanced_import.properties"
+msgid "Properties"
+msgstr "Właściwości"
+
+msgctxt "Languages::advanced_import.modifier"
+msgid "Modifier"
+msgstr "Modyfikator"
+
+msgctxt "Languages::advanced_import.modifier_title"
+msgid "A modifier is a rule that alters values in a column"
+msgstr "Modyfikator jest regułą, która zmienia wartości w kolumnie"
+
+msgctxt "Languages::advanced_import.example_imported_title"
+msgid "For example, here's a value in the first line of your file:"
+msgstr "Na przykład tutaj jest wartość w pierwszym wierszu pliku:"
+
+msgctxt "Languages::advanced_import.example_modified_title"
+msgid "And here is how this value will be imported:"
+msgstr "Oto, jak ta wartość zostanie zaimportowana:"
+
+msgctxt "Languages::advanced_import.options"
+msgid "Options"
+msgstr "Opcje"
+
+msgctxt "Languages::advanced_import.images_delimiter"
+msgid "Images delimiter"
+msgstr "Znak rozdzielający dla zdjęć"
+
+msgctxt "Languages::advanced_import.images_delimiter.description"
+msgid "Delimiter between images of a product."
+msgstr "Znak rozdzielający między obrazami produktu."
+
+msgctxt "Languages::advanced_import_images"
+msgid "Product images"
+msgstr "Zdjęcia produktu"
+
+msgctxt "Languages::advanced_import.remove_images"
+msgid "Remove additional images"
+msgstr "Usuń dodatkowe zdjęcia"
+
+msgctxt "Languages::advanced_import.remove_images"
+msgid "Remove additional images"
+msgstr "Usuń dodatkowe zdjęcia"
+
+msgctxt "Languages::advanced_import.import_fields"
+msgid "Import fields"
+msgstr "Importowanie pola"
+
+msgctxt "Languages::advanced_import.advanced_products_import"
+msgid "Products"
+msgstr "Produkty"
+
+msgctxt "Languages::advanced_import.coming_soon"
+msgid "... coming soon"
+msgstr "... już wkrótce"
+
+msgctxt "Languages::advanced_import.cant_load_file_for_company"
+msgid "File can't be loaded for the specified company"
+msgstr "Nie można załadować pliku dla określonej firmy"
+
+msgctxt "Languages::advanced_import.cant_load_file"
+msgid "File can't be loaded"
+msgstr "Plik nie może zostać załadowany"
+
+msgctxt "Languages::advanced_import.uploading_file"
+msgid "Uploading file for the preset: [preset]"
+msgstr "Przesyłania plików, ustawienia domyślnego: [preset]"
+
+msgctxt "Languages::advanced_import.previewing_fields_mapping"
+msgid "Previewing fields mapping for the preset: [preset]"
+msgstr "Podgląd pola mapowania dla ustawienia wstępnego: [preset]"
+
+msgctxt "Languages::advanced_import.preset_not_found"
+msgid "Preset not found"
+msgstr "Ustawienia nie znaleziono"
+
+msgctxt "Languages::advanced_import.modifiers_list"
+msgid "Modifiers list"
+msgstr "Lista modyfikatorów"
+
+msgctxt "Languages::advanced_import.invalid_number_of_parameters_provided"
+msgid "Invalid number of parameters provided for modifier: <b>[modifier]</b>: expected [expected_count], got [actual_count]."
+msgstr "Niewłaściwa liczba parametrów przewidzianych dla modyfikatora: <b>[modifier]</b>: oczekiwano [expected_count], otrzymano [actual_count]."
+
+msgctxt "Languages::advanced_import.invalid_function_firs_character"
+msgid "The modifier name cannot start with character <b>[character]</b>."
+msgstr "Nazwy modyfikatora nie może rozpoczynać znak <b>[character]</b>."
+
+msgctxt "Languages::advanced_import.unrecognized_modifier"
+msgid "The modifier <b>[modifier]</b> does not exist."
+msgstr "Ten modyfikator <b>[modifier]</b> nie istnieje."
+
+msgctxt "Languages::advanced_import.unexpected_parameter_passed"
+msgid "Expected <b>[delimiter]</b> or <b>[closer]</b> got <b>[char]</b>."
+msgstr "Oczekiwano <b>[delimiter]</b> lub <b>[closer]</b> zostało przysłane <b>[char]</b>."
+
+msgctxt "Languages::advanced_import.invalid_modifier_message"
+msgid "The modifier <b>[modifier]</b> is invalid. [message]"
+msgstr "Modyfikator <b>[modifier]</b> jest nieprawidłowy. [message]"
+
+msgctxt "Languages::advanced_import.modifier_number_of_parameters"
+msgid "Number of parameters"
+msgstr "Liczba parametrów"
+
+msgctxt "Languages::advanced_import.modifiers_description"
+msgid "Use these functions in the <b>Modifier</b> column to alter the values in the fields from the imported file. Enter the functions as follows: <b>function(parameter, parameter)</b>. Please note that nesting of functions isn't supported."
+msgstr "Użyj tych funkcji w kolumnie <b>Modifier</b>, aby zmienić wartości w polach z zaimportowanego pliku. Wprowadź funkcję w ten sposób: <b>function(parameter, parameter)</b>. Należy pamiętać, że zagnieżdżanie funkcji nie jest obsługiwane."
+
+msgctxt "Languages::advanced_import.modifiers_self_referencing_info"
+msgid "Most functions allow you to use the non-modified value of the imported field by using <b>$value</b> as a parameter. If there are any exceptions, they will be mentioned in function descriptions."
+msgstr "Większość funkcji umożliwia użycie niezmodyfikowanej wartości zaimportowanego pola przy użyciu parametru <b>$value</b> jako parametru. Jeśli są jakieś wyjątki, zostaną one wymienione w opisach funkcji."
+
+msgctxt "Languages::advanced_import.modifier_description.sum"
+msgid "<b>sum</b>&mdash;sums up two numbers provided as parameters. <ul><li>Examples:</li><ul><li><b>sum(1, 3)</b> equals <i>4</i></li> <li><b>sum(7, $value)</b> equals <i>7 + the value of the imported field</i></li></ul></ul>"
+msgstr "<b>sum</b>&mdash;suma dwóch liczb jako parametry. <ul><li>Przykłady:</li><ul><li><b>sum(1, 3)</b> jest równa <i>4</i></li> <li><b>sum(7, $value)</b> jest równa <i>7 + wartość importowanego pola</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.sub"
+msgid "<b>sub</b>&mdash;subtracts the second parameter from the first. <ul><li>Examples:</li><ul><li><b>sub(3, 1)</b> equals <i>2</i></li> <li><b>sub($value, 7)</b> equals <i>the value of the imported field - 7</i></li></ul></ul>"
+msgstr "<b>sub</b>&mdash;odejmuje drugi parametr od pierwszego. <ul><li>przykłady:</li><ul><li><b>sub(3, 1)</b> jest równa <i>2</i></li> <li><b>sub($value,7)</b> jest równa <i>wartość importowanego pola - 7</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.mul"
+msgid "<b>mul</b>&mdash;multiplies the numbers provided as parameters. <ul><li>Examples:</li><ul><li><b>mul(3, 1)</b> equals <i>3</i></li> <li><b>mul($value, 7)</b> equals <i>the value of the imported field × 7</i></li></ul></ul>"
+msgstr "<b>mul</b>&mdash;mnoży liczby podane jako parametry. <ul><li>przykłady:</li><ul><li><b>mul(3, 1)</b> jest równa <i>3</i></li> <li><b>mul($value,7)</b> jest równa <i>wartość importowanego pola × 7</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.div"
+msgid "<b>div</b>&mdash;divides the first parameter by the second. <ul><li>Examples:</li><ul><li><b>div(9, 3)</b> equals <i>3</i></li> <li><b>div($value, 7)</b> equals <i>the value of the imported field ÷ 7</i></li></ul></ul>"
+msgstr "<b>div</b>&mdash;dzieli pierwszy parametr przz drugi. <ul><li>Przykłady:</li><ul><li><b>div(9, 3)</b> jest równa <i>3</i></li> <li><b>div ($value, 7)</b> jest równa <i>wartość importowanego pola ÷ 7</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.concat"
+msgid "<b>concat</b>&mdash;concatenates all the provided parameters. <ul><li>Examples:</li><ul><li><b>concat('abc', def)</b> will result in <i>abcdef</i></li> <li><b>concat('PRODUCT_', $value, '_CODE')</b> will result in <i>PRODUCT_$value_CODE</i>, but <b>$value</b> will be replaced with the the value of the imported field</li></ul></ul>"
+msgstr "<b>concat</b> &mdash; łączy wszystkie podane parametry. <ul><li>Przykłady:</li><ul><li><b>concat ('abc', 'def')</b> spowoduje <i> abcdef </i></li><li><b>concat ('PRODUCT_', $value, '_CODE') </b>spowoduje<i> PRODUCT_$value_CODE </i>, ale <b>$value</b> zostanie zastąpiona przez wartość zaimportowanego pola </li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.replace"
+msgid "<b>replace</b>&mdash;replaces all occurrences of the search string with the replacement string. <br>The order of parameters is important: <b>replace('search', 'replace', 'subject')</b>. <ul><li>Examples:</li><ul><li><b>replace('a', !, \"banana\")</b> will result in <i>b!n!n!</i></li> <li><b>replace(\"t-shirt\", 'T-Shirt', $value)</b> will replace every occurrence of <i>t-shirt</i> with <i>T-Shirt</i> in every entry in the column.</li></ul></ul>"
+msgstr "<b>Zamień</b>&mdash;zamienia wszystkie wystąpienia ciągu wyszukiwania na ciąg zastępujący. <br>Kolejność parametrów jest ważna: <b>replace('search', 'replace', 'subject')</b>. <ul><li>Przykłady:</li><ul><li><b>replace('a', !, \"banana\")</b>spowoduje<i>b!n!n!</i></li> <li><b>replace(\"t-shirt\", 'T-Shirt', $value)</b> zastąpi każde wystąpienie <i>t-shirt</i> wyrażeniem <i>T-Shirt</i> w każdym wpisie w kolumnie.</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.w_replace"
+msgid "<b>w_replace</b>&mdash;replaces all occurrences of the search string with the replacement string using wildcards. <br>The order of parameters is important: <b>w_replace('search', 'replace', 'subject')</b>. <br>Supported wildcards: <b>?</b>&mdash;any single character; <b>*</b>&mdash;any number of characters to the end of the word. <ul><li>Examples</li><ul><li><b>w_replace('banan?', bananas, banana banans bananz)</b> will result in <i>bananas bananas bananas</i></li> <li><b>w_replace(\"ban*\", 'bananas', banana banans bananz)</b> will also result in <i>bananas bananas bananas</i></li></ul></ul>"
+msgstr "<b>w_replace</b>&mdash;zastępuje wszystkie wystąpienia ciągu wyszukiwania ciągiem zastępczym za pomocą symboli wieloznacznych. <br>Kolejność parametrów jest ważna: <b>w_replace ('search', 'replace', 'subject')</b>. <br>obsługiwane symbole wieloznaczne: <b>?</b>&mdash;dowolny pojedynczy znak; <b>*</b>&mdash;dowolna liczba znaków do końca wyrazu. <ul><li>Przykłady</li><ul><li><b>w_replace ('banan?', bananas, banana banans bananz)</b> wynikiem będzie <i>bananas bananas bananas</i></li> <li><b>w_replace (\"ban*\", 'bananas', banana banans bananz)</b> wynikiem będzie również <i>bananas bananas bananas</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.rand"
+msgid "<b>rand</b>&mdash;generates a random number from 1 to the maximum value provided as the parameter. <ul><li>Examples:</li><ul><li><b>rand(999)</b> may result in any number from 1 to 999.</li></ul></ul>"
+msgstr "<b>rand</b>&mdash;generuje losową liczbę od 1 do maksymalnej wartości ustawionej jako parametr. <ul><li>Przykłady:</li><ul><li><b>rand(999)</b> wygeneruje dowolną liczbę od 1 do 999.</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.if"
+msgid "<b>if</b>&mdash;checks the expression in the first parameter. If the first parameter is <i>true</i>, the function returns the second parameter. Otherwise the function returns the third parameter.<ul><li>Examples:</li><ul><li><b>if($value>\"0\", \"In Stock\", \"Out of stock\")</b> will result in <i>In Stock</i> if <i>$value > 0</i> is <i>true</i>; otherwise the result will be <i>Out of stock</i></li></ul><li>Available operations for the expression are:<ul><li><b>=</b>&mdash;checks for equality: <i>if($value=100, ...)</i></li><li><b>!=</b>&mdash;checks for inequality: <i>if($value!=100, ...)</i></li><li><b>&gt;</b>&mdash;checks if the first value is greater than the second: <i>if($value&gt;100, ...)</i></li><li><b>&lt;</b>&mdash;checks if the first value is less than the second: <i>if($value&lt;100, ...)</i></li><li><b>&gt;=</b>&mdash;checks if the first value is greater than or equal to the second: <i>if($value&gt;=100, ...)</i></li><li><b>&lt;=</b>&mdash;checks if the first value is less than or equal to the second: <i>if($value&lt;=100, ...)</i></li></ul></li><li>Notes:<ul><li>If you use single (') or double (\") quotes in the first parameter, make sure that the first parameter is either wrapped in quotes entirely, or that there is no end quote in the middle of the parameter. For example, <i>if(\"My value\"=$value, ...)</i> will not work, but <i>if(\"My value=$value\", ...)</i> will.</ul></li></ul>"
+msgstr "<b>if</b>&mdash;sprawdza wyrażenie w pierwszym parametrze. Jeśli pierwszy parametr jest <i>true</i>, funkcja zwraca drugi parametr. W przeciwnym razie funkcja zwraca trzeci parametr.<ul><li>Przykłady:</li><ul><li><b>Jeśli ($value> \"0\", \"W magazynie\", \"Brak w magazynie\")</b> spowoduje <i>W magazynie</i> jeśli jest <i>$value > 0</i> <i>prawdziwe</i>; w przeciwnym razie wynik będzie <i>Brak w magazynie</i></li></ul><li>Dostępne operacje, dla wyrażenia:<ul><li><b>=</b>&mdash; sprawdzenie czy równa się: <i>Jeśli ($value=100,...)</i></li><li><b>!=</b>&mdash;sprawdzenie nierówności: <i>Jeśli ($value!=100,...)</i></li><li><b>&gt;</b>&mdash;sprawdza, jeśli pierwsza wartość jest większa od drugiej: <i>if ($value&gt;100,...)</i></li><li><b>&lt;</b>&mdash;sprawdza, czy pierwsza wartość jest mniejsza od drugiej : <i>Jeśli ($value&lt;100,...)</i></li><li><b>&gt;=</b>&mdash;jeśli pierwsza wartość jest większa lub równa drugiej: <i>Jeśli ($value&gt;= 100,...)</i></li><li><b>&lt;=</b>&mdash;jeśli pierwsza wartość jest mniejsza niż lub równa drugiej: <i>Jeśli ($value&lt;= 100,...)</i></li></ul>Uwaga<li>:<ul><li>Jeśli używasz apostrof (') lub podwójne cudzysłowy (\") w pierwszym parametrze, upewnij się, że pierwszy parametr jest w całości w cudzysłowie lub że to nie koniec cytatu w środku parametru. Na przykład, <i>Jeśli (\"Mój wartość\" =$value,...)</i> nie zadziała, ale <i>(\"mój wartość =$value\",...)</i> będzie ok.</ul></li></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.case"
+msgid "<b>case</b>&mdash;odd parameters are expressions, and the following even parameters are corresponding values. The function checks the expressions and returns the value corresponding to the first expression that ends up being <i>true</i>.<ul><li>Examples:</li><ul><li><b>case($value>100, \"More than 100\", $value>70, \"More than 70\", $value>20, \"More than 20\", $value>0, \"In stock\", $value=0, \"Out of stock\")</b> will result in <i>More than 70</i> if the <i>$value</i> in the imported file is a number between 71 and 100</li></ul><li>Notes:<ul><li>This function shares expression rules and available operations with the <b>if</b> function.</li><li>Only even numbers of parameters are supported: <b>2, 4, 6, 8</b>, etc.</li></ul></li></ul>"
+msgstr "<b>case</b>&mdash; parametry nieparzyste są wyrażeniami, a następujące parametry parzyste są odpowiednimi wartościami. Funkcja sprawdza wyrażenia i zwraca wartość odpowiadającą pierwszemu wyrażeniu, które kończy się <i>true</i>.<ul><li>Przykłady:</li><ul><li><b>case ($value>100, \"Więcej niż 100\", $value>70, \"Więcej niż 70\", $value>20, \"Więcej niż 20\", $value>0, \"Na stanie\", $value=0, \"Brak w magazynie\") </b>wynikiem będzie <i>Więcej niż 70</i> jeśli <i>$value</i> w importowanym pliku to liczba pomiędzy 71 a 100 </li></ul><li>Uwaga:<ul><li>Ta funkcja udostępnia reguły wyrażenia i dostępne operacje za pomocą funkcji<b>if</b>.</li><li> Obsługiwane są tylko parzyste liczby parametrów: <b> 2, 4, 6, 8 </b> itd. </li></ul></li></ul>"
+
+msgctxt "Languages::advanced_import.modifier_self_reference_is_unsupported"
+msgid "This function doesn't support the use of a non-modified value from the imported file."
+msgstr "Ta funkcja nie obsługuje użycia niezmodyfikowanej wartości z zaimportowanego pliku."
+
+msgctxt "Languages::advanced_import.preset_last_view"
+msgid "Preset"
+msgstr "Ustawienie domyślne"
+
+msgctxt "Languages::advanced_import.show_more"
+msgid "Show more"
+msgstr "Pokaż więcej"
+
+msgctxt "Languages::advanced_import.show_less"
+msgid "Show less"
+msgstr "Pokaż mniej"
+
+msgctxt "Languages::advanced_import.target_node"
+msgid "XML target node"
+msgstr "Węzeł docelowy XML"
+
+msgctxt "Languages::advanced_import.target_node.description"
+msgid "The full path to the XML node with the information about an imported entity. The nodes nested in the specified node will be used as columns of the imported file. Here is an example of the path: yml_catalog/shop/offers/offer"
+msgstr "Pełna ścieżka do węzła XML z informacjami o zaimportowanym elemencie. Węzły zagnieżdżone w określonym węźle będą używane jako kolumny importowanego pliku. Oto przykład ścieżki: yml_catalog/shop/offers/offer"
+
+msgctxt "Languages::advanced_import.fetching_schema_failed_check_target_node"
+msgid "Please make sure that the <b>XML target node</b> field is filled in properly."
+msgstr "Upewnij się, że pole <b>XML target node</b> zostało poprawnie wypełnione."
+
+msgctxt "Languages::advanced_import.general_settings"
+msgid "General settings"
+msgstr "Ustawienia ogólne"
+
+msgctxt "Languages::advanced_import.additional_settings"
+msgid "Additional settings"
+msgstr "Ustawienia dodatkowe"
+
+msgctxt "Languages::advanced_import.delete_additional_images"
+msgid "Delete existing additional images"
+msgstr "Usuń istniejące zdjęcia dodatkowe"
+
+msgctxt "Languages::advanced_import.delete_additional_images_tooltip"
+msgid "If you enable this setting, then the existing additional images of the imported products will be replaced with the images specified in the imported file (if no images are specified, the old images will remain). If the setting is disabled, the new additional images will simply be added to the existing images."
+msgstr "Jeśli włączysz to ustawienie, istniejące dodatkowe obrazy importowanych produktów zostaną zastąpione obrazami określonymi w zaimportowanym pliku (jeśli nie określono obrazów, stare obrazy pozostaną). Jeśli ustawienie jest wyłączone, nowe dodatkowe obrazy zostaną po prostu dodane do istniejących obrazów."
+
+msgctxt "Languages::advanced_import.fetching_schema_failed_check_file"
+msgid "Before you can run the import, please make sure that:<ul><li>You have created the import preset by using the Create button. If you see Save instead of Create, then you've already done that.</li><li>You have specified the correct XML target node on the File tab and saved the preset.</li><li>You have matched the imported information with the product properties in CS-Cart on the Fields mapping tab and saved the preset.</li></ul>If you see this message, you haven't completed point 1 or 2."
+msgstr "Przed uruchomieniem importu upewnij się, że: <ul><li>Utworzono ustawienie wstępne importowania za pomocą przycisku Utwórz. Jeśli zobaczysz Zapisz zamiast Utwórz, to już to zrobiłeś. </li><li>Podałeś prawidłowy węzeł docelowy XML na karcie Plik i zapisałeś ustawienie. </li><li>Dopasowałeś importowane informacje z właściwościami produktu w CS-Cart na karcie Mapowanie pól i zapisałeś ustawienie. </li></ul> Jeśli widzisz ten komunikat, nie ukończyłeś punktu 1 ani 2."
+
+msgctxt "Languages::advanced_import.test_import"
+msgid "Perform test import"
+msgstr "Wykonaj test importu"
+
+msgctxt "Languages::advanced_import.test_import_tooltip"
+msgid "If you enable this setting, only the first [n] product will be processed.|If you enable this setting, only the first [n] products will be processed."
+msgstr "Jeśli to ustawienie zostanie włączone, będą przetwarzane tylko pierwsze [n] produkty. | Jeśli to ustawienie zostanie włączone, będą przetwarzane tylko pierwsze [n] produkty."
+
+msgctxt "Languages::advanced_import.import_strategy"
+msgid "Import strategy"
+msgstr "Strategia importu"
+
+msgctxt "Languages::advanced_import.import_strategy_tooltip"
+msgid "If you select \"Update existing products only\", products that don't exist in the database of your store will be skipped during import.<br>If you select \"Create new products only\", products that exist in the database of your store will be skipped during import."
+msgstr "Jeśli wybierzesz opcję \"Aktualizuj tylko istniejące produkty\", produkty, które nie istnieją w bazie danych Twojego sklepu, zostaną pominięte podczas importowania.<br>Jeśli wybierzesz opcję \"Twórz tylko nowe produkty\", produkty znajdujące się w bazie danych Twojego sklepu zostanie pominięty podczas importu."
+
+msgctxt "Languages::advanced_import.import_all"
+msgid "Import all products from the file"
+msgstr "Zaimportuj wszystkie produkty z pliku"
+
+msgctxt "Languages::advanced_import.create_new_products_only"
+msgid "Create new products only"
+msgstr "Utwórz tylko nowe produkty"
+
+msgctxt "Languages::advanced_import.cant_save_preset_invalid_modifiers"
+msgid "The preset can't be saved because it contains invalid modifiers"
+msgstr "Nie można zapisać ustawienia, ponieważ zawiera on nieprawidłowe modyfikatory"
+
+msgctxt "Languages::advanced_import.missing_parameters_list_closer"
+msgid "The expected <b>[closer]</b> after the parameters list is missing."
+msgstr "Oczekiwany <b>[closer]</b> po liście parametrów jest nieprawidłowe."
+
+msgctxt "Languages::advanced_import.run_import_via_cron_message"
+msgid "You can run the import automatically at certain time intervals. To do it, add the following command to CRON:"
+msgstr "Można uruchomić import automatycznie w określonych odstępach czasu. Aby to zrobić, należy dodać następujące polecenie do CRON:"
+
+msgctxt "Languages::advanced_import.cannot_detect_csv_delimiter"
+msgid "Cannot detect delimiter automatically. Please specify the correct delimiter manually in the additional settings on the \"File\" tab."
+msgstr "Nie można automatycznie wykryć ogranicznika. Proszę podać właściwy separator ręcznie w dodatkowych ustawieniach na zakładce \"Plik\"."
+
+msgctxt "Languages::advanced_import.incorrect_delimiter"
+msgid "Specified (or auto detected) delimiter seems to be incorrect. Please specify the correct delimiter manually in the additional settings on the \"File\" tab."
+msgstr "Określony (lub automatycznie wykryty) separator wydaje się niepoprawny. Proszę podać właściwy separator ręcznie w dodatkowych ustawieniach na zakładce \"Plik\"."
+
+msgctxt "Languages::advanced_import.file_will_be_deleted_are_you_sure_to_proceed"
+msgid "Deleting this import preset will also delete the file attached to it. Are you sure you want to proceed?"
+msgstr "Usunięcie tego wstępnego ustawienia importu spowoduje również usunięcie dołączonego do niego pliku. Na pewno chcesz kontynuować?"
+
+msgctxt "Languages::advanced_import.common_preset"
+msgid "All vendors"
+msgstr "Wszyscy sprzedawcy"
+
+msgctxt "Languages::advanced_import.your_presets"
+msgid "Vendor's presets"
+msgstr "Ustawienia sprzedawcy"
+
+msgctxt "Languages::advanced_import.common_presets"
+msgid "Marketplace presets"
+msgstr "Ustawienia Marketplace"
+
+msgctxt "Languages::advanced_import.file_not_loaded"
+msgid "File was not loaded. Please reload the page and try again."
+msgstr "Plik nie został załadowany. Załaduj ponownie stronę i spróbuj ponownie."
+
+msgctxt "Languages::advanced_import.local_file_selected"
+msgid "Local file selected"
+msgstr "Wybrano plik lokalny"
+
+msgctxt "Languages::advanced_import.text_popup_file_editor_notice_full_link"
+msgid "You can upload and download files via <a class=\"advanced-import-file-editor-opener\" data-target-input-id=\"[target]\">[link_text]</a>"
+msgstr "Możesz przesyłać i pobierać pliki za pomocą <a class=\"advanced-import-file-editor-opener\" data-target-input-id=\"[target]\">[link_text]</a>"
+
+msgctxt "Languages::advanced_import.file_extension_was_not_supported_by_owner"
+msgid "Couldn't use your file [name]. This import preset only allows the following extensions: [ext]."
+msgstr "Nie można użyć Twojego pliku [nazwa]. To ustawienie importu dopuszcza tylko następujące rozszerzenia: [ext]."
+
+msgctxt "Languages::advanced_import.save_selected_file"
+msgid "Save selected file"
+msgstr "Zapisz wybrany plik"
+
+msgctxt "Languages::advanced_import.fields_delimiter"
+msgid "XML node delimiter"
+msgstr "Ogranicznik węzłów XML"
+
+msgctxt "Languages::advanced_import.fields_delimiter.description"
+msgid "Delimiter between similar nodes."
+msgstr "Ogranicznik między podobnymi węzłami."
+

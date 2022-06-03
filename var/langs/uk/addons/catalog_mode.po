@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.13.2/addons/catalog_mode.po\n"
+"X-Crowdin-File-ID: 4538\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::catalog_mode"
+msgid "Catalog mode"
+msgstr "Режим каталога"
+
+msgctxt "Addons::description::catalog_mode"
+msgid "Allows you to use the store as a product catalog"
+msgstr "Використовувати магазин як каталог товарів (без можливості покупки)"
+
+msgctxt "Languages::catalog_mode"
+msgid "Catalog Mode"
+msgstr "Режим каталога"
+
+msgctxt "Languages::text_catalog_mode_zero_price_action_notice"
+msgid "In order that the \"Buy now\" button could be displayed on the product details page, please set \"Zero price action\" as \"Allow customers to add the product to cart\"."
+msgstr "Щоб на детальній сторінці товару відображалася кнопка покупки, встановіть значення поля «Дія при нульовій ціні» на «Дозволити додавати товар у кошик»."
+
+msgctxt "Languages::buy_now_url"
+msgid "Buy Now URL"
+msgstr "Посилання на покупку"
+
+msgctxt "SettingsSections::catalog_mode::general"
+msgid "General"
+msgstr "Загальні"
+
+msgctxt "SettingsOptions::catalog_mode::main_store_mode"
+msgid "Store operation mode"
+msgstr "Режим роботи магазину"
+
+msgctxt "SettingsOptions::catalog_mode::add_to_cart_empty_buy_now_url"
+msgid "Allow purchasing products with empty Buy Now URL"
+msgstr "Дозволяти купувати товари з порожнім посиланням для покупки"
+
+msgctxt "SettingsVariants::catalog_mode::main_store_mode::catalog"
+msgid "Catalog"
+msgstr "Каталог"
+
+msgctxt "SettingsVariants::catalog_mode::main_store_mode::store"
+msgid "Store"
+msgstr "Магазин"
+

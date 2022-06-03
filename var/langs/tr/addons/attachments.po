@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /release-4.13.2/addons/attachments.po\n"
+"X-Crowdin-File-ID: 4520\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "Eklentiler"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "Ürünlere dosya eklemeyi mümkün kılar."
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "Eklentiler"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "Yeni eklenti"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "Eklenti ekle"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "Eklentiyi düzelt"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "Lütfen mağaza ana dizininde images klasörü tanımlayın. Aktarılacak resimleri bu klasöre yerleştirin."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "Bazı ürünler için ekler içe aktarılamadı. Bu ekler mevcut değildir (veya erişilemez) veya içe aktarılan dosyadaki bu eklerin yolları yanlıştır."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "Ürün ekleri"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "Ek sınırlayıcı"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr ""
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr ""
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr ""
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr ""
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr ""
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr ""
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr ""
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr ""
+

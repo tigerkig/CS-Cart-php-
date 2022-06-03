@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 4650\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "Piacterek és átvételi pontok"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "Lehetővé teszi, hogy fizikai piactereidet megjelöld a térképen, és felajánld vásárlóidnak, hogy ott vegyék át a megrendeléseket, ha a megfelelő szállítási mód be van állítva."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "Megtekintés térképen"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "API-kulcs beszerzése"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Üzletkereső"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "Piacterek & átvételi pontok"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Üzletkereső blokk"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "A megadott cím nem található"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Kooridnáták kiválasztása"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Beállít"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Üzlet helyadatainak szerkesztése"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "Új üzlet helyadat"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Üzlet helyadatainak hozzáadása"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Koordináták"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "szélességi koordináta"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "hosszúsági koordináta"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "Minden áruház"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "Térkép megjelenítése a megrendeléssel kapcsolatos dokumentumokon"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "A térkép nyomtatása a csomagjegyzékre és a számlára"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "Térkép helyett városok listájának használata"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "A vásárló földrajzi helymeghatározása blokkot érinti. A lista azokból a városokból lesz generálva, amelyekben piacterek és átvételi pontok vannak."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "Szerkeszthető"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "Üzletkereső"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "Megtekinthető"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "A \"Vásárlói átvétel\" szállítási mód lehetővé teszi a vásárló számára, hogy kiválasszon egy piacteret, ahol átveheti a terméket. A piacteret a \"Piactér helye\" bővítményben lehet létrehozni<br /><b>Piac létrehozása:</b> <a href=\"[store_locator]\">Piactér helye</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "Piacterek kiválasztása"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "Átvételi pontok"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "A \"Pozíció\" mező a piactér beállításaiban"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "A szállítási mód beállításaiban kiválasztott rendelés"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "Kiválasztott piacterek"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "Elérhető piacterek"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "Térkép és lista"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "Lista"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "Térkép"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "Telephelyek listája a pénztár oldalon"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "Átvétel"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "Elérhető átvételre"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "Munkaidő"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "Átvétel"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "Nem találtunk megfelelő rendeltetési helyet"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "Nem találtunk piacteret"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "Átvétel"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "Átvétel azonosítója"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "Elérhető átvétel"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "Átvétel pótdíja"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "Átvételi cím"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "Átvételi hely telefonszáma"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "Átvétel időpontja"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "Átvételi rendeltetési helyek azonosítói"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "Azon helyek elrejtése, ahol nem tudom átvenni a rendelésemet"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "Piacterek és átvételi pontok"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "A korábbi verziókban a pótdíj hozzáadódott a szállítási módhoz megadott standard díjakhoz. Most ezt a pótdíjat nem veszi figyelembe a szállítási díj kiszámítása során. A könnyebbség kedvéért itt hagytuk, hogy láthasd, és ennek megfelelően módosíthasd az árakat a szállítási mód szerkesztési oldalán."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "A díjszabási területen található"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "Meghatározza az adott átvételi pont szállítási díjait. Az árakat a szállítási mód szerkesztési oldalán határoztuk meg. Ha nem jelölsz ki díjszabási területet egy átvételi ponthoz, akkor az átvételi pont nem jelenik meg a pénztárnál."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "Megjelenítés"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "Megjelenítés"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Lehetővé teszi, hogy ezt az átvételi pontot más díjszabási körzetek lakosainak is felajánlja a pénztárnál."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "[price] -tól"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_title"
+msgid "Pick up from store: Surcharge per pickup point removed"
+msgstr "Átvétel a piactérről: átvételi pontonként felszámítandó pótdíj eltávolítva"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_text"
+msgid "<p>The <b>[pickup_addon]</b> and <b>[store_locator_addon]</b> add-ons were merged into a new add-on called [stores_pickups_addon]. Shipping rates and time are more flexible now: they depend on the location (rate area) of a pickup point. The rates are now specified in one place: the editing page of a shipping method.</p><p>For that reason, we removed the <b>Surcharge</b> field from the pickup point editing page. Its value still appears in the admin panel, but isn’t used in rate calculation. Please check your pickup points, then adjust the shipping rates of all your \"Pick up from store\" shipping methods accordingly.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Adjust shipping rates</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">View my pickup points</a></p>"
+msgstr "<p>A <b>[pickup_addon]</b> és a <b>[store_locator_addon]</b> bővítményeket összevontuk egy új, [stores_pickups_addon] nevű bővítménybe. A szállítási díjak és az idő mostantól rugalmasabbak: az átvételi pont helyétől (díjszabási körzettől) függnek. A díjszabási tarifákat mostantól egy helyen lehet megadni: a szállítási mód szerkesztési oldalán. </p><p>Ezért eltávolítottuk a <b>Pótdíj</b> mezőt az átvételi pont szerkesztési oldaláról. Értéke továbbra is megjelenik az adminisztrációs panelen, de nem használjuk a díjszámítás során. Kérjük, ellenőrizd átvételi pontjaidat, majd ennek megfelelően állítsd be az összes \"Átvétel a piactéren\" szállítási mód szállítási díját.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Szállítási díjak beállítása</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">Az átvételi pontjaim megtekintése</a></p>"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "Két ujjal mozgathatod a térképet"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Görgess a tetejére"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "Nincs díjszabási terület"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "Név"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "Átvételi helyek"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "Bármely díjszabási terület"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "Átvétel a piactérről "
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "Bármelyik termelő"
+

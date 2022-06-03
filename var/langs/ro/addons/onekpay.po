@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.13.2/addons/onekpay.po\n"
+"X-Crowdin-File-ID: 4596\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::onekpay"
+msgid "BillriantPay payments"
+msgstr "Plăți prin BillriantPay"
+
+msgctxt "Addons::description::onekpay"
+msgid "Lets you accept payments via BillriantPay."
+msgstr "Vă permite să acceptați plăți prin BillriantPay."
+
+msgctxt "Languages::onekpay.merchant_number"
+msgid "Merchant ID"
+msgstr "ID-ul de comerciant"
+
+msgctxt "Languages::onekpay.terminal_number"
+msgid "Terminal ID"
+msgstr ""
+
+msgctxt "Languages::onekpay.secure_hash"
+msgid "Secure hash"
+msgstr "Hash de securitate"
+
+msgctxt "Languages::onekpay.payment_failed"
+msgid "Payment failed: [error_message]"
+msgstr "Plata nu a reușit: [error_message]"
+
+msgctxt "Languages::onekpay.short_notice"
+msgid "<a href=\"http://www.billriant.com\" target=\"_blank\">BillriantPay</a> is a global payment service provider, which works safely, drives merchants’ performance, and reduces a risk. BillriantPay understands the day-to-day realities and requirements of a modern eCommerce business so as to offer and build solutions that fit a wide range of businesses. BillriantPay helps you build stronger relationships with your buyers by streamlining the payment processes. <br /><br />Our advantages:<br />- Secure and fast<br />- Simple and easy to configure<br />- Flexible terms and conditions for different industries<br /><br /><strong><a href=\"https://merchant.billriant.com/login?from=cs-cart\" target=\"_blank\">Sign-up to Login and Pay with BillriantPay</a></strong>"
+msgstr "<a href=\"http://www.billriant.com\" target=\"_blank\"> BillriantPay </a> este un furnizor global de servicii de plată, care funcționează în siguranță, stimulează performanța comercianților și reduce un risc ... BillriantPay înțelege realitățile și cerințele de zi cu zi ale unei afaceri moderne de comerț electronic, astfel încât să ofere și să construiască soluții care să se potrivească unei game largi de companii. BillriantPay vă ajută să construiți relații mai puternice cu cumpărătorii dvs. prin simplificarea proceselor de plată. <br /> <br /> Avantajele noastre: <br /> - Sigur și rapid <br /> - Simplu și ușor de configurat <br /> - Termeni și condiții flexibile pentru diferite industrii <br /> <br /> < puternic> <a href=\"https://merchant.billriant.com/login?from=cs-cart\" target=\"_blank\"> Înscrieți-vă la autentificare și plătiți cu BillriantPay </a> </ puternic>"
+

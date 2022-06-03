@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/divido.po\n"
+"X-Crowdin-File-ID: 4552\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::divido"
+msgid "Divido payments"
+msgstr "Divido pembayaran"
+
+msgctxt "Addons::description::divido"
+msgid "Lets customers spread the cost of any purchase over a period of time while the merchant gets paid in full right away."
+msgstr "Memungkinkan pelanggan menyebar biaya pembelian selama jangka waktu sementara pedagang mendapatkan dibayar penuh segera."
+
+msgctxt "Languages::addons.divido.select_currency_undefined"
+msgid "The [currency] currency is not set up in store"
+msgstr "Mata uang [currency] tidak diatur di toko"
+
+msgctxt "Languages::addons.divido.order_status"
+msgid "Divido status"
+msgstr "Divido status"
+
+msgctxt "Languages::addons.divido"
+msgid "Divido"
+msgstr "Divido"
+
+msgctxt "Languages::addons.divido.pay_in_instalments"
+msgid "Pay in instalments"
+msgstr "Membayar angsuran"
+
+msgctxt "Languages::addons.divido.choose_your_plan"
+msgid "Choose your plan"
+msgstr "Pilih rencanamu"
+
+msgctxt "Languages::addons.divido.choose_your_deposit"
+msgid "Choose your deposit"
+msgstr "Pilih deposit anda"
+
+msgctxt "Languages::addons.divido.monthly_payments_of"
+msgid "monthly payments of"
+msgstr "pembayaran bulanan sebesar"
+
+msgctxt "Languages::addons.divido.term"
+msgid "Term"
+msgstr "Istilah"
+
+msgctxt "Languages::addons.divido.deposit"
+msgid "Deposit"
+msgstr "Deposito"
+
+msgctxt "Languages::addons.divido.cost_of_credit"
+msgid "Cost of credit"
+msgstr "Biaya kredit"
+
+msgctxt "Languages::addons.divido.total_payable"
+msgid "Total payable"
+msgstr "Jumlah hutang"
+
+msgctxt "Languages::addons.divido.total_interest_apr"
+msgid "Total interest APR"
+msgstr "Total bunga APR"
+
+msgctxt "Languages::addons.divido.text_redirected"
+msgid "You will be redirected to Divido to complete this finance application when you place your order"
+msgstr "Anda akan diarahkan ke Divido untuk menyelesaikan aplikasi keuangan ini saat Anda melakukan pemesanan"
+
+msgctxt "Languages::addons.divido.cart_amount_limit"
+msgid "Minimum order total"
+msgstr "Minimum order total"
+
+msgctxt "Languages::addons.divido.monthly_instalment"
+msgid "Monthly instalment"
+msgstr "Cicilan bulanan"
+
+msgctxt "Languages::ttc_addons.divido.cart_amount_limit"
+msgid "The order total has to be equal or greater than this sum, or the payment method won't be available at checkout. Leave empty if you don't want to impose this restriction."
+msgstr "Jumlah pesanan harus sama atau lebih besar dari jumlah ini, atau metode pembayaran tidak akan tersedia saat checkout. Biarkan kosong jika Anda tidak ingin memaksakan pembatasan ini."
+
+msgctxt "Languages::addons.divido.show_product_page_calculator"
+msgid "Show monthly payment rate on the product page"
+msgstr "Tampilkan tingkat pembayaran bulanan di halaman produk"
+
+msgctxt "Languages::addons.divido.product_price_limit"
+msgid "Minimum product price"
+msgstr "Harga produk minimal"
+
+msgctxt "Languages::ttc_addons.divido.product_price_limit"
+msgid "The product price has to be equal or greater than this sum, or the monthly payment rate won't appear on the product page. Leave empty if you don't want to impose this restriction."
+msgstr "Harga produk harus sama atau lebih besar dari jumlah ini, atau tingkat pembayaran bulanan tidak akan muncul di halaman produk. Biarkan kosong jika Anda tidak ingin memaksakan pembatasan ini."
+
+msgctxt "Languages::finance_code"
+msgid "Finance code"
+msgstr "Kode keuangan"
+
+msgctxt "Languages::addons.divido.availability_notice"
+msgid "<b>Note:</b> Payments via Divido are only available to the residents of the United Kingdom and can only be made in pounds sterling (GBP)."
+msgstr "<b> Catatan: </ b> Pembayaran via Divido hanya tersedia untuk penduduk Inggris dan hanya dapat dilakukan dengan poundsterling (GBP)."
+

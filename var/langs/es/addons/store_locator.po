@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /release-4.13.2/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 4650\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "Tiendas y puntos de recogida"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "Le permite marcar sus tiendas físicas en el mapa y ofrecer a sus clientes que recojan los pedidos allí, si se configura el método de envío correspondiente."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "Ver en mapa"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "Obtener una API Key"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Localizador de tiendas"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "Tiendas y puntos de recogida"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Bloque de localizador de tienda"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "Dirección no encontrada"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Seleccionar coordenadas"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Establecer"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Edición de tienda"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "Nueva ubicación de la tienda"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Añadir tienda"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Coordenadas"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "lat"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "largo"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "Todas las tiendas"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "Mostrar mapa en documentos relacionados con pedidos"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "Imprima el mapa en el albarán y la factura"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "Utilizar una lista de ciudades en lugar de un mapa"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "Afecta al bloque de geolocalización de clientes. La lista se generará a partir de las ciudades que tengan tiendas y puntos de recogida."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "Puede editar"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "Localizador de tiendas"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "Puede ver"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "El método de envío \"Recogida por el cliente\" ofrece al cliente la posibilidad de elegir una tienda donde recoger un producto. Las tiendas se pueden crear en el complemento \"Ubicación de la tienda\"<br /><b>Creación de la tienda:</b> <a href=\"[store_locator]\">Ubicación de la tienda</a>."
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "Seleccione tienda"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "Pick-up points"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "El campo \"Posición\" en la configuración de la tienda"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "Pedido seleccionado en la configuración del método de envío"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "Tiendas seleccionadas"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "Tiendas disponibles"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "Mapa y lista"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "Lista"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "Mapa"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "Vista de la lista de ubicaciones en la página de pago"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "Recogida"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "Disponible para su recogida"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "Horario de trabajo"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "Recogida"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "No se ha encontrado un destino adecuado"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "No se han encontrado tiendas"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "Recogida"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "ID de recogida"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "Recogida disponible"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "Recargo por recogida"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "Dirección de recogida"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "Teléfono de recogida"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "Hora de recogida"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "Ids de los destinos de recogida"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "Ocultar los lugares donde no puedo recoger mi pedido"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "Tiendas y puntos de recogida"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "En versiones anteriores, el recargo se añadía a las tarifas estándar que se especificaban para un método de envío. Ahora este recargo no se tiene en cuenta durante el cálculo de la tarifa de envío. Lo dejamos aquí para su comodidad, para que pueda verlo y ajustar las tarifas en la página de edición del método de envío en consecuencia."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "Situado en la zona de la tarifa"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "Determina las tarifas de envío para este punto de recogida. Las tarifas se especifican en la página de edición del método de envío. Si no selecciona un área de tarifas para un punto de recogida, el punto de recogida no aparecerá en el proceso de compra."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "Mostrar a"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "Mostrar a"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Permite ofrecer este punto de recogida a los residentes de otras zonas tarifarias en el pago."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "desde [price]"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_title"
+msgid "Pick up from store: Surcharge per pickup point removed"
+msgstr "Recogida en tienda: Recargo por punto de recogida eliminado"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_text"
+msgid "<p>The <b>[pickup_addon]</b> and <b>[store_locator_addon]</b> add-ons were merged into a new add-on called [stores_pickups_addon]. Shipping rates and time are more flexible now: they depend on the location (rate area) of a pickup point. The rates are now specified in one place: the editing page of a shipping method.</p><p>For that reason, we removed the <b>Surcharge</b> field from the pickup point editing page. Its value still appears in the admin panel, but isn’t used in rate calculation. Please check your pickup points, then adjust the shipping rates of all your \"Pick up from store\" shipping methods accordingly.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Adjust shipping rates</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">View my pickup points</a></p>"
+msgstr "<p>Los complementos <b>[pickup_addon]</b> y <b>[store_locator_addon]</b> fueron fusionados en un nuevo complemento llamado [stores_pickups_addon]. Las tarifas y el tiempo de envío son ahora más flexibles: dependen de la ubicación (área de tarifas) de un punto de recogida. Las tarifas se especifican ahora en un solo lugar: la página de edición de un método de envío.</p><p>Por esa razón, hemos eliminado el campo <b>Recargo</b> de la página de edición del punto de recogida. Su valor sigue apareciendo en el panel de administración, pero no se utiliza en el cálculo de la tarifa. Por favor, compruebe sus puntos de recogida y luego ajuste las tarifas de envío de todos sus métodos de envío de \"Recogida en tienda\" en consecuencia.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Ajustar las tarifas de envío</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">Ver mis puntos de recogida</a></p>"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "Usa dos dedos para mover el mapa"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Desplazarse hacia arriba"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "No hay zona de tarifas"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "Lugares de recogida"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "Cualquier zona tarifaria"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "Recogida en tienda"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "Cualquier vendedor"
+

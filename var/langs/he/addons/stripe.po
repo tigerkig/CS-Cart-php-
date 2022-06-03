@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/stripe.po\n"
+"X-Crowdin-File-ID: 4654\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::stripe"
+msgid "Stripe payments"
+msgstr "תשלומי Stripe"
+
+msgctxt "Addons::description::stripe"
+msgid "Lets you accept payments via Stripe."
+msgstr "מאפשר לך לקבל תשלומים באמצעות Stripe."
+
+msgctxt "Languages::stripe.stripe"
+msgid "Stripe"
+msgstr "Stripe  "
+
+msgctxt "Languages::stripe.publishable_key"
+msgid "Publishable key"
+msgstr "מפתח שניתן לפרסם"
+
+msgctxt "Languages::stripe.secret_key"
+msgid "Secret key"
+msgstr "מפתח סודי"
+
+msgctxt "Languages::stripe.payment_type"
+msgid "Payment type"
+msgstr "סוג תשלום "
+
+msgctxt "Languages::stripe.payment_type.card"
+msgid "Credit card"
+msgstr "כרטיס אשראי"
+
+msgctxt "Languages::stripe.payment_type.apple_pay"
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgctxt "Languages::stripe.payment_type.apple_pay.description"
+msgid "<p>Apple's <a href=\"[guidelines_url]\" target=\"_blank\">Human Interface Guidelines</a> require you to display the Apple Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>הנחיות הממשק האנושי <a href=\"[guidelines_url]\" target=\"_blank\"> של Apple מחייבים אותך להציג את הסימן של Apple Pay בדף הקופה.</p><p>אתה יכול להגדיר את התמונה הבאה כצלמית שיטת תשלום או להשתמש בה בתיאור שיטת תשלום:</p>"
+
+msgctxt "Languages::stripe.payment_type.google_pay"
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgctxt "Languages::stripe.payment_type.google_pay.description"
+msgid "<p>Google's <a href=\"[guidelines_url]\" target=\"_blank\">Brand guidelines</a> require you to display the Google Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>הנחיות המותג <a href=\"[guidelines_url]\" target=\"_blank\"> של גוגל מחייבים אותך להציג את הסימן של Google Pay בדף הקופה.</p><p>אתה יכול להגדיר את התמונה הבאה כצלמית שיטת תשלום או להשתמש בה בתיאור שיטת תשלום:</p>"
+
+msgctxt "Languages::stripe.online_payment"
+msgid "Online payment"
+msgstr "תשלום מקוון"
+
+msgctxt "Languages::stripe.test_payment"
+msgid "Test payment (won't be charged)"
+msgstr "תשלום לניסיון (לא יחויב)"
+
+msgctxt "Languages::stripe.test_payment.description"
+msgid "Your card won't be charged when using Apple Pay or Google Pay."
+msgstr "הכרטיס שלך לא יחויב בעת השימוש ב-Apple Pay או ב-Google Pay."
+
+msgctxt "Languages::stripe.apple_pay_not_supported"
+msgid "Apple Pay is not supported on this device"
+msgstr "Apple Pay אינו נתמך במכשיר זה"
+
+msgctxt "Languages::stripe.google_pay_not_supported"
+msgid "Google Pay is not supported on this device"
+msgstr "Google Pay אינו נתמך במכשיר זה"
+
+msgctxt "Languages::stripe.token"
+msgid "Stripe payment token"
+msgstr "אסימון תשלום Stripe"
+
+msgctxt "Languages::stripe.account_country"
+msgid "Stripe account country"
+msgstr "מחוז החשבון Stripe"
+
+msgctxt "Languages::stripe.show_payment_button"
+msgid "Show \"[button_name]\" button on product pages"
+msgstr "הצג \"[button_name]\" בעמודי המוצרים"
+
+msgctxt "Languages::stripe.payment_type.buy_with_apple_pay"
+msgid "Buy with Apple Pay"
+msgstr "קנה עם Apple Pay"
+
+msgctxt "Languages::stripe.payment_type.buy_with_google_pay"
+msgid "Buy with Google Pay"
+msgstr "קנה עם Google Pay"
+
+msgctxt "Languages::stripe.payment_intent_error"
+msgid "An error occured when creating a PaymentIntent with the payment #[payment_id]: [error]"
+msgstr "שגיאה ארעה בעת יצירת PaymentIntent עם התשלום #[payment_id]: [error]"
+

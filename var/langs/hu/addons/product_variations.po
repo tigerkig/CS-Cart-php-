@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/product_variations.po\n"
+"X-Crowdin-File-ID: 4624\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::product_variations"
+msgid "Product Variations"
+msgstr "Termékváltozatok"
+
+msgctxt "Addons::description::product_variations"
+msgid "Create products with different feature variants (for example, a different color or size), and let customers select the desired variant."
+msgstr "Hozz létre különböző termékváltozatokkal rendelkező termékeket (például más szín vagy méret), és engedd a vásárlóknak, hogy kiválasszák a kívánt változatot."
+
+msgctxt "SettingsSections::product_variations::general"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "SettingsOptions::product_variations::variations_allow_own_images"
+msgid "Allow own images for child variations"
+msgstr "Saját képek engedélyezése a gyermekváltozatokhoz"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_own_images"
+msgid "If child variations aren't allowed to have their own images, they will use the images from the default variation of the catalog item."
+msgstr "Ha a gyermek variációknál nem engedélyezett a saját képek használata, akkor a katalóguscikk alapértelmezett variációjának képeit fogják használni."
+
+msgctxt "SettingsOptions::product_variations::variations_allow_auto_change_default_variation"
+msgid "Change default variation when it gets hidden or runs out of stock"
+msgstr "Az alapértelmezett variáció módosítása, ha az rejtve marad vagy kifogy a készletből"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_auto_change_default_variation"
+msgid "Ensure that customers always see the products that are in stock first. We recommend leaving this setting enabled for better filtering of variations."
+msgstr "Biztosítsd, hogy a vásárlók mindig a készleten lévő termékeket lássák először. A variációk jobb szűrése érdekében javasoljuk, hogy hagyja engedélyezve ezt a beállítást."
+
+msgctxt "SettingsOptions::product_variations::variations_allow_own_features"
+msgid "Allow own feature values for child variations"
+msgstr "Saját tulajdonságértékek engedélyezése a gyermekváltozatokhoz"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_own_features"
+msgid "If child variations aren't allowed to have their own values for features, they will use the values from the default variation of the catalog item."
+msgstr "Ha a gyermek variációknál nem engedélyezett a jellemzők saját értékekkel való ellátása, akkor a katalóguselem alapértelmezett variációjának értékeit fogják használni."
+
+msgctxt "SettingsOptions::product_variations::variations_show_all_possible_feature_variants"
+msgid "Show all possible feature variants"
+msgstr "Az összes lehetséges jellemzőváltozat megjelenítése"
+
+msgctxt "SettingsTooltips::product_variations::variations_show_all_possible_feature_variants"
+msgid "Show a feature variant even if it is not available for this variation."
+msgstr "A jellemzőváltozat megjelenítése akkor is, ha az nem elérhető az adott variációhoz."
+
+msgctxt "Languages::product_variations.product_type"
+msgid "Product type"
+msgstr "Termék típusa"
+
+msgctxt "Languages::product_variations.product_type.catalog_item"
+msgid "Catalog item"
+msgstr "Katalógus tétel"
+
+msgctxt "Languages::product_variations.product_type.variation_of_catalog_item"
+msgid "Variation of a catalog item"
+msgstr "Katalógustétel variációja"
+
+msgctxt "Languages::product_variations.belongs_to_catalog_item"
+msgid "Belongs to catalog item:"
+msgstr "A következő katalógustételhez tartozik:"
+
+msgctxt "Languages::product_variations.variations"
+msgid "Variations"
+msgstr "Variációk"
+
+msgctxt "Languages::product_variations.variation_of_product"
+msgid "Variation of catalog item <a href=\"[url]\">[product]</a>"
+msgstr " <a href=\"[url]\">[product]</a> katalóguselem variációja"
+
+msgctxt "Languages::product_variations.group_code"
+msgid "Variation group"
+msgstr "Variáció csoport"
+
+msgctxt "Languages::product_variations.group_code.placeholder"
+msgid "Set custom group code here"
+msgstr "Az egyéni csoportkódot itt állíthatod be"
+
+msgctxt "Languages::product_variations.group_code.description"
+msgid "Use the group code on a product editing page or during import to add the product to this group as a variation. A group code can contain only digits, Latin characters, and the following signs: \"-\" and \"_\"."
+msgstr "Használd a csoportkódot a termékszerkesztő oldalon vagy importáláskor, hogy a terméket variációként ehhez a csoporthoz hozzá lehessen adni. A csoportkód csak számjegyeket, latin karaktereket és a következő jeleket tartalmazhatja: \"-\" és \"_\"."
+
+msgctxt "Languages::product_variations.group_code.link"
+msgid "Add to variation group"
+msgstr "Hozzáadás a variációs csoporthoz"
+
+msgctxt "Languages::product_variations.add_variations"
+msgid "Add variations"
+msgstr "Variációk hozzáadása"
+
+msgctxt "Languages::product_variations.link_existing"
+msgid "Use existing products"
+msgstr "Meglévő termékek használata"
+
+msgctxt "Languages::product_variations.create_new"
+msgid "Create new products"
+msgstr "Új termékek létrehozása"
+
+msgctxt "Languages::product_variations.add_variations_description"
+msgid "Add variations to generate a group of similar products that differ in color, size, etc. Or add this product to an existing group by entering the group code."
+msgstr "Variációk hozzáadása hasonló termékek csoportjának létrehozásához, amelyek színben, méretben stb. különböznek. Vagy add hozzá ezt a terméket egy meglévő csoporthoz a csoportkód megadásával."
+
+msgctxt "Languages::product_variations.manage"
+msgid "Manage variations"
+msgstr "Variációk kezelése"
+
+msgctxt "Languages::product_variations.edit_features"
+msgid "Edit features"
+msgstr "Funkciók szerkesztése"
+
+msgctxt "Languages::product_variations.delete"
+msgid "Disband group"
+msgstr "Csoport szétbontása"
+
+msgctxt "Languages::product_variations.remove_variation"
+msgid "Remove variation from group"
+msgstr "Variáció eltávolítása a csoportból"
+
+msgctxt "Languages::product_variations.delete_product"
+msgid "Delete product"
+msgstr "Termék törlése"
+
+msgctxt "Languages::product_variations.mark_main_product"
+msgid "Set as default variation"
+msgstr "Alapértelmezett variációként való beállítás"
+
+msgctxt "Languages::product_variations.no_available_features"
+msgid "This product doesn't have features that allow grouping products. Please make sure that:<ol><li>You have created at least one feature with <b>Purpose:</b> <i>Variations as separate products</i> or <i>Variations as one product</i>.</li><li>You have specified the value of that feature for the product.</li></ol><a href=[manage_features_href]>Manage features</a>"
+msgstr "Ez a termék nem rendelkezik olyan funkciókkal, amelyek lehetővé teszik a termékek csoportosítását. Kérjük, győződj meg arról, hogy:<ol><li>legalább egy funkciót létrehoztál<b>Célja:</b> <i>Változatok különálló termékként</i> vagy <i>Változatok egy termékként</i> címmel.</li><li>A termékre meghatároztad az adott funkció értékét.</li></ol><a href=[manage_features_href]>Funkciók kezelése</a>."
+
+msgctxt "Languages::product_feature.purpose.group_catalog_item"
+msgid "Variations as separate products"
+msgstr "Variációk különálló termékként"
+
+msgctxt "Languages::product_feature.purpose.group_catalog_item.description"
+msgid "For cases when a few similar products differ visibly by a feature, and have different names (for example, multiple \"Color\" variants of a T-shirt). These products will appear as separate positions in the catalog. Customers will also be able to select the desired feature value on the product page. To achieve this, <b>set up variations for products with this feature</b>."
+msgstr "Azokra az esetekre, amikor néhány hasonló termék láthatóan különbözik egymástól egy tulajdonságban, és különböző nevük van (például egy póló több \"Szín\" változata). Ezek a termékek külön tételként jelennek meg a katalógusban. A vásárlók a termékoldalon is kiválaszthatják a kívánt tulajdonságértéket. Ennek eléréséhez <b>állíts be variációkat az ezzel a tulajdonsággal rendelkező termékekhez</b>."
+
+msgctxt "Languages::product_feature.feature_style.dropdown"
+msgid "Drop-down list"
+msgstr "Legördülő lista"
+
+msgctxt "Languages::product_feature.feature_style.dropdown_images"
+msgid "Images"
+msgstr "Képek"
+
+msgctxt "Languages::product_feature.feature_style.dropdown_labels"
+msgid "Text labels"
+msgstr "Szöveges címkék"
+
+msgctxt "Languages::product_feature.purpose.group_variation_catalog_item"
+msgid "Variations as one product"
+msgstr "Variációk egy termékként"
+
+msgctxt "Languages::product_feature.purpose.group_variation_catalog_item.description"
+msgid "For cases when a few similar products differ by a feature, but have the same name and similar appearance (for example, multiple \"Size\" variants of a T-shirt). These products will occupy a single position in the catalog. Customers will be able to select the desired feature value on the product page. To achieve this, <b>set up variations for products with this feature</b>."
+msgstr "Azokra az esetekre, amikor néhány hasonló termék egy tulajdonságban különbözik egymástól, de ugyanazzal a névvel és hasonló megjelenéssel rendelkezik (például egy póló több \"Méret\" változata). Ezek a termékek egyetlen tételt foglalnak el a katalógusban. A vásárlók a termékoldalon kiválaszthatják a kívánt tulajdonságértéket. Ennek eléréséhez <b>állíts be variációkat az ilyen tulajdonsággal rendelkező termékekhez</b>."
+
+msgctxt "Languages::product_variations.error.group_not_found"
+msgid "Variation group #[id] not found"
+msgstr "#[id] variációcsoport nem található"
+
+msgctxt "Languages::product_variations.error.product_not_found_in_group"
+msgid "Product #[product_id] not found in variation group \"[group_code]\""
+msgstr "A #[product_id] termék nem található a \"[group_code]\" variációs csoportban."
+
+msgctxt "Languages::product_variations.error.cannot_mark_main_product_child_product"
+msgid "Product #[product_id] in group \"[group_code]\" isn't a variation, so it can't become default for a catalog item"
+msgstr "A #[product_id] termék a \"[group_code]\" csoportban nem variáció, így nem válhat alapértelmezetté egy katalógustételhez."
+
+msgctxt "Languages::product_variations.error.generate_combinations_is_empty"
+msgid "Couldn't generate variations. Please specify the values of features to generate variations."
+msgstr "Nem sikerült variációkat generálni. Kérjük, add meg a jellemzők értékeit a variációk generálásához."
+
+msgctxt "Languages::product_variations.error.generate_products_is_empty"
+msgid "No new products were created"
+msgstr "Nem jött létre új termék"
+
+msgctxt "Languages::product_variations.error.product_not_found"
+msgid "Product #[product_id] not found"
+msgstr "A #[product_id] termék nem található"
+
+msgctxt "Languages::product_variations.error.group_not_found_by_product"
+msgid "Couldn't find variation group for #[product_id] \"[product]\""
+msgstr "Nem sikerült megtalálni a #[product_id] \"[product]\" termék variációs csoportját"
+
+msgctxt "Languages::product_variations.error.feature_combination_is_invalid_for_product"
+msgid "Wrong combination of features for product #[product_id] \"[product]\""
+msgstr "A #[product_id] \"[product]\" termékhez nem megfelelő tulajdonságkombináció."
+
+msgctxt "Languages::product_variations.error.product_ids_empty"
+msgid "Products couldn't be found"
+msgstr "A termékeket nem sikerült megtalálni"
+
+msgctxt "Languages::product_variations.select_variation"
+msgid "Select a Variation"
+msgstr "Variáció kiválasztása"
+
+msgctxt "Languages::product_variations.error.group_code_is_required"
+msgid "Variation group code must be specified"
+msgstr "A variációs csoport kódját meg kell adni"
+
+msgctxt "Languages::product_variations.error.group_code_is_invalid"
+msgid "Couldn't set this code for variation group. A group code can contain only digits, Latin characters, and the following signs: \"-\" and \"_\""
+msgstr "Nem sikerült beállítani ezt a kódot a variációs csoporthoz. A csoportkód csak számjegyeket, latin betűket és a következő jeleket tartalmazhatja: \"-\" és \"_\""
+
+msgctxt "Languages::product_variations.error.group_code_is_duplicate"
+msgid "The specified variation group code is already in use"
+msgstr "A megadott variációs csoportkód már használatban van."
+
+msgctxt "Languages::product_variations.error.features_is_empty"
+msgid "Features couldn't be found"
+msgstr "Nem sikerült megtalálni a tulajdonságokat "
+
+msgctxt "Languages::product_variations.error.no_available_products"
+msgid "No suitable products were found"
+msgstr "Nem találtunk megfelelő terméket"
+
+msgctxt "Languages::product_variations.error.product_has_not_required_features"
+msgid "Product #[product_id] \"[product]\" doesn't have the required features to become a variation. Please set feature values for that product."
+msgstr "A #[product_id] \"[product]\" termék nem rendelkezik a szükséges jellemzőkkel ahhoz, hogy variációvá váljon. Kérjük, állítsa be a termék jellemzőinek értékeit."
+
+msgctxt "Languages::product_variations.error.product_with_features_combination_exits"
+msgid "Product #[product_id] \"[product]\" has the exact same combination of feature values as a variation that already exists in the group."
+msgstr "A #[product_id] \"[product]\" termék a jellemző értékek pontosan ugyanolyan kombinációjával rendelkezik, mint egy olyan variáció, amely már létezik a csoportban."
+
+msgctxt "Languages::product_variations.error.product_company_does_not_match_to_group_company.ult"
+msgid "Product #[product_id] \"[product]\" can't be added to the variation group because all products in a variation group must belong to the same storefront."
+msgstr "A #[product_id] \"[product]\" termék nem adható hozzá a variációs csoporthoz, mivel a variációs csoportban lévő összes terméknek ugyanahhoz a piactérhez/kirakathoz kell tartoznia."
+
+msgctxt "Languages::product_variations.error.product_company_does_not_match_to_group_company.mve"
+msgid "Product #[product_id] \"[product]\" can't be added to the variation group because all products in a variation group must belong to the same vendor."
+msgstr "A #[product_id] \"[product]\" termék nem adható hozzá a variációs csoporthoz, mivel a variációs csoportban lévő összes terméknek ugyanahhoz a termelőhöz kell tartoznia."
+
+msgctxt "Languages::product_variations.variations_filling"
+msgid "Variations"
+msgstr "Variációk"
+
+msgctxt "Languages::product_variations.variations_list"
+msgid "Variations"
+msgstr "Variációk"
+
+msgctxt "Languages::variations_in_stock"
+msgid "Only \"in stock\" products"
+msgstr "Csak \"raktáron van\" termékek"
+
+msgctxt "Languages::product_variations.hide_add_to_wishlist_button"
+msgid "Hide add to wish list button"
+msgstr "Kívánságlistára helyezés gomb elrejtése"
+
+msgctxt "Languages::product_variations.variations_list_block_name"
+msgid "Variations list"
+msgstr "Variációk listája"
+
+msgctxt "Languages::product_variations.variations_list_tab_name"
+msgid "View all variations as list"
+msgstr "Az összes variáció megtekintése listaként"
+
+msgctxt "Languages::product_variations.show_variation_thumbnails"
+msgid "Show variation thumbnails"
+msgstr "Variációk miniatűrjei"
+
+msgctxt "Languages::product_variations.show_product_code"
+msgid "Show product code"
+msgstr "Termékkód megjelenítése"
+
+msgctxt "Languages::product_variations.exim.result_notice"
+msgid "Data is imported successfully.<br />New products - <b>[new]</b>;<br />Updated products - <b>[exist]</b>;<br />Skipped products - <b>[skipped]</b>;<br />Total - <b>[total]</b>;<br />Created variations - <b>[variation_created]</b>;<br />Updated variations - <b>[variation_updated]</b>;<br />Disbanded variations - <b>[variation_removed]</b>."
+msgstr "Az adatok importálása sikeresen megtörtént. <br />Új termékek - <b>[new]</b>;<br />Frissített termékek - <b>[exist]</b>;<br />Kihagyott termékek - <b>[skipped]</b>;<br />Összesen - <b>[total]</b>; <br />Létrehozott variációk - <b>[variation_created]</b>;<br />Frissített variációk - <b>[variation_updated]</b>;<br />Eltávolított variációk - <b>[variation_removed]</b>."
+
+msgctxt "Languages::variation_group_id"
+msgid "Variation group ID"
+msgstr "Variációs csoport azonosítója"
+
+msgctxt "Languages::variation_group_code"
+msgid "Variation group code"
+msgstr "Variációs csoport kódja"
+
+msgctxt "Languages::variation_parent_product_id"
+msgid "Variation parent product ID"
+msgstr "Variációs szülő termék azonosítója"
+
+msgctxt "Languages::variation_sub_group_id"
+msgid "Variation sub group ID"
+msgstr "Variációs alcsoport azonosítója"
+
+msgctxt "Languages::product_variations.feature_used_by_variation_group.tooltip"
+msgid "This feature is used by variation group [code]. To choose a different value of this feature for a product, switch to the \"Variations\" tab of the product editing page. New values can be added on the feature editing page."
+msgstr "Ezt a jellemzőt a [code] variációs csoport használja. Ha egy termékhez más értéket szeretnél választani ehhez a jellemzőhöz, válts a termékszerkesztő oldal \"Variációk\" fülére. Új értékeket a jellemzőszerkesztő lapon lehet hozzáadni."
+
+msgctxt "Languages::product_variations.variations_naming_strategy.key_value"
+msgid "Color: Red, Size: Small"
+msgstr "Szín: piros, méret:kicsi"
+
+msgctxt "Languages::product_variations.variations_naming_strategy.value"
+msgid "Red, Small"
+msgstr "Piros, Kicsi"
+
+msgctxt "Languages::product_variations.upgrade_notification.convert_variations_title"
+msgid "Convert product variations to use features"
+msgstr "Termékvariációk átalakítása a jellemzők használatához"
+
+msgctxt "Languages::product_variations.upgrade_notification.convert_variations_message"
+msgid "<p>Product variations in version 4.10.1 are more powerful than ever. They can now occupy separate positions in the catalog, be filtered and imported easily. To achieve this, we remade variations from scratch. They are now based on features instead of options.</p><p><b>We have disabled the old variations in your store, because they won’t work until they are converted.</b> The conversion is automatic, we just need your consent. Please check what we plan to do, and convert variations to use features.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Check and convert variations</a> <a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/product_variations.html\" target=\"_blank\" class=\"btn btn-large\">Learn more about variations</a></p>"
+msgstr "<p>A termékvariációk a 4.10.1-es verzióban minden eddiginél hatékonyabbak. Mostantól külön pozíciókat foglalhatnak el a katalógusban, szűrhetők és könnyedén importálhatók. Ennek érdekében a variációkat újraalkottuk a semmiből. Ezek mostantól opciók helyett funkciókon alapulnak.</p><p><b>A régi variációkat letiltottuk az áruházában, addig nem fognak működni, amíg át nem alakítjuk őket.</b> Az átalakítás automatikus, csak a beleegyezésedre van szükségünk. Kérjük, ellenőrizd, hogy mit tervezünk, és konvertáld a variációkat a funkciók használatára.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Variációk ellenőrzése és konvertálása</a> <a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/product_variations.html\" target=\"_blank\" class=\"btn btn-large\">Tudj meg többet a variációkról</a></p>"
+
+msgctxt "Languages::product_variations.feature_can_be_deleted"
+msgid "Couldn't delete a feature or its variant because at least one variation group is based on it. Please delete <a href=\"[href]\">these products</a> or disband their product groups, and try again."
+msgstr "Nem sikerült törölni egy jellemzőt vagy annak variánsát, mert legalább egy variációs csoport alapjául szolgál. Kérjük, töröld <a href=\"[href]\">ezeket a termékeket</a> vagy bontsd fel a termékcsoportjaikat, és próbáld meg újra."
+
+msgctxt "Languages::product_variations.notice.old_product_variations_exists"
+msgid "Your store still has old product variations. They currently appear as separate products, without the ability to switch between them. To make them work as before the upgrade, <a href=\"[convert_url]\">convert old variations to new variations</a>. It's easy and automatic."
+msgstr "A piacterén még mindig vannak régi termékváltozatok. Ezek jelenleg különálló termékekként jelennek meg, anélkül, hogy váltani lehetne közöttük. Ahhoz, hogy úgy működjenek, mint a frissítés előtt, <a href=\"[convert_url]\">konvertáld a régi variációkat új variációkká</a>. Ez egyszerű és automatikus."
+
+msgctxt "Languages::product_variations.notice.is_old_product_variation"
+msgid "This product is an old variation that hasn't been converted yet. To make it work as before the upgrade, <a href=\"[convert_url]\">convert old variations to new variations</a>."
+msgstr "Ez a termék egy régi változat, amelyet még nem alakítottak át. Ahhoz, hogy a frissítés előtti állapotnak megfelelően működjön, <a href=\"[convert_url]\">konvertáld a régi variációkat új variációkká</a>."
+
+msgctxt "Languages::variation_set_as_default"
+msgid "Variation set as default"
+msgstr "Alapértelmezettként beállított variáció"
+
+msgctxt "Languages::product_variations.cant_edit_feature_categories"
+msgid "Couldn't assign feature to categories or a feature group. Some variations use this feature and aren't in the categories you tried to assign. Please delete <a href=\"[href]\">these products</a>, or disband their variation groups, or assign them to the same categories as feature or feature group, and try again."
+msgstr "Nem sikerült a funkciót kategóriákhoz vagy funkciócsoporthoz rendelni. Néhány variáció használja ezt a funkciót, és nem tartozik azokhoz a kategóriákhoz, amelyeket megpróbáltál hozzárendelni. Kérjük, töröld <a href=\"[href]\">ezeket a termékeket</a>, vagy szüntesd meg a variációs csoportjaikat, vagy rendeld őket ugyanazon kategóriákhoz, mint a funkciót vagy a funkciócsoportot, és próbáld meg újra."
+
+msgctxt "Languages::product_variations.too_many_combinations"
+msgid "Sorry, there are too many possible variations that can be generated. To prevent heavy load, we won't display them here. Please create the products with the right feature values manually or via import, and add them to the group."
+msgstr "Sajnáljuk, túl sok lehetséges variáció generálható. A szerver nagy terhelésének elkerülése érdekében, itt nem jelenítjük meg őket. Kérjük, hozd létre a megfelelő tulajdonságértékekkel rendelkező termékeket kézzel vagy importálással, és add hozzá a csoporthoz."
+
+msgctxt "Languages::product_variations.generator.features.placeholder"
+msgid "Search for features that can generate variations"
+msgstr "A variációkat generálni képes jellemzők keresése"
+
+msgctxt "Languages::product_variations.generator.warning.new_features_add"
+msgid "You can add a new feature if you disband the group in the actions menu and create variations again."
+msgstr "Új jellemzőt akkor adhatsz hozzá, ha a csoportot feloszlatod a Műveletek menüben, és újra létrehozod a variációkat."
+
+msgctxt "Languages::product_variations.generator.feature_variants.placeholder"
+msgid "Type to search"
+msgstr "Írd be a keresőszöveget"
+
+msgctxt "Languages::product_variations.generator.feature_variants.add_all_variants"
+msgid "Add all variants"
+msgstr "Valamennyi változat hozzáadása"
+
+msgctxt "Languages::product_variations.generator.table.title"
+msgid "Modify the variations to be created:"
+msgstr "Módosítsd a létrehozandó variációkat:"
+
+msgctxt "Languages::product_variations.generator.create_btn"
+msgid "Create [n] variation|Create [n] variations"
+msgstr "Hozz létre [n] variációt|Hozz létre [n] variációkat"
+
+msgctxt "Languages::product_variations.allow_own_features_setting_changing"
+msgid "You've disabled the <b>Allow own feature values for child variations</b> setting. Please export <a href=\"[url]\">all your default variations</a> (use \"Export found products\" in the gear button) and reimport them. This will apply their feature values to existing child variations."
+msgstr " Letiltottad a <b>Saját tulajdonságértékek engedélyezése a gyermek variációkhoz</b> beállítást. Kérjük, exportáld <a href=\"[url]\">az összes alapértelmezett variációt</a> (használd a \"Talált termékek exportálása\" gombot a fogaskerékben), és importáld őket újra. Ezáltal a tulajdonságértékeiket alkalmazni fogod a meglévő gyermek variációkhoz."
+
+msgctxt "Languages::product_variations.allow_own_images_setting_changing"
+msgid "You've disabled the <b>Allow own images for child variations</b> setting. Please export <a href=\"[url]\">all your default variations</a> (use \"Export found products\" in the gear button) and reimport them. This will apply their images to existing child variations."
+msgstr "Kikapcsoltad a <b>Saját képek engedélyezése a gyermek variációkhoz<b> beállítást. Kérjük, exportáld <a href=\"[url]\">az összes alapértelmezett variációját</a> (használd a \"Talált termékek exportálása\" opciót a fogaskerék gombban), és importáld őket újra. Ezáltal a képeiket a meglévő gyermek variációkhoz alkalmazza."
+
+msgctxt "Languages::product_variations.upgrade_notification.convert_combination_title"
+msgid "Convert option combinations to product variations"
+msgstr "Opciókombinációk átalakítása termékváltozatokká"
+
+msgctxt "Languages::product_variations.upgrade_notification.convert_combination_message"
+msgid "<p>In the upcoming version 4.12.1, product variations will fully replace option combinations. The code that handles option combinations will be removed. Please note that ONLY <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">option combinations</a> and their code will be removed. <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\">Options</a> themselves will remain exactly as they are now.</p><p>Your store still has option combinations. That's why we ask you to convert option combinations into product variations. The process is mostly automatic. We only ask your input to make sure that everything goes smoothly and according to your expectations.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Convert option combinations</a></p>"
+msgstr "<p>A következő, 4.12.1-es verzióban a termékváltozatok teljes mértékben felváltják az opciós kombinációkat. Az opciós kombinációkat kezelő kódot eltávolítjuk. Felhívjuk a figyelmedet arra, hogy CSAK a <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">opciós kombinációk</a> és kódjuk kerül eltávolításra. Maguk az <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\">opciók</a> pontosan a mostaniak úgy maradnak, ahogy most vannak.</p><p>A piactered továbbra is rendelkezik opciós kombinációkkal. Ezért kérjük, hogy az opciós kombinációkat alakítsd át termékvariációkká. A folyamat többnyire automatikus. Csak a hozzájárulásodat kérjük ahhoz, hogy minden zökkenőmentesen és az elvárásaidnak megfelelően menjen.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Az opciós kombinációk átalakítása</a></p>"
+
+msgctxt "Languages::product_variations.upgrade_notification.convert_combination_message_without_variations"
+msgid "<p>In the upcoming version 4.12.1, product variations will fully replace option combinations. The code that handles option combinations will be removed. Please note that ONLY <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">option combinations</a> and their code will be removed. <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\">Options</a> themselves will remain exactly as they are now.</p><p>Your store still has option combinations. That's why we ask you to convert option combinations into product variations. The process is mostly automatic. We only ask your input to make sure that everything goes smoothly and according to your expectations.</p><p>However, the Product Variations add-on isn't active in your store yet. You'll need to install or enable it first, and run the conversion.</p><p><a href=\"[search_for_addon]\" target=\"_blank\" class=\"btn btn-large\">1. Activate the add-on</a> <a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large\">2. Convert option combinations</a></p>"
+msgstr "<p>A 4.12.1-es verzióban a termékváltozatok teljes mértékben felváltják az opciós kombinációkat. Az opciós kombinációkat kezelő kódot eltávolítjuk. Felhívjuk a figyelmedet arra, hogy CSAK a <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">opciós kombinációk</a> és kódjuk kerül eltávolításra. Maguk az <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\">opciók</a> pontosan úgy maradnak, ahogy most vannak.</p><p>A piactered továbbra is rendelkezik opciós kombinációkkal. Ezért kérjük, hogy az opciós kombinációkat alakítsd át termékvariációkká. A folyamat többnyire automatikus. Csak a közreműködésedet kérjük ahhoz, hogy minden zökkenőmentesen és az elvárásaidnak megfelelően menjen.</p><p>A termékváltozatok bővítmény azonban még nem aktív a piactereden. Először telepítened vagy engedélyezned kell, majd futtatnod kell az átalakítást.</p><p><a href=\"[search_for_addon]\" target=\"_blank\" class=\"btn btn-large\">1. Aktiváld a bővítményt</a> <a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large\">2. Konvertáld az opciókombinációkat</a></p>"
+
+msgctxt "Languages::product_variations.add_all_variants"
+msgid "Add all variants"
+msgstr "Valamennyi változat hozzáadása"
+

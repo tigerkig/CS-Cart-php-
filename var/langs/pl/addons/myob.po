@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /release-4.13.2/addons/myob.po\n"
+"X-Crowdin-File-ID: 4592\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::myob"
+msgid "MYOB"
+msgstr "MYOB"
+
+msgctxt "Addons::description::myob"
+msgid "Adds the MYOB integration"
+msgstr "Dodaje integrację z systemem MYOB"
+
+msgctxt "Languages::export_to_myob"
+msgid "Export to MYOB"
+msgstr "Eksport do MYOB"
+
+msgctxt "SettingsSections::myob::general"
+msgid "General"
+msgstr "Ogólne"
+
+msgctxt "SettingsOptions::myob::sales_account"
+msgid "Default Sales Account"
+msgstr "Domyślne konto sprzedawcy"
+
+msgctxt "SettingsOptions::myob::currency"
+msgid "Currency"
+msgstr "Waluta"
+
+msgctxt "SettingsOptions::myob::tax_gst_code"
+msgid "Tax Code / GST Code"
+msgstr "Kod podatku / GST kod"
+
+msgctxt "SettingsOptions::myob::freight_tax_gst_code"
+msgid "Freight Tax Code / Freight GST Code"
+msgstr "Kod podatku dla dostawy / Kod GST dostawy"
+

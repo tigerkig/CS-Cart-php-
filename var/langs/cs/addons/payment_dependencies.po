@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.13.2/addons/payment_dependencies.po\n"
+"X-Crowdin-File-ID: 4604\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::payment_dependencies"
+msgid "Payment dependencies"
+msgstr "Platební závislosti"
+
+msgctxt "Addons::description::payment_dependencies"
+msgid "Assign payment methods to shipping methods"
+msgstr "Přiřazení způsobů plateb způsobům dopravy"
+
+msgctxt "Languages::pd_allowed_payment_methods"
+msgid "Allowed payment methods"
+msgstr "Povolené platební metody"
+
+msgctxt "Languages::pd_allowed_payment_methods_text"
+msgid "Select payment methods that your customers can use with this shipping method"
+msgstr "Výběr platebních metod, které mohou vaši zákazníci používat s tímto způsobem dopravy"
+
+msgctxt "Languages::pd.there_are_no_available_payment_methods"
+msgid "There are no payment methods available right now. Try to change the selected shipping method."
+msgstr ""
+
+msgctxt "Languages::pd.no_payments_available"
+msgid "No payment methods available."
+msgstr ""
+

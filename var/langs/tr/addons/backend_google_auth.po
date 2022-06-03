@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /release-4.13.2/addons/backend_google_auth.po\n"
+"X-Crowdin-File-ID: 4522\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::backend_google_auth"
+msgid "Back-End Sign-In via Google"
+msgstr "Google ile Arka-Uç Giriş Yapma"
+
+msgctxt "Addons::description::backend_google_auth"
+msgid "Replaces the standard back-end sign-in mechanism with authentication via Google accounts."
+msgstr ""
+
+msgctxt "SettingsOptions::backend_google_auth::credentials"
+msgid "Credentials"
+msgstr "Bilgiler"
+
+msgctxt "SettingsOptions::backend_google_auth::backend_google_auth_client_id"
+msgid "Client ID"
+msgstr "Sunucu ID'si"
+
+msgctxt "SettingsOptions::backend_google_auth::backend_google_auth_client_secret"
+msgid "Client secret"
+msgstr ""
+
+msgctxt "Languages::backend_google_auth.user_not_found"
+msgid "The <strong>[user]</strong> user not found"
+msgstr "<strong>[user]</strong> kullanıcısı bulunamadı"
+
+msgctxt "Languages::backend_google_auth.settings.warning"
+msgid "Once you configure this add-on, only administrators with Gmail email addresses will be able to sign in to the Administration panel. If your administrators have non-Google email addresses specified, don't configure the add-on, or else those administrators won't be able to sign in."
+msgstr "Bu eklentiyi yapılandırdığınız zaman sadece Gmail e-posta adreslerine sahip olan yöneticiler Yönetici panelinde oturum açabilecektir. Eğer yöneticileriniz için Google harici e-posta adresleri belirtilmişse bu eklentiyi yapılandırmayın, aksi halde bu yöneticiler oturum açamayacaktır."
+
+msgctxt "Languages::backend_google_auth.settings.create_new_application"
+msgid "To acquire your client ID and secret create a new application in your Google APIs account."
+msgstr ""
+
+msgctxt "Languages::backend_google_auth.settings.learn_more_about"
+msgid "Learn more about Google APIs"
+msgstr "Google API'leri hakkında daha fazla bilgi edinin"
+
+msgctxt "Languages::backend_google_auth.settings.provide_your_credentials"
+msgid "Please provide your Google API credentials"
+msgstr "Lütfen Google API bilgilerinizi girin"
+
+msgctxt "Languages::backend_google_auth.settings.authorized_redirect_uris"
+msgid "Your authorized redirect URIs:"
+msgstr "İzin verilmiş yönlendirme URL'leriniz:"
+
+msgctxt "Languages::backend_google_auth.settings.save_and_check_btn"
+msgid "Save and test the sign-in"
+msgstr "Kaydet ve girişi dene"
+
+msgctxt "Languages::backend_google_auth.errors.not_configured"
+msgid "Please configure the add-on first"
+msgstr "Lütfen önce eklentiyi ayarlayın"
+
+msgctxt "Languages::backend_google_auth.warnings.only_gmail_address_is_available_to_auth"
+msgid "The \"Back-End Sign-In via Google\" add-on is active. Only administrators with Gmail email addresses will be able to sign in."
+msgstr "''Google ile Arka-Uç Giriş Yapma'' eklentisi aktif. Sadece Gmail email'lerine sahip yöneticiler giriş yapabilecek."
+
+msgctxt "Languages::backend_google_auth.login_page.help"
+msgid "Please select the email address that was specified for your administrator account."
+msgstr "Lütfen yönetici hesabınız için belirtilen e-posta adresini seçin."
+
+msgctxt "Languages::backend_google_auth.login_page.btn"
+msgid "Sign in with Google"
+msgstr "Google ile giriş yap"
+

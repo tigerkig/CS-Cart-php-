@@ -1,0 +1,1022 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/editions/mve.po\n"
+"X-Crowdin-File-ID: 4694\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Languages::add_companies"
+msgid "Add vendors"
+msgstr "הוסף ספקים"
+
+msgctxt "Languages::add_companies_and_close"
+msgid "Add vendors and close"
+msgstr "הוסף ספקים וסגור"
+
+msgctxt "Languages::add_vendor"
+msgid "Add vendor"
+msgstr "הוסף ספק"
+
+msgctxt "Languages::add_vendor_administrator"
+msgid "Add vendor's administrator"
+msgstr "הוסף מנהל ספקים"
+
+msgctxt "Languages::vendor_administrator"
+msgid "Vendor's administrator"
+msgstr "מנהל הספק"
+
+msgctxt "Languages::vendor_administrators"
+msgid "Vendor's administrators"
+msgstr "מנהלי ספק"
+
+msgctxt "Languages::vendor_administrators_menu_description"
+msgid "List of vendor's administrators, registered users with a vendor account."
+msgstr "רשימת מנהלי ספק, משתמשים רשומים עם חשבון ספק."
+
+msgctxt "Languages::vendor_candidate_notification"
+msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a href=\"[href]\">this URL</a> to view the account details</a>."
+msgstr "שלום, <br/><br/> יש לך מועמד חדש לספק בחנות שלך. חשבון ספק זה ממתין לאישורך. עבור ל<a href=\"[href]\">כתובת הזו</a> כדי לצפות בפרטי החשבון</a>."
+
+msgctxt "Languages::demo_panel.go_vendor_panel"
+msgid "Go to Vendor panel"
+msgstr "עבור לפנל ספק"
+
+msgctxt "Languages::vendor_account_balance_menu_description"
+msgid "Income and expenditure statistics (total, per vendor, per period)."
+msgstr "סטטיסטיקת הכנסות והוצאות (סה\"כ, לספק, לתקופה)."
+
+msgctxt "Languages::merge_vendor"
+msgid "Merge vendor"
+msgstr "מזג ספק"
+
+msgctxt "Languages::select_new_owner_company"
+msgid "Select a new owner of this company's profile data:"
+msgstr "בחר בעלים חדשים של פרופיל מידע של החברה:"
+
+msgctxt "Languages::warning_merging_companies"
+msgid "Merging two company accounts will remove [company_name] from the database, and all the profile data (products, orders, shipping methods, users, promotions, etc.) will be transferred to this company's account"
+msgstr "מיזוג שני חשבונות של חברות יסיר[company_name]מבסיס נתונים, וכל נתוני הפרופיל (מוצרים, הזמנות, שיטות משלוח, משתמשים, מבצעי קידום, וכו') יועברו לחשבון החברה הזו"
+
+msgctxt "Languages::all_vendors"
+msgid "All vendors"
+msgstr "כל הספקים"
+
+msgctxt "Languages::apply_for_vendor_account"
+msgid "Apply for a vendor account"
+msgstr "הגש בקשה לחשבון ספק"
+
+msgctxt "Languages::available_for_vendor"
+msgid "Available for vendor"
+msgstr "זמין עבור הספק"
+
+msgctxt "Languages::balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "היתרה תועבר"
+
+msgctxt "Languages::block_vendors"
+msgid "Vendors"
+msgstr "ספקים"
+
+msgctxt "Languages::charge_to_vendor_account"
+msgid "Charge to vendor account"
+msgstr "חייב את חשבון הספק"
+
+msgctxt "Languages::companies"
+msgid "Vendors"
+msgstr "ספקים"
+
+msgctxt "Languages::create_administrator_account"
+msgid "Create administrator account"
+msgstr "צור חשבון מנהל המערכת"
+
+msgctxt "Languages::displayed_vendors"
+msgid "Displayed vendors"
+msgstr "הספקים המוצגים"
+
+msgctxt "Languages::editing_vendor"
+msgid "Editing vendor"
+msgstr "עריכת ספק"
+
+msgctxt "Languages::error_admin_not_created_email_already_used"
+msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this vendor manually."
+msgstr "חשבון מנהל המערכת לא נוצר. כתובת דוא\"ל שייכת למשתמש אחר. באפשרותך להוסיף ידנית את המנהל עבור ספק זה."
+
+msgctxt "Languages::error_admin_not_created_name_already_used"
+msgid "Administrator account was not created. The user name belongs to another user. You should change the administrator account's name."
+msgstr "חשבון מנהל מערכת לא נוצר. שם המשתמש שייך למשתמש אחר. עליך לשנות את שם חשבון מנהל המערכת."
+
+msgctxt "Languages::error_vendor_exists"
+msgid "The vendor with e-mail you have chosen already exists, please try another."
+msgstr "הספק בעל דוא\"ל שבחרת כבר קיים, נסה אחר."
+
+msgctxt "Languages::expenditure"
+msgid "Expenditure"
+msgstr "הוצאות"
+
+msgctxt "Languages::income"
+msgid "Income"
+msgstr "הכנסות"
+
+msgctxt "Languages::manage_vendors"
+msgid "Manage vendors"
+msgstr "נהל ספקים"
+
+msgctxt "Languages::new_administrator_account_created"
+msgid "New administrator account has been successfully created."
+msgstr "חשבון מנהל מערכת נוצר בהצלחה."
+
+msgctxt "Languages::new_vendor"
+msgid "New vendor"
+msgstr "ספק חדש"
+
+msgctxt "Languages::notify_vendor"
+msgid "Notify vendor"
+msgstr "תודיע לספק"
+
+msgctxt "Languages::notify_vendors_by_email"
+msgid "Notify vendors by e-mail"
+msgstr "תודיע לספק באמצעות דואר אלקטרוני"
+
+msgctxt "Languages::privileges.manage_payouts"
+msgid "Can edit"
+msgstr "יכול לערוך"
+
+msgctxt "Languages::privileges.manage_vendors"
+msgid "Can edit"
+msgstr "יכול לערוך"
+
+msgctxt "Languages::privilege_groups.vendor_payouts"
+msgid "Accounting"
+msgstr "הנהלת חשבונות"
+
+msgctxt "Languages::privileges.view_payouts"
+msgid "Can view"
+msgstr "יכול לצפות"
+
+msgctxt "Languages::privileges.view_vendors"
+msgid "Can view"
+msgstr "יכול לצפות"
+
+msgctxt "Languages::privilege_sections.vendors"
+msgid "Vendors privileges"
+msgstr "הרשאות הספק"
+
+msgctxt "Languages::privilege_groups.vendors"
+msgid "Vendors"
+msgstr "ספקים"
+
+msgctxt "Languages::sales_period"
+msgid "Sales period"
+msgstr "תקופת המכירות"
+
+msgctxt "Languages::sales_period_total"
+msgid "Sales period total"
+msgstr "סה\"כ המכירות לתקופה"
+
+msgctxt "Languages::search_by_vendor"
+msgid "Search by vendor"
+msgstr "חיפוש לפי ספק"
+
+msgctxt "Languages::sort_by_company_asc"
+msgid "Sort by alphabetical: A to Z"
+msgstr "מיון אלפביתי: מ-א עד ת"
+
+msgctxt "Languages::sort_by_company_desc"
+msgid "Sort by alphabetical: Z to A"
+msgstr "מיון אלפביתי: מ-ת עד א"
+
+msgctxt "Languages::text_company_status_active_to_pending"
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr "סטטוס הספק שלך שונה מפעיל לממתין."
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr "סטטוס הספק שלך שונה ממושבת לממתין."
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr "סטטוס ממתין מאפשר לך להתחבר לפנל המנהל שלך, לשנות את מידע החברה שלך ולמלא את החנות שלך במוצרים."
+
+msgctxt "Languages::text_company_status_new_to_active"
+msgid "Your request for vendor [company] was approved."
+msgstr "בקשתך לספק [company] אושרה."
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_created"
+msgid "New administrator was created. You can access to the administrator area: <a href=\"[link]\">[link_text]</a> by using the following credentials:<br />Login: [login]<br />Password: [password]"
+msgstr "נוצר מנהל מערכת חדש. תוכל לגשת לאזור מנהל המערכת <a href=\"[link]\">[link_text]</a> על ידי שימוש בנתוני כניסה:<br />Login: [login]<br />Password: [password]"
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_updated"
+msgid "Type of your account [login] changed to administrator. You may login into the administrator area: <a href=\"[link]\">[link_text]</a>"
+msgstr "סוג החשבון שלך [login] השתנה לחשבון מנהל מערכת. תוכל להיכנס לאזור מנהל מערכת: <a href=\"[link]\">[link_text]</a>"
+
+msgctxt "Languages::text_company_status_new_to_active_subj"
+msgid "Your request for vendor was approved."
+msgstr "בקשתך לספק אושרה."
+
+msgctxt "Languages::text_company_status_new_to_disable"
+msgid "Your request for vendor [company] was rejected."
+msgstr "בקשתך לספק [company] נדחתה."
+
+msgctxt "Languages::text_company_status_new_to_disable_subj"
+msgid "Your request for vendor was rejected."
+msgstr "בקשתך לספק נדחתה."
+
+msgctxt "Languages::text_company_status_new_to_pending"
+msgid "Congratulations, your application for getting a vendor account has been approved. Once we review you accont information, we will publish it on our website."
+msgstr "ברכות, בקשתך לקבלת חשבון ספק אושרה. לאחר שנבדוק את מידע החשבון שלך, נפרסם אותו באתר שלנו."
+
+msgctxt "Languages::text_company_status_pending_subj"
+msgid "Your company is waiting for approval."
+msgstr "החברה שלך ממתינה לאישור."
+
+msgctxt "Languages::text_company_status_pending_to_active"
+msgid "Your profile changes for vendor [company] were approved."
+msgstr "שינויי הפרופיל שלך עבור הספק [company] אושרו."
+
+msgctxt "Languages::text_error_adding_request"
+msgid "Error while adding the request."
+msgstr "שגיאה בעת הוספת הבקשה."
+
+msgctxt "Languages::text_new_payment_was_created"
+msgid "New payment was created"
+msgstr "נוצר תשלום חדש"
+
+msgctxt "Languages::text_not_approved_vendors"
+msgid "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
+msgstr "יש לך ספקים שמחייבים את אישורך. <a href=\"[link]\">עבור לקישור הזה</a> כדי לעיין בספקים אלה."
+
+msgctxt "Languages::text_successful_request"
+msgid "Your request was successfully added. You will receive the email with the answer later."
+msgstr "בקשתך נוספה בהצלחה. תקבל הודעת דוא\"ל עם התשובה מאוחר יותר."
+
+msgctxt "Languages::total_amount_due"
+msgid "Total amount due"
+msgstr "הסכום הכולל לתשלום"
+
+msgctxt "Languages::total_period_payout"
+msgid "Total sales period payout"
+msgstr "סה\"כ תשלום עבור תקופת מכירות"
+
+msgctxt "Languages::total_unpaid_balance"
+msgid "Total unpaid balance"
+msgstr "סה\"כ יתרה שטרם שולמה"
+
+msgctxt "Languages::tt_views_payments_update_taxes"
+msgid "If payment surcharge is taken from vendors, taxes are not calculated"
+msgstr "אם נגבה תשלום נוסף (surcharge) מהספקים, מיסים אינם מחושבים"
+
+msgctxt "Languages::unable_delete_vendor_orders_exists"
+msgid "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
+msgstr "לא ניתן למחוק את חשבון הספק בגלל שקיימות הזמנות שכוללות מוצרים  של הספק הזה בבסיס נתונים של החנות. כדי למחוק את החשבון, מחק תחילה את כל ההזמנות האלה."
+
+msgctxt "Languages::vendor"
+msgid "Vendor"
+msgstr "ספק"
+
+msgctxt "Languages::vendors"
+msgid "Vendors"
+msgstr "ספקים"
+
+msgctxt "Languages::vendors_menu_title"
+msgid "Vendors"
+msgstr "ספקים"
+
+msgctxt "Languages::vendors_menu_description"
+msgid "Sorted list of vendor accounts registered in the store."
+msgstr "רשימה ממוינת של חשבונות הספקים הרשומים בחנות."
+
+msgctxt "Languages::vendor_account_balance"
+msgid "Account balance"
+msgstr "יתרת חשבון"
+
+msgctxt "Languages::vendor_approval_pending"
+msgid "New vendor account application"
+msgstr "בקשה לחשבון ספק חדש"
+
+msgctxt "Languages::vendor_id"
+msgid "Vendor ID"
+msgstr "מזהה הספק"
+
+msgctxt "Languages::vendor_name"
+msgid "Vendor name"
+msgstr "שם הספק"
+
+msgctxt "Languages::vendor_pages"
+msgid "Vendor pages"
+msgstr "דפי הספק"
+
+msgctxt "Languages::vendor_panel"
+msgid "Vendor panel"
+msgstr "פנל הספק"
+
+msgctxt "Languages::view_vendor_orders"
+msgid "View vendor orders"
+msgstr "צפה בהזמנות הספק"
+
+msgctxt "Languages::view_vendor_products"
+msgid "View vendor products"
+msgstr "צפה במוצרי הספק"
+
+msgctxt "Languages::view_vendor_users"
+msgid "View vendor users"
+msgstr "צפה במשתמשי הספק"
+
+msgctxt "Languages::view_vendor_admins"
+msgid "View vendor admins"
+msgstr "צפו במנהלי ספקים"
+
+msgctxt "Languages::you_can_edit_account_details"
+msgid "You can edit the account details now."
+msgstr "תוכל לערוך את פרטי החשבון כעת."
+
+msgctxt "SettingsSections::Vendors"
+msgid "Vendors"
+msgstr "ספקים"
+
+msgctxt "SettingsOptions::vendors_per_page"
+msgid "Vendors per page"
+msgstr "ספקים פר דף"
+
+msgctxt "SettingsOptions::apply_for_vendor"
+msgid "Allow users to apply for vendor account"
+msgstr "אפשר למשתמשים לפנות בבקשה לחשבון ספק"
+
+msgctxt "SettingsOptions::create_vendor_administrator_account"
+msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
+msgstr "צור אוטומטית חשבון מנהל מערכת עבור ספק חדש שאושר. (אם הגדרה \"אפשר למשתמשים לפנות בבקשה לחשבון ספק\" מופעלת)"
+
+msgctxt "SettingsOptions::display_vendor"
+msgid "Display product vendor"
+msgstr "הצג את מוצרי הספק"
+
+msgctxt "SettingsOptions::need_agree_with_terms_n_conditions"
+msgid "Applying vendors must agree to the terms & conditions"
+msgstr "ספקים המגישים בקשה חייבים להסכים לתנאי שימוש"
+
+msgctxt "SettingsOptions::mailer_send_from_admin"
+msgid "Send vendor emails from marketplace email addresses"
+msgstr "שלח הודעות דוא\"ל של ספקים מכתובות דוא\"ל של זירות מסחר"
+
+msgctxt "SettingsOptions::allow_vendor_manage_features"
+msgid "Allow vendors to manage product features"
+msgstr "אפשר לספקים לנהל את תכונות המוצר"
+
+msgctxt "SettingsTooltips::need_agree_with_terms_n_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"vendor_terms_n_conditions_content\" language variable."
+msgstr "הטקסט של תנאי שימוש יילקח מתוך \"vendor_terms_n_conditions_content\" משתנה שפה."
+
+msgctxt "Languages::use_for_apply_for_vendor_account"
+msgid "Apply for a vendor account form"
+msgstr "בקש את טופס חשבון ספק"
+
+msgctxt "Languages::block_vendor_categories"
+msgid "Vendor categories"
+msgstr "קטגוריות הספקים"
+
+msgctxt "Languages::block_vendor_categories_description"
+msgid "Product categories available to a particular vendor"
+msgstr "קטגוריות מוצרים הזמינות לספק מסוים"
+
+msgctxt "Languages::block_vendor_information"
+msgid "Vendor information"
+msgstr "מידע הספקים"
+
+msgctxt "Languages::block_vendor_logo"
+msgid "Vendor logo"
+msgstr "לוגו של הספק"
+
+msgctxt "Languages::show_location"
+msgid "Show location"
+msgstr "הצג מיקום"
+
+msgctxt "Languages::show_products_count"
+msgid "Show products count"
+msgstr "הצג את ספירת המוצרים"
+
+msgctxt "Languages::block_vendor_search"
+msgid "Search by vendor products"
+msgstr "חפש לפי מוצרי הספק"
+
+msgctxt "Languages::vendor_filters"
+msgid "Vendor Product filters"
+msgstr "מסננים של מוצרי הספק"
+
+msgctxt "Languages::vendor_products"
+msgid "Vendor products"
+msgstr "מוצרי ספקים"
+
+msgctxt "Languages::apply_shipping_for_all_vendors"
+msgid "Allow shipping for all vendors"
+msgstr "אפשר משלוח לכל הספקים"
+
+msgctxt "Languages::apply_shipping_for_all_vendors_confirm"
+msgid "The shipping method will be applied to all the vendors. Are you sure you want to proceed?"
+msgstr "שיטת משלוח תחול על כל הספקים. האם אתה בטוח שברצונך להמשיך?"
+
+msgctxt "Languages::shipping_applied_to_vendors"
+msgid "The shipping method was applied to [vendors] vendors"
+msgstr "שיטת משלוח חלה על[vendors] ספקים"
+
+msgctxt "Languages::block_vendor_filters"
+msgid "Vendor filters"
+msgstr "מסנני הספקים"
+
+msgctxt "Languages::email_template.apply_for_vendor_notification"
+msgid "Apply for vendor"
+msgstr "הקש בקשה לספק"
+
+msgctxt "Languages::email_template.company_status_notification"
+msgid "Company status change"
+msgstr "שינוי סטטוס החברה"
+
+msgctxt "Languages::email_template.company_payment_notification"
+msgid "Company payment"
+msgstr "תשלום החברה"
+
+msgctxt "Languages::email_template.vendor_invitation"
+msgid "Vendor invitation"
+msgstr "הזמנת הספק"
+
+msgctxt "Languages::vendor_invitation_email_subject"
+msgid "Come Sell With [default_company_name]"
+msgstr "בוא למכור עם [default_company_name]"
+
+msgctxt "Languages::vendor_invitation_email_body"
+msgid "<p>Hello,</p><br/><p>We'd like to invite you to <a href=\"[create_account_url]\">create an account</a> with [default_company_name].  You'll be able to expand your client base by listing your products on our platform and selling them to our visitors.</p><br/><p>Best regards,</p><p>[default_company_name] team</p>"
+msgstr "<p>שלום, </p><br/><p>אנו רוצים להזמין אותך <a href=\"[create_account_url]\">ליצור חשבון </a> ב- [default_company_name]. תוכל להרחיב את בסיס הלקוחות שלך באמצעות הצגת המוצרים שלך בפלטפורמה שלנו ומכירתם למבקרים שלנו.</p><br/><p>בברכה,</p>[default_company_name] team</p>"
+
+msgctxt "Languages::vendor_terms_n_conditions"
+msgid "I accept the [terms_href]"
+msgstr "אני מקבל את [terms_href]"
+
+msgctxt "Languages::vendor_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "תנאי שימוש"
+
+msgctxt "Languages::vendor_terms_n_conditions_alert"
+msgid "In order to proceed, you need to accept our Terms and Conditions."
+msgstr "כדי להמשיך, עליך להסכים לתנאי השימוש."
+
+msgctxt "Languages::vendor_terms_n_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>קרא את תנאי השימוש האלה (\"תנאים\", \"תנאי השימוש\") בעיון לפני השימוש ב<a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> באתר ובאפליקציה לטלפונים ניידים My Mobile App (\"השירות\" המופעלת על ידי החברה שלנו ( \"אותנו\",\"אנחנו\", או \"שלנו\").</p><p><strong> על ידי גישה או שימוש בשירות אתה מסכים להיות כפוף לתנאים אלה. אם אתה לא מסכים לחלק מהתנאים, אתה לא רשאי לגשת לשירות.</p><p><strong>רכישות</p><p><strong>אם תרצה לרכוש מוצר או שירות הנמכר באמצעות השירות (\"רכישה\"), יתכן ותתבקש לספק מידע מסוים הרלוונטי לרכישתך, לרבות, אך לא מוגבל ל...שלך</p><p><strong>תוכן</p><p><strong>השירות שלנו מאפשר לך לפרסם הודעות, קישורים, לאחסן ולשתף ובאופן אחר להגיש מידע מסוים, טקסטים, גרפיקה, וידאו או חומר אחר (\"תוכן\"). אתה אחראי עבור ה...</p><p><strong>שינויים</p><p><strong>אנו שומרים לעצמנו את הזכות, לפי שיקול דעתנו בלבד, לשנות או להחליף את התנאים האלה בכל עת. אם השינוי מהותי, נשתדל לספק התראה לפחות 30 ימים מראש לפני שתנאים החדשים יכנסו לתוקף. מה מהווה שינוי מהותי ייקבע לפי שיקול הבלעדי שלנו.</p><p><strong>צור קשר איתנו</p><p><strong>אם יש לך שאלה כלשהי לגבי התנאים האלה, צור אתנו קשר. </p>"
+
+msgctxt "Languages::mve_ultimate_or_plus_license_required"
+msgid "This action requires [product] Ultimate or [product] Plus"
+msgstr "פעולה זו מחייבת [product] Ultimate או [product] Plus"
+
+msgctxt "Languages::mve_ultimate_license_required"
+msgid "[product] Ultimate is required for this"
+msgstr "[product] Ultimate נדרש לצרוך זה"
+
+msgctxt "Languages::text_mve_ultimate_or_plus_license_required"
+msgid "This action requires [product] Ultimate or [product] Plus. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> or <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>, you'll get access to all their features."
+msgstr "פעולה זו מחייבת product] Ultimate או [product] Plus. אם תעבור ל <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> או <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>, תקבל גישה לכל התכונות שלהם."
+
+msgctxt "Languages::max_storefronts_reached"
+msgid "<p>You have reached the limit of storefronts available for your license. Adding another storefront requires buying a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, an edition with an unlimited number of storefronts.</p>"
+msgstr "<p>הגעת למספר מקסימלי של חזיתות החנות הזמינות לפי הרישיון שלך. הוספת חזית חנות נוספת מחייבת רכישה של <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, גירסה עם מספר בלתי מוגבל של חזיתות חנות.</p>"
+
+msgctxt "Languages::mve_plus_license"
+msgid "[product] Plus"
+msgstr "[product] פלוס"
+
+msgctxt "Languages::mve_ultimate_license"
+msgid "[product] Ultimate"
+msgstr "[product] אולטימטיבי"
+
+msgctxt "Languages::text_mve_plus_license_required"
+msgid "<p>Let your vendors receive money from customers directly via your marketplace.</p><p>Manage vendors' abilities via user groups, and allow your vendors to change the looks of their stores.</p><p>Create a unified catalog, where vendors can start selling any product in a matter of minutes.</p>"
+msgstr "<p>אפשר לספקים שלך לקבל כספים ישירות מהלקוחות באמצעות זירת המסחר שלך.</p><p>נהל את יכולות הספקים באמצעות קבוצות משתמשים ואפשר לספקים שלך לשנות את המראה של החנויות שלהם.</p><p>צור קטלוג מאוחד, בו הספקים יכולים להתחיל למכור כל מוצר תוך דקות.</p>"
+
+msgctxt "Languages::text_mve_ultimate_license_required"
+msgid "<p>Branch out: get an unlimited number of storefronts for your marketplace.</p><p>A storefront is another domain created either for a specific country or city, or for a specific part of your product catalog.</p><p>Get all the other functionality of [product] Plus.</p>"
+msgstr "<p>התרחב: קבל מספר בלתי מוגבל של לחזיתות חנות עבור אתר המכירות שלך.</p><p>חזית חנות היא דומיין נוסף שנוצר עבור מדינה או עיר מסוימת או עבור חלק ספציפי של קטלוג המוצרים שלך.</p><p>קבל את כל שאר התפקודים של [product]פלוס.</p>"
+
+msgctxt "Languages::text_mve_ultimate_license"
+msgid "A special edition of [product] that offers all the features of [product] Plus and an unlimited number of storefronts. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, you'll never see the message about the storefront limit again."
+msgstr "הוצאה מיוחדת של [product] שמציעה את כל התכונות של [product] פלוס ומספר בלתי מוגבל של חזיתות חנות. אם תעבור ל-<a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>,לא תראה יותר את ההודעה על מגבלה של חזיתות חנות שוב."
+
+msgctxt "Languages::product_state_description.mve.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>גישה בלתי מוגבלת לכל התכונות. להפעלה הכנס את מספר רישיון תקף<p><p>ניתן להפעיל מצב זה בכל עת.</p><br />"
+
+msgctxt "Languages::product_state_description.mve"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr "<p>הפעלת את ה[product] שלך. תוכל להשתמש בו כעת ללא הגבלת זמן. עבור תכונות מתקדמות (כגון קופה נפרדת לכל ספק ומבצעים שנוצרו על ידי הספקים) השג רישיון <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a> כדי להשתמש בדומיינים מרובים עבור זירת המסחר שלך, השג את רישיון <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate.</a></p><br>"
+
+msgctxt "Languages::product_state_description.mve.plus"
+msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
+msgstr "גישה לכל התפקודים, מלבד חזיתות חנות מרובות. כדי לקבל דומיינים עבור קהלים ספציפיים, השג <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] רישיון Ultimate. </a></p><br />"
+
+msgctxt "Languages::product_state_description.mve.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>גישה מלאה ובלתי מוגבלת לכל התכונות. הכנס מספר רישיון תקף כדי להפעיל. </p><p>ניתן להפעיל מצב זה בכל עת.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p> <br />"
+msgstr "<p>גישה מלאה ובלתי מוגבלת לכל התכונות. הכנס מספר רישיון תקף כדי להפעיל.</p><p>ניתן להפעיל מצב זה בכל עת.</p> <br />"
+
+msgctxt "Languages::product_state_description.mve.ru"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr "<p>הפעלת את ה[product] שלך. תוכל להשתמש בו כעת ללא הגבלת זמן. עבור תכונות מתקדמות (כגון קופה נפרדת לכל ספק ומבצעים שנוצרו על ידי הספקים) השג רישיון <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a> כדי להשתמש בדומיינים מרובים עבור זירת המסחר שלך, השג את רישיון <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate.</a></p><br>"
+
+msgctxt "Languages::product_state_description.mve.ru.plus"
+msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
+msgstr "<p>גישה לכל התפקודים, מלבד חזיתות חנות מרובות. כדי לקבל דומיינים עבור קהלים ספציפיים, השג <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] רישיון Ultimate. </a></p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>גישה מלאה ובלתי מוגבלת לכל התכונות. הכנס מספר רישיון תקף כדי להפעיל. </p><p>ניתן להפעיל מצב זה בכל עת.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
+msgstr "לחנות שלך רישיון פעיל כעת. עם  [product] הגרסה תקבל כמעט את כל התכונות שאנו מציעים. התכונות הנוספות (כגון קופה נפרדת עבור כל מוכר, ומבצעים שנוצרו על ידי הספקים) זמינות עם הגרסה<a href=\"[mve_plus_license_url]\" target=\"_blank\"> [product] Plus בלבד. קיימת גרסה אף עוד יותר מתקדמת, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, המאפשרת לך להשתמש בחזיתות חנות מרובות עבור קהלים שונים."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.plus"
+msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+msgstr "<strong>מצב Plus</strong>הופעל. מצב זה מציע את כל התכונות המתקדמות של eCommerce, מלבד חזיתות חנות. אם אתר המכירות שלך יצטרך דומיינים נפרדים לקהלים שונים, שדרג את הרישיון שלך ל<a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ultimate"
+msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>מצב Ultimate </strong>הופעל. במצב זה כל התכונות המתקדמות של eCommerce זמינות."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
+msgstr "החנות שלך משתמשת כעת ברישיון הפעיל. עם מהדורת [המוצר] אתה מקבל כמעט את כל התכונות שאנו מציעים. התכונות הנוספות (כגון קופה נפרדת עבור כל ספק וקידומי מכירות שנוצרו על ידי ספק) זמינות באמצעות <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] מהדורת פלוס</a>.יש מהדורה מתקדמת עוד יותר, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] אולטימטיבי</a>, המאפשרת לך להשתמש במספר פתרונות אחסון עבור קהלים שונים."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.plus"
+msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+msgstr "<strong>מצב פלאס</strong>הופעל. מצב זה מציע את כל התכונות המתקדמות של eCommerce, מלבד חזיתות חנות. אם אתר המכירות שלך יצטרך דומיינים נפרדים לקהלים שונים, שדרג את הרישיון שלך ל<a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] אולטימטיבי</a>."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.ultimate"
+msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>מצב Ultimate </strong>הופעל. במצב זה כל התכונות המתקדמות של eCommerce זמינות."
+
+msgctxt "Languages::store_mode.plus"
+msgid "Plus"
+msgstr "פלוס"
+
+msgctxt "Languages::vendor_payouts.type"
+msgid "Type"
+msgstr "סוג"
+
+msgctxt "Languages::vendor_payouts.type.other"
+msgid "Other"
+msgstr "אחר"
+
+msgctxt "Languages::vendor_payouts.type.other.description"
+msgid "Other"
+msgstr "אחר"
+
+msgctxt "Languages::vendor_payouts.type.order_placed"
+msgid "Order placed"
+msgstr "ההזמנה בוצעה"
+
+msgctxt "Languages::vendor_payouts.type.order_placed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> placed"
+msgstr "הזמנה <a href=\"[order_url]\">#[order_id]</a> בוצעה"
+
+msgctxt "Languages::vendor_payouts.type.order_changed"
+msgid "Order changed"
+msgstr "ההזמנה שונתה"
+
+msgctxt "Languages::vendor_payouts.type.order_changed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> changed"
+msgstr "הזמנה<a href=\"[order_url]\">#[order_id]</a> שונתה"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded"
+msgid "Order refunded"
+msgstr "ההזמנה זוכתה"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> refunded"
+msgstr "הזמנה <a href=\"[order_url]\">#[order_id]</a>זוכתה"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal"
+msgid "Withdrawal"
+msgstr "משיכה"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal.description"
+msgid "Withdrawal"
+msgstr "משיכה"
+
+msgctxt "Languages::vendor_payouts.type.payout"
+msgid "Payout"
+msgstr "תשלום"
+
+msgctxt "Languages::vendor_payouts.type.payout.description"
+msgid "Payout"
+msgstr "תשלום"
+
+msgctxt "Languages::vendor_payouts.transactions"
+msgid "Transactions"
+msgstr "עסקאות"
+
+msgctxt "Languages::vendor_payouts.withdrawals"
+msgid "Balance withdrawals"
+msgstr "משיכות יתרה"
+
+msgctxt "Languages::vendor_payouts.transaction_value"
+msgid "Transaction value"
+msgstr "ערך עסקה"
+
+msgctxt "Languages::vendor_payouts.income"
+msgid "Income"
+msgstr "הכנסה"
+
+msgctxt "Languages::vendor_payouts.income_carried_forward"
+msgid "Income carried forward"
+msgstr "הכנסה מועברת הלאה"
+
+msgctxt "Languages::vendor_payouts.balance"
+msgid "Balance"
+msgstr "יתרה"
+
+msgctxt "Languages::vendor_payouts.balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "יתרה מועברת הלאה"
+
+msgctxt "Languages::add_withdrawal"
+msgid "Request withdrawal"
+msgstr "בקשת משיכה"
+
+msgctxt "Languages::new_withdrawal"
+msgid "New withdrawal"
+msgstr "משיכה חדשה"
+
+msgctxt "Languages::vendor_accounting"
+msgid "Accounting"
+msgstr "הנהלת חשבונות"
+
+msgctxt "Languages::vendor_accounting_menu_description"
+msgid "Income and expenditure statistics (total income, vendor balance, vendor withdrawals)."
+msgstr "סטטיסטיקת הכנסות והוצאות (הכנסה כוללת, יתרת ספק, משיכות ספק)."
+
+msgctxt "Languages::vendor_payouts.current_balance"
+msgid "Current balance: [balance]"
+msgstr "יתרה נוכחית: [balance]"
+
+msgctxt "Languages::vendor_payouts.current_balance_text"
+msgid "Current balance"
+msgstr "יתרה נוכחית"
+
+msgctxt "Languages::vendor_payouts.approval_status"
+msgid "Approval status"
+msgstr "סטטוס האישור"
+
+msgctxt "Languages::vendor_payouts.approval_status.P"
+msgid "Pending"
+msgstr "ממתין"
+
+msgctxt "Languages::vendor_payouts.approval_status.C"
+msgid "Completed"
+msgstr "הושלם"
+
+msgctxt "Languages::vendor_payouts.approval_status.D"
+msgid "Declined"
+msgstr "נדחה"
+
+msgctxt "Languages::email_template.accounting_new_payout"
+msgid "Accounting: Payout has been issued"
+msgstr "הנהלת חשבונות: התשלום בוצע"
+
+msgctxt "Languages::vendor_payouts.new_payout_issued"
+msgid "New payout has been issued"
+msgstr "בוצע תשלום חדש"
+
+msgctxt "Languages::vendor_payouts.new_payout_issued_text"
+msgid "A new payout of [amount] has been issued by [issuer]"
+msgstr "תשלום חדש בסך [amount] בוצע על ידי [issuer]"
+
+msgctxt "Languages::vendor_payouts.view_details"
+msgid "You can view the details here"
+msgstr "תוכל לצפות בפרטים כאן"
+
+msgctxt "Languages::vendor_payouts.payout_comments"
+msgid "Payout comments"
+msgstr "הערות לתשלום"
+
+msgctxt "Languages::email_template.accounting_new_withdrawal"
+msgid "Accounting: Withdrawal has been requested"
+msgstr "הנהלת חשבונות: הוגשה בקשה למשיכה"
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested"
+msgid "New withdrawal has been requested"
+msgstr "הוגשה בקשה למשיכה חדשה"
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested_text"
+msgid "A new withdrawal of [amount] has been requested by [requester]"
+msgstr "הוגשה בקשה על ידי [requester] למשיכה חדשה בסך [amount]"
+
+msgctxt "Languages::vendor_payouts.withdrawal_comments"
+msgid "Withdrawal comments"
+msgstr "הערות למשיכה"
+
+msgctxt "Languages::email_template.accounting_payout_approved"
+msgid "Accounting: Payout has been completed"
+msgstr "הנהלת חשבונות: התשלום הושלם"
+
+msgctxt "Languages::vendor_payouts.payout_approved"
+msgid "Payout has been completed"
+msgstr "התשלום הושלם"
+
+msgctxt "Languages::vendor_payouts.payout_approved_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Completed</b>"
+msgstr "תשלום בסך [amount] שבוצע ב [date] סומן בתור<b> הושלם<b>"
+
+msgctxt "Languages::email_template.accounting_payout_declined"
+msgid "Accounting: Payout hasn't been completed"
+msgstr "הנהלת חשבונות: התשלום לא הושלם"
+
+msgctxt "Languages::vendor_payouts.payout_declined"
+msgid "Payout hasn't been completed"
+msgstr "התשלום לא הושלם"
+
+msgctxt "Languages::vendor_payouts.payout_declined_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Not completed</b>"
+msgstr "תשלום בסך [amount] שבוצע בתאריך [date] סומן בתור <b>לא הושלם<b>"
+
+msgctxt "Languages::email_template.accounting_withdrawal_approved"
+msgid "Accounting: Withdrawal has been completed"
+msgstr "הנהלת חשבונות: המשיכה הושלמה"
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved"
+msgid "Withdrawal has been completed"
+msgstr "המשיכה הושלמה"
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Completed</b>"
+msgstr "משיכה בסך [amount] שהתבקשה ב [date] סומנה בתור <b>הושלמה</b>"
+
+msgctxt "Languages::email_template.accounting_withdrawal_declined"
+msgid "Accounting: Withdrawal has been declined"
+msgstr "הנהלת חשבונות: המשיכה נדחתה"
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined"
+msgid "Withdrawal has been declined"
+msgstr "המשיכה נדחתה"
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Declined</b>"
+msgstr "המשיכה בסך [amount] שהתבקשה ב[date] סומנה בתור<b>נדחתה<b>"
+
+msgctxt "Languages::top_sellers"
+msgid "Top sellers"
+msgstr "הנמכרים ביותר"
+
+msgctxt "SettingsOptions::can_edit_blocks"
+msgid "Allow vendors to edit layouts"
+msgstr "אפשר לספקים לערוך את הפריסות"
+
+msgctxt "Languages::mve.container_not_used"
+msgid "This container currently has default configuration. It looks exactly like the store owner configured it. Vendors can use custom configuration to change the blocks in this container."
+msgstr "המיכל (container) כעת הוא בעל תצורה של ברירת מחדל. הוא נראה בדיוק כפי שבעל החנות הגדיר אותו. הספקים יכולים להשתמש בתצורה מותאמת אישית כדי לשנות את הבלוקים במיכל זה."
+
+msgctxt "SettingsOptions::can_edit_styles"
+msgid "Allow vendors to manage styles of the theme"
+msgstr "אפשר לספקים לנהל את סגנונות הנושא"
+
+msgctxt "Languages::theme_editor.page_cant_be_configured"
+msgid "The appearance of this page can't be configured with the Theme editor."
+msgstr "לא ניתן לערוך את המראה של דף זה באמצעות עורך נושאים."
+
+msgctxt "Languages::error_admin_registers_as_vendor"
+msgid "You can't become a vendor because you are currently signed in as an administrator. Please sign out and resubmit the form. <p><a class=\"ty-btn ty-btn__secondary\" href=\"[sign_out_link]\">Sign out</a></p>"
+msgstr "אינך יכול להפוך לספק מכיוון שאתה מחובר כרגע כמנהל. אנא צא והגש את הטופס מחדש. <p style=\";text-align:right;direction:rtl\"> <a class=\"ty-btn ty-btn__secondary\" href=\"[sign_out_link]\">התנתק</a> </p>"
+
+msgctxt "Languages::logo_for_the_customer_area"
+msgid "Logo for the customer area"
+msgstr "לוגו עבור אזור לקוחות"
+
+msgctxt "Languages::logo_for_invoices"
+msgid "Logo for invoices"
+msgstr "לוגו עבור חשבוניות"
+
+msgctxt "Languages::vendor_language"
+msgid "Vendor language"
+msgstr "שפת הספק"
+
+msgctxt "Languages::zipcode"
+msgid "Zipcode"
+msgstr "מיקוד"
+
+msgctxt "Languages::vendors_statistics"
+msgid "Vendor's statistics"
+msgstr "נתונים סטטיסטיים של הספק"
+
+msgctxt "Languages::vendors_activity"
+msgid "Vendor activity in the selected period"
+msgstr "פעילות הספק בתקופה מסוימת"
+
+msgctxt "Languages::vendors_activity.vendors_with_sales"
+msgid "Vendors with sales"
+msgstr "ספקים עם המכירות"
+
+msgctxt "Languages::vendors_activity.new_vendors"
+msgid "New vendors"
+msgstr "ספקים חדשים"
+
+msgctxt "Languages::vendors_activity.vendors_with_new_products"
+msgid "Vendors with new products"
+msgstr "ספק עם המוצרים החדשים"
+
+msgctxt "Languages::vendors_activity.not_logged_in_vendors"
+msgid "Vendors who haven't signed in"
+msgstr "ספקים שלא התחברו"
+
+msgctxt "Languages::vendors_activity.new_products"
+msgid "New products"
+msgstr "מוצרים חדשים"
+
+msgctxt "Languages::vendors_activity.orders_created"
+msgid "Orders created"
+msgstr "הזמנות שנוצרו"
+
+msgctxt "Languages::vendor_names"
+msgid "Vendor names"
+msgstr "שמות ספקים"
+
+msgctxt "Languages::vendor_logos_and_product_count"
+msgid "Vendor logos and product count"
+msgstr "לוגואים של הספקים ווספירת המוצרים"
+
+msgctxt "Languages::invite_vendors"
+msgid "Invite vendors"
+msgstr "הזמן ספקים"
+
+msgctxt "Languages::invite_vendors_title"
+msgid "Invite people to register as vendors in your marketplace"
+msgstr "הזמן אנשים שיירשמו בתור ספקים בזירת המסחר שלך"
+
+msgctxt "Languages::invite_vendors_enter_emails"
+msgid "Emails where to send invitations"
+msgstr "כתובות דוא\"ל למשלוח הזמנות (invitations)"
+
+msgctxt "Languages::separate_multiple_email_addresses"
+msgid "If you enter multiple emails, write each of them in a new line."
+msgstr "אם ברצונך לרשום מספר כתובות דוא\"ל, רשום כל אחת מהן בשורה חדשה."
+
+msgctxt "Languages::send_invitations"
+msgid "Invite"
+msgstr "הזמן (Invite)"
+
+msgctxt "Languages::pending_vendor_invitations"
+msgid "Pending vendor invitations"
+msgstr "ממתין להזמנות (invitations) ספק"
+
+msgctxt "Languages::pending_vendor_invitations_menu_description"
+msgid "Manage invitations to your marketplace for potential vendors."
+msgstr "נהל הזמנות ספקים פוטנציאליים לזירת המסחר שלך."
+
+msgctxt "Languages::vendor_invited_at"
+msgid "Date sent"
+msgstr "תאריך משלוח"
+
+msgctxt "Languages::vendor_invitations_sent_notification"
+msgid "Invitations sent: [sent_quantity]"
+msgstr "הזמנות (Invitations) נשלחו: [sent_quantity]"
+
+msgctxt "Languages::vendor_invitations_fail_notification"
+msgid "Invitations not sent: [failed_quantity]<br/><b>[emails_list]</b><br/>An invitation won't be sent if it has already been sent to that email address before. But if none of your invitations are being sent, and you haven't sent invitations to those addresses before, please make sure that [product] can send any emails at all. If it can't, then the problem is related to [product] or server configuration. In that case, please contact your server administrator, hosting provider, or <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">our technical support</a> to investigate."
+msgstr "הזמנות (Invitations) לא נשלחו: [failed_quantity]<br/><b>[emails_list]</b><br/>הזמנה לא תישלח אם היא כבר נשלחה לכתובת דוא\"ל זה בעבר. אך אם כל ההזמנות שלך לא נשלחו ולא שלחת הזמנות לכתובות אלה קודם, וודא ש [product] הזה יכול לשלוח הזמנות בכלל. אם הוא לא יכול, אז קיימת בעיה הקשורה לתצורת [product] או שרת. במקרה זה, צור קשר עם מנהל השרת שלך, ספק אירוח, או <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\"> תמיכה טכנית שלנו </a>כדי לברר את העניין."
+
+msgctxt "Languages::vendor_edit_invitation_email_template"
+msgid "<a href=\"[url]\">Edit vendor invitation email template</a>"
+msgstr "<a href=\"[url]\">ערוך את תבנית הזמנת ספק בדוא\"ל</a>"
+
+msgctxt "Languages::all_companies"
+msgid "All vendors"
+msgstr "כל הספקים"
+
+msgctxt "Languages::is_default_storefront"
+msgid "Default storefront"
+msgstr "חזית חנות של ברירת מחדל"
+
+msgctxt "Languages::default_storefront_must_exist"
+msgid "Default storefront must exist in the store"
+msgstr "חזית החנות של ברירת מחדל חייבת להתקיים בחנות"
+
+msgctxt "Languages::cant_remove_default_storefront"
+msgid "Default storefront <b>[url]</b> can't be removed"
+msgstr "לא ניתן להסיר את חזית החנות של ברירת מחדל b>[url]</b>"
+
+msgctxt "Languages::copy_theme_from_another_storefront"
+msgid "Copy theme and its layouts from another storefront"
+msgstr "העתק את הנושא ואת הפריסות שלו מחזית חנות אחרת"
+
+msgctxt "Languages::n_vendors"
+msgid "[n] vendor|[n] vendors"
+msgstr "[n] ספק|[n] ספקים"
+
+msgctxt "Languages::event.vendors_require_approval.name"
+msgid "Vendors require approval"
+msgstr "ספקים דורשים אישור"
+
+msgctxt "Languages::event.vendors_require_approval.title"
+msgid "Some vendors are pending approval"
+msgstr "חלק מהספקים ממתינים לאישור"
+
+msgctxt "Languages::event.vendor_status_changed.name"
+msgid "Vendor status changed to [status]"
+msgstr "סטטוס הספק השתנה ל [סטטוס]"
+
+msgctxt "Languages::event.vendor_status_changed_from.name"
+msgid "Vendor status changed from [status]"
+msgstr "סטטוס הספק השתנה מ- [סטטוס]"
+
+msgctxt "Languages::email_template.company_status_suspended_notification"
+msgid "Company status change to Suspended"
+msgstr "שינוי סטטוס החברה למושעה"
+
+msgctxt "Languages::event.vendor_status_changed.title"
+msgid "Your status has been changed to [status]"
+msgstr "הסטטוס שלך השתנה ל [סטטוס]"
+
+msgctxt "Languages::event.vendor_status_changed.active.message"
+msgid "All your active products will now appear in the store"
+msgstr "כל המוצרים הפעילים שלך יופיעו כעת בחנות"
+
+msgctxt "Languages::event.vendor_status_changed.pending.message"
+msgid "You can work with the admin panel and manage your products, but they won't appear to customers until your status changes to Active."
+msgstr "אתה יכול לעבוד עם לוח הניהול ולנהל את המוצרים שלך, אך הם לא יופיעו בפני לקוחות עד שהסטטוס שלך ישתנה לפעיל."
+
+msgctxt "Languages::vendor_notifications"
+msgid "Vendor notifications"
+msgstr "התראות של ספק"
+
+msgctxt "Languages::log_in_as_vendor"
+msgid "Log in as vendor"
+msgstr "להתחבר כספק"
+
+msgctxt "Languages::vendor_owner"
+msgid "Vendor's main administrator"
+msgstr "המנהל הראשי של הספק"
+
+msgctxt "Languages::owner_company"
+msgid "Vendor"
+msgstr "ספק"
+
+msgctxt "Languages::block_manager.dynamic_entity_companies"
+msgid "vendor"
+msgstr "ספק"
+
+msgctxt "Languages::vendor_features_only"
+msgid "Features created by vendors"
+msgstr "תכונות שנוצרו על ידי ספקים"
+
+msgctxt "Languages::any_vendor"
+msgid "Any vendor"
+msgstr "כל ספק"
+
+msgctxt "Languages::event.apply_for_vendor_notification.name"
+msgid "New vendor account application"
+msgstr "יישום חשבון ספק חדש"
+
+msgctxt "Languages::suspend_alert"
+msgid "<p>Your account is suspended. To lift the suspension, please contact us.</p>"
+msgstr "<p> חשבונך מושעה. לביטול ההשעיה, אנא צרו איתנו קשר. </p>"
+
+msgctxt "Languages::event.vendor_status_changed.suspended.title"
+msgid "Your account is suspended"
+msgstr "חשבונך מושעה"
+
+msgctxt "Languages::event.vendor_status_changed.suspended.message"
+msgid "To lift the suspension, please contact us."
+msgstr "לביטול ההשעיה, אנא צרו איתנו קשר."
+
+msgctxt "Languages::text_company_status_suspended_subj"
+msgid "Your account is suspended"
+msgstr "חשבונך מושעה"
+
+msgctxt "Languages::logo_section.vendor"
+msgid "Default logo for new vendors"
+msgstr "לוגו ברירת מחדל לספקים חדשים"
+
+msgctxt "ProfileFields::tax_number"
+msgid "Tax number"
+msgstr ""
+
+msgctxt "Languages::tax_number"
+msgid "Tax number"
+msgstr ""
+
+msgctxt "Languages::text_sent_an_email_access_information"
+msgid "We've sent you an email with access information."
+msgstr ""
+
+msgctxt "Languages::update_notification.approve_vendors_notification_title"
+msgid "Simplified vendor approval flow"
+msgstr ""
+
+msgctxt "Languages::update_notification.approve_vendors_notification"
+msgid "<p>Previously, administrators had to check each and every vendor that registered in the marketplace. They manually approved those vendors to make them appear on the storefront and/or grant them access to the admin panel. There was no way for a vendor to start working in the marketplace (at least in the admin panel) immediately after registration.</p><p>Now vendors get access to the admin panel immediately after registration, as long as you allow automatic creation of administrator accounts for them. By default, vendors still require approval before they and their products appear on the storefront. But you can lift that restriction in the settings of the \"Vendor data premoderation\" add-on.</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">View moderation settings</a></p>"
+msgstr ""
+

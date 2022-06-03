@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.13.2/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 4578\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "Підтримка HiDPI"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "Підтримка дисплеїв Retina"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "Загальні"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Вважати всі завантажені зображення HiDPI"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Вважати всі завантажені зображення HiDPI"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "Втановіть галочку \"Я завантажую HiDPI зображення\"за замовчуванням скрізь, де завантажуються зображення. Ви зможете зняти галочки коли це буде необхідно."
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "Увімкнуто підтримку HiDPI"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "Я завантажую HiDPI зображення."
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "Якщо галочку встановлено, вихідне зображення буде показано зменшеним вдвsічі. Цей параметр впливає тільки на відображення вихідного зображення, а не на його ескіз. Якщо ви хочете, щоб зображення відображалося у вихідному розмірі, зніміть цей прапорець."
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "Відновлення зображення"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "Попередня версія \"підтримки дисплея HiDPI\" зменшила завантажені зображення. Тепер в цьому нема потреби. Але для того, щоб ваші зображення виглядали гарно та різко, потрібно натиснути \"Відновлення\"."
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "Відновити"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong>Увага!</strong> Ця процедура незворотня: коли ви відкотите оновлення, відновлені зображення не будуе повернуто. Тому, будь ласка, обов'язково виконайте резервну копію. Процедура може зайняти певний час, це залежить від кількості зображень у вашому магазині."
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_title"
+msgid "Make sure your images look good."
+msgstr "Переконайтеся, що зображення виглядають добре."
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "Деякі зі старих зображень у вашому магазині мають низьку якість. Щоб використовувати найвищу якість, <a href=\"[convert_url]\">відновіть зображення високої якості</a>. Процес виконується автоматично."
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_text"
+msgid "<p>The previous version of the <b>[addon_name]</b> add-on shrank the uploaded images. We improved the add-on, so there is no need for that now. However, the existing images remain shrunk and don’t look good.</p><p>We can make your existing images look nice and sharp, but that procedure will take some time. That’s why we need you to start it.</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Make image look good</a></p>"
+msgstr "<p>У минулій версії модуль <b>[addon_name]</b> зменшував якість завантажених зображень для пристроїв без HiDPI-дисплеїв. Ми поліпшили модуль, і тепер це не потрібно. Однак існуючі зображення все ще залишилися не в кращій якості.</p><p>Ми можемо зробити так, щоб всі старі зображення виглядали максимально добре, але процес займе деякий час. Тому запустити його ми просимо вас. </p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Поліпшити старі неякісні зображення</a></p>"
+

@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /release-4.13.2/addons/searchanise.po\n"
+"X-Crowdin-File-ID: 4640\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::searchanise"
+msgid "Searchanise"
+msgstr "Herramienta de búsqueda y venta de productos"
+
+msgctxt "Addons::description::searchanise"
+msgid "Turns on the <a target=\"_blank\" href=\"http://searchanise.com/\">Searchanise</a> fast search service"
+msgstr "Se convierte en el servicio de búsqueda rápido <a target=\"_blank\" href=\"http://searchanise.com/\">Searchanise</a>"
+
+msgctxt "Languages::searchanise_menu_description"
+msgid "Manage search settings, customize view and merchandise products."
+msgstr "Administre la configuración de búsqueda, personalice la visualización y venta de los productos."
+
+msgctxt "Languages::searchanise"
+msgid "Searchanise"
+msgstr "Herramienta de búsqueda y venta de productos"
+
+msgctxt "Languages::text_se_import_status_queued"
+msgid "The product catalog is queued for syncing with Searchanise."
+msgstr "El catálogo de productos está en espera para la sincronización con Searchanise."
+
+msgctxt "Languages::text_se_re_indexation_required"
+msgid "Searchanise: Re-indexation required (click the <strong>Force re-indexation</strong> button in the <a href=\"[link]\">Searchanise admin panel</a>)."
+msgstr "Searchanise: Nueva indexación necesaria (haga clic en el botón <strong>nueva indexación forzada</strong> en el <a href=\"[link]\"> panel de administración de Searchanise</a>)."
+
+msgctxt "Languages::text_se_new_engine_store"
+msgid "Searchanise: New search engine for [store] created. Catalog import started."
+msgstr "Searchanise: Nuevo motor de búsqueda para [store] creado. La importación del catálogo comenzó."
+
+msgctxt "Languages::text_se_seo_settings_notice"
+msgid "If you have modified any SEO add-on settings, please <a href=\"[link]\">Re-indexation</a> product catalog with Searchanise to update product URLs."
+msgstr "Si ha modificado alguna configuración del complemento de SEO, por favor, <a href=\"[link]\"> vuelva a indexar</a> el catálogo de productos con el Searchanise para actualizar las URL del producto."
+
+msgctxt "Languages::text_se_connect_error"
+msgid "An error occurred during Searchanise registration. Please try later."
+msgstr "Se ha producido un error durante el registro de Searchanise. Por favor Inténtalo más tarde."
+
+msgctxt "Languages::text_se_import_status_processing"
+msgid "The product catalog syncing is in progress."
+msgstr "La sincronización del catálogo de productos está en curso."
+
+msgctxt "Languages::text_se_import_status_done"
+msgid "The product catalog was synced successfully with Searchanise."
+msgstr "El catálogo fue sincronizado correctamente con Searchanise."
+
+msgctxt "Languages::text_se_import_status_none"
+msgid "The product catalog is not synced with Searchanise yet. Please press \"Sync\" button to start."
+msgstr "El catálogo de productos no se sincroniza con Searchanise aún. Por favor, pulse el botón \"Sync\" para iniciar."
+
+msgctxt "Languages::text_se_data_update"
+msgid "Please note that the data on Searchanise server is updated with a 2-3 minute delay after you make changes in your store."
+msgstr "Tenga en cuenta que los datos en el servidor de Searchanise se actualizaron con un retraso de 2-3 minutos después de hacer cambios en su tienda."
+
+msgctxt "Languages::text_se_signup"
+msgid "Click the button below to connect to Searchanise."
+msgstr "Haga clic en el botón de abajo para conectarse a Searchanise."
+
+msgctxt "Languages::text_se_just_connected"
+msgid "Congratulations, you've just connected to Searchanise."
+msgstr "Felicidades, usted acaba de conectarse a Searchanise."
+
+msgctxt "Languages::text_se_connected"
+msgid "You've connected to Searchanise."
+msgstr "Se ha conectado a Searchanise."
+
+msgctxt "Languages::text_se_ajax_connecting"
+msgid "Product indexation has started in your store. It may take some time. Wait just a little, we've almost finished."
+msgstr "La indexación de productos ha comenzado en su tienda. Puede llevar algo de tiempo. Espere un poco, ya casi hemos terminado."
+
+msgctxt "Languages::text_se_database_restore_notice"
+msgid "You've just restored your data from the database dump file. If this dump contains product data, please <a href=\"[link]\">Re-indexation</a> it with Searchanise."
+msgstr "Sólo se han restaurado sus datos desde el archivo de la papelera de la base de datos. Si esta papelera contiene datos del producto, por favor <a href=\"[link]\">vuelva a indexar</a> con Searchanise."
+
+msgctxt "Languages::text_se_only_root_can_register"
+msgid "Only the root admin has the permission to connect to Searchanise"
+msgstr "Sólo el administrador matriz tiene permiso para conectarse a Searchanise"
+
+msgctxt "Languages::se_did_you_mean"
+msgid "Did you mean"
+msgstr "Quisiste decir"
+
+msgctxt "Languages::se_product_id"
+msgid "Product Id"
+msgstr "Id del producto"
+
+msgctxt "Languages::se_title"
+msgid "Title"
+msgstr "Titulo"
+
+msgctxt "Languages::se_summary"
+msgid "Description"
+msgstr "Descripción"
+
+msgctxt "Languages::se_link"
+msgid "Product Url"
+msgstr "Url del producto"
+
+msgctxt "Languages::se_price"
+msgid "Price"
+msgstr "Precio"
+
+msgctxt "Languages::se_list_price"
+msgid "List Price"
+msgstr "Lista el precio"
+
+msgctxt "Languages::se_quantity"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt "Languages::se_product_code"
+msgid "Product Code"
+msgstr "Código del producto"
+
+msgctxt "Languages::se_image_link"
+msgid "Image Url"
+msgstr "Url de la imagen"
+
+msgctxt "Languages::se_category_Id"
+msgid "Category Id"
+msgstr "Id de la categoría"
+
+msgctxt "Languages::se_category_usergroup_ids"
+msgid "Category Usergroup Ids"
+msgstr "Identificaciones de las categorías de grupos de usuarios"
+
+msgctxt "Languages::se_usergroup_ids"
+msgid "Usergroup Ids"
+msgstr "Identificaciones de los grupos de usuarios"
+
+msgctxt "Languages::se_company_id"
+msgid "Company Id"
+msgstr "Id de la empresa"
+
+msgctxt "Languages::se_empty_categories"
+msgid "Without Categories"
+msgstr "Sin categorías"
+
+msgctxt "Languages::se_active_companies"
+msgid "Company is active"
+msgstr "La empresa se encuentra activa"
+
+msgctxt "Languages::se_price_for_usergroup_id"
+msgid "Price for usergroup Id ([id])"
+msgstr "Precio para la identificación de grupo de usuarios ([id])"
+
+msgctxt "Languages::se_for_feature_id"
+msgid "Feature \"[id]\" Id"
+msgstr "Dunción de id \"[id]\""
+
+msgctxt "Languages::se_relevance"
+msgid "Relevance"
+msgstr "Relevancia"
+
+msgctxt "Languages::se_products"
+msgid "Products"
+msgstr "Productos"
+
+msgctxt "Languages::se_popular_suggestions"
+msgid "Popular suggestions"
+msgstr "Propuestas populares"
+
+msgctxt "Languages::sort_by_relevance_asc"
+msgid "Sort by Relevance"
+msgstr "Ordenar por relevancia"
+
+msgctxt "Languages::se_api_key"
+msgid "API key"
+msgstr "Clave de API"
+
+msgctxt "Languages::se_private_key"
+msgid "Private key"
+msgstr "Clave privada"
+
+msgctxt "Languages::se_options_combinations_codes"
+msgid "Options combinations codes"
+msgstr "Códigos de combinaciones de opciones"
+
+msgctxt "Languages::se_master_product_status"
+msgid "Common product status"
+msgstr "Estado común del producto"
+
+msgctxt "Languages::se_is_vendor_product"
+msgid "Vendor product flag"
+msgstr "Flag del producto del vendedor"
+
+msgctxt "Languages::se_is_master_product"
+msgid "Сommon product flag"
+msgstr "Flag del producto común"
+
+msgctxt "Languages::se_connection_warning"
+msgid "Searchanise: There is no connection to Searchanise server! For Searchanise to work properly, the store server must be able to access www.searchanise.com. Please contact Searchanise <a href=\"mailto: [email]\">[email]</a> technical support or your system administrator."
+msgstr "Searchanise: ¡No hay conexión con el servidor de Searchanise! Para que Searchanise funcione correctamente, el servidor de la tienda debe poder acceder a www.searchanise.com. Póngase en contacto con el soporte técnico de Searchanise <a href=\"mailto: [email]\">[email]</a> o con el administrador del sistema."
+
+msgctxt "Languages::se_queue_warning"
+msgid "Searchanise: We found an issue with the export of changes in your store catalog. To resolve the issue please contact the Searchanise <a href=\"mailto: [email]\">[email]</a> technical support."
+msgstr "Searchanise: Hemos encontrado un problema con la exportación de los cambios en el catálogo de su tienda. Para resolver el problema, póngase en contacto con el soporte técnico de Searchanise <a href=\"mailto: [email]\">[email]</a>."
+
+msgctxt "SettingsSections::searchanise::configuration"
+msgid "Configuration"
+msgstr "Configuración"
+

@@ -1,0 +1,125 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::geo_maps"
+msgid "Maps and geolocation"
+msgstr "Maps and geolocation"
+
+msgctxt "Addons::description::geo_maps"
+msgid "Enables Google or Yandex maps and geolocation functionality in your store."
+msgstr "Enables Google or Yandex maps and geolocation functionality in your store."
+
+msgctxt "SettingsSections::geo_maps::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsSections::geo_maps::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsSections::geo_maps::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsOptions::geo_maps::provider"
+msgid "Provider"
+msgstr "Provider"
+
+msgctxt "SettingsVariants::geo_maps::provider::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsVariants::geo_maps::provider::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsOptions::geo_maps::show_shippings_on_product"
+msgid "Show shipping cost and time on product pages"
+msgstr "Show shipping cost and time on product pages"
+
+msgctxt "SettingsOptions::geo_maps::yandex_api_key"
+msgid "API key"
+msgstr "API key"
+
+msgctxt "SettingsTooltips::geo_maps::yandex_api_key"
+msgid "Get the API key here: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+msgstr "Get the API key here: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+
+msgctxt "SettingsOptions::geo_maps::yandex_commercial"
+msgid "I use the paid version of the API"
+msgstr "I use the paid version of the API"
+
+msgctxt "SettingsOptions::geo_maps::google_api_key"
+msgid "API key"
+msgstr "API key"
+
+msgctxt "SettingsTooltips::geo_maps::google_api_key"
+msgid "Get the API key here: <a href=\" https://console.developers.google.com\" target=\"_blank\"> https://console.developers.google.com</a>"
+msgstr "Get the API key here: <a href=\" https://console.developers.google.com\" target=\"_blank\"> https://console.developers.google.com</a>"
+
+msgctxt "Languages::geo_maps.select_your_city"
+msgid "Select your city"
+msgstr "Select your city"
+
+msgctxt "Languages::geo_maps.your_city"
+msgid "Your city"
+msgstr "Your city"
+
+msgctxt "Languages::geo_maps.location_detection_disabled"
+msgid "Your location could not be determined. Try enabling the location services on your device or disabling the tracking protection."
+msgstr "Your location could not be determined. Try enabling the location services on your device or disabling the tracking protection."
+
+msgctxt "Languages::block_geo_maps_customer_location"
+msgid "Customer location"
+msgstr "Customer location"
+
+msgctxt "Languages::block_geo_maps_customer_location_description"
+msgid "Customer city and city selection form"
+msgstr "Current city and city selection form"
+
+msgctxt "Languages::geo_maps.shipping_address_on_map"
+msgid "Shipping address on map"
+msgstr "Shipping address on map"
+
+msgctxt "Languages::geo_maps.cannot_select_location"
+msgid "This location couldn't be selected due to technical reasons. If you encounter any difficulties when placing an order, please contact us."
+msgstr "This location couldn't be selected due to technical reasons. If you encounter any difficulties when placing an order, please contact us."
+
+msgctxt "Languages::geo_maps.shipping_time_and_rates"
+msgid "Shipping time and rates"
+msgstr "Shipping time and rates"
+
+msgctxt "Languages::geo_maps.shipping_group_pickup"
+msgid "Pick-up"
+msgstr "Pick-up"
+
+msgctxt "Languages::geo_maps.shipping_group_delivery"
+msgid "Shipping"
+msgstr "Shipping"
+
+msgctxt "Languages::geo_maps.from_pickup_points"
+msgid "[shipping], [n] pickup point|[shipping], [n] pickup points"
+msgstr "[shipping], [n] pickup point|[shipping], [n] pickup points"
+
+msgctxt "Languages::geo_maps.shipping_about"
+msgid "about"
+msgstr "about"
+
+msgctxt "Languages::geo_maps.shipping_from"
+msgid "from"
+msgstr "from"
+
+msgctxt "Languages::geo_maps.shipping_time"
+msgid "Shipping time"
+msgstr "Shipping time"
+
+msgctxt "Languages::geo_maps.no_shippings"
+msgid "Sorry, we couldn't find any shipping options for your location. Please contact us, and we'll see what we can do about it."
+msgstr "Sorry, we couldn't find any shipping options for your location. Please contact us, and we'll see what we can do about it."
+
+msgctxt "Languages::geo_maps.text_settings_google_api_notice"
+msgid "Learn more about setting up API key <a target=\"_blank\" href=\"https://docs.cs-cart.com/4.10.x/user_guide/addons/maps_and_geolocation/#configuration\">in the documentation</a>."
+msgstr "Learn more about setting up API key <a target=\"_blank\" href=\"https://docs.cs-cart.com/4.10.x/user_guide/addons/maps_and_geolocation/#configuration\">in the documentation</a>."

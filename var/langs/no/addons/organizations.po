@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Norwegian\n"
+"Language: no_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: no\n"
+"X-Crowdin-File: /release-4.13.2/addons/organizations.po\n"
+"X-Crowdin-File-ID: 4600\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::organizations"
+msgid "Organizations and representatives [Beta]"
+msgstr ""
+
+msgctxt "Addons::description::organizations"
+msgid "Allows your customers to create organizations (legal entities). An organization can have multiple customer accounts associated with it. They act as representatives of the organization."
+msgstr ""
+
+msgctxt "SettingsSections::organizations::general"
+msgid "General"
+msgstr ""
+
+msgctxt "SettingsOptions::organizations::b2b_storefront_ids"
+msgid "B2B Storefronts"
+msgstr ""
+
+msgctxt "Languages::profile_types_section_organization"
+msgid "Organization information"
+msgstr ""
+
+msgctxt "Languages::organizations"
+msgid "Organizations"
+msgstr ""
+
+msgctxt "Languages::organizations.organization"
+msgid "Organization"
+msgstr ""
+
+msgctxt "Languages::organizations.user_role_owner"
+msgid "Owner"
+msgstr ""
+
+msgctxt "Languages::organizations.user_role_representative"
+msgid "Representative"
+msgstr ""
+
+msgctxt "Languages::organizations_menu_description"
+msgid "List of the store's organizations."
+msgstr ""
+
+msgctxt "Languages::organizations.new_organization"
+msgid "New organization"
+msgstr ""
+
+msgctxt "Languages::organizations.edit_organization"
+msgid "Edit organization: [name]"
+msgstr ""
+
+msgctxt "Languages::organizations.promotion_cond_once_per_organization"
+msgid "Once for organization"
+msgstr ""
+
+msgctxt "Languages::organizations.promotion_cond_organizations"
+msgid "Organizations"
+msgstr ""
+
+msgctxt "Languages::promotion_cond_organizations"
+msgid "Organizations"
+msgstr ""
+
+msgctxt "Languages::organizations.organization_details"
+msgid "Organization details"
+msgstr ""
+
+msgctxt "Languages::organizations.manage_users"
+msgid "Manage users"
+msgstr ""
+
+msgctxt "Languages::organizations.last_sign_in"
+msgid "Last sign in"
+msgstr ""
+

@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /release-4.13.2/addons/advanced_import.po\n"
+"X-Crowdin-File-ID: 4684\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::advanced_import"
+msgid "Advanced products import"
+msgstr "Gelişmiş ürünler içe aktarma"
+
+msgctxt "Addons::description::advanced_import"
+msgid "Allows you to match the fields in the imported file with the product properties. These matchings and other import settings can also be saved as presets for later use."
+msgstr "İçe aktarılan dosyadaki alanları ürün özellikleriyle eşleştirmenizi sağlar. Bu eşleşmeler ve diğer içe aktarma ayarları, daha sonra kullanmak üzere ön ayar olarak da kaydedilebilir."
+
+msgctxt "Languages::advanced_import.never"
+msgid "Never"
+msgstr "Asla"
+
+msgctxt "Languages::advanced_import.last_status.X"
+msgid "&mdash;"
+msgstr "savaş"
+
+msgctxt "Languages::advanced_import.last_status.S"
+msgid "Success"
+msgstr "Başarı"
+
+msgctxt "Languages::advanced_import.last_status.P"
+msgid "In progress"
+msgstr "Devam etmekte"
+
+msgctxt "Languages::advanced_import.last_status.F"
+msgid "Failure"
+msgstr "Başarısızlık"
+
+msgctxt "Languages::advanced_import.user_upload"
+msgid "User upload"
+msgstr "Kullanıcı yükleme"
+
+msgctxt "Languages::advanced_import.last_launch"
+msgid "Last import"
+msgstr "Son ithalat"
+
+msgctxt "Languages::advanced_import.last_status"
+msgid "Status"
+msgstr "Durum"
+
+msgctxt "Languages::advanced_import.file"
+msgid "File"
+msgstr "Dosya"
+
+msgctxt "Languages::advanced_import.has_modifiers"
+msgid "Has modifiers"
+msgstr "Değiştiriciler var"
+
+msgctxt "Languages::advanced_import.import_products"
+msgid "Import products"
+msgstr "Ürünleri içe aktarma"
+
+msgctxt "Languages::advanced_import.import_products_w_preset"
+msgid "Import products: [preset]"
+msgstr "Ürünleri içe aktar: [önayar]"
+
+msgctxt "Languages::advanced_import.import_file"
+msgid "Import file"
+msgstr "Önemli dosya"
+
+msgctxt "Languages::advanced_import.fields_mapping"
+msgid "Fields mapping"
+msgstr "Alan eşleme"
+
+msgctxt "Languages::advanced_import.fields_mapping.description"
+msgid "This table contains the list of columns from the imported file. For each column you'd like to import, select a corresponding product property in [product]. Then check what sort of data will be imported from that column, and use modifiers to change that data, if necessary. Remember to save your changes."
+msgstr "Bu tablo içe aktarılan dosyadan sütunların listesini içerir. Almak istediğiniz her sütun için, [ürün] 'de ilgili ürün özelliğini seçin. Daha sonra, bu sütundan hangi tür verilerin alınacağını kontrol edin ve gerekirse bu verileri değiştirmek için değiştiricileri kullanın. Değişikliklerinizi kaydetmeyi unutmayın."
+
+msgctxt "Languages::advanced_import.column_header"
+msgid "Column name in the imported file"
+msgstr "İçe aktarılan dosyadaki sütun adı"
+
+msgctxt "Languages::advanced_import.product_property"
+msgid "Product property in [product]"
+msgstr "[Ürün] ürün özelliği"
+
+msgctxt "Languages::advanced_import.first_line_import_value"
+msgid "Example of the imported value"
+msgstr "İçe aktarılan değer örneği"
+
+msgctxt "Languages::advanced_import.editing_preset"
+msgid "Editing preset: [preset]"
+msgstr "Ön ayarı düzenleme: [önayar]"
+
+msgctxt "Languages::advanced_import.add_preset"
+msgid "Add preset"
+msgstr "Ön ayar ekle"
+
+msgctxt "Languages::advanced_import.new_preset"
+msgid "New preset"
+msgstr "Yeni ön ayar"
+
+msgctxt "Languages::advanced_import.properties"
+msgid "Properties"
+msgstr "Özellikler"
+
+msgctxt "Languages::advanced_import.modifier"
+msgid "Modifier"
+msgstr "Niteleyici"
+
+msgctxt "Languages::advanced_import.modifier_title"
+msgid "A modifier is a rule that alters values in a column"
+msgstr "Bir değiştirici, bir sütundaki değerleri değiştiren bir kuraldır"
+
+msgctxt "Languages::advanced_import.example_imported_title"
+msgid "For example, here's a value in the first line of your file:"
+msgstr "Örneğin, dosyanızın ilk satırında bir değer var:"
+
+msgctxt "Languages::advanced_import.example_modified_title"
+msgid "And here is how this value will be imported:"
+msgstr "Ve işte bu değer nasıl alınacak:"
+
+msgctxt "Languages::advanced_import.options"
+msgid "Options"
+msgstr "Seçenekler"
+
+msgctxt "Languages::advanced_import.images_delimiter"
+msgid "Images delimiter"
+msgstr "Görüntüler sınırlayıcısı"
+
+msgctxt "Languages::advanced_import.images_delimiter.description"
+msgid "Delimiter between images of a product."
+msgstr "Bir ürünün görüntüleri arasında ayırıcı."
+
+msgctxt "Languages::advanced_import_images"
+msgid "Product images"
+msgstr "Ürün görüntüleri"
+
+msgctxt "Languages::advanced_import.remove_images"
+msgid "Remove additional images"
+msgstr "Ek resimleri kaldır"
+
+msgctxt "Languages::advanced_import.remove_images"
+msgid "Remove additional images"
+msgstr "Ek resimleri kaldır"
+
+msgctxt "Languages::advanced_import.import_fields"
+msgid "Import fields"
+msgstr "Çıkarılan bilgiler"
+
+msgctxt "Languages::advanced_import.advanced_products_import"
+msgid "Products"
+msgstr "Ürünler"
+
+msgctxt "Languages::advanced_import.coming_soon"
+msgid "... coming soon"
+msgstr "Çok yakında"
+
+msgctxt "Languages::advanced_import.cant_load_file_for_company"
+msgid "File can't be loaded for the specified company"
+msgstr "Dosya belirtilen şirket için yüklenemiyor"
+
+msgctxt "Languages::advanced_import.cant_load_file"
+msgid "File can't be loaded"
+msgstr "Dosya yüklenemedi"
+
+msgctxt "Languages::advanced_import.uploading_file"
+msgid "Uploading file for the preset: [preset]"
+msgstr "Ön ayar için dosya yükleniyor: [önayar]"
+
+msgctxt "Languages::advanced_import.previewing_fields_mapping"
+msgid "Previewing fields mapping for the preset: [preset]"
+msgstr "Ön ayar için eşleme alanlarını önizleme: [önayar]"
+
+msgctxt "Languages::advanced_import.preset_not_found"
+msgid "Preset not found"
+msgstr "Adres bulunamadı"
+
+msgctxt "Languages::advanced_import.modifiers_list"
+msgid "Modifiers list"
+msgstr "Değiştiriciler listesi"
+
+msgctxt "Languages::advanced_import.invalid_number_of_parameters_provided"
+msgid "Invalid number of parameters provided for modifier: <b>[modifier]</b>: expected [expected_count], got [actual_count]."
+msgstr "Düzenleyici için geçersiz değer: <b>[modifier]</b>: girilmesi gereken [expected_count], girilen [actual_count]."
+
+msgctxt "Languages::advanced_import.invalid_function_firs_character"
+msgid "The modifier name cannot start with character <b>[character]</b>."
+msgstr "Değiştirici adı <b> [character] </ b> karakteriyle başlayamaz."
+
+msgctxt "Languages::advanced_import.unrecognized_modifier"
+msgid "The modifier <b>[modifier]</b> does not exist."
+msgstr "Modifiye <b> [değiştiricisi] </ b> yoktur."
+
+msgctxt "Languages::advanced_import.unexpected_parameter_passed"
+msgid "Expected <b>[delimiter]</b> or <b>[closer]</b> got <b>[char]</b>."
+msgstr "Beklenen <b> [ayırıcı] </ b> veya <b> [yakından] </ b> var <b> [Char] </ b>."
+
+msgctxt "Languages::advanced_import.invalid_modifier_message"
+msgid "The modifier <b>[modifier]</b> is invalid. [message]"
+msgstr "Modifiye <b> [değiştiricisi] </ b> geçersiz. [mesaj]"
+
+msgctxt "Languages::advanced_import.modifier_number_of_parameters"
+msgid "Number of parameters"
+msgstr "Parametre sayısı"
+
+msgctxt "Languages::advanced_import.modifiers_description"
+msgid "Use these functions in the <b>Modifier</b> column to alter the values in the fields from the imported file. Enter the functions as follows: <b>function(parameter, parameter)</b>. Please note that nesting of functions isn't supported."
+msgstr "İçe aktarılan dosyadaki alanlardaki değerleri değiştirmek için bu işlevleri <b> Değiştirici </ b> sütununda kullanın. Fonksiyonları aşağıdaki gibi girin: <b> fonksiyon (parametre, parametre) </ b>. Lütfen fonksiyonların yerleştirilmesinin desteklenmediğini unutmayın."
+
+msgctxt "Languages::advanced_import.modifiers_self_referencing_info"
+msgid "Most functions allow you to use the non-modified value of the imported field by using <b>$value</b> as a parameter. If there are any exceptions, they will be mentioned in function descriptions."
+msgstr "Çoğu fonksiyon, ithal edilen alanın değiştirilmemiş değerini, parametre olarak <b> $ value </ b> kullanarak kullanmanızı sağlar. İstisnalar varsa, işlev açıklamalarında bahsedilecektir."
+
+msgctxt "Languages::advanced_import.modifier_description.sum"
+msgid "<b>sum</b>&mdash;sums up two numbers provided as parameters. <ul><li>Examples:</li><ul><li><b>sum(1, 3)</b> equals <i>4</i></li> <li><b>sum(7, $value)</b> equals <i>7 + the value of the imported field</i></li></ul></ul>"
+msgstr "<b> toplam </ b> & mdash; Parametreler olarak sağlanan iki sayı toplar. <ul> <li> Örnekler: </ li> <ul> <li> <b> toplam (1, 3) </ b>, [ i> 4 </ i> </ li> <li> <b> değerine eşittir toplam (7, $ değer) </ b>, <i> 7 + içe aktarılan alanın değerine eşittir </ i> </ li> </ ul> </ ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.sub"
+msgid "<b>sub</b>&mdash;subtracts the second parameter from the first. <ul><li>Examples:</li><ul><li><b>sub(3, 1)</b> equals <i>2</i></li> <li><b>sub($value, 7)</b> equals <i>the value of the imported field - 7</i></li></ul></ul>"
+msgstr "<b> alt </ b> & mdash; İlk önce ikinci parametreyi çıkarır. <ul> <li> Örnekler: </ li> <ul> <li> <b> alt (3, 1) </ b>, [ i> 2 </ i> </ li> <li> <b> değerine eşittir alt ( $ value, 7) </ b>, <i> içe aktarılan alanın değerine eşittir - 7 </ i> </ li> </ ul> </ ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.mul"
+msgid "<b>mul</b>&mdash;multiplies the numbers provided as parameters. <ul><li>Examples:</li><ul><li><b>mul(3, 1)</b> equals <i>3</i></li> <li><b>mul($value, 7)</b> equals <i>the value of the imported field × 7</i></li></ul></ul>"
+msgstr "<b> mul </ b> & mdash; parametre olarak verilen sayıları çarpar. <ul> <li> Örnekler: </ li> <ul> <li> <b> mul (3, 1) </ b>, [ i> 3 </ i> </ li> <li> <b> değerine eşittir mul ( $ değer, 7) </ b>, <i> içe aktarılan alanın değerine eşittir × 7 </ i> </ li> </ ul> </ ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.div"
+msgid "<b>div</b>&mdash;divides the first parameter by the second. <ul><li>Examples:</li><ul><li><b>div(9, 3)</b> equals <i>3</i></li> <li><b>div($value, 7)</b> equals <i>the value of the imported field ÷ 7</i></li></ul></ul>"
+msgstr "<b>div</b>&mdash;ilk parametreyi ikinci parametreye göre böler. <ul><li>Örnek:</li><ul><li><b>div(9, 3)</b> eşittir<i>3</i></li> <li><b>div($value, 7)</b> eşittir<i>içe aktarılan alanın değeri ÷ 7</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.concat"
+msgid "<b>concat</b>&mdash;concatenates all the provided parameters. <ul><li>Examples:</li><ul><li><b>concat('abc', def)</b> will result in <i>abcdef</i></li> <li><b>concat('PRODUCT_', $value, '_CODE')</b> will result in <i>PRODUCT_$value_CODE</i>, but <b>$value</b> will be replaced with the the value of the imported field</li></ul></ul>"
+msgstr ""
+
+msgctxt "Languages::advanced_import.modifier_description.replace"
+msgid "<b>replace</b>&mdash;replaces all occurrences of the search string with the replacement string. <br>The order of parameters is important: <b>replace('search', 'replace', 'subject')</b>. <ul><li>Examples:</li><ul><li><b>replace('a', !, \"banana\")</b> will result in <i>b!n!n!</i></li> <li><b>replace(\"t-shirt\", 'T-Shirt', $value)</b> will replace every occurrence of <i>t-shirt</i> with <i>T-Shirt</i> in every entry in the column.</li></ul></ul>"
+msgstr "<b>yer değiştir</b>&mdash;arama dizgisinin tüm olaylarının yerini, yer değiştirme dizgisi ile değiştirir. <br>Parametrelerin sırası önemlidir: <b>yer değiştir('arama', 'yer değiştirme', 'konu')</b>. <ul><li>Örnekler:</li><ul><li><b>yer değiştir('u', !, \"muz\")</b>şu şekilde sonuçlanır: <i>m!z</i></li><li><b>yer değiştir(\"tişört\", 'Tişört', $value)</b> bu iki değerin tüm olaylarını sütundaki bütün veri girişlerinde yer değiştirir: <i>tişört </i>  ile <i>Tişört.</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.w_replace"
+msgid "<b>w_replace</b>&mdash;replaces all occurrences of the search string with the replacement string using wildcards. <br>The order of parameters is important: <b>w_replace('search', 'replace', 'subject')</b>. <br>Supported wildcards: <b>?</b>&mdash;any single character; <b>*</b>&mdash;any number of characters to the end of the word. <ul><li>Examples</li><ul><li><b>w_replace('banan?', bananas, banana banans bananz)</b> will result in <i>bananas bananas bananas</i></li> <li><b>w_replace(\"ban*\", 'bananas', banana banans bananz)</b> will also result in <i>bananas bananas bananas</i></li></ul></ul>"
+msgstr ""
+
+msgctxt "Languages::advanced_import.modifier_description.rand"
+msgid "<b>rand</b>&mdash;generates a random number from 1 to the maximum value provided as the parameter. <ul><li>Examples:</li><ul><li><b>rand(999)</b> may result in any number from 1 to 999.</li></ul></ul>"
+msgstr ""
+
+msgctxt "Languages::advanced_import.modifier_description.if"
+msgid "<b>if</b>&mdash;checks the expression in the first parameter. If the first parameter is <i>true</i>, the function returns the second parameter. Otherwise the function returns the third parameter.<ul><li>Examples:</li><ul><li><b>if($value>\"0\", \"In Stock\", \"Out of stock\")</b> will result in <i>In Stock</i> if <i>$value > 0</i> is <i>true</i>; otherwise the result will be <i>Out of stock</i></li></ul><li>Available operations for the expression are:<ul><li><b>=</b>&mdash;checks for equality: <i>if($value=100, ...)</i></li><li><b>!=</b>&mdash;checks for inequality: <i>if($value!=100, ...)</i></li><li><b>&gt;</b>&mdash;checks if the first value is greater than the second: <i>if($value&gt;100, ...)</i></li><li><b>&lt;</b>&mdash;checks if the first value is less than the second: <i>if($value&lt;100, ...)</i></li><li><b>&gt;=</b>&mdash;checks if the first value is greater than or equal to the second: <i>if($value&gt;=100, ...)</i></li><li><b>&lt;=</b>&mdash;checks if the first value is less than or equal to the second: <i>if($value&lt;=100, ...)</i></li></ul></li><li>Notes:<ul><li>If you use single (') or double (\") quotes in the first parameter, make sure that the first parameter is either wrapped in quotes entirely, or that there is no end quote in the middle of the parameter. For example, <i>if(\"My value\"=$value, ...)</i> will not work, but <i>if(\"My value=$value\", ...)</i> will.</ul></li></ul>"
+msgstr ""
+
+msgctxt "Languages::advanced_import.modifier_description.case"
+msgid "<b>case</b>&mdash;odd parameters are expressions, and the following even parameters are corresponding values. The function checks the expressions and returns the value corresponding to the first expression that ends up being <i>true</i>.<ul><li>Examples:</li><ul><li><b>case($value>100, \"More than 100\", $value>70, \"More than 70\", $value>20, \"More than 20\", $value>0, \"In stock\", $value=0, \"Out of stock\")</b> will result in <i>More than 70</i> if the <i>$value</i> in the imported file is a number between 71 and 100</li></ul><li>Notes:<ul><li>This function shares expression rules and available operations with the <b>if</b> function.</li><li>Only even numbers of parameters are supported: <b>2, 4, 6, 8</b>, etc.</li></ul></li></ul>"
+msgstr ""
+
+msgctxt "Languages::advanced_import.modifier_self_reference_is_unsupported"
+msgid "This function doesn't support the use of a non-modified value from the imported file."
+msgstr "Bu işlev, içe aktarılan dosyadan değiştirilmemiş bir değerin kullanılmasını desteklemez."
+
+msgctxt "Languages::advanced_import.preset_last_view"
+msgid "Preset"
+msgstr "Ayarlanmış"
+
+msgctxt "Languages::advanced_import.show_more"
+msgid "Show more"
+msgstr "Daha fazla göster"
+
+msgctxt "Languages::advanced_import.show_less"
+msgid "Show less"
+msgstr "Daha az göster"
+
+msgctxt "Languages::advanced_import.target_node"
+msgid "XML target node"
+msgstr "XML hedef düğüm"
+
+msgctxt "Languages::advanced_import.target_node.description"
+msgid "The full path to the XML node with the information about an imported entity. The nodes nested in the specified node will be used as columns of the imported file. Here is an example of the path: yml_catalog/shop/offers/offer"
+msgstr "İçe aktarılan değer hakkında bilgi içeren XML düğümünün tam dosya adresi. Belirtilen düğümde yuvalanmış düğümler, içe aktarılan dosyanın sütunları olarak kullanılır. Örnek yol gösterimi: yml_catalog/shop/offers/offer"
+
+msgctxt "Languages::advanced_import.fetching_schema_failed_check_target_node"
+msgid "Please make sure that the <b>XML target node</b> field is filled in properly."
+msgstr "Lütfen <b> XML hedef düğümü </b> alanının düzgün doldurulduğundan emin olun."
+
+msgctxt "Languages::advanced_import.general_settings"
+msgid "General settings"
+msgstr "Genel ayarlar"
+
+msgctxt "Languages::advanced_import.additional_settings"
+msgid "Additional settings"
+msgstr "Diğer seçenekler"
+
+msgctxt "Languages::advanced_import.delete_additional_images"
+msgid "Delete existing additional images"
+msgstr "Var sayılan ek fotoğrafları sil"
+
+msgctxt "Languages::advanced_import.delete_additional_images_tooltip"
+msgid "If you enable this setting, then the existing additional images of the imported products will be replaced with the images specified in the imported file (if no images are specified, the old images will remain). If the setting is disabled, the new additional images will simply be added to the existing images."
+msgstr "Bu ayarı etkinleştirirseniz, içe aktarılan ürünlerin mevcut ek görüntüleri, içe aktarılan dosyada belirtilen görüntülerle değiştirilir (hiçbir görüntü belirtilmezse, eski görüntüler kalır). Ayar devre dışı bırakılırsa, yeni ek görüntüler yalnızca mevcut görüntülere eklenir."
+
+msgctxt "Languages::advanced_import.fetching_schema_failed_check_file"
+msgid "Before you can run the import, please make sure that:<ul><li>You have created the import preset by using the Create button. If you see Save instead of Create, then you've already done that.</li><li>You have specified the correct XML target node on the File tab and saved the preset.</li><li>You have matched the imported information with the product properties in CS-Cart on the Fields mapping tab and saved the preset.</li></ul>If you see this message, you haven't completed point 1 or 2."
+msgstr "İçe aktarmayı çalıştırmadan önce lütfen şunlardan emin olun: <ul> <li> Oluştur düğmesini kullanarak içe aktarma hazır ayarını oluşturdunuz. Oluştur yerine Kaydet'i görürseniz, bunu zaten yapmışsınızdır. </li> <li> Dosya sekmesinde doğru XML hedef düğümünü belirlediniz ve hazır ayarı kaydettiniz. </li> <li> Eşleştirdiniz. Alan eşleme sekmesindeki CS-Cart'daki ürün özellikleriyle içe aktarılan bilgiler ve hazır ayarı kaydetti. </li> </ul> Bu mesajı görürseniz, 1 veya 2 noktasını tamamlamadınız."
+
+msgctxt "Languages::advanced_import.test_import"
+msgid "Perform test import"
+msgstr "İçe aktarmayı test et"
+
+msgctxt "Languages::advanced_import.test_import_tooltip"
+msgid "If you enable this setting, only the first [n] product will be processed.|If you enable this setting, only the first [n] products will be processed."
+msgstr "Bu ayarı etkinleştirirseniz, yalnızca ilk [n] ürün etkilenir.|Bu ayarı etkinleştirirseniz, yalnızca ilk [n] ürün etkilenir."
+
+msgctxt "Languages::advanced_import.import_strategy"
+msgid "Import strategy"
+msgstr "Import stratejisi"
+
+msgctxt "Languages::advanced_import.import_strategy_tooltip"
+msgid "If you select \"Update existing products only\", products that don't exist in the database of your store will be skipped during import.<br>If you select \"Create new products only\", products that exist in the database of your store will be skipped during import."
+msgstr "\"Yalnızca mevcut ürünleri güncelle\" seçeneğini belirlerseniz, mağazanızın veritabanında bulunmayan ürünler içe aktarma sırasında atlanır. \"Yalnızca yeni ürünler oluştur\" seçeneğini belirlerseniz, mağazanızın veritabanında bulunan ürünler ithalat sırasında atlanır."
+
+msgctxt "Languages::advanced_import.import_all"
+msgid "Import all products from the file"
+msgstr "Tüm ürünleri dosyadan içe aktar"
+
+msgctxt "Languages::advanced_import.create_new_products_only"
+msgid "Create new products only"
+msgstr "Sadece yeni ürünleri üret"
+
+msgctxt "Languages::advanced_import.cant_save_preset_invalid_modifiers"
+msgid "The preset can't be saved because it contains invalid modifiers"
+msgstr "Geçersiz değiştiriciler içerdiği için ön ayar kaydedilemiyor"
+
+msgctxt "Languages::advanced_import.missing_parameters_list_closer"
+msgid "The expected <b>[closer]</b> after the parameters list is missing."
+msgstr "Parametreler listesi eksik olduğundan <b> [closer] </b>sonra beklenir ."
+
+msgctxt "Languages::advanced_import.run_import_via_cron_message"
+msgid "You can run the import automatically at certain time intervals. To do it, add the following command to CRON:"
+msgstr "İçe aktarmayı belirli zaman aralıklarında otomatik olarak çalıştırabilirsiniz. Bunu yapmak için CRON'a aşağıdaki komutu ekleyin:"
+
+msgctxt "Languages::advanced_import.cannot_detect_csv_delimiter"
+msgid "Cannot detect delimiter automatically. Please specify the correct delimiter manually in the additional settings on the \"File\" tab."
+msgstr "Sınırlayıcı otomatik olarak algılanamıyor. Lütfen \"Dosya\" sekmesindeki ek ayarlarda doğru sınırlayıcıyı manuel olarak belirtin."
+
+msgctxt "Languages::advanced_import.incorrect_delimiter"
+msgid "Specified (or auto detected) delimiter seems to be incorrect. Please specify the correct delimiter manually in the additional settings on the \"File\" tab."
+msgstr "Belirtilen (veya otomatik olarak algılanan) sınırlayıcı yanlış görünüyor. Lütfen \"Dosya\" sekmesindeki ek ayarlarda doğru sınırlayıcıyı manuel olarak belirtin."
+
+msgctxt "Languages::advanced_import.file_will_be_deleted_are_you_sure_to_proceed"
+msgid "Deleting this import preset will also delete the file attached to it. Are you sure you want to proceed?"
+msgstr "Bu içe aktarma ön ayarını silmek aynı zamanda ona bağlı dosyayı da silecektir. İlerlemek istediğinize emin misiniz?"
+
+msgctxt "Languages::advanced_import.common_preset"
+msgid "All vendors"
+msgstr "Tüm sağlayıcılar"
+
+msgctxt "Languages::advanced_import.your_presets"
+msgid "Vendor's presets"
+msgstr "Sağlayıcıların ön ayarı"
+
+msgctxt "Languages::advanced_import.common_presets"
+msgid "Marketplace presets"
+msgstr "Pazar ön ayarları"
+
+msgctxt "Languages::advanced_import.file_not_loaded"
+msgid "File was not loaded. Please reload the page and try again."
+msgstr "Dosya yüklenmedi. Lütfen sayfayı yenileyin ve tekrar deneyin."
+
+msgctxt "Languages::advanced_import.local_file_selected"
+msgid "Local file selected"
+msgstr "Yerel dosya seçildi"
+
+msgctxt "Languages::advanced_import.text_popup_file_editor_notice_full_link"
+msgid "You can upload and download files via <a class=\"advanced-import-file-editor-opener\" data-target-input-id=\"[target]\">[link_text]</a>"
+msgstr "<a class=\"advanced-import-file-editor-opener\" data-target-input-id=\"[target]\"> [link_text] </a> aracılığıyla dosya yükleyebilir ve indirebilirsiniz."
+
+msgctxt "Languages::advanced_import.file_extension_was_not_supported_by_owner"
+msgid "Couldn't use your file [name]. This import preset only allows the following extensions: [ext]."
+msgstr "[name] isimli dosyanız kullanılamadı. Bu içe aktarım ön ayarı yalnızca şu uzantılara izin verir: [ext]."
+
+msgctxt "Languages::advanced_import.save_selected_file"
+msgid "Save selected file"
+msgstr "Seçili dosyayı kaydet"
+
+msgctxt "Languages::advanced_import.fields_delimiter"
+msgid "XML node delimiter"
+msgstr ""
+
+msgctxt "Languages::advanced_import.fields_delimiter.description"
+msgid "Delimiter between similar nodes."
+msgstr ""
+

@@ -1,0 +1,281 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "Stores and pickup points"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "View on map"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "Obtaining an API Key"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Store locator"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "Stores & pickup points"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Store locator block"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "Address not found"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Select coordinates"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Set"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Editing store location"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "New store location"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Add store location"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Coordinates"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "lat"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "long"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "All stores"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "Show map in order-related documents"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "Print the map on the packing slip and invoice"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "Use list of cities instead of a map"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "Can edit"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "Store locator"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "Can view"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "Select stores"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "Pick-up points"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "The \"Position\" field in the store settings"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "Order selected in the shipping method settings"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "Selected stores"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "Available stores"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "Map and list"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "List"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "Map"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "Locations list view on the checkout page"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "Pickup"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "Available for pick-up"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "Working hours"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "Pickup"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "No suitable destination has been found"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "No stores have been found"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "Pickup"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "Pickup ID"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "Pickup avail"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "Pickup surcharge"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "Pickup address"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "Pickup phone"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "Pickup time"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "Pickup destinations ids"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "Hide places where I can't pick up my order"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "Stores and pickup points"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "Located in rate area"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "Show to"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "Show to"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "from [price]"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_title"
+msgid "Pick up from store: Surcharge per pickup point removed"
+msgstr "Pick up from store: Surcharge per pickup point removed"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_text"
+msgid "<p>The <b>[pickup_addon]</b> and <b>[store_locator_addon]</b> add-ons were merged into a new add-on called [stores_pickups_addon]. Shipping rates and time are more flexible now: they depend on the location (rate area) of a pickup point. The rates are now specified in one place: the editing page of a shipping method.</p><p>For that reason, we removed the <b>Surcharge</b> field from the pickup point editing page. Its value still appears in the admin panel, but isn’t used in rate calculation. Please check your pickup points, then adjust the shipping rates of all your \"Pick up from store\" shipping methods accordingly.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Adjust shipping rates</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">View my pickup points</a></p>"
+msgstr "<p>The <b>[pickup_addon]</b> and <b>[store_locator_addon]</b> add-ons were merged into a new add-on called [stores_pickups_addon]. Shipping rates and time are more flexible now: they depend on the location (rate area) of a pickup point. The rates are now specified in one place: the editing page of a shipping method.</p><p>For that reason, we removed the <b>Surcharge</b> field from the pickup point editing page. Its value still appears in the admin panel, but isn’t used in rate calculation. Please check your pickup points, then adjust the shipping rates of all your \"Pick up from store\" shipping methods accordingly.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Adjust shipping rates</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">View my pickup points</a></p>"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "Use two fingers to move the map"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Scroll to top"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "No rate area"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "Pickup Locations"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "Any rate area"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "Pickup from store"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "Any vendor"

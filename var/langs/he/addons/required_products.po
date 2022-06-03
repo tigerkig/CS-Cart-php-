@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/required_products.po\n"
+"X-Crowdin-File-ID: 4632\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::required_products"
+msgid "Required products"
+msgstr "מוצרים נדרשים"
+
+msgctxt "Addons::description::required_products"
+msgid "Makes it possible to specify products required for purchase"
+msgstr "מאפשר לציין מוצרים הנדרשים לצורך המשך  הרכישה"
+
+msgctxt "Languages::required_products"
+msgid "Required products"
+msgstr "מוצרים נדרשים"
+
+msgctxt "Languages::required_products_added"
+msgid "The following required product(s) were added to your cart"
+msgstr "מוצרים נדרשים נוספו לסל הקניות שלך לצורך השלמת תהליך הקניה"
+
+msgctxt "Languages::required_products_out_of_stock"
+msgid "This product cannot be added to your cart, because following required product(s) are out of stock:"
+msgstr "אין אפשרות להוסיף את המוצר(ים) לסל, מוצר נדרש לא קיים במלאי:"
+

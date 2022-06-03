@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.13.2/addons/suppliers.po\n"
+"X-Crowdin-File-ID: 4656\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::suppliers"
+msgid "Suppliers"
+msgstr "Dodavatelé"
+
+msgctxt "Addons::description::suppliers"
+msgid "Adds supplier assignment support to products"
+msgstr "Vytvoření a přiřazení dodavatelů zboží (s vlastními možnostmi dodání, atd.)."
+
+msgctxt "Languages::search_by_supplier"
+msgid "Search by supplier"
+msgstr "Vyhledávání podle dodavatele"
+
+msgctxt "Languages::notify_supplier"
+msgid "Notify supplier"
+msgstr "Upozornit dodavatele"
+
+msgctxt "Languages::view_supplier_products"
+msgid "View supplier products"
+msgstr "Zobrazit zboží podle dodavatelů"
+
+msgctxt "Languages::supplier"
+msgid "Supplier"
+msgstr "Dodavatel"
+
+msgctxt "Languages::supplier_email_header"
+msgid "The following products have been purchased in our store and need to be shipped."
+msgstr "Následující produkty byly zakoupené v našem obchodě a musí být doručena kupujícímu."
+
+msgctxt "Languages::suppliers_menu_description"
+msgid "List of supplier accounts registered in the store."
+msgstr "Seznam registrovaných dodavatelů."
+
+msgctxt "Languages::dear_sirs"
+msgid "Dear Sirs"
+msgstr "Vážená paní / Vážený pane,"
+
+msgctxt "Languages::add_supplier"
+msgid "Add supplier"
+msgstr "Přidat dodavatele"
+
+msgctxt "Languages::available_for_supplier"
+msgid "Available for supplier"
+msgstr "K dispozici pro dodavatele"
+
+msgctxt "Languages::editing_supplier"
+msgid "Editing supplier"
+msgstr "Úpravy dodavatele"
+
+msgctxt "Languages::supplier_deleted"
+msgid "Supplier has been deleted successfully."
+msgstr "Dodavatel byl úspěšně odstraněn."
+
+msgctxt "Languages::privileges.manage_suppliers"
+msgid "Can edit"
+msgstr ""
+
+msgctxt "Languages::privilege_groups.suppliers"
+msgid "Suppliers"
+msgstr ""
+
+msgctxt "SettingsSections::suppliers::general"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "SettingsOptions::suppliers::display_supplier"
+msgid "Display product supplier company"
+msgstr "Zobrazit dodavatele na produktové stránce"
+
+msgctxt "SettingsOptions::suppliers::display_shipping_methods_separately"
+msgid "Display shipping methods to each supplier separately"
+msgstr "Zobrazit kontaktní metody pro každého dodavatele odděleně"
+
+msgctxt "Languages::email_template.suppliers_notification"
+msgid "Supplier notification"
+msgstr ""
+
+msgctxt "Languages::email_template.supplier_notification_with_status"
+msgid "Supplier notification: [name]"
+msgstr ""
+
+msgctxt "Languages::email_template.suppliers_notification_default"
+msgid "Supplier notification: Default template for a new order status"
+msgstr ""
+
+msgctxt "Languages::template_document_supplier_order_invoice"
+msgid "Suppliers: invoice"
+msgstr ""
+
+msgctxt "Languages::document_preview_suppliers_not_found"
+msgid "Couldn't find a supplier. Preview only works with existing data. Please create a supplier and use Preview again."
+msgstr ""
+
+msgctxt "Languages::suppliers.event.order.supplier_notified.name"
+msgid "Suppliers: order status changed to [status]"
+msgstr ""
+
+msgctxt "Languages::event.receiver.s"
+msgid "Supplier"
+msgstr ""
+
+msgctxt "Languages::suppliers.supplier_notifications"
+msgid "Supplier notifications"
+msgstr ""
+

@@ -1,0 +1,49 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::pay360"
+msgid "Pay360 payments"
+msgstr "Pay360 payments"
+
+msgctxt "Addons::description::pay360"
+msgid "Allows you to accept payments via Pay360"
+msgstr "Allows you to accept payments via Pay360"
+
+msgctxt "Languages::pay360.api_username"
+msgid "API Username"
+msgstr "API Username"
+
+msgctxt "Languages::pay360.api_password"
+msgid "API Password"
+msgstr "API Password"
+
+msgctxt "Languages::pay360.installation_id"
+msgid "Hosted Cashier"
+msgstr "Hosted Cashier"
+
+msgctxt "Languages::pay360.account_number_description"
+msgid "Account number used to identify the customer or loan. If this is a PAN, then provide the first six and last four digits of the PAN. Otherwise, provide up to ten characters of the account number."
+msgstr "Account number used to identify the customer or loan. If this is a PAN, then provide the first six and last four digits of the PAN. Otherwise, provide up to ten characters of the account number."
+
+msgctxt "Languages::pay360.postal_code_description"
+msgid "First part of the postal code of the loan recipient; up to six characters. For example, if the postal code is “EC2A 1AE”, this would be “EC2A”."
+msgstr "First part of the postal code of the loan recipient; up to six characters. For example, if the postal code is “EC2A 1AE”, this would be “EC2A”."
+
+msgctxt "Languages::pay360.surname_description"
+msgid "Surname of the loan recipient; up to six characters, excluding numbers or special characters. If the name is longer than six characters, then provide the first six. For example, for “Smith”, this would be “Smith”; for “Williams”, this would be “Willia”."
+msgstr "Surname of the loan recipient; up to six characters, excluding numbers or special characters. If the name is longer than six characters, then provide the first six. For example, for “Smith”, this would be “Smith”; for “Williams”, this would be “Willia”."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols"
+msgid "Please, use only alphabetical characters."
+msgstr "Please, use only alphabetical characters."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols_and_numbers"
+msgid "Please, use only alphabetical characters and numbers."
+msgstr "Please, use only alphabetical characters and numbers."
+
+msgctxt "Languages::pay360.mandatory_fields_commentary"
+msgid "Mandatory for UK- and Europe-based MCC 6012, 6051 and some 7299 merchants"
+msgstr "Mandatory for UK- and Europe-based MCC 6012, 6051 and some 7299 merchants"

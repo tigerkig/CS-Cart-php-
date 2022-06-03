@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.13.2/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 4650\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "店舗と受取場所"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "実店舗を地図上に表示し、店舗受取用の配送方法を設定して注文商品の店舗受取を提供します。"
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "地図上に表示"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "APIキーを入力してください"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "店舗所在地"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "店舗と受取場所"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "店舗所在地ブロック"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "住所が見つかりません"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "店舗所在地の指定"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "設定"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "店舗所在地の編集"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "店舗所在地の追加"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "店舗所在地の追加"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "位置情報"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "緯度"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "経度"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "すべてのショップ"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "基本設定"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "注文関連ドキュメントに地図を表示"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "本家版のメールテンプレートモードが旧タイプの場合のみ動作します。メールテンプレートアドオンでは動作しません。"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "地図の代わりに市区町村リストを使用"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "ロケーションブロックに影響します。ショップと受取場所の市区町村からリストが生成されます。"
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "編集"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "店舗所在地"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "閲覧"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "\"店舗受取\" 配送方法により商品を受け取る店舗を選択できます。店舗は \"店舗と受取場所\" アドオンで作成できます。<br /><b>店舗を作成:</b> <a href=\"[store_locator]\">店舗と受取場所</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "店舗を選択"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "受取場所"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "店舗設定の \"ポジション\" フィールド"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "配送方法設定で選択された注文"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "選択された店舗"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "利用可能な店舗"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "地図とリスト"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "リスト"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "地図"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "注文確定画面のロケーションリスト"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "店舗受取"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "利用可能な受取"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "営業時間"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "店舗受取"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "適切な受取先が見つかりませんでした"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "店舗が見つかりませんでした"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "店舗受取"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "受取ID"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "受取可能"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "受取手数料"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "受取住所"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "受取電話番号"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "受取時間"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "受取先ID"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "注文を受け取れない場所を隠す"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "店舗と受取場所"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "以前は、手数料は配送方法で設定した料金に追加されました。この手数料は配送方法の計算で考慮されないようになりました。配送方法の編集画面で送料を修正可能してください。"
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "レートエリアを設定"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "受取場所での配送料を定義します。配送料は配送方法の編集画面で設定されています。受取場所のロケーションを選択しないと、受取場所は注文確定画面に表示されません。"
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "表示するロケーション"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "表示"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "注文確定時に他のロケーションのお客様にこの受取場所を表示する。"
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "[price] から"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_title"
+msgid "Pick up from store: Surcharge per pickup point removed"
+msgstr "店舗での受け取り：ピックアップポイントごとの追加料金が削除されました"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_text"
+msgid "<p>The <b>[pickup_addon]</b> and <b>[store_locator_addon]</b> add-ons were merged into a new add-on called [stores_pickups_addon]. Shipping rates and time are more flexible now: they depend on the location (rate area) of a pickup point. The rates are now specified in one place: the editing page of a shipping method.</p><p>For that reason, we removed the <b>Surcharge</b> field from the pickup point editing page. Its value still appears in the admin panel, but isn’t used in rate calculation. Please check your pickup points, then adjust the shipping rates of all your \"Pick up from store\" shipping methods accordingly.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Adjust shipping rates</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">View my pickup points</a></p>"
+msgstr "<p> <b> [pickup_addon] </b>と<b> [store_locator_addon] </b>アドオンは、[stores_pickups_addon]という新しいアドオンに統合されました。 配送料金と時間はより柔軟になり、ロケーション（レートエリア）によって異なります。 料金は、配送方法の編集ページの1か所で指定されるようになりました。</p><p>そのため、受取場所の編集ページから<b>追加料金</b>フィールドを削除しました。 その値は引き続き管理画面に表示されますが、料金計算には使用されません。 受取場所を確認し、それに応じてすべての「店舗からの集荷」配送方法の配送料金を調整してください。</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">配送料を調整する</a><a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">受取場所を表示する</a></p>"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "地図を移動するには2本指を使用"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "トップにスクロール"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "ロケーションなし"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "氏名"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "受取場所"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "任意のレートエリア"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "店舗で受取"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "任意の出品者"
+

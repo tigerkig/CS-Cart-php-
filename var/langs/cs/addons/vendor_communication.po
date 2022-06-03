@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.13.2/addons/vendor_communication.po\n"
+"X-Crowdin-File-ID: 4686\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::vendor_communication"
+msgid "Message center"
+msgstr "Centrum zpráv"
+
+msgctxt "Addons::description::vendor_communication"
+msgid "Allows customers, vendors, and administrators to contact each other via the built-in chat."
+msgstr "Povoluje zákazníkům, prodejcům a administrátorům kontaktovat se navzájem skrze vestavěný chat."
+
+msgctxt "SettingsSections::vendor_communication::general"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "SettingsSections::vendor_communication::vendor_to_customer"
+msgid "For customers"
+msgstr "Pro zákazníky"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_product"
+msgid "Contact button on product pages"
+msgstr "Kontaktní tlačítko na stránce produktu"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_vendor"
+msgid "Contact button in vendor microstore"
+msgstr "Kontaktní tlačítko v prodejcově obchodě"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_messages"
+msgid "Contact button at \"Messages\" menu"
+msgstr "Kontaktní tlačítko v menu \"Zprávy\""
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_product"
+msgid "Show the \"Ask a question\" button on product pages."
+msgstr "Zobrazit tlačítko \"Zeptat se\" na stránce produktu."
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_vendor"
+msgid "Show the \"Ask a question\" button in vendors' microstores."
+msgstr "Zobrazit tlačítko \"Zeptat se\" v obchodech prodejců."
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_customer_communication"
+msgid "Customer-to-seller communication"
+msgstr "Komunikace zákazník-prodejce"
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_admin_communication"
+msgid "Vendor-to-admin communication"
+msgstr "Komunikace prodejce-administrátor"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_order"
+msgid "Contact button on detailed order page"
+msgstr ""
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_order"
+msgid "Show the \"Start communication\" button on detailed order page."
+msgstr ""
+
+msgctxt "Languages::vendor_communication.messages"
+msgid "Messages"
+msgstr "Zprávy"
+
+msgctxt "Languages::vendor_communication.message_center"
+msgid "Message center"
+msgstr "Centrum zpráv"
+
+msgctxt "Languages::vendor_communication.message_center_name"
+msgid "Message center"
+msgstr "Centrum zpráv"
+
+msgctxt "Languages::vendor_communication.message_center_name_menu_description"
+msgid "Messages from customers"
+msgstr "Zprávy od zákazníků"
+
+msgctxt "Languages::vendor_communication.message_center_menu_description"
+msgid "Customer-to-vendor messages"
+msgstr "Zprávy zákazník-prodejce"
+
+msgctxt "Languages::vendor_communication.author"
+msgid "Author"
+msgstr "Autor"
+
+msgctxt "Languages::vendor_communication.date"
+msgid "Date"
+msgstr "Datum"
+
+msgctxt "Languages::vendor_communication.message"
+msgid "Message"
+msgstr "Zpráva"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "Kontaktovat prodejce"
+
+msgctxt "Languages::vendor_communication.ask_a_question"
+msgid "Ask a question"
+msgstr "Položit dotaz"
+
+msgctxt "Languages::vendor_communication.contact_vendor_name"
+msgid "Contact [vendor_name]"
+msgstr "Kontaktovat [vendor_name]"
+
+msgctxt "Languages::vendor_communication.created_at"
+msgid "Created on"
+msgstr "Vytvořeno na"
+
+msgctxt "Languages::vendor_communication.new_thread_created"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>The vendor's reply will be sent to the email address of your account. To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "Vaše zpráva byla odeslána na <b>[vendor_name]</b>.<br/><br/> Odpověď na vaši otázku bude zaslána na email, který máte přiřazen k účtu. Pro nahlédnutí do historie zpráv, prosím  <a href=\"[thread_url]\"> přejděte do Centra zpráv</a>, jenž se nachází ve \"Zprávy\" v sekci menu \"Můj účet\"."
+
+msgctxt "Languages::vendor_communication.message_sent"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>We'll notify you about a reply. To view your message history, please <a href=\"[thread_url]\" target=\"_blank\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "Vaše zpráva byla odeslána na <b>[vendor_name]</b>.<br/><br/>Dáme vám vědět, až dorazí odpověď. Pro nahlédnutí do historie zpráv, prosím  <a href=\"[thread_url]\" target=\"_blank\"> přejděte do Centra zpráv</a>, jenž se nachází ve \"Zprávy\" v sekci menu \"Můj účet\"."
+
+msgctxt "Languages::vendor_communication.cannot_update_thread"
+msgid "Cannot update thread"
+msgstr "Nelze aktualizovat vlákno"
+
+msgctxt "Languages::vendor_communication.cannot_create_thread"
+msgid "Cannot create thread"
+msgstr "Nelze vytvořit vlákno"
+
+msgctxt "Languages::email_template.vendor_communication.notify_admin"
+msgid "Ask seller a question: Admin Notification"
+msgstr "Položit dotaz prodejci: Administrátorské upozornění"
+
+msgctxt "Languages::email_template.vendor_communication.notify_customer"
+msgid "Ask seller a question: Customer Notification"
+msgstr "Položit dotaz prodejci: Zákaznické upozornění"
+
+msgctxt "Languages::vendor_communication.you_have_new_message"
+msgid "You have a new <a href=\"[thread_url]\">message</a> from [message_from]."
+msgstr "Máte novou <a href=\"[thread_url]\">zprávu</a> od [message_from]."
+
+msgctxt "Languages::vendor_communication.subject_email"
+msgid "You have a new message from [message_from]"
+msgstr "Máte novou zprávu od [message_from]"
+
+msgctxt "Languages::vendor_communication.thread"
+msgid "Thread #[thread_id]"
+msgstr "Vlákno #[thread_id]"
+
+msgctxt "Languages::vendor_communication.contact_with"
+msgid "#[thread_id]. Communication with [thread_company]"
+msgstr "#[thread_id]. Komunikace s [thread_company]"
+
+msgctxt "Languages::vendor_communication.ticket"
+msgid "Thread"
+msgstr "Vlákno"
+
+msgctxt "Languages::vendor_communication.no_messages_found"
+msgid "No messages found"
+msgstr "Nenalezeny žádné zprávy"
+
+msgctxt "Languages::vendor_communication.customer_name"
+msgid "Customer name"
+msgstr "Jméno zákazníka"
+
+msgctxt "Languages::vendor_communication.error_message"
+msgid "Please enter your message"
+msgstr "Napište vaši zprávu"
+
+msgctxt "Languages::vendor_communication.type_message"
+msgid "Type a message..."
+msgstr "Pište..."
+
+msgctxt "Languages::vendor_communication.you"
+msgid "You"
+msgstr "Vy"
+
+msgctxt "Languages::vendor_communication.order_details"
+msgid "Order details"
+msgstr "Detaily objednávky"
+
+msgctxt "Languages::vendor_communication.import_details"
+msgid "Import details"
+msgstr "Detaily importu"
+
+msgctxt "Languages::vendor_communication.thread_deleted"
+msgid "Thread has been deleted"
+msgstr "Vlákno bylo smazáno"
+
+msgctxt "Languages::vendor_communication.threads_deleted"
+msgid "Threads have been deleted"
+msgstr "Vlákna byla smazána"
+
+msgctxt "Languages::vendor_communication.cannot_delete_thread"
+msgid "Cannot delete thread"
+msgstr "Nelze smazat vlákno"
+
+msgctxt "Languages::vendor_communication.cannot_delete_threads"
+msgid "Cannot delete threads"
+msgstr "Nelze smazat vlákna"
+
+msgctxt "Languages::vendor_communication.cannot_post_message"
+msgid "Cannot post message"
+msgstr "Nelze zanechat zprávu"
+
+msgctxt "Languages::vendor_communication.no_threads_found"
+msgid "No threads found"
+msgstr "Žádná vlákna nenalezena"
+
+msgctxt "Languages::vendor_communication.required_field_is_missing"
+msgid "The [field_name] field is required"
+msgstr "Pole [field_name] je povinné"
+
+msgctxt "Languages::vendor_communication.invalid_thread_object_type"
+msgid "Provided thread object type is invalid"
+msgstr "Objekt vlákna není platný"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_contact_vendor"
+msgid "Please sign in to contact the vendor"
+msgstr "Pro kontaktování prodejce se přihlaste"
+
+msgctxt "Languages::privileges.manage_vendor_communication"
+msgid "Can edit"
+msgstr "Může upravovat"
+
+msgctxt "Languages::privileges.view_vendor_communication"
+msgid "Can view"
+msgstr "Může vidět"
+
+msgctxt "Languages::privilege_groups.vendor_communication"
+msgid "Message center: customer-to-vendor communication"
+msgstr "Centrum zpráv: Komunikace zákazník-prodejce"
+
+msgctxt "Languages::vendor_communication.your_message_to_vendor_name"
+msgid "Your message to [vendor_name]"
+msgstr "Vaše zpráva na [vendor_name]"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_be_notified"
+msgid "Please sign in so that we can notify you about a reply"
+msgstr "Přihlaste se prosím, abychom vám mohli dát vědět, že přišla odpověď"
+
+msgctxt "Languages::vendor_communication"
+msgid "Message center"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.event.message_received.name"
+msgid "Customer-to-vendor: New message received"
+msgstr "Zákazník-prodejce: Přijata nová zpráva"
+
+msgctxt "Languages::vendor_communication.event.vendor_to_admin_message_received.name"
+msgid "Vendor-to-admin: New message received"
+msgstr "Prodejce-administrátor: Přijata nová zpráva"
+
+msgctxt "Languages::internal_template.vendor_communication_message_received"
+msgid "New message received"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.new_message.title"
+msgid "[company_name] has a new message from [customer]"
+msgstr "[company_name] má novou zprávu od [customer]"
+
+msgctxt "Languages::vendor_communication.new_message.message"
+msgid "Click this notification to see the message"
+msgstr "Klikněte na toto oznámení k zobrazení zprávy"
+
+msgctxt "Languages::vendor_communication.contact_admin"
+msgid "Contact administrator"
+msgstr "Kontaktovat administrátora"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "Kontaktovat prodejce"
+
+msgctxt "Languages::vendor_communication.communication"
+msgid "Communication"
+msgstr "Komunikace"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name"
+msgid "Message center"
+msgstr "Centrum zpráv"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name_menu_description"
+msgid "Messages from vendor to administrator"
+msgstr "Zprávy od prodejce administrátorovi "
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin"
+msgid "Vendor communication"
+msgstr "Komunikace prodejce"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_customer"
+msgid "Customer communication"
+msgstr "Komunikace zákazníka"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin_for_vendor_panel"
+msgid "Admin communication"
+msgstr "Komunikace administrátora"
+
+msgctxt "Languages::vendor_communication.your_message_to_admin"
+msgid "Your message to administrator"
+msgstr "Vaše zpráva administrátorovi"
+
+msgctxt "Languages::vendor_communication.some_threads_have_not_been_created"
+msgid "Some threads have not been created: [count]"
+msgstr "Některá vlákna nebyla vytvořena: [count]"
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "Vaše zpráva byla zaslána na <b>[name]</b>. <br/><br/> Pro zobrazení historie zpráv, prosím, jděte do <a href=\"[thread_url]\">Centra zpráv</a>, jenž se nachází v menu \"Prodejci\""
+
+msgctxt "Languages::vendor_communication.vendor_to_customer.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Customers\" menu."
+msgstr ""
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_list_sent"
+msgid "Your messages have been sent.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "Vaše zprávy byly zaslány na <b>[name]</b>. <br/><br/> Pro zobrazení historie zpráv, prosím, jděte do <a href=\"[thread_url]\">Centra zpráv</a>, jenž se nachází v menu \"Prodejci\""
+
+msgctxt "Languages::privilege_groups.admin_communication"
+msgid "Message center: vendor-to-admin communication"
+msgstr "Centrum zpráv: Komunikace prodejce-administrátor"
+
+msgctxt "Languages::customer_to_admin_communication.event.message_received.name"
+msgid "Customer-to-Admin: New message received"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.start_communication"
+msgid "Start communication"
+msgstr ""
+
+msgctxt "Languages::privilege_groups.order_communication"
+msgid "Message center: communication with customer"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin"
+msgid "Communication with vendor"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_customer"
+msgid "Communication with customer"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin_with_admin"
+msgid "Communication with administrator"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.contact_customer"
+msgid "Contact customer"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.subject"
+msgid "Subject"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.admin"
+msgid "Admin"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.your_message_to_customer"
+msgid "Your message to customer"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.event.order_message_received.name"
+msgid "Order communication: New message received"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.scroll_to_top"
+msgid "Scroll to top"
+msgstr ""
+
+msgctxt "Languages::vendor_communication.send_message"
+msgid "Send message"
+msgstr ""
+

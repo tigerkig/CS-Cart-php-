@@ -1,0 +1,165 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::recaptcha"
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+msgctxt "Addons::description::recaptcha"
+msgid "Adds the support of Google reCAPTCHA to protect your store against bots"
+msgstr "Adds the support of Google reCAPTCHA to protect your store against bots"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_theme"
+msgid "Theme"
+msgstr "Theme"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::light"
+msgid "Light"
+msgstr "Light"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::dark"
+msgid "Dark"
+msgstr "Dark"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_size"
+msgid "Size"
+msgstr "Size"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::normal"
+msgid "Normal"
+msgstr "Normal"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::compact"
+msgid "Compact"
+msgstr "Compact"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_type"
+msgid "Type"
+msgstr "Type"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::image"
+msgid "Image"
+msgstr "Image"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::audio"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_site_key"
+msgid "Site key"
+msgstr "Site key"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_secret"
+msgid "Secret"
+msgstr "Secret"
+
+msgctxt "SettingsSections::recaptcha::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsSections::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "Excluded countries"
+
+msgctxt "SettingsOptions::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "Excluded countries"
+
+msgctxt "Languages::error_validator_recaptcha"
+msgid "Please confirm you are not a robot."
+msgstr "Please confirm you are not a robot."
+
+msgctxt "Languages::recaptcha_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/docs/start\">here</a></b>.</p>"
+msgstr "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/docs/start\">here</a></b>.</p>"
+
+msgctxt "Languages::recaptcha.text_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">here</a></b>.<br>Please note that the add-on currently supports only <b>Google reCAPTCHA v2: Checkbox</b> and <b>Google reCAPTCHA v3</b></p>"
+msgstr "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">here</a></b>.<br>Please note that the add-on currently supports only <b>Google reCAPTCHA v2: Checkbox</b> and <b>Google reCAPTCHA v3</b></p>"
+
+msgctxt "Languages::recaptcha.text_forbidden_countries_notice"
+msgid "<p>Google reCAPTACHA will be disabled for the selected countries. Instead, visitors from those countries will be asked to type a few symbols they see on the screen.</p>"
+msgstr "<p>Google reCAPTACHA will be disabled for the selected countries. Instead, visitors from those countries will be asked to type a few symbols they see on the screen.</p>"
+
+msgctxt "SettingsOptions::recaptcha::information"
+msgid "Information"
+msgstr "Information"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v2_settings"
+msgid "reCAPTCHA v2 settings"
+msgstr "reCAPTCHA v2 settings"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_settings"
+msgid "reCAPTCHA v3 settings"
+msgstr "reCAPTCHA v3 settings"
+
+msgctxt "SettingsOptions::recaptcha::use_for_settings"
+msgid "Antibot settings"
+msgstr "Antibot settings"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_site_key"
+msgid "Site key"
+msgstr "Site key"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_secret"
+msgid "Secret"
+msgstr "Secret"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_success_score"
+msgid "Required rating to pass the check"
+msgstr "Required rating to pass the check"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.9"
+msgid "0.9 (even some humans can't pass)"
+msgstr "0.9 (even some humans can't pass)"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.8"
+msgid "0.8"
+msgstr "0.8"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.7"
+msgid "0.7"
+msgstr "0.7"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.6"
+msgid "0.6"
+msgstr "0.6"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.5"
+msgid "0.5 (recommended value)"
+msgstr "0.5 (recommended value)"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.4"
+msgid "0.4"
+msgstr "0.4"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.3"
+msgid "0.3"
+msgstr "0.3"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.2"
+msgid "0.2"
+msgstr "0.2"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.1"
+msgid "0.1 (bots are welcome)"
+msgstr "0.1 (bots are welcome)"
+
+msgctxt "Languages::recaptcha.error_recaptcha_v3_failed"
+msgid "Sorry, the anti-bot validation has failed. If you're seeing this message, please contact us and let us know about it."
+msgstr "Sorry, the anti-bot validation has failed. If you're seeing this message, please contact us and let us know about it."
+
+msgctxt "Languages::recaptcha.recaptcha_v2"
+msgid "reCAPTCHA v2"
+msgstr "reCAPTCHA v2"
+
+msgctxt "Languages::recaptcha.recaptcha_v3"
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+msgctxt "Languages::recaptcha.none"
+msgid "none"
+msgstr "none"

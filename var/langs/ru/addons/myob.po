@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.13.2/addons/myob.po\n"
+"X-Crowdin-File-ID: 4592\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::myob"
+msgid "MYOB"
+msgstr "MYOB"
+
+msgctxt "Addons::description::myob"
+msgid "Adds the MYOB integration"
+msgstr "Интеграция с сервисом MYOB"
+
+msgctxt "Languages::export_to_myob"
+msgid "Export to MYOB"
+msgstr "Экспорт в MYOB"
+
+msgctxt "SettingsSections::myob::general"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "SettingsOptions::myob::sales_account"
+msgid "Default Sales Account"
+msgstr "Счет продаж по умолчанию"
+
+msgctxt "SettingsOptions::myob::currency"
+msgid "Currency"
+msgstr "Валюта"
+
+msgctxt "SettingsOptions::myob::tax_gst_code"
+msgid "Tax Code / GST Code"
+msgstr "Налоговый код / код GST"
+
+msgctxt "SettingsOptions::myob::freight_tax_gst_code"
+msgid "Freight Tax Code / Freight GST Code"
+msgstr "Грузовой налоговый код  / Грузовой GST код"
+

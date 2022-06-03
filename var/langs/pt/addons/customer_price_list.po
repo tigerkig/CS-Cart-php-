@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.13.2/addons/customer_price_list.po\n"
+"X-Crowdin-File-ID: 4542\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::customer_price_list"
+msgid "Price list for customers"
+msgstr "Lista de preços para clientes"
+
+msgctxt "Addons::description::customer_price_list"
+msgid "Allows customers to download a price list either with all the products, or with the products in their cart."
+msgstr "Permite que os clientes baixem uma lista de preços de todos os produtos ou apenas dos produtos em seus carrinhos."
+
+msgctxt "SettingsSections::customer_price_list::general"
+msgid "General"
+msgstr "Geral"
+
+msgctxt "SettingsSections::customer_price_list::files"
+msgid "Files"
+msgstr "Arquivos"
+
+msgctxt "SettingsOptions::customer_price_list::price_list_fields"
+msgid "Fields"
+msgstr "Campos"
+
+msgctxt "SettingsOptions::customer_price_list::price_list_sorting"
+msgid "Sort by"
+msgstr "Ordenar por"
+
+msgctxt "SettingsOptions::customer_price_list::price_list_group_by_category"
+msgid "Group by category"
+msgstr "Agrupar por categoria"
+
+msgctxt "SettingsOptions::customer_price_list::show_download_link_on_profile"
+msgid "Show download link in \"My Account\""
+msgstr "Exibir link de download em \"Minha conta\""
+
+msgctxt "SettingsOptions::customer_price_list::show_download_link_on_cart"
+msgid "Show download link in the cart"
+msgstr "Exibir link de download no carrinho"
+
+msgctxt "Languages::customer_price_list.attention"
+msgid "Attention"
+msgstr "Atenção"
+
+msgctxt "Languages::customer_price_list.run_price_list_updating_by_cron"
+msgid "Price list generation requires a lot of resources. It's best to generate price lists automatically at certain time intervals.To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron:</a>"
+msgstr "Gerar uma lista de preços requer muitos recursos. Recomendamos que listas de preços sejam geradas automaticamente em certos intervalos de tempo. Para fazer isso, adicione o seguinte comando ao <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+
+msgctxt "Languages::customer_price_list.check_requirements"
+msgid "Price list generation uses the proc_open PHP function. Please make sure this function is available in the CLI mode. To check all the requirements, run the following script in the command line of your server:"
+msgstr "A geração de listas de preços utiliza a função PHP proc_open. Confira se esta função está disponível no modo CLI. Para verificar todos os requisitos, execute o seguinte script na linha de comando do seu servidor:"
+
+msgctxt "Languages::customer_price_list.updated_at"
+msgid "Updated at"
+msgstr ""
+
+msgctxt "Languages::customer_price_list.not_created_yet"
+msgid "Not created yet"
+msgstr "Ainda não criado"
+
+msgctxt "Languages::customer_price_list.enable_generating_price_list"
+msgid "Generate own price list"
+msgstr "Gerar lista de preços própria"
+
+msgctxt "Languages::customer_price_list.tooltip_enable_generating_price_list"
+msgid "If you plan to have different prices for this user group, generate an own price list for it. Otherwise, members of this group will get the common price list available to all customers."
+msgstr "Se você planeja definir preços diferentes para este grupo de usuários, gere uma lista de preços própria para ele. Do contrário, os membros deste grupo receberão a lista de preços comum disponível para todos os clientes."
+
+msgctxt "Languages::customer_price_list.price_list_priority"
+msgid "Price list priority"
+msgstr "Prioridade de lista de preços"
+
+msgctxt "Languages::customer_price_list.tooltip_price_list_priority"
+msgid "Determines which price list a user will get when he or she is a member of multiple groups with own price lists. Such users get the price list that has the highest number in \"Priority\"."
+msgstr "Determina qual lista de preços um usuário receberá quando for membro de diversos grupos com listas de preços próprias. Tais usuários recebem a lista de preços que possui o número mais alto de \"Prioridade\"."
+
+msgctxt "Languages::customer_price_list.price_list_generation_error"
+msgid "Sorry, we couldn't find your price list. Please try again later or contact us and let us know about this problem."
+msgstr "Não conseguimos encontrar a sua lista de preços. Tente novamente mais tarde ou entre em contato conosco e informe-nos sobre este problema."
+
+msgctxt "Languages::customer_price_list.account.download_price_list"
+msgid "Download price list"
+msgstr "Baixar lista de preços"
+
+msgctxt "Languages::customer_price_list.cart.download_price_list"
+msgid "Download price list"
+msgstr "Baixar lista de preços"
+
+msgctxt "Languages::customer_price_list.starting_generate_price_list"
+msgid "[[storefront]]: [[usergroup]]: starting price list generation"
+msgstr "[[storefront]]: [[usergroup]]: iniciando geração de lista de preços"
+
+msgctxt "Languages::customer_price_list.ending_generate_price_list"
+msgid "[[storefront]]: [[usergroup]]: ending price list generation"
+msgstr "[[storefront]]: [[usergroup]]: concluindo geração de lista de preços"
+
+msgctxt "Languages::customer_price_list.generate_price_list_error"
+msgid "[[storefront]]: [[usergroup]]: [error]"
+msgstr "[[storefront]]: [[usergroup]]: [error]"
+

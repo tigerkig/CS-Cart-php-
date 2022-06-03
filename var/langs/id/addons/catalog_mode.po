@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/catalog_mode.po\n"
+"X-Crowdin-File-ID: 4538\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::catalog_mode"
+msgid "Catalog mode"
+msgstr "Mode katalog"
+
+msgctxt "Addons::description::catalog_mode"
+msgid "Allows you to use the store as a product catalog"
+msgstr "Memungkinkan Anda untuk menggunakan toko sebagai Katalog Produk"
+
+msgctxt "Languages::catalog_mode"
+msgid "Catalog Mode"
+msgstr "Modus Katalog"
+
+msgctxt "Languages::text_catalog_mode_zero_price_action_notice"
+msgid "In order that the \"Buy now\" button could be displayed on the product details page, please set \"Zero price action\" as \"Allow customers to add the product to cart\"."
+msgstr "Agar tombol \"Beli sekarang\" dapat ditampilkan pada halaman rincian produk, silakan set \"Aksi harga nol\" sebagai \"Mengizinkan pelanggan untuk menambah produk ke keranjang\"."
+
+msgctxt "Languages::buy_now_url"
+msgid "Buy Now URL"
+msgstr "URL Beli Sekarang"
+
+msgctxt "SettingsSections::catalog_mode::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::catalog_mode::main_store_mode"
+msgid "Store operation mode"
+msgstr "Modus operasi toko"
+
+msgctxt "SettingsOptions::catalog_mode::add_to_cart_empty_buy_now_url"
+msgid "Allow purchasing products with empty Buy Now URL"
+msgstr "Mengizinkan pembelian produk dengan URL Beli Sekarang yang kosong"
+
+msgctxt "SettingsVariants::catalog_mode::main_store_mode::catalog"
+msgid "Catalog"
+msgstr "Katalog"
+
+msgctxt "SettingsVariants::catalog_mode::main_store_mode::store"
+msgid "Store"
+msgstr "Toko"
+

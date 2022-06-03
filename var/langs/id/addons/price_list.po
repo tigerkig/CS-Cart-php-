@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/price_list.po\n"
+"X-Crowdin-File-ID: 4620\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::price_list"
+msgid "Price list"
+msgstr "Daftar Harga"
+
+msgctxt "Addons::description::price_list"
+msgid "Generates configurable price list in PDF or XLS"
+msgstr "Menghasilkan daftar harga yang dapat dikonfigurasi dalam PDF atau XLS"
+
+msgctxt "Languages::price_list"
+msgid "Price list"
+msgstr "Daftar Harga"
+
+msgctxt "Languages::generating_pdf"
+msgid "Generating PDF. Please, be patient..."
+msgstr "Membangkitkan PDF Harap bersabar..."
+
+msgctxt "Languages::generating_xls"
+msgid "Generating XLS. Please, be patient..."
+msgstr "Membangkitkan XLS Harap bersabar..."
+
+msgctxt "Languages::price_list_ziparchive_not_installed"
+msgid "Impossible to create XML price list. Please add zip support in PHP on your server. Follow <a href=\"http://www.php.net/manual/en/zip.installation.php\">http://www.php.net/manual/en/zip.installation.php</a>."
+msgstr "Tidak mungkin membuat daftar harga XML. Silahkan tambahkan dukungan zip di PHP di server anda. Ikuti <a href=\"http://www.php.net/manual/en/zip.installation.php\"> http://www.php.net/manual/en/zip.installation.php </a>."
+
+msgctxt "Languages::price_list.text_select_storefront"
+msgid "To generate a price list, please select storefront first."
+msgstr "Untuk menghasilkan daftar harga, silahkan pilih etalase terlebih dahulu."
+
+msgctxt "Languages::price_list.text_regenerate"
+msgid "<p>If products, categories or selected fields were added or changed, please regenerate a price list:<br />[buttons]</p><p>Generated price lists are available by these links<br/>[links]</p>"
+msgstr "<p>Jika produk, kategori, atau bidang yang dipilih ditambahkan atau diubah, harap memperbaharui daftar harga: < br / >[buttons]</p> <p>Daftar harga Generated tersedia dengan link ini <br/>[links]</p>"
+
+msgctxt "SettingsSections::price_list::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::price_list::price_list_fields"
+msgid "Fields"
+msgstr "Bidang"
+
+msgctxt "SettingsOptions::price_list::price_list_sorting"
+msgid "Sort by"
+msgstr "Sortir dengan"
+
+msgctxt "SettingsOptions::price_list::group_by_category"
+msgid "Group by category"
+msgstr "Kelompokkan berdasarkan kategori"
+
+msgctxt "SettingsOptions::price_list::include_options"
+msgid "Include product options"
+msgstr "Sertakan pilihan produk"
+

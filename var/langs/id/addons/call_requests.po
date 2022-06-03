@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/call_requests.po\n"
+"X-Crowdin-File-ID: 4536\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::call_requests"
+msgid "Call requests"
+msgstr "Permintaan panggilan"
+
+msgctxt "Addons::description::call_requests"
+msgid "Adds the \"Buy now with one click\" and \"Request call\" buttons"
+msgstr ""
+
+msgctxt "SettingsSections::call_requests::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::call_requests::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::call_requests::phone"
+msgid "Rewrite phone"
+msgstr "Menulis ulang telepon"
+
+msgctxt "SettingsOptions::call_requests::phone_prefix_length"
+msgid "Highlight first chars [Deprecated]"
+msgstr "Sorot karakter pertama [Deprecated]"
+
+msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
+msgid "Enable the \"Buy now with one click\" option"
+msgstr "Mengaktifkan opsi \"Beli sekarang dengan satu klik\""
+
+msgctxt "SettingsOptions::call_requests::order_status"
+msgid "Order status"
+msgstr "Status pesanan"
+
+msgctxt "SettingsOptions::call_requests::phone_mask"
+msgid "Phone mask [Deprecated]"
+msgstr "Masker telepon [Deprecated]"
+
+msgctxt "SettingsTooltips::call_requests::phone_mask"
+msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr ""
+
+msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
+msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
+msgstr "Termasuk tanda kurung, Ruang, dll. Digunakan untuk menyoroti kode negara, kode area dan telepon awalan."
+
+msgctxt "SettingsOptions::call_requests::enable_call_requests_for_vendors"
+msgid "Enable call requests for vendors"
+msgstr "Aktifkan permintaan panggilan untuk penjaja"
+
+msgctxt "SettingsTooltips::call_requests::enable_call_requests_for_vendors"
+msgid "This will also replace marketplace contact information with vendors' where necessary."
+msgstr "Ini juga akan menggantikan informasi kontak pasar dengan penjaja jika diperlukan."
+
+msgctxt "Languages::privileges.manage_call_requests"
+msgid "Can edit"
+msgstr "Dapat mengedit"
+
+msgctxt "Languages::privileges.view_call_requests"
+msgid "Can view"
+msgstr "Dapat melihat"
+
+msgctxt "Languages::privilege_groups.call_requests"
+msgid "Call requests"
+msgstr "Permintaan panggilan"
+
+msgctxt "Languages::call_requests"
+msgid "Call requests"
+msgstr "Permintaan panggilan"
+
+msgctxt "Languages::call_requests_menu_description"
+msgid "Manage customer call requests"
+msgstr "Mengelola permintaan panggilan pelanggan"
+
+msgctxt "Languages::call_requests.request_call"
+msgid "Request call"
+msgstr "Permintaan panggilan"
+
+msgctxt "Languages::call_requests.buy_now_with_one_click"
+msgid "Buy now with 1-click"
+msgstr "Beli sekarang dengan 1-klik"
+
+msgctxt "Languages::call_requests.error_validate_call_form"
+msgid "Please enter your email or phone number"
+msgstr "Masukkan Anda email atau nomor telepon"
+
+msgctxt "Languages::call_requests.request_recieved"
+msgid "We have received your request! Our manager will contact you soon."
+msgstr "Kami telah menerima permintaan Anda! Manajer kami akan menghubungi Anda segera."
+
+msgctxt "Languages::call_requests.order_placed"
+msgid "We have received your request! The order #[order_id] has been successfully created. Our manager will contact you soon."
+msgstr "Kami telah menerima permintaan Anda! Urutan #[order_id] telah berhasil dibuat. Manajer kami akan menghubungi Anda segera."
+
+msgctxt "Languages::call_requests.phone_from_settings"
+msgid "Phone from settings"
+msgstr "Telepon dari pengaturan"
+
+msgctxt "Languages::call_requests.enter_phone_or_email_text"
+msgid "Please enter your phone number or email (for our manager to contact you)"
+msgstr "Masukkan nomor telepon atau email (untuk manajer kami untuk menghubungi Anda)"
+
+msgctxt "Languages::call_requests.status.new"
+msgid "New"
+msgstr "Baru"
+
+msgctxt "Languages::call_requests.status.in_progress"
+msgid "In progress"
+msgstr "Sedang berlangsung"
+
+msgctxt "Languages::call_requests.status.completed"
+msgid "Completed"
+msgstr "Selesai"
+
+msgctxt "Languages::call_requests.status.no_answer"
+msgid "No answer"
+msgstr "Tidak ada jawaban"
+
+msgctxt "Languages::call_requests.responsible"
+msgid "Responsible"
+msgstr "Bertanggung jawab"
+
+msgctxt "Languages::call_requests.notes"
+msgid "Notes"
+msgstr "Catatan"
+
+msgctxt "Languages::call_requests.requested_product"
+msgid "Requested product"
+msgstr "Diminta produk"
+
+msgctxt "Languages::call_requests.convenient_time"
+msgid "Convenient time"
+msgstr "Waktu nyaman"
+
+msgctxt "Languages::call_requests.awaiting_call"
+msgid "Awaiting call"
+msgstr "Menunggu panggilan"
+
+msgctxt "Languages::call_requests.order_exists"
+msgid "Order exists"
+msgstr "Ada perintah"
+
+msgctxt "Languages::call_requests.person_name_and_phone"
+msgid "Name and phone"
+msgstr "Nama dan telepon"
+
+msgctxt "Languages::call_requests.no_name_specified"
+msgid "No name specified"
+msgstr "Tidak ada nama yang ditentukan"
+
+msgctxt "Languages::call_requests.use_for_call_requests"
+msgid "Call request and buy now with one click form"
+msgstr "Hubungi permintaan dan beli sekarang dengan satu klik formulir"
+
+msgctxt "Languages::block_call_request"
+msgid "Call request"
+msgstr "Permintaan panggilan"
+
+msgctxt "Languages::block_call_request_description"
+msgid "Store phone number and form for requesting a call"
+msgstr "Menyimpan nomor telepon dan formulir untuk meminta panggilan"
+
+msgctxt "Languages::tmpl_call_request"
+msgid "Call request form"
+msgstr "Formulir permintaan panggilan"
+
+msgctxt "Languages::call_requests.text_call_request"
+msgid "Customer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "[customer] pelanggan adalah <a href=\"[href]\"> menunggu panggilan Anda</a> pada [phone_number]."
+
+msgctxt "Languages::call_requests.text_call_request_call_time"
+msgid "The convenient call time is between [time_from] and [time_to]."
+msgstr "Waktu panggilan nyaman adalah antara [time_from] dan [time_to]."
+
+msgctxt "Languages::call_requests.text_buy_with_one_click_request"
+msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
+msgstr "Сustomer [customer] adalah <a href=\"[href]\"> menunggu panggilan Anda</a> pada [phone_number], mengenai pembelian produk <a href=\"[product_href]\">[product_name]</a>."
+
+msgctxt "Languages::call_requests.error_validator_phone"
+msgid "The phone number in the <b>[field]</b> field is invalid."
+msgstr "Nomor telepon di bidang <b>[field]</b> tidak valid."
+
+msgctxt "Languages::email_template.call_requests_buy_with_one_click"
+msgid "Call requests: buy with one click notification"
+msgstr "Hubungi permintaan: membeli dengan satu klik pemberitahuan"
+
+msgctxt "Languages::email_template.call_requests_call_request"
+msgid "Call requests: call request notification"
+msgstr "Permintaan panggilan: panggilan permintaan pemberitahuan"
+
+msgctxt "Languages::call_request.work_time"
+msgid "Mon-Fr 9a.m.-6p.m."
+msgstr "Mon-Fr 09: 00 - 18: 00."
+
+msgctxt "Languages::call_requests.request_call_request_form"
+msgid "Call requests: request form"
+msgstr "Permintaan panggilan: formulir permintaan"
+
+msgctxt "Languages::call_requests.agreement_text_full_request_call_request_form"
+msgid "<p>We ([company]) will use the data you provide here to contact you regarding your call request or order. That data will remain in our system, visible to our staff (or the relevant vendor), until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Kami ([company]) akan menggunakan data yang anda berikan disini untuk menghubungi anda terkait permintaan atau pesanan panggilan anda. Data tersebut akan tetap ada dalam sistem kami, terlihat oleh staff kami (atau penjaja yang relevan), sampai Anda menarik persetujuan Anda. Jika Anda ingin data pribadi Anda dihapus, kirim email ke [email]. </p> <p>Jika Anda percaya bahwa data pribadi Anda telah disalahgunakan, Anda memiliki hak untuk mengajukan keluhan ke otoritas pengawas. Kami diwajibkan oleh Regulasi Perlindungan Data Umum Uni Eropa untuk memberitahukan anda tentang hal ini; Kami sama sekali tidak berniat menyalahgunakan data Anda.</p>"
+
+msgctxt "Languages::call_requests.agreement_text_short_request_call_request_form"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Saya setuju data pribadi saya <u>diproses sebagai berikut.</u>."
+
+msgctxt "Languages::gdpr_call_requests"
+msgid "Personal data from call requests"
+msgstr "Data pribadi dari permintaan panggilan"
+
+msgctxt "Languages::call_requests.event.request_created.name"
+msgid "Call requests: request created"
+msgstr "Permintaan panggilan: permintaan dibuat"
+
+msgctxt "Languages::call_requests.event.request_about_product_created.name"
+msgid "Call requests: request about product created"
+msgstr "Permintaan panggilan: permintaan tentang produk dibuat"
+

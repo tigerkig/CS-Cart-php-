@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/watermarks.po\n"
+"X-Crowdin-File-ID: 4680\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::watermarks"
+msgid "Watermarks"
+msgstr "Watermark"
+
+msgctxt "Addons::description::watermarks"
+msgid "Allows you to add watermarks to product and category images"
+msgstr "Memungkinkan Anda menambahkan tanda air ke gambar produk dan kategori"
+
+msgctxt "Languages::wt_watermarks"
+msgid "Watermarks"
+msgstr "Tanda air"
+
+msgctxt "Languages::wt_graphic_watermark"
+msgid "Graphic watermark"
+msgstr "Graphic watermark"
+
+msgctxt "Languages::wt_text_watermark"
+msgid "Text watermark"
+msgstr "Teks watermark"
+
+msgctxt "Languages::wt_watermark_vertical_position"
+msgid "Watermark vertical position"
+msgstr "Posisi vertikal watermark"
+
+msgctxt "Languages::wt_watermark_horizontal_position"
+msgid "Watermark horizontal position"
+msgstr "Watermark horizontal position"
+
+msgctxt "Languages::wt_watermark_position"
+msgid "Watermark position"
+msgstr "Posisi watermark"
+
+msgctxt "Languages::wt_watermark_image"
+msgid "Watermark image"
+msgstr "Gambar watermark"
+
+msgctxt "Languages::wt_watermark_text"
+msgid "Watermark text"
+msgstr "Teks tanda air"
+
+msgctxt "Languages::wt_font"
+msgid "Font"
+msgstr "Fon"
+
+msgctxt "Languages::wt_font_color"
+msgid "Font color"
+msgstr "Warna huruf"
+
+msgctxt "Languages::wt_font_size_icon"
+msgid "Font size (thumbnail)"
+msgstr "Ukuran huruf (thumbnail)"
+
+msgctxt "Languages::wt_font_size_detailed"
+msgid "Font size (larger image)"
+msgstr "Ukuran huruf (perbesar gambar)"
+
+msgctxt "Languages::wt_watermark_icon"
+msgid "Thumbnail watermark"
+msgstr "Thumbnail watermark"
+
+msgctxt "Languages::wt_watermark_detailed"
+msgid "Popup larger image watermark"
+msgstr "Popup watermark gambar lebih besar"
+
+msgctxt "Languages::wt_fail_apply_graphic_watermark"
+msgid "Failed to apply the watermark to [image_type]. The watermark image is not added."
+msgstr "Gagal menerapkan watermark ke [image_type]. Gambar watermark tidak ditambahkan."
+
+msgctxt "Languages::wt_icons"
+msgid "thumbnails"
+msgstr "gambar kecil"
+
+msgctxt "Languages::wt_detailed"
+msgid "popup larger images"
+msgstr "popup gambar lebih besar"
+
+msgctxt "Languages::wt_images_access_description"
+msgid "To deny access to your original images, please add the following instructions to the '.htaccess' file in the 'images' directory of your installation. It will protect your original images. Even if an original image is opened, the corresponding watermarked image will be show instead."
+msgstr "Untuk menolak akses ke gambar asli Anda, tambahkan petunjuk berikut ke file 'htaccess' di direktori 'images' instalasi Anda. Ini akan melindungi gambar asli Anda. Bahkan jika gambar asli dibuka, gambar watermark yang sesuai akan ditampilkan."
+
+msgctxt "Languages::wt_watermarks_access_description"
+msgid "To generate watermarked images automatically even if they are requested not from your store pages, please add the '.htaccess' file with the following instructions to the 'images/watermarked' directory of your installation."
+msgstr "Untuk menghasilkan gambar yang diberi watermark secara otomatis meskipun tidak diminta dari halaman toko Anda, tambahkan file '.htaccess' dengan petunjuk berikut ke direktori 'images / watermarked' dari instalasi Anda."
+
+msgctxt "Languages::wt_access_note"
+msgid "Please note, if you disable or uninstall the 'Watermarks' add-on, you should remove these instructions from '.htaccess' files manually. Otherwise category and product images will be unavailable."
+msgstr "Perlu diketahui, jika Anda menonaktifkan atau menghapus add-on 'Watermarks', Anda harus menghapus petunjuk ini dari file 'htaccess' secara manual. Jika tidak, kategori dan gambar produk tidak akan tersedia."
+
+msgctxt "Languages::wt_access_warning"
+msgid "Watermark creating is disabled. If there are any \"Rewrite watermarks rules\" instructions in the \"images/.htaccess\" file, you should remove them manually. Otherwise category and product images will be unavailable."
+msgstr "Pembuatan watermark dinonaktifkan. Jika ada instruksi \"Tulis ulang tanda air\" di file \"images/.htaccess\", Anda harus menghapusnya secara manual. Jika tidak, kategori dan gambar produk tidak akan tersedia."
+
+msgctxt "Languages::wt_images_access_info"
+msgid "Images access"
+msgstr "Akses gambar"
+
+msgctxt "SettingsSections::watermarks::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::watermarks::watermark"
+msgid "Watermark"
+msgstr "Watermark"
+
+msgctxt "SettingsOptions::watermarks::apply_to_product"
+msgid "Product watermarks"
+msgstr "Tanda air produk"
+
+msgctxt "SettingsOptions::watermarks::use_for_product_icons"
+msgid "Resized images"
+msgstr "Gambar yang telah diubah ukurannya"
+
+msgctxt "SettingsOptions::watermarks::use_for_product_detailed"
+msgid "Original size images"
+msgstr "Gambar ukuran asli"
+
+msgctxt "SettingsOptions::watermarks::apply_to_categories"
+msgid "Category watermarks"
+msgstr "Tanda air kategori"
+
+msgctxt "SettingsOptions::watermarks::use_for_category_icons"
+msgid "Resized images"
+msgstr "Gambar yang telah diubah ukurannya"
+
+msgctxt "SettingsOptions::watermarks::use_for_category_detailed"
+msgid "Original size images"
+msgstr "Gambar ukuran asli"
+
+msgctxt "SettingsOptions::watermarks::images_access_info"
+msgid "Images access"
+msgstr "Akses gambar"
+

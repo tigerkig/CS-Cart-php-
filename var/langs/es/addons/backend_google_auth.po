@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /release-4.13.2/addons/backend_google_auth.po\n"
+"X-Crowdin-File-ID: 4522\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::backend_google_auth"
+msgid "Back-End Sign-In via Google"
+msgstr "Inicio de sesión Back-End a través de Google"
+
+msgctxt "Addons::description::backend_google_auth"
+msgid "Replaces the standard back-end sign-in mechanism with authentication via Google accounts."
+msgstr "Reemplaza el inicio de sesión estandar en el panel de administración por autenticación con cuentas de Google."
+
+msgctxt "SettingsOptions::backend_google_auth::credentials"
+msgid "Credentials"
+msgstr "Credenciales"
+
+msgctxt "SettingsOptions::backend_google_auth::backend_google_auth_client_id"
+msgid "Client ID"
+msgstr "Identificación de cliente"
+
+msgctxt "SettingsOptions::backend_google_auth::backend_google_auth_client_secret"
+msgid "Client secret"
+msgstr "Pregunta secreta del cliente"
+
+msgctxt "Languages::backend_google_auth.user_not_found"
+msgid "The <strong>[user]</strong> user not found"
+msgstr "El usuario<strong> [user] </strong>no fue encontrado"
+
+msgctxt "Languages::backend_google_auth.settings.warning"
+msgid "Once you configure this add-on, only administrators with Gmail email addresses will be able to sign in to the Administration panel. If your administrators have non-Google email addresses specified, don't configure the add-on, or else those administrators won't be able to sign in."
+msgstr "Una vez configurado este complemento, solo los administradores con direcciones de correo electrónico de Gmail podrán iniciar sesión en el Panel de Administración. Si sus administradores tienen direcciones de correo especificadas que no son de Google, no configure este complemento o esos administradores no podrán iniciar sesión."
+
+msgctxt "Languages::backend_google_auth.settings.create_new_application"
+msgid "To acquire your client ID and secret create a new application in your Google APIs account."
+msgstr "Para adquirir su ID de cliente y su secreto cree una nueva aplicación en su cuenta de API de Google."
+
+msgctxt "Languages::backend_google_auth.settings.learn_more_about"
+msgid "Learn more about Google APIs"
+msgstr "Obtenga más información sobre las API de Google"
+
+msgctxt "Languages::backend_google_auth.settings.provide_your_credentials"
+msgid "Please provide your Google API credentials"
+msgstr "Por favor, proporcione sus credenciales de la API de Google"
+
+msgctxt "Languages::backend_google_auth.settings.authorized_redirect_uris"
+msgid "Your authorized redirect URIs:"
+msgstr "Sus URI de redireccionamiento autorizados:"
+
+msgctxt "Languages::backend_google_auth.settings.save_and_check_btn"
+msgid "Save and test the sign-in"
+msgstr "Guarde y pruebe el inicio de sesión"
+
+msgctxt "Languages::backend_google_auth.errors.not_configured"
+msgid "Please configure the add-on first"
+msgstr "Por favor, configure primero el complemento"
+
+msgctxt "Languages::backend_google_auth.warnings.only_gmail_address_is_available_to_auth"
+msgid "The \"Back-End Sign-In via Google\" add-on is active. Only administrators with Gmail email addresses will be able to sign in."
+msgstr "El complemento de \"inicio de sesión en el Panel de Administración a través de Google\" está activo. Solo los administradores con direcciones electrónicas de Gmail podrán iniciar sesión."
+
+msgctxt "Languages::backend_google_auth.login_page.help"
+msgid "Please select the email address that was specified for your administrator account."
+msgstr "Por favor, seleccione la dirección electrónica que fue especificada en su cuenta como administrador."
+
+msgctxt "Languages::backend_google_auth.login_page.btn"
+msgid "Sign in with Google"
+msgstr "Inicio de sesión con su cuenta de Google"
+

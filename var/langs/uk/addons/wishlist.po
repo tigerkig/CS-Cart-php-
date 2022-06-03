@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.13.2/addons/wishlist.po\n"
+"X-Crowdin-File-ID: 4682\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::wishlist"
+msgid "Wish List"
+msgstr "Список побажань"
+
+msgctxt "Addons::description::wishlist"
+msgid "Lets customers store items in personal wish lists"
+msgstr "Дозволяє зберігати елементи в особисті списки побажань клієнтів"
+
+msgctxt "Languages::add_to_wishlist"
+msgid "Add to wish list"
+msgstr "Додати до переліку побажань"
+
+msgctxt "Languages::clear_wishlist"
+msgid "Clear wish list"
+msgstr "Очистити список побажань"
+
+msgctxt "Languages::view_wishlist"
+msgid "View wish list"
+msgstr "Переглянути список побажань"
+
+msgctxt "Languages::wishlist_content"
+msgid "Wish list content"
+msgstr "Вміст списоу побажань"
+
+msgctxt "Languages::wishlist"
+msgid "Wish list"
+msgstr "Список побажань"
+
+msgctxt "Languages::wishlist_short"
+msgid "Wish list"
+msgstr "Список побажань"
+
+msgctxt "Languages::wishlist_note"
+msgid "Go to your wishlist"
+msgstr "Перейти на свій список побажань"
+
+msgctxt "Languages::text_failed_gift_certificate_addition"
+msgid "Failed to add the certificate. Make sure the summary amount is not zero."
+msgstr "Не вдалося додати сертифікат. Переконайтеся що в підсумкові не нуль."
+
+msgctxt "Languages::text_gift_cert_added_to_wishlist"
+msgid "The gift certificate has been added to the wish list"
+msgstr "Подарунковий сертифікат було додано в список побажань"
+
+msgctxt "Languages::product_added_to_wl"
+msgid "The product was added to your Wish list"
+msgstr "Продукт був доданий до список побажань"
+
+msgctxt "Languages::product_in_wishlist"
+msgid "This product is already in the wish list"
+msgstr "Цей продукт вже знаходиться в списку побажань"
+
+msgctxt "Languages::wishlist_products"
+msgid "Wish list products"
+msgstr "Продукти списку побажань"
+

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.13.2/addons/rss_feed.po\n"
+"X-Crowdin-File-ID: 4638\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::rss_feed"
+msgid "RSS feed"
+msgstr "Flux RSS"
+
+msgctxt "Addons::description::rss_feed"
+msgid "Generates RSS feeds for products and blog posts"
+msgstr "Generează fluxuri RSS pentru produse și postări de blog"
+
+msgctxt "Languages::rss_feed"
+msgid "RSS feed"
+msgstr "Flux RSS"
+
+msgctxt "Languages::feed_title"
+msgid "Feed title"
+msgstr "Titlul feedului"
+
+msgctxt "Languages::feed_description"
+msgid "Feed description"
+msgstr "Descrierea feedului"
+
+msgctxt "Languages::rss_sort_by"
+msgid "Sort items by"
+msgstr "Sortați articolele după"
+
+msgctxt "Languages::rss_display_sku"
+msgid "Display SKU"
+msgstr "Afișați SKU"
+
+msgctxt "Languages::rss_display_image"
+msgid "Display image"
+msgstr "Afișați imaginea"
+
+msgctxt "Languages::rss_display_price"
+msgid "Display gross price"
+msgstr "Afișați prețul brut"
+
+msgctxt "Languages::rss_display_original_price"
+msgid "Display net price"
+msgstr "Afișați prețul net"
+
+msgctxt "Languages::rss_display_add_to_cart"
+msgid "Display add to cart button"
+msgstr "Afișați butonul Adăugare la coș"
+
+msgctxt "Languages::rss_created"
+msgid "Created"
+msgstr "Creare"
+
+msgctxt "Languages::rss_updated"
+msgid "Updated"
+msgstr "Actualizare"
+
+msgctxt "Languages::block_rss_feed"
+msgid "RSS feed"
+msgstr "Flux RSS"
+
+msgctxt "Languages::block_rss_feed_description"
+msgid "RSS feed subscription icon"
+msgstr "Pictogramă abonament flux RSS"
+
+msgctxt "SettingsSections::rss_feed::general"
+msgid "General"
+msgstr ""
+
+msgctxt "SettingsOptions::rss_feed::managing_editor"
+msgid "Content editor"
+msgstr "Editor de conținut"
+
+msgctxt "SettingsOptions::rss_feed::display_rss_feed_in_category"
+msgid "Show RSS feed for each category"
+msgstr "Afișați flux RSS pentru fiecare categorie"
+
+msgctxt "SettingsOptions::rss_feed::category_max_products_items"
+msgid "Max product number per category"
+msgstr "Numărul maxim de produs pe categorie"
+
+msgctxt "SettingsTooltips::rss_feed::managing_editor"
+msgid "Enter the content editor's email and real name, e.g. john@example.com (John Doe)"
+msgstr "Introduceți adresa de e-mail și numele real al editorului de conținut, de ex. john@example.com (John Doe) "
+
+msgctxt "SettingsTooltips::rss_feed::display_rss_feed_in_category"
+msgid "RSS icon near category title."
+msgstr "Pictogramă RSS lângă titlul categoriei."
+
+msgctxt "Languages::addons.rss_feed.icon"
+msgid "RSS feed subscription icon"
+msgstr "Pictogramă abonament flux RSS"
+

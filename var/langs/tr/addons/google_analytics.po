@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /release-4.13.2/addons/google_analytics.po\n"
+"X-Crowdin-File-ID: 4568\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::google_analytics"
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgctxt "Addons::description::google_analytics"
+msgid "Integrates a Google Analytics service with the store"
+msgstr "Bir Google Analytics hizmetini mağazaya entegre eder"
+
+msgctxt "SettingsSections::google_analytics::general"
+msgid "General"
+msgstr "Genel"
+
+msgctxt "SettingsOptions::google_analytics::tracking_code"
+msgid "Google Analytics account number"
+msgstr "Google Analytics hesap numarası"
+
+msgctxt "SettingsOptions::google_analytics::track_ecommerce"
+msgid "Track e-commerce transactions"
+msgstr "E-ticaret işlemlerini takip edin"
+

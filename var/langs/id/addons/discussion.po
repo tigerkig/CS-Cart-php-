@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/discussion.po\n"
+"X-Crowdin-File-ID: 4550\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::discussion"
+msgid "Comments and reviews"
+msgstr "Komentar dan ulasan"
+
+msgctxt "Addons::description::discussion"
+msgid "Lets customers leave comments to categories, pages, etc., review vendors and write testimonials"
+msgstr ""
+
+msgctxt "Languages::use_for_discussion"
+msgid "Comments and reviews forms"
+msgstr "Bentuk komentar dan ulasan"
+
+msgctxt "Languages::comments_and_reviews_menu_description"
+msgid "Customer comments and reviews on products, categories, orders, etc."
+msgstr "Pelanggan komentar dan ulasan pada produk, kategori, perintah, dll."
+
+msgctxt "Languages::discussion_title_category"
+msgid "Reviews"
+msgstr "Ulasan"
+
+msgctxt "Languages::discussion_title_giftreg"
+msgid "Guestbook"
+msgstr "Buku tamu"
+
+msgctxt "Languages::discussion_title_home_page_menu_description"
+msgid "Manage the testimonials from your store visitors."
+msgstr "Mengelola testimonial dari pengunjung toko Anda."
+
+msgctxt "Languages::discussion_title_order"
+msgid "Communication"
+msgstr "Komunikasi"
+
+msgctxt "Languages::discussion_title_page"
+msgid "Comments"
+msgstr "Komentar"
+
+msgctxt "Languages::discussion_title_product"
+msgid "Reviews"
+msgstr "Ulasan"
+
+msgctxt "Languages::discussion_title_return"
+msgid "Communication"
+msgstr "Komunikasi"
+
+msgctxt "Languages::no_posts_found"
+msgid "No posts found"
+msgstr "Tidak ada posting yang ditemukan"
+
+msgctxt "Languages::your_rating"
+msgid "Your rating"
+msgstr "Rating Anda"
+
+msgctxt "Languages::comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "Komentar dan ulasan"
+
+msgctxt "Languages::discussion_title_home_page"
+msgid "Testimonials"
+msgstr "Testimonial"
+
+msgctxt "Languages::text_enabled_testimonials_notice"
+msgid "Testimonials are disabled. To enable, please go to <a href=\"[link]\">Comments and reviews: options</a> and select the \"Communication\", \"Rating\" or \"Communication and Rating\" value in \"Testimonials\" field."
+msgstr "Testimonial dinonaktifkan. Untuk mengaktifkan, silahkan pergi ke <a href=\"[link]\"> komentar dan ulasan: pilihan</a> dan pilih nilai \"Komunikasi\", \"Rating\" atau \"Komunikasi dan Rating\" di bidang \"Testimonial\"."
+
+msgctxt "Languages::discussion_title_company"
+msgid "Reviews"
+msgstr "Ulasan"
+
+msgctxt "Languages::communication_and_rating"
+msgid "Communication and Rating"
+msgstr "Komunikasi dan Penilaian"
+
+msgctxt "Languages::communication"
+msgid "Communication"
+msgstr "Komunikasi"
+
+msgctxt "Languages::rating"
+msgid "Rating"
+msgstr "Peringkat"
+
+msgctxt "Languages::cant_find_thread"
+msgid "Thread can not be found."
+msgstr "Thread tidak dapat ditemukan."
+
+msgctxt "Languages::error_already_posted"
+msgid "You have posted in this discussion already"
+msgstr "Anda telah diposting di diskusi ini sudah"
+
+msgctxt "Languages::text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "Terima kasih atas posting Anda"
+
+msgctxt "Languages::text_post_pended"
+msgid "Your post will be checked before it gets published."
+msgstr "Posting Anda akan diperiksa sebelum mendapat diterbitkan."
+
+msgctxt "Languages::discussion"
+msgid "Comments and reviews"
+msgstr "Komentar dan ulasan"
+
+msgctxt "Languages::text_new_post_notification"
+msgid "This is a notification of a new post to"
+msgstr "Ini adalah pemberitahuan dari post baru"
+
+msgctxt "Languages::text_approval_notice"
+msgid "This post needs approving"
+msgstr "Post ini perlu persetujuan"
+
+msgctxt "Languages::latest_reviews"
+msgid "Latest comments & reviews"
+msgstr "Komen & ulasan terakhir"
+
+msgctxt "Languages::comment_by"
+msgid "Comment by"
+msgstr "Dikomentari oleh"
+
+msgctxt "Languages::and"
+msgid "and"
+msgstr "dan"
+
+msgctxt "Languages::add_post"
+msgid "Add post"
+msgstr "Tambahkan post"
+
+msgctxt "Languages::not_approved"
+msgid "Not approved"
+msgstr "Tidak diterima"
+
+msgctxt "Languages::discussion_manager"
+msgid "Comments and reviews"
+msgstr "Komen dan ulasan"
+
+msgctxt "Languages::testimonials"
+msgid "Testimonials"
+msgstr "Testimoni"
+
+msgctxt "Languages::privileges.view_discussions"
+msgid "Can view"
+msgstr "Dapat melihat"
+
+msgctxt "Languages::privileges.manage_discussions"
+msgid "Can edit"
+msgstr "Dapat mengedit"
+
+msgctxt "Languages::privilege_groups.discussions"
+msgid "Comments and reviews"
+msgstr "Komentar dan ulasan"
+
+msgctxt "Languages::block_testimonials"
+msgid "Testimonials"
+msgstr "Testimoni"
+
+msgctxt "Languages::block_testimonials_description"
+msgid "User testimonials"
+msgstr "Testimoni pengguna"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Urutkan berdasarkan penilaian: Rendah ke Tinggi"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "Urutkan berdasarkan penilaian"
+
+msgctxt "Languages::reviews"
+msgid "review|reviews"
+msgstr "ulasan|ulasan"
+
+msgctxt "Languages::write_review"
+msgid "Write a review"
+msgstr "Tulis ulasan"
+
+msgctxt "SettingsSections::discussion::products"
+msgid "Products"
+msgstr "Produk"
+
+msgctxt "SettingsSections::discussion::categories"
+msgid "Categories"
+msgstr "Kategori"
+
+msgctxt "SettingsSections::discussion::orders"
+msgid "Orders"
+msgstr "Pesanan"
+
+msgctxt "SettingsSections::discussion::pages"
+msgid "Pages"
+msgstr "Halaman"
+
+msgctxt "SettingsSections::discussion::testimonials"
+msgid "Testimonials"
+msgstr "Testimoni"
+
+msgctxt "SettingsSections::discussion::companies"
+msgid "Vendors"
+msgstr "Penjaja"
+
+msgctxt "SettingsOptions::discussion::product_posts_per_page"
+msgid "Posts per page"
+msgstr "Post per halaman"
+
+msgctxt "SettingsOptions::discussion::product_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Administrator harus menyetujui post yang diajukan oleh"
+
+msgctxt "SettingsOptions::discussion::product_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Hanya satu pos dari satu IP yang diizinkan"
+
+msgctxt "SettingsOptions::discussion::product_share_discussion"
+msgid "Share discussions with all stores"
+msgstr "Bagikan diskusi dengan semua toko"
+
+msgctxt "SettingsTooltips::discussion::product_share_discussion"
+msgid "Show all comments and reviews of a product on all storefronts that the product is shared with"
+msgstr "Tampilkan semua komentar dan ulasan produk di semua etalase tempat produk dibagikan"
+
+msgctxt "SettingsOptions::discussion::category_posts_per_page"
+msgid "Posts per page"
+msgstr "Posting per halaman"
+
+msgctxt "SettingsOptions::discussion::category_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Administrator harus menyetujui posting yang disampaikan oleh"
+
+msgctxt "SettingsOptions::discussion::category_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Hanya satu pos dari satu IP yang diizinkan"
+
+msgctxt "SettingsOptions::discussion::order_posts_per_page"
+msgid "Posts per page"
+msgstr "Posting per halaman"
+
+msgctxt "SettingsOptions::discussion::order_initiate"
+msgid "Allow customer to initiate discussion"
+msgstr "Izinkan pelanggan untuk memulai diskusi"
+
+msgctxt "SettingsOptions::discussion::page_posts_per_page"
+msgid "Posts per page"
+msgstr "Posting per halaman"
+
+msgctxt "SettingsOptions::discussion::page_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Administrator harus menyetujui posting yang disampaikan oleh"
+
+msgctxt "SettingsOptions::discussion::page_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Hanya satu pos dari satu IP yang diizinkan"
+
+msgctxt "SettingsOptions::discussion::page_share_discussion"
+msgid "Share discussions with all stores"
+msgstr "Bagikan diskusi dengan semua toko"
+
+msgctxt "SettingsTooltips::discussion::page_share_discussion"
+msgid "Show all comments and reviews of a page on all storefronts that the page is shared with"
+msgstr "Tampilkan semua komentar dan ulasan halaman di semua etalase yang dibagikan halaman"
+
+msgctxt "SettingsOptions::discussion::home_page_posts_per_page"
+msgid "Posts per page"
+msgstr "Posting per halaman"
+
+msgctxt "SettingsOptions::discussion::home_page_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Administrator harus menyetujui posting yang disampaikan oleh"
+
+msgctxt "SettingsOptions::discussion::home_page_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Hanya satu pos dari satu IP yang diizinkan"
+
+msgctxt "SettingsOptions::discussion::home_page_testimonials"
+msgid "Testimonials"
+msgstr "Testimonial"
+
+msgctxt "SettingsOptions::discussion::testimonials_from_all_stores"
+msgid "Show testimonials from all stores"
+msgstr "Tampilkan testimonial dari semua toko"
+
+msgctxt "SettingsOptions::discussion::product_discussion_type"
+msgid "Default value"
+msgstr "Nilai default"
+
+msgctxt "SettingsTooltips::discussion::product_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "Menentukan jika komentar dan/atau ulasan diperbolehkan untuk produk-produk baru. Tidak mempengaruhi produk yang sudah ada."
+
+msgctxt "SettingsOptions::discussion::product_review_after_purchase"
+msgid "Only buyers can post"
+msgstr "Hanya Pembeli Dapat Memposting"
+
+msgctxt "SettingsTooltips::discussion::product_review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "Memungkinkan meninggalkan ulasan untuk produk hanya kepada mereka yang membeli produk tersebut."
+
+msgctxt "SettingsOptions::discussion::category_discussion_type"
+msgid "Default value"
+msgstr "Nilai default"
+
+msgctxt "SettingsTooltips::discussion::category_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created categories. Doesn't affect existing categories."
+msgstr "Menentukan jika komentar dan/atau ulasan diperbolehkan untuk produk-produk baru. Tidak mempengaruhi produk yang sudah ada."
+
+msgctxt "SettingsOptions::discussion::page_discussion_type"
+msgid "Default value"
+msgstr "Nilai default"
+
+msgctxt "SettingsTooltips::discussion::page_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created pages. Doesn't affect existing pages."
+msgstr "Menentukan jika komentar dan/atau ulasan diperbolehkan untuk produk-produk baru. Tidak mempengaruhi produk yang sudah ada."
+
+msgctxt "SettingsOptions::discussion::company_discussion_type"
+msgid "Reviews"
+msgstr "Ulasan"
+
+msgctxt "SettingsOptions::discussion::company_only_buyers"
+msgid "Only buyers can post"
+msgstr "Hanya Pembeli Dapat Memposting"
+
+msgctxt "SettingsTooltips::discussion::company_only_buyers"
+msgid "Allow leaving reviews for a vendor only to those who bought products from that vendor."
+msgstr "Memperbolehkan vendor untuk memberi ulasan kepada pembeli yang membeli produk dari vendor tersebut."
+
+msgctxt "SettingsOptions::discussion::company_posts_per_page"
+msgid "Posts per page"
+msgstr "Posting per halaman"
+
+msgctxt "SettingsOptions::discussion::company_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Administrator harus menyetujui posting yang disampaikan oleh"
+
+msgctxt "SettingsOptions::discussion::company_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Hanya satu pos dari satu IP yang diizinkan"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::any"
+msgid "Any customer"
+msgstr "Setiap pelanggan"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Hanya pelanggan anonim"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Tidak ada persetujuan yang dibutuhkan"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::any"
+msgid "Any customer"
+msgstr "Setiap pelanggan"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Hanya pelanggan anonim"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Tidak ada persetujuan yang dibutuhkan"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::any"
+msgid "Any customer"
+msgstr "Setiap pelanggan"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Hanya pelanggan anonim"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Tidak ada persetujuan yang dibutuhkan"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::any"
+msgid "Any customer"
+msgstr "Setiap pelanggan"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Hanya pelanggan anonim"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Tidak ada persetujuan yang dibutuhkan"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::any"
+msgid "Any customer"
+msgstr "Setiap pelanggan"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Hanya pelanggan anonim"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Tidak ada persetujuan yang dibutuhkan"
+
+msgctxt "Languages::discussion_tab_products"
+msgid "Product Reviews"
+msgstr "Ulasan Produk"
+
+msgctxt "Languages::discussion_tab_categories"
+msgid "Category Reviews"
+msgstr "Kategori ulasan"
+
+msgctxt "Languages::discussion_tab_pages"
+msgid "Page Comments"
+msgstr "Halaman komentar"
+
+msgctxt "Languages::discussion_tab_orders"
+msgid "Order Communication"
+msgstr "Urutan komunikasi"
+
+msgctxt "Languages::discussion_tab_home_page"
+msgid "Testimonials"
+msgstr "Testimonial"
+
+msgctxt "Languages::discussion_tab_companies"
+msgid "Company Reviews"
+msgstr "Ulasan Perusahaan"
+
+msgctxt "Languages::email_template.discussion_notification"
+msgid "Comments and reviews notification"
+msgstr "Pemberitahuan komentar dan ulasan"
+
+msgctxt "Languages::show_rating"
+msgid "Show review rating"
+msgstr "Tampilkan ulasan penilaian"
+
+msgctxt "Languages::gdpr_discussions_data"
+msgid "Personal data from discussions"
+msgstr "Data pribadi dari diskusi"
+
+msgctxt "Languages::discussion.add_new_review"
+msgid "Discussion: new review"
+msgstr "Diskusi: ulasan baru"
+
+msgctxt "Languages::discussion.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>nama Anda akan muncul di sebelah review atau komentar, terlihat oleh semua orang. Kami ([perusahaan]) juga menyimpan alamat IP sebagai tindakan pencegahan keamanan, tetapi di hanya dapat dilihat oleh manajemen kami. Pengaturan tersebut akan tetap dalam sistem kami sampai Anda menarik persetujuan Anda. Jika Anda ingin data pribadi Anda dihapus, kirim email ke [email]. </p> <p>jika Anda percaya bahwa data pribadi Anda telah disalahgunakan, Anda memiliki hak untuk mengajukan keluhan ke otoritas pengawas. Kami diwajibkan oleh Regulasi Perlindungan Data Umum Uni Eropa untuk memberitahukan anda tentang hal ini; Kami sama sekali tidak berniat menyalahgunakan data Anda.</p>"
+
+msgctxt "Languages::discussion.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Saya setuju untuk memiliki data pribadi saya <u>diproses sebagai berikut.</u>"
+
+msgctxt "Languages::discussion.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "Silahkan \"sign in\" untuk menulis ulasan"
+
+msgctxt "Languages::discussion.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "Anda tidak bisa menulis review untuk produk ini. Pelanggan dapat menuliskan ulasan hanya untuk produk-produk yang mereka beli. Jika Anda benar-benar membeli produk ini dari kami, namun masih melihat pesan ini, silahkan hubungi kami."
+
+msgctxt "Languages::discussion.you_have_to_buy_from_vendor_before_writing_review"
+msgid "You can't write a review for this vendor. Customers can write reviews for a vendor only after they buy something from that vendor. If you actually placed an order with this vendor, but are still seeing this message, please contact us."
+msgstr "Anda tidak dapat memberi ulasan untuk vendor ini. Pelanggan hanya dapat memberi ulasan setelah membeli dari vendor terkait. Jika Anda telah melakukan pemesanan namun masih melhat pesan ini, silakan hubungi kami."
+
+msgctxt "Languages::discussion.anonymous_setting_restored_upgrade_notification_title"
+msgid "Comments and reviews add-on settings were changed"
+msgstr "Pengaturan add-on komentar dan ulasan telah dirubah"
+
+msgctxt "Languages::discussion.anonymous_setting_restored_upgrade_notification"
+msgid "In the 4.9.1 version the <strong>Only anonymous customers</strong> variant of the <strong>Administrator must approve posts submitted by</strong> setting was removed. Now, it is available again, with the ability to leave reviews for nonauthorized customers. Please check if the desirable value of the setting is selected."
+msgstr "Dalam versi 4.9.1 <strong>hanya pelanggan anonim</strong> <strong>Admin harus menyetujui posting yang dikirimkan oleh</strong> pengaturan dihapus. Sekarang, hal ini tersedia lagi dimana ulasan dapat diberikan pelanggan yang tidak terdaftar. Mohon Periksa jika nilai yang diinginkan pada pengaturan telah di pilih."
+
+msgctxt "Languages::discussion.event.products.new_post"
+msgid "Products: new review posted"
+msgstr "Produk: ulasan baru telah diunggah"
+
+msgctxt "Languages::discussion.event.testimonials.new_post"
+msgid "Testimonials: new review posted"
+msgstr "Testimonial: ulasan baru diunggah"
+
+msgctxt "Languages::discussion.event.orders.new_post"
+msgid "Order communication: new message added"
+msgstr "Komunikasi pesanan: pesan baru ditambahkan"
+
+msgctxt "Languages::discussion.event.categories.new_post"
+msgid "Categories: new review posted"
+msgstr "Kategori: ulasan baru diunggah"
+
+msgctxt "Languages::discussion.event.pages.new_post"
+msgid "Pages: new comment posted"
+msgstr "Halaman: komentar baru diunggah"
+
+msgctxt "Languages::discussion.event.vendors.new_post"
+msgid "Vendors: new review posted"
+msgstr "Penjual: ulasan baru diunggah"
+

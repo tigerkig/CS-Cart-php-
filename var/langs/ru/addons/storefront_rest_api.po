@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.13.2/addons/storefront_rest_api.po\n"
+"X-Crowdin-File-ID: 4652\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::storefront_rest_api"
+msgid "Storefront REST API"
+msgstr "REST API для витрины"
+
+msgctxt "Addons::description::storefront_rest_api"
+msgid "Provides REST API entities"
+msgstr "Добавляет сущности REST API"
+
+msgctxt "SettingsSections::storefront_rest_api::general"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "SettingsOptions::storefront_rest_api::access_key"
+msgid "Access key"
+msgstr "Ключ доступа"
+
+msgctxt "Languages::storefront_rest_api.guests_cant_add_products_to_cart"
+msgid "Guests can't add products to cart. Please log in to your account to add products to cart."
+msgstr "Гости не могут добавлять товары в корзину. Чтобы добавить товары в корзину, войдите в свою учётную запись."
+

@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.13.2/addons/bulk_add_to_cart.po\n"
+"X-Crowdin-File-ID: 4532\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::bulk_add_to_cart"
+msgid "Add products to cart in bulk"
+msgstr "Přidat produkty do košíku hromadně"
+
+msgctxt "Addons::description::bulk_add_to_cart"
+msgid "Allows customers to quickly add a large number of products to the cart from the catalog."
+msgstr "Dovoluje uživatelům rychle přidat velké množství produktů do košíku z katalogu produktů."
+
+msgctxt "Languages::bulk_add_to_cart.install_text"
+msgid "<b>Product list default view</b> has been set to <b>\"Compact list\"</b>. The <b>\"Grid\"</b> and <b>\"List without options\"</b> product list views are no longer available."
+msgstr "<b>Základní zobrazení seznamu produktů</b> bylo nastaveno na <b>\"Kompaktní seznam\"</b>. <b>\"Mřížka\"</b> a <b>\"Seznam bez možností\"</b> produktové seznamy již nejsou dostupné."
+
+msgctxt "Languages::bulk_add_to_cart.short_list_warning_install"
+msgid "The <b>Compact list</b> view is not available. Compact list is required for the add-on to work."
+msgstr "<b>Kompaktní seznam</b> již není dostupný. Kompaktní seznam je potřebný k práci doplňku. "
+
+msgctxt "Languages::bulk_add_to_cart.add_selected_products_to_cart"
+msgid "Add selected to cart <bdi>(<span [attr]>[number]</span>)</bdi>"
+msgstr "Přidat vybrané do košíku <bdi><span [attr]><span [attr]>[number]</span></bdi>"
+

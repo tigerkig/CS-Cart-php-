@@ -1,0 +1,41 @@
+.update-for-all {
+    display: inline-flex;
+    height: 100%;
+
+    &__icon {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 28px;
+        height: 100%;
+        min-height: 32px;
+        line-height: 32px;
+        box-sizing: content-box;
+
+        &:not(.visible):before {
+            opacity: 0.5;
+        }
+
+        .ui-widget-content & {
+            &:hover,
+            &:focus {
+                text-decoration: none;
+            }
+        }
+    }
+
+    &--absolute,
+    .controls &:not(&--static) {
+        position: absolute;
+        top: 0;
+        right: 0;
+        height: auto;
+        margin-right: 5px;
+        z-index: 9;
+        .user-select(none);
+    }
+
+    a[class*=" icon-"]&__icon:not(.hidden) {
+        display: inline-flex;
+    }
+}

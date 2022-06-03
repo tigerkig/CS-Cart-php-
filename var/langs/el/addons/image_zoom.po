@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.13.2/addons/image_zoom.po\n"
+"X-Crowdin-File-ID: 4582\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::image_zoom"
+msgid "Image zoom"
+msgstr "Μεγέθυνση Εικόνας"
+
+msgctxt "Addons::description::image_zoom"
+msgid "Shows zoomed image on product image hover"
+msgstr "Εμφανίζει μεγεθυμένη εικόνα στην κατάδειξη (hover) στην εικόνα του προϊόντος"
+
+msgctxt "SettingsSections::image_zoom::general"
+msgid "General"
+msgstr "Γενικά"
+
+msgctxt "SettingsOptions::image_zoom::cz_animation_time"
+msgid "Animation time"
+msgstr "Χρόνο Κίνησης"
+
+msgctxt "SettingsOptions::image_zoom::cz_zoom_position"
+msgid "Zoom position"
+msgstr "Θέση Μεγέθυνσης"
+
+msgctxt "SettingsTooltips::image_zoom::cz_animation_time"
+msgid "Duration of the animation effects in milliseconds."
+msgstr "Διάρκεια του εφέ κίνησης σε χιλιοστά του δευτερολέπτου."
+
+msgctxt "SettingsTooltips::image_zoom::cz_zoom_position"
+msgid "Specifies position of zoom window."
+msgstr "Καθορίζει τη θέση του παραθύρου ζουμ."
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::3"
+msgid "Upper right corner"
+msgstr "Πάνω δεξιά γωνία"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::5"
+msgid "Bottom right corner"
+msgstr "Κάτω δεξιά γωνία"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::11"
+msgid "Bottom left corner"
+msgstr "Κάτω αριστερή γωνία"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::13"
+msgid "Upper left corner"
+msgstr "Άνω αριστερή γωνία"
+
+msgctxt "Languages::image_zoom.rework_update_notification.title"
+msgid "Image Zoom add-on reworked"
+msgstr "Επανεπεξεργασμένο Image Zoom add-on"
+
+msgctxt "Languages::image_zoom.rework_update_notification.message"
+msgid "<p>We reworked the <b>Image zoom</b> add-on, because it used a third-party solution incompatible with modern versions of jQuery. As a result of the rework, some settings of the add-on were removed.</p><p>Please check how the image zoom looks on the product pages now. If you'd like to make any changes to the looks, adjust the settings of the <b>Image zoom</b> add-on.</p><p><a href=\"[image_zoom_settings]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Check Image Zoom settings</a></p>"
+msgstr "<p> Επεξεργαστήκαμε το πρόσθετο <b> Image zoom </ b>, επειδή χρησιμοποιούσε μια λύση τρίτων ασύμβατη με τις σύγχρονες εκδόσεις του jQuery. Ως αποτέλεσμα του επανασχεδιασμού, ορισμένες ρυθμίσεις του πρόσθετου καταργήθηκαν. </p> <p> Ελέγξτε πώς φαιενται το ζουμ εικόνας στις σελίδες προϊόντων τώρα. Αν θέλετε να κάνετε αλλαγές στην εμφάνιση, προσαρμόστε τις ρυθμίσεις του πρόσθετου <b> Σμίκρυνση εικόνας </ b>. </p> <p> <a href = \"[image_zoom_settings]\" target = _blank \"class =\" btn btn-large btn-primary \"> Ελέγξτε τις ρυθμίσεις μεγέθυνσης εικόνας </a> </ p>"
+

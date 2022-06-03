@@ -1,0 +1,118 @@
+.search {
+    margin-right: 6px;
+}
+
+.search__form {
+    margin: 0;
+}
+
+.search__group {
+    display: flex;
+    margin: 0;
+    padding: 7px 0 6px 0;
+}
+
+input[type="text"].search__input {
+    margin: 0;
+    border-right: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.search__button {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    font-family: FontAwesome;
+
+    &:before {
+        content: "\f002";   // icon-search
+        pointer-events: none;
+    }
+}
+
+// Tablet search
+@media (max-width: @DesktopBreakpoint) {
+
+    .search__input {
+        max-width: 0;
+        border-radius: @baseBorderRadius 0 0 @baseBorderRadius;
+
+        input[type="text"]& {
+            padding-left: 0;
+            padding-right: 0;
+            border-right: 0;
+            transition: all 300ms;
+            
+            &:not(:focus) {
+                border-color: transparent;
+    
+                + .search__button {
+                    border-top-left-radius: @baseBorderRadius;
+                    border-bottom-left-radius: @baseBorderRadius;
+                }
+            }
+        }
+    }
+
+    .search__input:focus {
+        max-width: 200px;
+    }
+
+    input[type="text"].search__input:focus {
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+
+    // Open searchbox instead of start search.
+    .search__input:not(:focus) + .search__button:not(:active) {
+        pointer-events: none;
+    }
+}
+
+// Mobile search
+.search-mobile {
+
+    &-group {
+        margin-right: 5px;
+    }
+    .btn i&-icon {
+        color: @mainColor;
+    }
+    button&-button {
+        border-color: transparent;
+    }
+    button&-back {
+        right: auto;
+        border-color: transparent;
+    }
+    &-block {
+        position: absolute;
+        z-index: 10;
+        top: 0;
+        left: 0;
+        width: ~"calc(100% - 10px)";
+        margin-top: 7px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    label input&-input {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    &-label {
+        height: 100%;
+    }
+    &-back,
+    &-button {
+        position: absolute;
+        height: 32px;
+        right: 0;
+        width: 34px;
+        z-index: 5;
+        border: 0;
+        background-color: transparent;
+        border-left: 1px solid #d3dbe2;
+        color: @mainColor;
+        border-radius: 0 4px 4px 0;
+    }
+}

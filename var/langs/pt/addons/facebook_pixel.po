@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.13.2/addons/facebook_pixel.po\n"
+"X-Crowdin-File-ID: 4558\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::facebook_pixel"
+msgid "Facebook Pixel"
+msgstr "Pixel do Facebook"
+
+msgctxt "Addons::description::facebook_pixel"
+msgid "Integrates a Facebook Pixel with the store"
+msgstr "Integra um pixel do Facebook com a loja"
+
+msgctxt "SettingsSections::facebook_pixel::general"
+msgid "General"
+msgstr "Geral"
+
+msgctxt "SettingsOptions::facebook_pixel::pixel_id"
+msgid "Facebook Pixel Identifier"
+msgstr "Identificador do pixel do Facebook"
+
+msgctxt "SettingsOptions::facebook_pixel::track_all_page_views"
+msgid "Track all page views"
+msgstr "Rastrear todas as visualizações da página"
+
+msgctxt "SettingsOptions::facebook_pixel::track_add_to_cart"
+msgid "Track adding product to cart"
+msgstr "Rastrear adição de produto ao carrinho"
+
+msgctxt "SettingsOptions::facebook_pixel::track_order_placed"
+msgid "Track placing order"
+msgstr "Rastrear criação de pedido"
+

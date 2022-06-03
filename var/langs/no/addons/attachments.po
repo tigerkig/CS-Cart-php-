@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Norwegian\n"
+"Language: no_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: no\n"
+"X-Crowdin-File: /release-4.13.2/addons/attachments.po\n"
+"X-Crowdin-File-ID: 4520\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "Vedlegg"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "Gjør det mulig å legge med vedlegg til produkter"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "Vedlegg"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "Nytt vedlegg"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "Legg til vedlegg"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "Redigerer vedlegg"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr ""
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr ""
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr ""
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr ""
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr ""
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr ""
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr ""
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr ""
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr ""
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr ""
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr ""
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr ""
+

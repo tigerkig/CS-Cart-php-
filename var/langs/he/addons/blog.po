@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/blog.po\n"
+"X-Crowdin-File-ID: 4530\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::blog"
+msgid "Blog"
+msgstr "בלוג"
+
+msgctxt "Addons::description::blog"
+msgid "Lets you start your blog easily"
+msgstr "מאפשר לך להפעיל את הבלוג שלך בקלות"
+
+msgctxt "Languages::blog_menu_description"
+msgid "Manage your blog posts."
+msgstr "נהל את הפוסטים בבלוג שלך."
+
+msgctxt "Languages::blog.new_post"
+msgid "New blog post"
+msgstr "פוסט חדש בבלוג"
+
+msgctxt "Languages::blog.editing_post"
+msgid "Editing blog post"
+msgstr "עריכת פוסט בבלוג"
+
+msgctxt "Languages::blog"
+msgid "Blog"
+msgstr "בלוג"
+
+msgctxt "Languages::blog.add_post"
+msgid "Add blog post"
+msgstr "הוספת פוסט"
+
+msgctxt "Languages::blog.recent_posts"
+msgid "Blog: recent posts"
+msgstr "בלוג: פוסטים אחרונים"
+
+msgctxt "Languages::blog.recent_posts_scroller"
+msgid "Blog: recent posts scroller"
+msgstr "פס גלילה פוסטים אחרונים"
+
+msgctxt "Languages::blog.view_post"
+msgid "View post"
+msgstr "הצג פוסט"
+
+msgctxt "Languages::recent_blog_posts"
+msgid "Recent blog posts"
+msgstr "פוסטים אחרונים בבלוג"
+
+msgctxt "Languages::blog.posts"
+msgid "Posts"
+msgstr "פוסטים"
+
+msgctxt "Languages::blog.post"
+msgid "Post"
+msgstr "פוסט"
+
+msgctxt "Languages::block_blog"
+msgid "Recent posts"
+msgstr "פוסטים אחרונים"
+
+msgctxt "Languages::block_vendor_blog"
+msgid "Vendor recent posts"
+msgstr "ספקי הודעות אחרונות"
+
+msgctxt "Languages::blog.text_links"
+msgid "Blog: text links"
+msgstr "בלוג: קישורים טקסטים"
+
+msgctxt "Languages::blog.read_more"
+msgid "Read more"
+msgstr "קרא עוד"
+
+msgctxt "Languages::post_description"
+msgid "Post description"
+msgstr "תיאור פוסט"
+
+msgctxt "Languages::ttc_post_description"
+msgid "Use the &lt;!--CUT--&gt; tag (switch to source code to insert it) to hide part of the post. Only the part above the tag is shown in the list of all posts.<br /><br />Make sure to <strong>close all HTML tags</strong> above the &lt;!--CUT--&gt; tag!"
+msgstr "השתמש ב- &lt;!--CUT--&gt תג (עבור לקוד המקור כדי להוסיפו) כדי להסתיר חלק מהפוסט. רק החלק שנמצא מעל התג מוצג ברשימה של כל הפוסטים. < br / > < br / > וודא <strong>לסגור את כל תגי HTML</strong> מעל &lt;!--CUT--&gt; תג!"
+
+msgctxt "Languages::blog_functionality_notes"
+msgid "<p>Use this page to manage your blog. This is how you should organize your blog posts:</p><ul><li>Blog is a usual post that has the <b>Root level page</b> as the Parent page.</li><li>Choose <b>Blog</b> as the Parent page for your blog posts.</li></ul>"
+msgstr "<p>השתמש בדף זה כדי לנהל את הבלוג שלך. זה צורת הניהול של הפוסטים בבלוג:</p> <ul><li>בלוג הוא פוסט רגיל שיש לו <b>דף ברמת השורש</b> כעמוד הורה.</li> <li>בחר <b>בלוג</b> כעמוד הורה עבור הפוסטים בבלוג שלך.</li></ul>"
+
+msgctxt "Languages::n_posts"
+msgid "[n] post|[n] posts"
+msgstr "[n] פוסט | [n] פוסטים"
+

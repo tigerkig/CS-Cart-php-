@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/tags.po\n"
+"X-Crowdin-File-ID: 4658\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::tags"
+msgid "Tags"
+msgstr "العلامات"
+
+msgctxt "Addons::description::tags"
+msgid "Enables product tags"
+msgstr "تمكين علامات المنتج"
+
+msgctxt "Languages::tags_menu_description"
+msgid "Manage product and content page tags."
+msgstr "إدارة علامات صفحة المنتج والمحتوى."
+
+msgctxt "Languages::sign_in_to_enter_tags"
+msgid "Sign in to enter tags"
+msgstr "قم بتسجيل الدخول لإدخال العلامات"
+
+msgctxt "Languages::tag_cloud"
+msgid "Tag cloud"
+msgstr "سحابة الكلمات الدلالية"
+
+msgctxt "Languages::tags"
+msgid "Tags"
+msgstr "العلامات"
+
+msgctxt "Languages::block_tags"
+msgid "Tags"
+msgstr "العلامات"
+
+msgctxt "Languages::block_tags_description"
+msgid "Product tags"
+msgstr "علامات المنتج"
+
+msgctxt "Languages::addons.tags.add_a_tag"
+msgid "add a tag"
+msgstr "أضف علامة"
+
+msgctxt "Languages::items_marked_by_tag"
+msgid "Items marked by the \"[tag]\" tag:"
+msgstr "العناصر المميزة بعلامة \"[tag]\":"
+
+msgctxt "Languages::tag"
+msgid "Tag"
+msgstr "علامة"
+
+msgctxt "Languages::add_tag"
+msgid "Add tag"
+msgstr "إضافة علامة"
+
+msgctxt "SettingsSections::tags::general"
+msgid "General"
+msgstr "عام"
+
+msgctxt "SettingsOptions::tags::tags_for_products"
+msgid "Tags for products"
+msgstr "علامات للمنتجات"
+
+msgctxt "SettingsOptions::tags::tags_for_pages"
+msgid "Tags for pages"
+msgstr "علامات للصفحات"
+
+msgctxt "Languages::n_tags"
+msgid "[n] tag|[n] tags"
+msgstr "[n] علامة| [n] علامات"
+

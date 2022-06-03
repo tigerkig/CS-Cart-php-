@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.13.2/addons/client_tiers.po\n"
+"X-Crowdin-File-ID: 4540\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::client_tiers"
+msgid "Client tiers"
+msgstr "Уровни клиентов"
+
+msgctxt "Addons::description::client_tiers"
+msgid "Automatically assigns and removes customer's user group depending on money spent. Allows you to rank your customers (for example, bronze, silver, gold customers)."
+msgstr "Автоматически назначает и убирает группу пользователя в зависимости от потраченных денег. Позволяет ранжировать покупателей (например: бронзовые, серебряные и золотые покупатели)."
+
+msgctxt "SettingsSections::client_tiers::general"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "SettingsOptions::client_tiers::tiers_reporting_period"
+msgid "Reporting period"
+msgstr "Отчётный период"
+
+msgctxt "SettingsTooltips::client_tiers::tiers_reporting_period"
+msgid "Statistics from this period is checked to see if a customer is eligible for a certain tier"
+msgstr "Статистика за этот период определит, к какому уровню относится покупатель"
+
+msgctxt "SettingsOptions::client_tiers::upgrade_tier_option"
+msgid "Customer tier can upgrade"
+msgstr "Уровень покупателя может обновиться"
+
+msgctxt "SettingsOptions::client_tiers::automatic_downgrade"
+msgid "Tier check can downgrade customer's tier"
+msgstr "Проверка уровня может понижать уровень"
+
+msgctxt "Languages::client_tiers.minimum_spend_value"
+msgid "Required spendings"
+msgstr "Необходимые траты"
+
+msgctxt "Languages::client_tiers.tooltip_minimum_spend_value"
+msgid "Set 0 if you don't want this user group to be assigned automatically. Otherwise, customer can get this user group after spending the specified sum during the reporting period set in the Client Tiers add-on."
+msgstr "Покупатель получит эту группу, если он потратит указанную сумму за отчётный период из настроек модуля \"Уровни клиентов\". Если не хотите назначать эту группу автоматически, поставьте здесь 0."
+
+msgctxt "Languages::client_tiers.bronze_level_customers"
+msgid "Bronze level customers"
+msgstr "Уровень \"Бронза\""
+
+msgctxt "Languages::client_tiers.silver_level_customers"
+msgid "Silver level customers"
+msgstr "Уровень \"Серебро\""
+
+msgctxt "Languages::client_tiers.gold_level_customers"
+msgid "Gold level customers"
+msgstr "Уровень \"Золото\""
+
+msgctxt "Languages::client_tiers.client_success_set_tier"
+msgid "[username] spent [total] amount in reported period and moved to [new_group]"
+msgstr "[username] потратил(а) [total] за отчётный период и перемещен(а) в группу [new_group]"
+
+msgctxt "Languages::client_tiers.client_fail_set_new_tier"
+msgid "Couldn't assign user group [new_group] to customer with id [user_id]. Customer spent [total] in the reporting period, which is more than the required spendings for this user group."
+msgstr "Не удалось назначить группу [new_group] покупателю с ID [user_id]. Покупатель потратил [total] за отчётный период. Это более чем достаточно для назначения этой группы."
+
+msgctxt "Languages::client_tiers.client_fail_unset_old_tier"
+msgid "Couldn't remove user group [old_group] from customer with id [user_id]. With [total] spent in the reporting period, customer shouldn't be a part of this user group."
+msgstr "Не удалось убрать группу [old_group] у покупателя с ID [user_id]. Покупатель потратил тольько [total] за отчётный период и не должен принадлежать к этой группе."
+
+msgctxt "Languages::client_tiers.client_success_unset_tier"
+msgid "Customer [username] was successfully removed from [old_group] due to [total] spent in reporting period."
+msgstr "Покупатель [username] успешно исключен(а) из группы [old_group], так как в отчётном периоде потратил(а) только [total]."
+
+msgctxt "Languages::log_type_client_tiers"
+msgid "Client Tiers"
+msgstr "Уровни клиентов"
+
+msgctxt "Languages::log_action_ct_success"
+msgid "Success"
+msgstr "Успех"
+
+msgctxt "Languages::log_action_ct_failure"
+msgid "Errors"
+msgstr "Ошибки"
+
+msgctxt "Languages::client_tiers.previous_30_days"
+msgid "Previous 30 days"
+msgstr "Предыдущие 30 дней"
+
+msgctxt "Languages::client_tiers.previous_month"
+msgid "Previous month"
+msgstr "Предыдущий месяц"
+
+msgctxt "Languages::client_tiers.previous_12_months"
+msgid "Previous 12 months"
+msgstr "Предыдущие 12 месяцев"
+
+msgctxt "Languages::client_tiers.previous_year"
+msgid "Previous year"
+msgstr "Предыдущий год"
+
+msgctxt "Languages::client_tiers.after_completed_purchase"
+msgid "After the order is paid"
+msgstr "После оплаты заказа"
+
+msgctxt "Languages::client_tiers.after_tier_check"
+msgid "After tier check only"
+msgstr "Только после проверки уровней"
+
+msgctxt "Languages::client_tiers.update_tiers"
+msgid "Tier check"
+msgstr "Проверка уровней"
+
+msgctxt "Languages::client_tiers.run_recalculation"
+msgid "Check customer tiers now"
+msgstr "Проверить уровни покупателей"
+
+msgctxt "Languages::client_tiers.run_tiers_updating_by_cron"
+msgid "Updating client tiers is the resource-intensive process. It's recommended to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+msgstr "Проверка уровней — ресурсоёмкий процесс. Рекомендуем запускать его автоматически с определённой периодичностью.<br>Для этого добавьте следующую команду в <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+
+msgctxt "Languages::client_tiers.all_been_recalculated"
+msgid "Tiers have been checked and updated"
+msgstr "Уровни были проверены и обновлены"
+
+msgctxt "Languages::client_tiers.silver_promotion"
+msgid "Silver tier promotion"
+msgstr "Промо-акция для уровня \"Серебро\""
+
+msgctxt "Languages::client_tiers.bronze_promotion"
+msgid "Bronze tier promotion"
+msgstr "Промо-акция для уровня \"Бронза\""
+
+msgctxt "Languages::client_tiers.gold_promotion"
+msgid "Gold tier promotion"
+msgstr "Промо-акция для уровня \"Золото\""
+
+msgctxt "Languages::client_tiers.silver_promotion.detailed_description"
+msgid "Only Silver Level Customers are eligible for this promotion."
+msgstr "Эта промо-акция действует только для покупателей с уровнем \"Серебро\"."
+
+msgctxt "Languages::client_tiers.silver_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Silver Level Customers."
+msgstr "Эта промо-акция создана модулем \"Уровни клиентов\" автоматически. Она доступна только группе пользователей \"Серебро\"."
+
+msgctxt "Languages::client_tiers.bronze_promotion.detailed_description"
+msgid "Only Bronze Level Customers are eligible for this promotion."
+msgstr "Эта промо-акция действует только для покупателей с уровнем \"Бронза\"."
+
+msgctxt "Languages::client_tiers.bronze_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Bronze Level Customers."
+msgstr "Эта промо-акция создана модулем \"Уровни клиентов\" автоматически. Она доступна только группе пользователей \"Бронза\"."
+
+msgctxt "Languages::client_tiers.gold_promotion.detailed_description"
+msgid "Only Gold Level Customers are eligible for this promotion."
+msgstr "Эта промо-акция действует только для покупателей с уровнем \"Золото\"."
+
+msgctxt "Languages::client_tiers.gold_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Gold Level Customers."
+msgstr "Эта промо-акция создана модулем \"Уровни клиентов\" автоматически. Она доступна только группе пользователей \"Золото\"."
+
+msgctxt "Languages::client_tiers.removed_from_old_group"
+msgid "Removed from user group"
+msgstr "Удалён из группы пользователей"
+
+msgctxt "Languages::client_tiers.moved_to_new_group"
+msgid "Moved to user group"
+msgstr "Добавлен в группу пользователей"
+
+msgctxt "Languages::client_tiers.installation_message"
+msgid "To help you get started, we have added user groups for Gold, Silver, and Bronze Level Customers, as well as corresponding promotions. Please check <a href=\"[user_groups]\" target=\"_blank\">user groups</a> and <a href=\"[promotions]\" target=\"_blank\">promotions</a>, and adjust them as needed. You can also delete them and create your own."
+msgstr "Мы автоматически добавили и настроили группы пользователей \"Золото\", \"Серебро\", \"Бронза\" и соответствующие промо-акции. Проверьте <a href=\"[user_groups]\" target=\"_blank\">группы пользователей</a> и <a href=\"[promotions]\" target=\"_blank\">промо-акции</a> и отредактируйте их, как нужно вам. Также вы можете удалить их и создать свои собственные."
+

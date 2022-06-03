@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.13.2/addons/paypal.po\n"
+"X-Crowdin-File-ID: 4608\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::paypal"
+msgid "PayPal payments"
+msgstr "PayPal決済"
+
+msgctxt "Addons::description::paypal"
+msgid "Lets you accept payments via PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced, and PayPal Payflow Pro."
+msgstr "PayPalウェブペイメント スタンダード、Paypalウェブペイメント プロ、Paypalエクスプレスチェックアウト、PayPal Advanced, and PayPal Payflow Pro による決済を可能にします。"
+
+msgctxt "SettingsOptions::paypal::override_customer_info"
+msgid "Override customer info"
+msgstr "顧客情報の上書き"
+
+msgctxt "SettingsOptions::paypal::test_mode"
+msgid "Test mode"
+msgstr "テストモード"
+
+msgctxt "SettingsSections::paypal::general"
+msgid "General"
+msgstr "全般"
+
+msgctxt "Languages::protection_eligibility"
+msgid "Protection eligibility"
+msgstr "売り手保護対象"
+
+msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
+msgid "Instant payment notification settings"
+msgstr "即時支払い通知(IPN)の設定"
+
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "ペイパルとCS-Cartの注文ステータスマッピング"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "Paypalページに表示するロゴの設定"
+
+msgctxt "Languages::text_paypal_surcharge"
+msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
+msgstr "<b>注意:</b> PayPalの <a href='https://www.paypal.com/jp/webapps/mpp/ua/useragreement-full?locale.x=ja_JP' target='_blank'>ユーザー規約</a> (3.4 追加料金の非設定)により、支払い手数料の加算が禁止されています。 CS-Cartにて設定した各種手数料はPaypal決済時に無視されますのでご注意ください。"
+
+msgctxt "Languages::txn_id"
+msgid "Transaction ID"
+msgstr "トランザクションID"
+
+msgctxt "Languages::paypal_logo"
+msgid "PayPal logo"
+msgstr "ロゴ画像"
+
+msgctxt "Languages::ttc_paypal_logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "Paypalに遷移後に表示されるロゴ画像です。.gif、.jpg、.png 形式の画像ファイル（横幅最大190px、高さ最大60px）を登録してください。規定値以上のサイズの画像はPaypalに遷移後に自動でトリミングされます。"
+
+msgctxt "Languages::ipn_errors"
+msgid "IPN errors"
+msgstr "IPNエラー"
+
+msgctxt "Languages::pp_product_count_is_incorrect"
+msgid "Number of paid items is different than the number of items in the order"
+msgstr "注文に含まれる商品数とPaypalにて支払いを行った商品数が一致しません。"
+
+msgctxt "Languages::pp_currency_is_incorrect"
+msgid "Currency used for the payment is different than the order currency."
+msgstr "注文時の通貨とPaypal決済で指定した通貨が異なります。"
+
+msgctxt "Languages::pp_total_is_incorrect"
+msgid "Payment total is different than the order total."
+msgstr "注文合計金額とPaypalにて決済した金額が異なります。"
+
+msgctxt "Languages::pp_mode"
+msgid "Paypal mode"
+msgstr "Paypalのモード"
+
+msgctxt "Languages::paypal_vendor"
+msgid "Vendor"
+msgstr "ログインID"
+
+msgctxt "Languages::paypal_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "イン・コンテクスト決済を使用する"
+
+msgctxt "Languages::ttc_paypal_use_in_context_checkout"
+msgid "In-Context Checkout will not be used when the store is running in Widget mode"
+msgstr "ウィジェットモードではイン・コンテクスト決済は適用されません"
+
+msgctxt "Languages::paypal_express_notice"
+msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
+msgstr "<a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>イン・コンテクスト決済</a>を利用するには マーチャントアカウントID が必要です。マーチャントアカウントID は <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a> にログインすると見つけることができます。右上にあるプロフィールアイコンをクリックして<b>プロフィール設定</b>リンクをクリックします。（もし、プロフィールアイコンが見つからない場合は、<b>アカウント設定に</b>ある<b>プロフィール設定</b>リンクをクリックしてください。）左側メニューにある<b>事業情報</b>をクリックすると<b>マーチャントアカウントID</b>が右側に表示されます。"
+
+msgctxt "Languages::paypal_ipn_note"
+msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."
+msgstr "Instant Payment Notification (IPN) はPaypalの決済処理に関する通知サービスです。<br>お客様がPaypalを使って注文を行うと、注文ステータスには「注文受付」がセットされます。IPNによる通知を受信すると、注文ステータスは アドオン → アドオンの管理 → Paypal決済 → ペイパルとCS-Cartの注文ステータスマッピング で設定した内容に変更されます。"
+
+msgctxt "Languages::paypal_ipn_transaction_status"
+msgid "Transaction status"
+msgstr "処理ステータス"
+
+msgctxt "Languages::paypal.ipn_transaction_status"
+msgid "Transaction status: [status]"
+msgstr "トランザクションステータス: [status]"
+
+msgctxt "Languages::addons.paypal.surcharge_policy_notice"
+msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
+msgstr "Paypalを利用した注文に対して、支払手数料を設定しました。設定した手数料が、お住まいの地域の <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">Paypalの利用規約</a> に準拠したものであることを確認してください。"
+
+msgctxt "Languages::addons.paypal.rma.perform_refund"
+msgid "Give a refund via PayPal"
+msgstr "Paypal経由で返金"
+
+msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "管理者による返品処理ステータスを変更後に返金が実行されます"
+
+msgctxt "Languages::addons.paypal.rma.refund_performed"
+msgid "The refund has been made via PayPal"
+msgstr "Paypal経由で返金が行われました"
+
+msgctxt "Languages::addons.paypal.refund_message"
+msgid "[amount] [currency] have been refunded in [date] at [time]."
+msgstr "[amount] [currency] は[date] の [time] に返金されました。"
+
+msgctxt "SettingsOptions::paypal::paypal_partial_refund_action"
+msgid "Order status on partial refund"
+msgstr "一部返金された場合に割り当てる注文ステータス"
+
+msgctxt "Languages::addons.paypal.do_not_change"
+msgid "Do not change"
+msgstr "変更しない"
+
+msgctxt "Languages::tt_addons_paypal_settings_partial_refund_action_order_status"
+msgid "Determines whether or not to change the order status automatically after a partial refund via PayPal."
+msgstr "注文金額の一部が返金された際の注文ステータスの自動変更の有無を設定します。"
+
+msgctxt "Languages::addons.paypal.set_status_to"
+msgid "Set to:"
+msgstr "次の注文ステータスをセット :"
+
+msgctxt "Languages::addons.paypal.ipn_receiving_time"
+msgid "IPN receiving time"
+msgstr "IPN受信日時"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders"
+msgid "Initial order status"
+msgstr "初期注文ステータス"
+
+msgctxt "Languages::ttc_addons.paypal.status_for_new_orders"
+msgid "All orders with a PayPal payment method get this status until the response from PayPal (an IPN message) arrives or a customer returns to the store via a link on the PayPal site."
+msgstr "PayPal による支払い方法における全ての注文は、PayPal (IPN メッセージ) からの応答を受信するか、あるいはお客様が Paypal サイトにあるリンク経由でショップに戻るまで、ここで選択したステータスとなります。"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.open"
+msgid "By default, the <i>Open</i> status decreases the inventory, so two customers won't be able to buy the same product while the payment is being processed by PayPal. But if a customer leaves the PayPal website without paying or returning to the store via a link on the PayPal site, you'll have an abandoned <i>Open</i> order with reserved products."
+msgstr "初期値です。 <i>処理待ち</i> のステータスは在庫を消費しますので、PayPal によって支払処理が行われている間、複数のお客様は同一の商品を購入することができません。しかし、お客様が支払処理を完了せずに PayPal サイトを離れた場合、あるいは PayPal サイトにあるリンク経由でショップに戻った場合は、商品は在庫に戻されて<i>処理待ち</i>の注文は破棄されます。"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.incomplete"
+msgid "This ensures that you won't have abandoned unpaid orders with the <i>Open</i> status and reserved products. But until the response from PayPal (an IPN message) arrives or the customer returns to the store via a link on the PayPal site, the order will be listed as <i>Incomplete</i>, and products won't be reserved."
+msgstr "このステータスでは、支払未完了でも商品を在庫に戻して<i>処理待ち</i>の注文を破棄することはありません。しかし、PayPal (IPN メッセージ) からの応答を受信するか、あるいはお客様が Paypal サイトにあるリンク経由でショップに戻るまで、注文は<i>受注処理未了</i>として一覧に表示され、商品は在庫に戻されません。"
+
+msgctxt "Languages::addons.paypal.display_name"
+msgid "Display name"
+msgstr "表示名"
+
+msgctxt "Languages::addons.paypal.display_description"
+msgid "Display description"
+msgstr "表示の説明"
+
+msgctxt "Languages::addons.paypal.technical_details"
+msgid "Technical details"
+msgstr "接続情報"
+
+msgctxt "Languages::addons.paypal.connect_to_paypal"
+msgid "Connect to PayPal"
+msgstr "PayPal に接続してサインアップ"
+
+msgctxt "Languages::addons.paypal.use_buttons_to_signup"
+msgid "Use these buttons to complete the configuration wizard"
+msgstr "これらのボタンを使用すると、PayPal にサインアップできます"
+
+msgctxt "Languages::addons.paypal.configure_live"
+msgid "Configure Live"
+msgstr "本番環境へサインアップ"
+
+msgctxt "Languages::addons.paypal.configure_test"
+msgid "Configure Test"
+msgstr "テスト環境へサインアップ"
+
+msgctxt "Languages::addons.paypal.connecting_to_signup_server"
+msgid "Connecting to <b>PayPal Sign Up Server</b>..."
+msgstr "<b>PayPal サインアップ サーバー</b> に接続中..."
+
+msgctxt "Languages::addons.paypal.signup_completed"
+msgid "The <b>[payment]</b> payment method has been successfully configured"
+msgstr "<b>[payment]</b> 支払い方法が正常に設定されました"
+
+msgctxt "Languages::addons.paypal.signup_errors.signup_init"
+msgid "An error occurred when connecting to a PayPal account"
+msgstr "PayPal アカウントへの接続時にエラーが発生しました"
+
+msgctxt "Languages::addons.paypal.signup_errors.merchant_credentials"
+msgid "An error occurred when obtaining the payment method configuration"
+msgstr "支払い方法の設定を取得するときにエラーが発生しました"
+
+msgctxt "Languages::addons.paypal.signup_messages.finish_signup"
+msgid "You now have a PayPal business account, and you've successfully integrated [product] with PayPal.<br>Don't forget to confirm your email to activate your account so you can access the payments. To do this, follow the instructions PayPal sent to your email."
+msgstr "PayPal ビジネスアカウントが作成され、[product] とPayPal の決済連携に成功しました。<br />メールアドレスを確認して、アカウントの利用を開始してください。メールアドレスを確認するには、PayPal から送られた「PayPalへようこそ。今すぐアカウントの利用を開始しましょう」のメール内容に従ってください。"
+
+msgctxt "Languages::addons.paypal.signup_messages.confirmation_needed"
+msgid "To access payments from your customers, please confirm your email address by following the instructions PayPal emailed to you."
+msgstr "お客様からのお支払を確認するには、PayPal から送られた「PayPalへようこそ。今すぐアカウントの利用を開始しましょう」のメール内容に従い、メールアドレスを確認してください。"
+
+msgctxt "Languages::paypal.addon_is_disabled_notice"
+msgid "The <b>PayPal payments</b> add-on is disabled so you can't configure this payment method."
+msgstr "<b>PayPal決済</b> アドオンが無効なため、この支払方法の設定は変更できません。"
+
+msgctxt "Languages::addons.paypal.3d_secure_mandatory_notice"
+msgid "3-D secure is mandatory in the United Kingdom."
+msgstr "3Dセキュアは United Kingdom では必須です。"
+
+msgctxt "Languages::paypal.show_cart_button"
+msgid "Show the \"Checkout with PayPal\" button on the cart contents page"
+msgstr "カートに「PayPalで決済をする」ボタンを表示します"
+

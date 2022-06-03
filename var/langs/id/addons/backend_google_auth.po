@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/backend_google_auth.po\n"
+"X-Crowdin-File-ID: 4522\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::backend_google_auth"
+msgid "Back-End Sign-In via Google"
+msgstr "Masuk Back-End melalui Google"
+
+msgctxt "Addons::description::backend_google_auth"
+msgid "Replaces the standard back-end sign-in mechanism with authentication via Google accounts."
+msgstr "Menggantikan mekanisme standar masuk back-end dengan autentikasi melalui akun Google."
+
+msgctxt "SettingsOptions::backend_google_auth::credentials"
+msgid "Credentials"
+msgstr "Kredensial"
+
+msgctxt "SettingsOptions::backend_google_auth::backend_google_auth_client_id"
+msgid "Client ID"
+msgstr "Identitas klien"
+
+msgctxt "SettingsOptions::backend_google_auth::backend_google_auth_client_secret"
+msgid "Client secret"
+msgstr "Rahasia klien"
+
+msgctxt "Languages::backend_google_auth.user_not_found"
+msgid "The <strong>[user]</strong> user not found"
+msgstr "Pengguna <strong>[user]</strong> tidak ditemukan"
+
+msgctxt "Languages::backend_google_auth.settings.warning"
+msgid "Once you configure this add-on, only administrators with Gmail email addresses will be able to sign in to the Administration panel. If your administrators have non-Google email addresses specified, don't configure the add-on, or else those administrators won't be able to sign in."
+msgstr "Saat anda mengkonfigurasikan add-on ini, hanya administrator dengan alamat surel Gmail akan dapat masuk ke panel Administrator. Jika administrator anda memiliki alamat surel yang bukan Google ditentukan, jangan konfigurasikan add-on, atau administrator tersebut tidak akan bisa masuk."
+
+msgctxt "Languages::backend_google_auth.settings.create_new_application"
+msgid "To acquire your client ID and secret create a new application in your Google APIs account."
+msgstr "Silakan buat aplikasi baru pada akun Google APIs Anda untuk mendapatkan identitas klien dan rahasia klien."
+
+msgctxt "Languages::backend_google_auth.settings.learn_more_about"
+msgid "Learn more about Google APIs"
+msgstr "Pelajari Google APIs lebih lanjut"
+
+msgctxt "Languages::backend_google_auth.settings.provide_your_credentials"
+msgid "Please provide your Google API credentials"
+msgstr "Silakan masukkan kredensial Google API Anda"
+
+msgctxt "Languages::backend_google_auth.settings.authorized_redirect_uris"
+msgid "Your authorized redirect URIs:"
+msgstr "Pengalihan URl resmi anda:"
+
+msgctxt "Languages::backend_google_auth.settings.save_and_check_btn"
+msgid "Save and test the sign-in"
+msgstr "Simpan dan uji tombol masuk"
+
+msgctxt "Languages::backend_google_auth.errors.not_configured"
+msgid "Please configure the add-on first"
+msgstr "Silakan konfigurasikan tombol tambahan dahulu"
+
+msgctxt "Languages::backend_google_auth.warnings.only_gmail_address_is_available_to_auth"
+msgid "The \"Back-End Sign-In via Google\" add-on is active. Only administrators with Gmail email addresses will be able to sign in."
+msgstr "Add-on \"Masuk Back-End melalui Google\" telah aktif. Hanya administrator dengan alamat surel Gmail yang bisa masuk."
+
+msgctxt "Languages::backend_google_auth.login_page.help"
+msgid "Please select the email address that was specified for your administrator account."
+msgstr "Silakan pilih alamat e-mail yang diperuntukkan bagi akun administrator Anda."
+
+msgctxt "Languages::backend_google_auth.login_page.btn"
+msgid "Sign in with Google"
+msgstr "Masuk dengan Google"
+

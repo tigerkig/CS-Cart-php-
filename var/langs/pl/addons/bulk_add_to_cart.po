@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /release-4.13.2/addons/bulk_add_to_cart.po\n"
+"X-Crowdin-File-ID: 4532\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::bulk_add_to_cart"
+msgid "Add products to cart in bulk"
+msgstr "Dodaj produkty do koszyka hurtowo"
+
+msgctxt "Addons::description::bulk_add_to_cart"
+msgid "Allows customers to quickly add a large number of products to the cart from the catalog."
+msgstr "Pozwala klientom szybko dodawać dużą liczbę produktów do koszyka."
+
+msgctxt "Languages::bulk_add_to_cart.install_text"
+msgid "<b>Product list default view</b> has been set to <b>\"Compact list\"</b>. The <b>\"Grid\"</b> and <b>\"List without options\"</b> product list views are no longer available."
+msgstr "<b>Domyślny widok listy produktów</b> został ustawiony na <b>\"Lista kompaktowa\"</b>. Widoki listy produktów <b>\"Siatka\"</b> i <b>\"Lista bez opcji\"</b> nie są już dostępne."
+
+msgctxt "Languages::bulk_add_to_cart.short_list_warning_install"
+msgid "The <b>Compact list</b> view is not available. Compact list is required for the add-on to work."
+msgstr "Widok <b>Lista kompaktowa</b> nie jest dostępny. Kompaktowa lista jest wymagana do działania dodatku."
+
+msgctxt "Languages::bulk_add_to_cart.add_selected_products_to_cart"
+msgid "Add selected to cart <bdi>(<span [attr]>[number]</span>)</bdi>"
+msgstr "Dodaj wybrane do koszyka <bdi>(<span [attr]>[number]</span>)</bdi>"
+

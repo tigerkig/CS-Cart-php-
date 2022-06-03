@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.13.2/addons/sms_notifications.po\n"
+"X-Crowdin-File-ID: 4644\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::sms_notifications"
+msgid "SMS notifications"
+msgstr "SMS-оповіщення"
+
+msgctxt "Addons::description::sms_notifications"
+msgid "Allows you to set up administrator SMS order notifications"
+msgstr "SMS-повідомлення про замовлення, реєстрації і ін. для адміністраторів магазину"
+
+msgctxt "Languages::unicode_not_enabled"
+msgid "Unicode support can not be enabled: 'mbstring' PHP extension is not installed."
+msgstr "Підтримка Unicode не може бути увімкнена: не встановлено PHP-розширення «mbstring»."
+
+msgctxt "SettingsSections::sms_notifications::general"
+msgid "General"
+msgstr "Загальні"
+
+msgctxt "SettingsOptions::sms_notifications::phone_number"
+msgid "Phone number"
+msgstr "Номер телефону"
+
+msgctxt "SettingsOptions::sms_notifications::phone_number_from"
+msgid "Send from number"
+msgstr ""
+
+msgctxt "SettingsOptions::sms_notifications::elm_clickatell_settings"
+msgid "Clickatell settings"
+msgstr "Параметри Clickatell"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_user"
+msgid "Username"
+msgstr "Ім'я користувача"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_api_id"
+msgid "API ID"
+msgstr "API ID"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_password"
+msgid "Password"
+msgstr "Пароль"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_unicode"
+msgid "Use Unicode"
+msgstr "Використовувати Unicode"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_concat"
+msgid "Split long sms into several parts"
+msgstr "Ділити довгі sms на кілька частин"
+
+msgctxt "SettingsOptions::sms_notifications::elm_send_sms_if"
+msgid "Send SMS if"
+msgstr "Відправляти SMS, якщо"
+
+msgctxt "SettingsOptions::sms_notifications::sms_new_order_placed"
+msgid "New order has been placed"
+msgstr "Оформлено нове замовлення"
+
+msgctxt "SettingsOptions::sms_notifications::sms_new_cusomer_registered"
+msgid "New customer has been registered"
+msgstr "Зареєстровано нового покупця"
+
+msgctxt "SettingsOptions::sms_notifications::sms_product_negative_amount"
+msgid "Product quantity is less than zero"
+msgstr "Кількість товарів в наявності менше нуля"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_min_amout"
+msgid "Only send when order total amount is more than"
+msgstr "Надсилати, лише якщо загальна сума замовлення перевищує"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_shipping"
+msgid "Only send for these shipping methods"
+msgstr "Відправити, тільки якщо обрано ці способи доставки"
+
+msgctxt "SettingsOptions::sms_notifications::elm_sms_content"
+msgid "SMS content"
+msgstr "Зміст SMS"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_payment_info"
+msgid "Add payment info"
+msgstr "Додати інформацію про оплату"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_customer_email"
+msgid "Add customers e-mail"
+msgstr "Додати e-mail покупця"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_1"
+msgid "Do not split"
+msgstr "Не розділяти"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_2"
+msgid "2 sms"
+msgstr "2 sms"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_3"
+msgid "3 sms"
+msgstr "3 sms"
+

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/payment_dependencies.po\n"
+"X-Crowdin-File-ID: 4604\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::payment_dependencies"
+msgid "Payment dependencies"
+msgstr "תלויות תשלום"
+
+msgctxt "Addons::description::payment_dependencies"
+msgid "Assign payment methods to shipping methods"
+msgstr "להקצות שיטות התשלום לשיטות המשלוח"
+
+msgctxt "Languages::pd_allowed_payment_methods"
+msgid "Allowed payment methods"
+msgstr "שיטות תשלום מותרות"
+
+msgctxt "Languages::pd_allowed_payment_methods_text"
+msgid "Select payment methods that your customers can use with this shipping method"
+msgstr "בחר אמצעי תשלום שהלקוחות שלך יכולים להשתמש בהם בשיטת משלוח זו"
+
+msgctxt "Languages::pd.there_are_no_available_payment_methods"
+msgid "There are no payment methods available right now. Try to change the selected shipping method."
+msgstr ""
+
+msgctxt "Languages::pd.no_payments_available"
+msgid "No payment methods available."
+msgstr ""
+

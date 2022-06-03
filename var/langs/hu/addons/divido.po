@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/divido.po\n"
+"X-Crowdin-File-ID: 4552\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::divido"
+msgid "Divido payments"
+msgstr "Divido fizetések"
+
+msgctxt "Addons::description::divido"
+msgid "Lets customers spread the cost of any purchase over a period of time while the merchant gets paid in full right away."
+msgstr "Lehetővé teszi a vásárlók számára, hogy a vásárlás költségeit egy bizonyos időszakra osszák el, míg a kereskedő azonnal megkapja a teljes összeget."
+
+msgctxt "Languages::addons.divido.select_currency_undefined"
+msgid "The [currency] currency is not set up in store"
+msgstr "A [currency] pénznem nincs beállítva a piactéren"
+
+msgctxt "Languages::addons.divido.order_status"
+msgid "Divido status"
+msgstr "Divido státusz"
+
+msgctxt "Languages::addons.divido"
+msgid "Divido"
+msgstr "Divido"
+
+msgctxt "Languages::addons.divido.pay_in_instalments"
+msgid "Pay in instalments"
+msgstr "Fizess részletekben"
+
+msgctxt "Languages::addons.divido.choose_your_plan"
+msgid "Choose your plan"
+msgstr "Válaszd ki a terved"
+
+msgctxt "Languages::addons.divido.choose_your_deposit"
+msgid "Choose your deposit"
+msgstr "Válaszd ki a befizetést"
+
+msgctxt "Languages::addons.divido.monthly_payments_of"
+msgid "monthly payments of"
+msgstr "havi törlesztőrészlet"
+
+msgctxt "Languages::addons.divido.term"
+msgid "Term"
+msgstr "Futamidő"
+
+msgctxt "Languages::addons.divido.deposit"
+msgid "Deposit"
+msgstr "Befizetés "
+
+msgctxt "Languages::addons.divido.cost_of_credit"
+msgid "Cost of credit"
+msgstr "A hitel díja"
+
+msgctxt "Languages::addons.divido.total_payable"
+msgid "Total payable"
+msgstr "Fizetendő összesen"
+
+msgctxt "Languages::addons.divido.total_interest_apr"
+msgid "Total interest APR"
+msgstr "Teljes kamat THM"
+
+msgctxt "Languages::addons.divido.text_redirected"
+msgid "You will be redirected to Divido to complete this finance application when you place your order"
+msgstr "A megrendelésed leadásakor átirányítunk a Divido-ra, hogy kitöltsd a finanszírozási kérelmet."
+
+msgctxt "Languages::addons.divido.cart_amount_limit"
+msgid "Minimum order total"
+msgstr "Minimális rendelés összege"
+
+msgctxt "Languages::addons.divido.monthly_instalment"
+msgid "Monthly instalment"
+msgstr "Havi törlesztőrészlet"
+
+msgctxt "Languages::ttc_addons.divido.cart_amount_limit"
+msgid "The order total has to be equal or greater than this sum, or the payment method won't be available at checkout. Leave empty if you don't want to impose this restriction."
+msgstr "A rendelés végösszegének egyenlőnek vagy nagyobbnak kell lennie, mint ez az összeg, különben a fizetési mód nem lesz elérhető a pénztárnál. Hagyd üresen, ha nem szeretnéd alkalmazni ezt a korlátozást."
+
+msgctxt "Languages::addons.divido.show_product_page_calculator"
+msgid "Show monthly payment rate on the product page"
+msgstr "Havi törlesztőrészlet megjelenítése a termékoldalon"
+
+msgctxt "Languages::addons.divido.product_price_limit"
+msgid "Minimum product price"
+msgstr "Minimális termékár"
+
+msgctxt "Languages::ttc_addons.divido.product_price_limit"
+msgid "The product price has to be equal or greater than this sum, or the monthly payment rate won't appear on the product page. Leave empty if you don't want to impose this restriction."
+msgstr "A termék árának egyenlőnek vagy nagyobbnak kell lennie, mint ez az összeg, különben a havi törlesztőrészlet nem jelenik meg a termékoldalon. Hagyd üresen, ha nem szeretnéd alkalmazni ezt a korlátozást."
+
+msgctxt "Languages::finance_code"
+msgid "Finance code"
+msgstr "Finanszírozás kódja"
+
+msgctxt "Languages::addons.divido.availability_notice"
+msgid "<b>Note:</b> Payments via Divido are only available to the residents of the United Kingdom and can only be made in pounds sterling (GBP)."
+msgstr "<b>Megjegyzés:</b> A Dividón keresztül történő fizetés csak az Egyesült Királyság lakosai számára érhető el, és csak font sterlingben (GBP) teljesíthető.           "
+

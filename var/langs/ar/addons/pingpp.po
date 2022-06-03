@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/pingpp.po\n"
+"X-Crowdin-File-ID: 4616\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::pingpp"
+msgid "Ping++ Payments"
+msgstr "مدفوعات Ping ++"
+
+msgctxt "Addons::description::pingpp"
+msgid "Lets you accept payments via Alipay, WeChat, UnionPay, Fqlpay, Baifubao, Yeepay, Jdpay and QGBC"
+msgstr "يتيح لك قبول المدفوعات عبر Alipay و WeChat و UnionPay و Fqlpay و Baifubao و Yeepay و Jdpay و QGBC"
+
+msgctxt "Languages::pingpp.pingpp"
+msgid "Ping++"
+msgstr "Ping++"
+
+msgctxt "Languages::pingpp.paying_with"
+msgid "Paying with [channel]"
+msgstr "الدفع باستخدام [channel]"
+
+msgctxt "Languages::pingpp.enable_cny_currency"
+msgid "To use the Ping++ payment method, you must have the Chinese yuan (CNY) currency enabled."
+msgstr "لاستخدام طريقة الدفع Ping ++ ، يجب تمكين عملة اليوان الصيني (CNY)."
+
+msgctxt "Languages::pingpp.general_settings"
+msgid "General settings"
+msgstr "الإعدادات العامة"
+
+msgctxt "Languages::pingpp.channels"
+msgid "Payment channels"
+msgstr "قنوات الدفع"
+
+msgctxt "Languages::channel"
+msgid "Channel"
+msgstr "قناة"
+
+msgctxt "Languages::pingpp.paid_at"
+msgid "Paid at [time]"
+msgstr "تم الدفع في [time]"
+
+msgctxt "Languages::pingpp.channels.alipay_qr.instructions"
+msgid "Open the <strong>Alipay</strong> application and scan the QR code to perform the payment. You will be redirected automatically after the payment will be received."
+msgstr "افتح تطبيق <strong> Alipay </strong> وامسح رمز الاستجابة السريعة لإجراء الدفع. ستتم إعادة توجيهك تلقائيًا بعد استلام الدفعة."
+
+msgctxt "Languages::pingpp.channels.wx_pub_qr.instructions"
+msgid "Open the <strong>WeChat</strong> application and scan the QR code to perform the payment. You will be redirected automatically after the payment will be received."
+msgstr "افتح تطبيق <strong> WeChat </strong> وامسح رمز الاستجابة السريعة لإجراء الدفع. ستتم إعادة توجيهك تلقائيًا بعد استلام الدفعة."
+
+msgctxt "Languages::pingpp.channels.wx_pub.instructions"
+msgid "Open this page in WeChat web browser to perform payment. You will be redirected automatically after the payment will be received."
+msgstr "افتح هذه الصفحة في متصفح الويب WeChat لإجراء الدفع. ستتم إعادة توجيهك تلقائيًا بعد استلام الدفعة."
+
+msgctxt "Languages::pingpp.order"
+msgid "Order #[order_id]"
+msgstr "الطلب #[order_id]"
+
+msgctxt "Languages::pingpp.purchase_in"
+msgid "Purchase in [company]"
+msgstr "شراء في [company]"
+
+msgctxt "Languages::pingpp.app_id"
+msgid "App ID"
+msgstr "معرف التطبيق"
+
+msgctxt "Languages::pingpp.api_key"
+msgid "API key"
+msgstr "مفتاح API"
+
+msgctxt "Languages::pingpp.order_prefix"
+msgid "Order number prefix"
+msgstr "بادئة رقم الطلب"
+
+msgctxt "Languages::pingpp.wx_settings"
+msgid "WeChat settings"
+msgstr "إعدادات WeChat"
+
+msgctxt "Languages::pingpp.wx_app_id"
+msgid "App ID"
+msgstr "معرف التطبيق"
+
+msgctxt "Languages::pingpp.wx_app_secret"
+msgid "App secret"
+msgstr "سر التطبيق"
+
+msgctxt "Languages::pingpp.scope.pc"
+msgid "Available on PC"
+msgstr "متاح على جهاز الكمبيوتر"
+
+msgctxt "Languages::pingpp.scope.mobile"
+msgid "Available on mobile phones"
+msgstr "متوفر على الهواتف المحمولة"
+
+msgctxt "Languages::pingpp.scope.wx"
+msgid "Available in WeChat browser"
+msgstr "متوفر في متصفح WeChat"
+
+msgctxt "Languages::pingpp.channel.alipay_wap"
+msgid "Alipay Mobile"
+msgstr "Alipay موبايل"
+
+msgctxt "Languages::pingpp.channel.alipay_qr"
+msgid "Alipay QR code"
+msgstr "Alipay QR code"
+
+msgctxt "Languages::pingpp.channel.alipay_pc_direct"
+msgid "Alipay PC"
+msgstr "Alipay PC"
+
+msgctxt "Languages::pingpp.channel.wx_pub"
+msgid "WeChat"
+msgstr "WeChat"
+
+msgctxt "Languages::pingpp.channel.wx_wap"
+msgid "WeChat Mobile"
+msgstr "WeChat موبايل"
+
+msgctxt "Languages::pingpp.channel.wx_lite"
+msgid "WeChat Lite"
+msgstr "WeChat Lite"
+
+msgctxt "Languages::pingpp.channel.wx_pub_qr"
+msgid "WeChat QR code"
+msgstr "WeChat QR code"
+
+msgctxt "Languages::pingpp.channel.bfb_wap"
+msgid "Baifubao Mobile"
+msgstr "Baifubao موبايل"
+
+msgctxt "Languages::pingpp.channel.cp_b2b"
+msgid "Chinapay B2B"
+msgstr "Chinapay B2B"
+
+msgctxt "Languages::pingpp.channel.upacp_wap"
+msgid "China Unionpay Mobile"
+msgstr "China Unionpay موبايل"
+
+msgctxt "Languages::pingpp.channel.upacp_pc"
+msgid "China Unionpay PC"
+msgstr "China Unionpay PC"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap"
+msgid "Yeepay"
+msgstr "Yeepay"
+
+msgctxt "Languages::pingpp.channel.jdpay_wap"
+msgid "Jdpay"
+msgstr "Jdpay"
+
+msgctxt "Languages::pingpp.channel.fqlpay_wap"
+msgid "Fqlpay"
+msgstr "Fqlpay"
+
+msgctxt "Languages::pingpp.channel.qgbc_wap"
+msgid "QGBC"
+msgstr "QGBC"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.product_category"
+msgid "Product category"
+msgstr "فئة المنتج"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.identity_id"
+msgid "Identity ID"
+msgstr "معرف الهوية"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.identity_type"
+msgid "Identity type"
+msgstr "نوع الهوية"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_type"
+msgid "Terminal type"
+msgstr "نوع المحطة"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_type.variants.0"
+msgid "IMEI"
+msgstr "IMEI"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_type.variants.1"
+msgid "MAC"
+msgstr "MAC"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_type.variants.2"
+msgid "UUID"
+msgstr "UUID"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_type.variants.3"
+msgid "Other"
+msgstr "الأخرى"
+
+msgctxt "Languages::pingpp.channel.yeepay_wap.settings.terminal_id"
+msgid "Terminal ID"
+msgstr "معرف المحطة"
+
+msgctxt "Languages::pingpp.channel.fqlpay_wap.settings.c_merch_id"
+msgid "Merchant ID"
+msgstr "معرف التاجر"
+
+msgctxt "Languages::pingpp.channel.qgbc_wap.settings.phone"
+msgid "Mobile phone number"
+msgstr "رقم الهاتف الجوال"
+
+msgctxt "Languages::pingpp.payment_channel_is_not_selected"
+msgid "A payment channel must be selected to place the order"
+msgstr "يجب تحديد قناة الدفع لتقديم الطلب"
+
+msgctxt "Languages::pingpp.online_store"
+msgid "online store"
+msgstr "متجر على الانترنت"
+
+msgctxt "Languages::pingpp.order_prefix_characters"
+msgid "The prefix must contain 7–10 alphanumeric characters."
+msgstr "يجب أن تحتوي البادئة على 7-10 أحرف أبجدية رقمية."
+

@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.13.2/addons/attachments.po\n"
+"X-Crowdin-File-ID: 4520\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "Приєднані файли"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "Можливість приєднувати файли до товарів"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "Приєднані файли"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "Новий приєднаний файл"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "Прикріпити файл"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "Зміна приєднаного файлу"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "Вкажіть директорію з імпортованими прикріпленими файлами всередині кореневої директорії магазина."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "Неможливо імпортувати прикріплені файли деяких товарів. Дані файли або не існують (чи недоступні), або шлях до них у файлі імпорту вказано невірно."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "прикріплені файли товарів"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "Розділювач прикріплених файлів"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "Використовується для розділення прикріплених файлів товару."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "Видалити існуючі прикріплені файли"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "Якщо включити е налаштування, то існуючі прикріплені файли імпортованих товарів будуть видалені перед імпортом і замінені на файли, зазначені в імпортованому файлі (якщо нові файли не вказані, то залишаться старі). Якщо налаштування виключене, то нові прикріплені файли просто додадуться до вже існуючих файлів\n"
+"товарів."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "Директорія з прикріпленими файлами"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "Загальні"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "Зберігати вкладення на своєму сервері"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "Вкладені файли, вказані як URL-адреси в імпортованому файлі, будуть завантажені на ваш сервер."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr ""
+

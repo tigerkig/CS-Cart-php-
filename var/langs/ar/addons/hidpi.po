@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 4578\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "عرض دعم HiDPI"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "دعم لعرض Retina"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "عام"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "النظر في جميع الصور التي تم تحميلها HiDPI"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "النظر في جميع الصور التي تم تحميلها HiDPI"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "اجعل مربعات الاختيار \"أنا أحمل صورة HiDPI\" موضحة بشكل افتراضي في كل مكان يتم فيه تحميل الصور. ستتمكن من إلغاء تحديد مربعات الاختيار هذه عند الضرورة."
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "يتم تمكين دعم HiDPI"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "أنا أحمل صورة HiDPI."
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "إذا تم تحديد خانة الاختيار هذه ، فسيتم عرض الصورة المصدر مرتين بعد تقليل حجمها. يؤثر هذا الإعداد فقط على عرض الصورة المصدر وليس على الصورة المصغرة لها. إذا كنت تريد عرض صورة بالحجم الأصلي ، فقم بإلغاء تحديد مربع الاختيار هذا."
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "استعادة الصورة"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "انخفض الإصدار السابق من الوظيفة الإضافية دعم HiDPI في الصور التي تم تحميلها. ليس هناك حاجة لذلك الآن. ولكن لجعل صورك تبدو جميلة وحادة تحتاج إلى النقر فوق استعادة."
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "استعادة"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong>انتباه!</strong> هذا الإجراء غير قابل للعكس: عندما تعيد الترقية ، لن يتم التراجع عن معالجة استعادة الصورة. لذا ، يرجى التأكد من إجراء نسخة احتياطية. يمكن أن يستغرق هذا الإجراء بعض الوقت - يعتمد ذلك على عدد الصور في متجرك."
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_title"
+msgid "Make sure your images look good."
+msgstr "تأكد من أن صورك تبدو جيدة."
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "لا تزال بعض الصور القديمة في متجرك منخفضة الجودة. لاستخدام أعلى جودة ممكنة ، يرجى <a href=\"[convert_url]\"> استعادة الصور عالية الجودة </a>. هذه العملية تلقائية."
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_text"
+msgid "<p>The previous version of the <b>[addon_name]</b> add-on shrank the uploaded images. We improved the add-on, so there is no need for that now. However, the existing images remain shrunk and don’t look good.</p><p>We can make your existing images look nice and sharp, but that procedure will take some time. That’s why we need you to start it.</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Make image look good</a></p>"
+msgstr "<p> أدى الإصدار السابق من إضافة <b> [addon_name] </b> إلى تقليص الصور التي تم تحميلها. لقد قمنا بتحسين الوظيفة الإضافية ، لذلك ليست هناك حاجة لذلك الآن. ومع ذلك ، تظل الصور الحالية منكمشة ولا تبدو جيدة. </ p> <p> يمكننا أن نجعل صورك الحالية تبدو جميلة ودقيقة ، لكن هذا الإجراء سيستغرق بعض الوقت. لهذا السبب نحتاج منك أن تبدأه. </ p> <p> <a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\"> اجعل الصورة تبدو جيدة </a> </p>"
+

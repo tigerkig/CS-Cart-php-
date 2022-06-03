@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/rss_feed.po\n"
+"X-Crowdin-File-ID: 4638\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::rss_feed"
+msgid "RSS feed"
+msgstr "مغذي RSS"
+
+msgctxt "Addons::description::rss_feed"
+msgid "Generates RSS feeds for products and blog posts"
+msgstr "يولد موجزات RSS للمنتجات ومنشورات المدونة"
+
+msgctxt "Languages::rss_feed"
+msgid "RSS feed"
+msgstr "مغذي RSS"
+
+msgctxt "Languages::feed_title"
+msgid "Feed title"
+msgstr "عنوان الخلاصة"
+
+msgctxt "Languages::feed_description"
+msgid "Feed description"
+msgstr "وصف الخلاصة"
+
+msgctxt "Languages::rss_sort_by"
+msgid "Sort items by"
+msgstr "فرز العناصر حسب"
+
+msgctxt "Languages::rss_display_sku"
+msgid "Display SKU"
+msgstr "عرض SKU"
+
+msgctxt "Languages::rss_display_image"
+msgid "Display image"
+msgstr "عرض الصورة"
+
+msgctxt "Languages::rss_display_price"
+msgid "Display gross price"
+msgstr "عرض السعر الإجمالي"
+
+msgctxt "Languages::rss_display_original_price"
+msgid "Display net price"
+msgstr "عرض السعر الصافي"
+
+msgctxt "Languages::rss_display_add_to_cart"
+msgid "Display add to cart button"
+msgstr "عرض زر إضافة إلى عربة التسوق"
+
+msgctxt "Languages::rss_created"
+msgid "Created"
+msgstr "تم إنشاؤه"
+
+msgctxt "Languages::rss_updated"
+msgid "Updated"
+msgstr "محدث"
+
+msgctxt "Languages::block_rss_feed"
+msgid "RSS feed"
+msgstr "مغذي RSS"
+
+msgctxt "Languages::block_rss_feed_description"
+msgid "RSS feed subscription icon"
+msgstr "رمز الاشتراك في موجز RSS"
+
+msgctxt "SettingsSections::rss_feed::general"
+msgid "General"
+msgstr "عام"
+
+msgctxt "SettingsOptions::rss_feed::managing_editor"
+msgid "Content editor"
+msgstr "محرر محتوى"
+
+msgctxt "SettingsOptions::rss_feed::display_rss_feed_in_category"
+msgid "Show RSS feed for each category"
+msgstr "إظهار موجز RSS لكل فئة"
+
+msgctxt "SettingsOptions::rss_feed::category_max_products_items"
+msgid "Max product number per category"
+msgstr "أقصى رقم منتج لكل فئة"
+
+msgctxt "SettingsTooltips::rss_feed::managing_editor"
+msgid "Enter the content editor's email and real name, e.g. john@example.com (John Doe)"
+msgstr "أدخل البريد الإلكتروني لمحرر المحتوى والاسم الحقيقي ، على سبيل المثال john@example.com (جون دو)"
+
+msgctxt "SettingsTooltips::rss_feed::display_rss_feed_in_category"
+msgid "RSS icon near category title."
+msgstr "رمز RSS بالقرب من عنوان الفئة."
+
+msgctxt "Languages::addons.rss_feed.icon"
+msgid "RSS feed subscription icon"
+msgstr "رمز الاشتراك في موجز RSS"
+

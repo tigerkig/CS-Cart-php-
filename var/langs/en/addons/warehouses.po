@@ -1,0 +1,213 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::warehouses"
+msgid "Warehouses [Beta]"
+msgstr "Warehouses [Beta]"
+
+msgctxt "Addons::description::warehouses"
+msgid "Lets you set product stock separately for each store and warehouse. Shows to customers the availability of a product in stores or in particular rate areas."
+msgstr "Lets you set product stock separately for each store and warehouse. Shows to customers the availability of a product in stores or in particular rate areas."
+
+msgctxt "Languages::warehouses.store_type"
+msgid "Type"
+msgstr "Type"
+
+msgctxt "Languages::warehouses.store_type_store"
+msgid "Store"
+msgstr "Store"
+
+msgctxt "Languages::warehouses.store_type_pickup"
+msgid "Pickup point"
+msgstr "Pickup point"
+
+msgctxt "Languages::warehouses.store_type_warehouse"
+msgid "Warehouse"
+msgstr "Warehouse"
+
+msgctxt "Languages::warehouses.name"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "Languages::warehouses.city"
+msgid "City"
+msgstr "City"
+
+msgctxt "Languages::warehouses.quantity"
+msgid "Quantity"
+msgstr "Quantity"
+
+msgctxt "Languages::warehouses.settings"
+msgid "Settings"
+msgstr "Settings"
+
+msgctxt "Languages::warehouses.ship_to"
+msgid "Ship to"
+msgstr "Ship to"
+
+msgctxt "Languages::warehouses.ship_to_tooltip"
+msgid "Determines the rate areas in which the products from this warehouse will be considered available."
+msgstr "Determines the rate areas in which the products from this warehouse will be considered available."
+
+msgctxt "Languages::warehouses.main_destination_tooltip"
+msgid "Determines where this place is located. In turn, this determines the shipping rate and delivery time to this place."
+msgstr "Determines where this place is located. In turn, this determines the shipping rate and delivery time to this place."
+
+msgctxt "Languages::warehouses.show_to"
+msgid "Show to"
+msgstr "Show to"
+
+msgctxt "Languages::warehouses.show_to_tooltip"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+
+msgctxt "Languages::warehouses.out_of_stock_products"
+msgid "[product] isn't in stock in the selected region.|The following products aren't in stock in the selected region: [products]"
+msgstr "[product] isn't in stock in the selected region.|The following products aren't in stock in the selected region: [products]"
+
+msgctxt "Languages::warehouses.warehouse_stock"
+msgid "Quantities"
+msgstr "Quantities"
+
+msgctxt "Languages::warehouses.stores_and_warehouses"
+msgid "Stores & Warehouses"
+msgstr "Stores & Warehouses"
+
+msgctxt "Languages::warehouses.store_warehouse"
+msgid "Store / Warehouse"
+msgstr "Store / Warehouse"
+
+msgctxt "Languages::warehouses.shipping_delay"
+msgid "Moving time"
+msgstr "Moving time"
+
+msgctxt "Languages::warehouses.shipping_delay.tooltip"
+msgid "The time it takes to move products from here to another store or warehouse in this rate area."
+msgstr "The time it takes to move products from here to another store or warehouse in this rate area."
+
+msgctxt "Languages::warehouses.warn_about_delay"
+msgid "Warn about delay"
+msgstr "Warn about delay"
+
+msgctxt "Languages::warehouses.warn_about_delay.tooltip"
+msgid "If a product has to be moved to the rate area from here, show the moving time in the product list and cart."
+msgstr "If a product has to be moved to the rate area from here, show the moving time in the product list and cart."
+
+msgctxt "Languages::warehouses.destinations_configuration.tooltip"
+msgid "Products can be taken from different stores and warehouses first, depending on where your customer is. <a href=\"[destinations_url]\" target=\"_blank\">Configure store and warehouse priority individually for each rate area.</a>"
+msgstr "Products can be taken from different stores and warehouses first, depending on where your customer is. <a href=\"[destinations_url]\" target=\"_blank\">Configure store and warehouse priority individually for each rate area.</a>"
+
+msgctxt "Languages::warehouses.shipping_delay.description"
+msgid "Product is at a remote warehouse. If you order it, we'll send it [shipping_delay]."
+msgstr "Product is at a remote warehouse. If you order it, we'll send it [shipping_delay]."
+
+msgctxt "Languages::warehouses.shipping_delay.description.default"
+msgid "Product is at a remote warehouse. If you order it, shipping may take slightly longer."
+msgstr "Product is at a remote warehouse. If you order it, shipping may take slightly longer."
+
+msgctxt "Languages::warehouses.shipping_delay.description.short"
+msgid "If ordered: [shipping_delay]"
+msgstr "If ordered: [shipping_delay]"
+
+msgctxt "Languages::warehouses.shipping_delay_for_products"
+msgid "Some of the products you ordered are at a remote warehouse. Shipping may take slightly longer than stated here."
+msgstr "Some of the products you ordered are at a remote warehouse. Shipping may take slightly longer than stated here."
+
+msgctxt "Languages::warehouses.product_available_if_ordered"
+msgid "Available if ordered"
+msgstr "Available if ordered"
+
+msgctxt "Languages::warehouses.product_in_stock"
+msgid "In stock"
+msgstr "In stock"
+
+msgctxt "Languages::warehouses.in_n_stores"
+msgid "in [n] store|in [n] stores"
+msgstr "in [n] store|in [n] stores"
+
+msgctxt "Languages::warehouses.product_availability"
+msgid "Availability in stores"
+msgstr "Availability in stores"
+
+msgctxt "Languages::block_availability_in_stores"
+msgid "Availability in stores"
+msgstr "Availability in stores"
+
+msgctxt "Languages::block_availability_in_stores_description"
+msgid "List of stores where the product can be purchased"
+msgstr "List of stores where the product can be purchased"
+
+msgctxt "Languages::warehouses.store_and_address"
+msgid "Store and address"
+msgstr "Store and address"
+
+msgctxt "Languages::warehouses.phone"
+msgid "Phone"
+msgstr "Phone"
+
+msgctxt "Languages::warehouses.search_store"
+msgid "Search store"
+msgstr "Search store"
+
+msgctxt "Languages::warehouses.stores_list"
+msgid "List"
+msgstr "List"
+
+msgctxt "Languages::warehouses.stores_map"
+msgid "Map"
+msgstr "Map"
+
+msgctxt "Languages::warehouses.no_matching_stores_found"
+msgid "No stores found matching the search criteria"
+msgstr "No stores found matching the search criteria"
+
+msgctxt "Languages::warehouses.rate_area"
+msgid "Rate area"
+msgstr "Rate area"
+
+msgctxt "Languages::warehouses.shipping_delay_notification"
+msgid "Delay warning"
+msgstr "Delay warning"
+
+msgctxt "Languages::warehouses.shipping_delay_notification.tooltip"
+msgid "It will appear if products aren't available in the stores and warehouses above."
+msgstr "It will appear if products aren't available in the stores and warehouses above."
+
+msgctxt "Languages::warehouses.type_to_search_or_check_all"
+msgid "Type to search, or click the button on the right to add all rate areas"
+msgstr "Type to search, or click the button on the right to add all rate areas"
+
+msgctxt "Languages::warehouses.any_store_type"
+msgid "Any type of store"
+msgstr "Any type of store"
+
+msgctxt "Languages::warehouses.add_all"
+msgid "Add all"
+msgstr "Add all"
+
+msgctxt "Languages::warehouses.quantity_tab.no_data"
+msgid "This storefront doesn't have any stores or warehouses. Please <a href=\"[create_url]\">create one</a> or <a href=\"[list_url]\">make an existing one available</a> for this storefront"
+msgstr "This storefront doesn't have any stores or warehouses. Please <a href=\"[create_url]\">create one</a> or <a href=\"[list_url]\">make an existing one available</a> for this storefront"
+
+msgctxt "Languages::warehouses.exim_reset_inventory_tooltip"
+msgid "This won't affect the products that have the quantity specified in the imported file. This also won't affect products at the warehouses that aren't updated in this preset."
+msgstr "This won't affect the products that have the quantity specified in the imported file. This also won't affect products at the warehouses that aren't updated in this preset."
+
+msgctxt "Languages::commerceml.map.entity_type.warehouse"
+msgid "Warehouses"
+msgstr "Warehouses"
+
+msgctxt "Languages::commerceml.tab.warehouse"
+msgid "Warehouses"
+msgstr "Warehouses"
+
+msgctxt "Languages::warehouses.commerceml.import.error.product.warehouse_not_found"
+msgid "Couldn't find warehouse [id]"
+msgstr "Couldn't find warehouse [id]"
+
+msgctxt "Languages::warehouses.commerceml.import.message.warehouse.created"
+msgid "Category [id] created; local ID: [local_id]"
+msgstr "Category [id] created; local ID: [local_id]"

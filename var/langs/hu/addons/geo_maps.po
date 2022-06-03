@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/geo_maps.po\n"
+"X-Crowdin-File-ID: 4564\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::geo_maps"
+msgid "Maps and geolocation"
+msgstr "Térképek és földrajzi helymeghatározás"
+
+msgctxt "Addons::description::geo_maps"
+msgid "Enables Google or Yandex maps and geolocation functionality in your store."
+msgstr "Engedélyezi a Google vagy Yandex térképek és a geolokációs funkciók használatát a piactéren."
+
+msgctxt "SettingsSections::geo_maps::general"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "SettingsSections::geo_maps::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsSections::geo_maps::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsOptions::geo_maps::provider"
+msgid "Provider"
+msgstr "Szolgáltató"
+
+msgctxt "SettingsVariants::geo_maps::provider::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsVariants::geo_maps::provider::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsOptions::geo_maps::show_shippings_on_product"
+msgid "Show shipping cost and time on product pages"
+msgstr "Szállítási költség és idő megjelenítése a termékoldalakon"
+
+msgctxt "SettingsOptions::geo_maps::yandex_api_key"
+msgid "API key"
+msgstr "API kulcs"
+
+msgctxt "SettingsTooltips::geo_maps::yandex_api_key"
+msgid "Get the API key here: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+msgstr "Az API-kulcsot itt szerezheted be: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+
+msgctxt "SettingsOptions::geo_maps::yandex_commercial"
+msgid "I use the paid version of the API"
+msgstr "Az API fizetős verzióját használom"
+
+msgctxt "SettingsOptions::geo_maps::google_api_key"
+msgid "API key"
+msgstr "API kulcs"
+
+msgctxt "SettingsTooltips::geo_maps::google_api_key"
+msgid "Get the API key here: <a href=\" https://console.developers.google.com\" target=\"_blank\"> https://console.developers.google.com</a>"
+msgstr "Az API-kulcsot itt szerezheted be: <a href=\" https://console.developers.google.com\" target=\"_blank\"> https://console.developers.google.com</a>"
+
+msgctxt "Languages::geo_maps.select_your_city"
+msgid "Select your city"
+msgstr "Válaszd ki a városod"
+
+msgctxt "Languages::geo_maps.your_city"
+msgid "Your city"
+msgstr "A városod"
+
+msgctxt "Languages::geo_maps.location_detection_disabled"
+msgid "Your location could not be determined. Try enabling the location services on your device or disabling the tracking protection."
+msgstr "A tartózkodási helyed nem sikerült meghatározni. Próbáld meg engedélyezni a helymeghatározási szolgáltatásokat a készülékeden, vagy tiltsd le a nyomkövetés elleni védelmet."
+
+msgctxt "Languages::block_geo_maps_customer_location"
+msgid "Customer location"
+msgstr "Vásárló tartózkodási helye"
+
+msgctxt "Languages::block_geo_maps_customer_location_description"
+msgid "Customer city and city selection form"
+msgstr "Vásárló városa és a városválasztó űrlap"
+
+msgctxt "Languages::geo_maps.shipping_address_on_map"
+msgid "Shipping address on map"
+msgstr "Szállítási cím a térképen"
+
+msgctxt "Languages::geo_maps.cannot_select_location"
+msgid "This location couldn't be selected due to technical reasons. If you encounter any difficulties when placing an order, please contact us."
+msgstr "Ezt a helyet technikai okok miatt nem lehetett kiválasztani. Ha a megrendelés leadása során bármilyen probléma merülne fel, kérjük, lépj kapcsolatba velünk."
+
+msgctxt "Languages::geo_maps.shipping_time_and_rates"
+msgid "Shipping time and rates"
+msgstr "Szállítási idő és árak"
+
+msgctxt "Languages::geo_maps.shipping_group_pickup"
+msgid "Pick-up"
+msgstr "Átvétel"
+
+msgctxt "Languages::geo_maps.shipping_group_delivery"
+msgid "Shipping"
+msgstr "Szállítás"
+
+msgctxt "Languages::geo_maps.from_pickup_points"
+msgid "[shipping], [n] pickup point|[shipping], [n] pickup points"
+msgstr "[shipping], [n] átvételi pont|[shipping], [n] pickup points"
+
+msgctxt "Languages::geo_maps.shipping_about"
+msgid "about"
+msgstr "a ....ről"
+
+msgctxt "Languages::geo_maps.shipping_from"
+msgid "from"
+msgstr "a ...........től"
+
+msgctxt "Languages::geo_maps.shipping_time"
+msgid "Shipping time"
+msgstr "Szállítási idő"
+
+msgctxt "Languages::geo_maps.no_shippings"
+msgid "Sorry, we couldn't find any shipping options for your location. Please contact us, and we'll see what we can do about it."
+msgstr "Sajnáljuk, nem találtunk szállítási opciót a tartózkodási helyedhez. Kérjük, vedd fel velünk a kapcsolatot, és meglátjuk, mit tehetünk."
+
+msgctxt "Languages::geo_maps.text_settings_google_api_notice"
+msgid "Learn more about setting up API key <a target=\"_blank\" href=\"https://docs.cs-cart.com/4.10.x/user_guide/addons/maps_and_geolocation/#configuration\">in the documentation</a>."
+msgstr "További információ az API-kulcs beállításáról <a target=\"_blank\" href=\"https://docs.cs-cart.com/4.10.x/user_guide/addons/maps_and_geolocation/#configuration\">a dokumentációban</a>."
+

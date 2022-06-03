@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /release-4.13.2/addons/step_by_step_checkout.po\n"
+"X-Crowdin-File-ID: 4648\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::step_by_step_checkout"
+msgid "Step-by-Step Checkout [Deprecated]"
+msgstr "Pago paso a paso [Deprecated]"
+
+msgctxt "Addons::description::step_by_step_checkout"
+msgid "Brings back the old checkout page split into multiple steps."
+msgstr "Recupera la antigua página de pago dividida en varios pasos."
+
+msgctxt "SettingsOptions::step_by_step_checkout::step_by_step_checkout_information"
+msgid "Information"
+msgstr "Información"
+
+msgctxt "SettingsOptions::step_by_step_checkout::step_by_step_checkout_general_settings"
+msgid "Checkout settings"
+msgstr "Configuración del pago"
+
+msgctxt "Languages::step_by_step_checkout.layout_can_be_setup"
+msgid "Step-by-step checkout requires additional configuration to work properly. Please follow the instructions <a href=\"[href]\">in the settings of the Step-by-Step Checkout add-on</a>"
+msgstr "El pago paso a paso requiere una configuración adicional para que funcione correctamente. Por favor, siga las instrucciones <a href=\"[href]\">en la configuración del complemento Step-by-Step Checkout</a>."
+
+msgctxt "Languages::step_by_step_checkout.setup_layout_instruction"
+msgid "Configure blocks as follows to make step-by-step checkout work properly:</br><ol><li>Go to <b>Design → Layouts</b> and switch to the <b>Checkout</b> tab.</li><li>Find the grid with the disabled <b>Main Content</b> block. Click the gear icon of the grid to open its settings, change the <b>Wrapper</b> from <i>Lite checkout</i> to <i>None</i>, then save your changes.</li><li>Activate the <b>Main Content</b> block in that grid.</li><li>Deactivate all the other blocks in that grid. Here is the list of blocks that exist there by default: <i>Deliver to, Shipping methods, Customer, Address, Customer information, Customer's notes, Payment methods, Terms and conditions, Sign up for our newsletters!</i></li></ol>"
+msgstr "Configure los bloques de la siguiente manera para que el pago paso a paso funcione correctamente:</br><ol><li>Vaya a <b>Diseño → Diseños</b> y cambie a la pestaña <b>Pago</b>.</li><li>Busque la cuadrícula con el bloque <b>Contenido principal</b> desactivado. Haga clic en el icono del engranaje de la cuadrícula para abrir su configuración, cambie el <b>Wrapper</b> de <i>Lite checkout</i> a <i>None</i>, y luego guarde los cambios.</li><li>Active el bloque <b>Main Content</b> en esa cuadrícula.</li><li>Desactive todos los demás bloques de esa cuadrícula. Esta es la lista de bloques que existen allí por defecto: <i>Entregar en, Métodos de envío, Cliente, Dirección, Información del cliente, Notas del cliente, Métodos de pago, Términos y condiciones, ¡Suscríbete a nuestros boletines de noticias!</i></li></ol>"
+
+msgctxt "Languages::step_by_step_checkout.layout_page_was_backed_up"
+msgid "We've backed up the layout of your checkout in <b>[file_path]</b>. If you ever decide to use step-by-step checkout again, you'll be able to import that layout instead of configuring it manually as described in the add-on's settings."
+msgstr "Hemos hecho una copia de seguridad del diseño del pago en <b>[file_path]</b>. Si alguna vez decide volver a utilizar el pago paso a paso, podrá importar ese diseño en lugar de configurarlo manualmente como se describe en la configuración del complemento."
+
+msgctxt "Languages::step_by_step_checkout.check_layout_back_ups"
+msgid "You already have back-ups of checkout layouts in <b>[file_path]</b>. Instead of following the instruction below, you can simply import the backup."
+msgstr "Usted ya tiene copias de seguridad de los diseños de pago en <b>[file_path]</b>. En lugar de seguir las instrucciones siguientes, puede simplemente importar la copia de seguridad."
+
+msgctxt "Languages::step_by_step_checkout.tooltip.email_can_not_be_disabled"
+msgid "The <strong>Email</strong> field can't be disabled for the old checkout. To disable the <strong>Email</strong> field, please uninstall the <strong>Step-by-Step Checkout [Deprecated]</strong> add-on first."
+msgstr "El campo <strong>Email</strong> no se puede desactivar para el pago antiguo. Para desactivar el campo <strong>Email</strong>, desinstale primero el complemento <strong>Step-by-Step Checkout [Deprecated]</strong>."
+
+msgctxt "Languages::step_by_step_checkout.upgrade_notification.try_new_checkout_title"
+msgid "Try the new checkout"
+msgstr "Prueba el nuevo pago"
+
+msgctxt "Languages::step_by_step_checkout.upgrade_notification.try_new_checkout_message"
+msgid "<p>We have created a new checkout page. It is more compact and customizable. To try it, disable the <b>[addon_name]</b> add-on.</p><p>Once you do that, you’ll be able to customize the checkout page via block manager. Go to <b>Design → Layouts</b> and switch to the <i>Checkout</i> tab. Move the blocks, hide the ones you don’t need, and change their settings as you see fit.</p><p><a href=\"[disable_checkout]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Disable old checkout here</a></p>"
+msgstr "<p>Hemos creado una nueva página de pago. Es más compacta y personalizable. Para probarla, desactiva el complemento <b>[addon_name]</b>.</p><p>Una vez que lo hagas, podrás personalizar la página de pago a través del gestor de bloques. Ve a <b>Diseño → Diseños</b> y cambia a la pestaña <i>Checkout</i>. Mueve los bloques, oculta los que no necesites y cambia su configuración como creas conveniente.</p><p><a href=\"[disable_checkout]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Desactiva el checkout antiguo aquí</a></p>"
+

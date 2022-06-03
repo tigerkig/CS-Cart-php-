@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.13.2/addons/advanced_import.po\n"
+"X-Crowdin-File-ID: 4684\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::advanced_import"
+msgid "Advanced products import"
+msgstr "商品インポート"
+
+msgctxt "Addons::description::advanced_import"
+msgid "Allows you to match the fields in the imported file with the product properties. These matchings and other import settings can also be saved as presets for later use."
+msgstr "インポートファイルのフィールドを商品プロパティにマッピングすることができます。このマッピングとその他の設定は、保存して後で再利用することもできます。"
+
+msgctxt "Languages::advanced_import.never"
+msgid "Never"
+msgstr "無し"
+
+msgctxt "Languages::advanced_import.last_status.X"
+msgid "&mdash;"
+msgstr "&mdash;"
+
+msgctxt "Languages::advanced_import.last_status.S"
+msgid "Success"
+msgstr "成功"
+
+msgctxt "Languages::advanced_import.last_status.P"
+msgid "In progress"
+msgstr "処理中"
+
+msgctxt "Languages::advanced_import.last_status.F"
+msgid "Failure"
+msgstr "失敗"
+
+msgctxt "Languages::advanced_import.user_upload"
+msgid "User upload"
+msgstr "ユーザーによるアップロード"
+
+msgctxt "Languages::advanced_import.last_launch"
+msgid "Last import"
+msgstr "最終インポート日時"
+
+msgctxt "Languages::advanced_import.last_status"
+msgid "Status"
+msgstr "ステータス"
+
+msgctxt "Languages::advanced_import.file"
+msgid "File"
+msgstr "ファイル"
+
+msgctxt "Languages::advanced_import.has_modifiers"
+msgid "Has modifiers"
+msgstr "関数有り"
+
+msgctxt "Languages::advanced_import.import_products"
+msgid "Import products"
+msgstr "商品インポート"
+
+msgctxt "Languages::advanced_import.import_products_w_preset"
+msgid "Import products: [preset]"
+msgstr "商品インポート: [preset]"
+
+msgctxt "Languages::advanced_import.import_file"
+msgid "Import file"
+msgstr "インポートファイル"
+
+msgctxt "Languages::advanced_import.fields_mapping"
+msgid "Fields mapping"
+msgstr "フィールドマッピング"
+
+msgctxt "Languages::advanced_import.fields_mapping.description"
+msgid "This table contains the list of columns from the imported file. For each column you'd like to import, select a corresponding product property in [product]. Then check what sort of data will be imported from that column, and use modifiers to change that data, if necessary. Remember to save your changes."
+msgstr "インポートファイルのフィールドリストです。インポートファイルのフィールドごとに、該当する[product]の商品プロパティを選択してください。各フィールドにおいてフィールド値の例を確認し、必要であれば関数を適用して値を加工することができます。 最後に必ず変更を保存してください。"
+
+msgctxt "Languages::advanced_import.column_header"
+msgid "Column name in the imported file"
+msgstr "インポートフィールド名"
+
+msgctxt "Languages::advanced_import.product_property"
+msgid "Product property in [product]"
+msgstr " [product]の商品プロパティ"
+
+msgctxt "Languages::advanced_import.first_line_import_value"
+msgid "Example of the imported value"
+msgstr "フィールド値の例"
+
+msgctxt "Languages::advanced_import.editing_preset"
+msgid "Editing preset: [preset]"
+msgstr "商品インポートの編集: [preset]"
+
+msgctxt "Languages::advanced_import.add_preset"
+msgid "Add preset"
+msgstr "商品インポートを追加"
+
+msgctxt "Languages::advanced_import.new_preset"
+msgid "New preset"
+msgstr "商品インポートの追加"
+
+msgctxt "Languages::advanced_import.properties"
+msgid "Properties"
+msgstr "プロパティ"
+
+msgctxt "Languages::advanced_import.modifier"
+msgid "Modifier"
+msgstr "関数"
+
+msgctxt "Languages::advanced_import.modifier_title"
+msgid "A modifier is a rule that alters values in a column"
+msgstr "関数でフィールド値を変更できます"
+
+msgctxt "Languages::advanced_import.example_imported_title"
+msgid "For example, here's a value in the first line of your file:"
+msgstr "例えば、ファイルの最初の行にこの値があるとします:"
+
+msgctxt "Languages::advanced_import.example_modified_title"
+msgid "And here is how this value will be imported:"
+msgstr "この値が下記のようにインポートされます:"
+
+msgctxt "Languages::advanced_import.options"
+msgid "Options"
+msgstr "オプション"
+
+msgctxt "Languages::advanced_import.images_delimiter"
+msgid "Images delimiter"
+msgstr "画像区切り文字"
+
+msgctxt "Languages::advanced_import.images_delimiter.description"
+msgid "Delimiter between images of a product."
+msgstr "商品内複数画像区切り文字"
+
+msgctxt "Languages::advanced_import_images"
+msgid "Product images"
+msgstr "商品画像"
+
+msgctxt "Languages::advanced_import.remove_images"
+msgid "Remove additional images"
+msgstr "追加画像の削除"
+
+msgctxt "Languages::advanced_import.remove_images"
+msgid "Remove additional images"
+msgstr "追加画像の削除"
+
+msgctxt "Languages::advanced_import.import_fields"
+msgid "Import fields"
+msgstr "インポートフィールド"
+
+msgctxt "Languages::advanced_import.advanced_products_import"
+msgid "Products"
+msgstr "商品 [アドオン]"
+
+msgctxt "Languages::advanced_import.coming_soon"
+msgid "... coming soon"
+msgstr "... 近日公開"
+
+msgctxt "Languages::advanced_import.cant_load_file_for_company"
+msgid "File can't be loaded for the specified company"
+msgstr "指定されたショップのファイルを読み込むことができません。"
+
+msgctxt "Languages::advanced_import.cant_load_file"
+msgid "File can't be loaded"
+msgstr "ファイルを読み込むことができません"
+
+msgctxt "Languages::advanced_import.uploading_file"
+msgid "Uploading file for the preset: [preset]"
+msgstr "既存商品インポートでのファイルアップロード: [preset]"
+
+msgctxt "Languages::advanced_import.previewing_fields_mapping"
+msgid "Previewing fields mapping for the preset: [preset]"
+msgstr "既存商品インポートのフィールドマッピングプレビュー: [preset]"
+
+msgctxt "Languages::advanced_import.preset_not_found"
+msgid "Preset not found"
+msgstr "商品インポートが見つかりません"
+
+msgctxt "Languages::advanced_import.modifiers_list"
+msgid "Modifiers list"
+msgstr "関数一覧"
+
+msgctxt "Languages::advanced_import.invalid_number_of_parameters_provided"
+msgid "Invalid number of parameters provided for modifier: <b>[modifier]</b>: expected [expected_count], got [actual_count]."
+msgstr "関数に設定されたパラメータの数が不正です: <b>[modifier]</b>: 関数のパラメータ数 [expected_count], 設定されたパラメータ数 [actual_count]"
+
+msgctxt "Languages::advanced_import.invalid_function_firs_character"
+msgid "The modifier name cannot start with character <b>[character]</b>."
+msgstr "関数名は <b>[character]</b> 文字では開始できません。"
+
+msgctxt "Languages::advanced_import.unrecognized_modifier"
+msgid "The modifier <b>[modifier]</b> does not exist."
+msgstr "関数 <b>[modifier]</b> は存在しません。"
+
+msgctxt "Languages::advanced_import.unexpected_parameter_passed"
+msgid "Expected <b>[delimiter]</b> or <b>[closer]</b> got <b>[char]</b>."
+msgstr "<b>[delimiter]</b> または <b>[closer]</b> の文字の位置に <b>[char]</b> 文字があります。"
+
+msgctxt "Languages::advanced_import.invalid_modifier_message"
+msgid "The modifier <b>[modifier]</b> is invalid. [message]"
+msgstr "拡張子 <b>[modifier]</b> は無効です。 [message]"
+
+msgctxt "Languages::advanced_import.modifier_number_of_parameters"
+msgid "Number of parameters"
+msgstr "パラメーター数"
+
+msgctxt "Languages::advanced_import.modifiers_description"
+msgid "Use these functions in the <b>Modifier</b> column to alter the values in the fields from the imported file. Enter the functions as follows: <b>function(parameter, parameter)</b>. Please note that nesting of functions isn't supported."
+msgstr "下記関数を使用すると、インポートファイルのフィールド値を変更することができます。入力例: <b>関数 (パラメーター、パラメーター)</b> 関数の入れ子は使用できません。"
+
+msgctxt "Languages::advanced_import.modifiers_self_referencing_info"
+msgid "Most functions allow you to use the non-modified value of the imported field by using <b>$value</b> as a parameter. If there are any exceptions, they will be mentioned in function descriptions."
+msgstr "パラメーターとして <b>$value</b> を使用すると、インポートフィールド値をそのまま使うことができます。<b>$value</b> を使用できない関数もあります。下記をご参照ください。"
+
+msgctxt "Languages::advanced_import.modifier_description.sum"
+msgid "<b>sum</b>&mdash;sums up two numbers provided as parameters. <ul><li>Examples:</li><ul><li><b>sum(1, 3)</b> equals <i>4</i></li> <li><b>sum(7, $value)</b> equals <i>7 + the value of the imported field</i></li></ul></ul>"
+msgstr "<b>sum</b> &mdash; パラメーターの 2 つの数値を合計します。 <ul><li>例:</li><ul><li><b>sum(1, 3)</b> = <i>4</i></li> <li><b>sum(7, $value)</b> = <i>7 + インポートフィールド値</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.sub"
+msgid "<b>sub</b>&mdash;subtracts the second parameter from the first. <ul><li>Examples:</li><ul><li><b>sub(3, 1)</b> equals <i>2</i></li> <li><b>sub($value, 7)</b> equals <i>the value of the imported field - 7</i></li></ul></ul>"
+msgstr "<b>sub</b> &mdash; パラメーターの 2 つの数値を減算します。 <ul><li>例:</li><ul><li><b>sub(3, 1)</b> = <i>2</i></li> <li><b>sub($value, 7)</b> = <i>インポートフィールド値 - 7</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.mul"
+msgid "<b>mul</b>&mdash;multiplies the numbers provided as parameters. <ul><li>Examples:</li><ul><li><b>mul(3, 1)</b> equals <i>3</i></li> <li><b>mul($value, 7)</b> equals <i>the value of the imported field × 7</i></li></ul></ul>"
+msgstr "<b>mul</b> &mdash; パラメータ値を乗算します。 <ul><li>例:</li><ul><li><b>mul(3, 1)</b> = <i>3</i></li> <li><b>mul($value, 7)</b> = <i>インポートフィールド値 × 7</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.div"
+msgid "<b>div</b>&mdash;divides the first parameter by the second. <ul><li>Examples:</li><ul><li><b>div(9, 3)</b> equals <i>3</i></li> <li><b>div($value, 7)</b> equals <i>the value of the imported field ÷ 7</i></li></ul></ul>"
+msgstr "<b>div</b> &mdash; １番目のパラメータ値を２番めのパラメータ値で割算します。 <ul><li>例:</li><ul><li><b>div(9, 3)</b> = <i>3</i></li> <li><b>div($value, 7)</b> = <i>インポートフィールド値 ÷ 7</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.concat"
+msgid "<b>concat</b>&mdash;concatenates all the provided parameters. <ul><li>Examples:</li><ul><li><b>concat('abc', def)</b> will result in <i>abcdef</i></li> <li><b>concat('PRODUCT_', $value, '_CODE')</b> will result in <i>PRODUCT_$value_CODE</i>, but <b>$value</b> will be replaced with the the value of the imported field</li></ul></ul>"
+msgstr "<b>concat</b> &mdash; 全てのパラメータ値を文字列結合します。 <ul><li>例:</li><ul><li><b>concat('abc', def)</b> = <i>abcdef</i></li> <li><b>concat('PRODUCT_', $value, '_CODE')</b> = <i>PRODUCT_$value_CODE</i>。<b>$value</b> はインポートフィールド値です。</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.replace"
+msgid "<b>replace</b>&mdash;replaces all occurrences of the search string with the replacement string. <br>The order of parameters is important: <b>replace('search', 'replace', 'subject')</b>. <ul><li>Examples:</li><ul><li><b>replace('a', !, \"banana\")</b> will result in <i>b!n!n!</i></li> <li><b>replace(\"t-shirt\", 'T-Shirt', $value)</b> will replace every occurrence of <i>t-shirt</i> with <i>T-Shirt</i> in every entry in the column.</li></ul></ul>"
+msgstr "<b>replace</b> &mdash; 全ての検索文字（列）を置換文字（列）に変換します。 <br>パラメータの順番に気をつけてください: <b>replace('search', 'replace', 'subject')</b>. <ul><li>例:</li><ul><li><b>replace('a', !, \"banana\")</b> = <i>b!n!n!</i></li> <li><b>replace(\"t-shirt\", 'T-Shirt', $value)</b> は全ての <i>t-shirt</i> が <i>T-Shirt</i> に置換されます。</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.w_replace"
+msgid "<b>w_replace</b>&mdash;replaces all occurrences of the search string with the replacement string using wildcards. <br>The order of parameters is important: <b>w_replace('search', 'replace', 'subject')</b>. <br>Supported wildcards: <b>?</b>&mdash;any single character; <b>*</b>&mdash;any number of characters to the end of the word. <ul><li>Examples</li><ul><li><b>w_replace('banan?', bananas, banana banans bananz)</b> will result in <i>bananas bananas bananas</i></li> <li><b>w_replace(\"ban*\", 'bananas', banana banans bananz)</b> will also result in <i>bananas bananas bananas</i></li></ul></ul>"
+msgstr "<b>w_replace</b> &mdash; 全てのワイルドカード付き検索文字（列）を置換文字（列）に変換します。 <br>パラメータの順番に気をつけてください: <b>w_replace('search', 'replace', 'subject')</b>. <br>使用できるワイルドカード: <b>?</b> &mdash; １文字; <b>*</b> &mdash; スペースまでの複数文字 <ul><li>例</li><ul><li><b>w_replace('banan?', bananas, banana banans bananz)</b> = <i>bananas bananas bananas</i></li> <li><b>w_replace(\"ban*\", 'bananas', banana banans bananz)</b> = <i>bananas bananas bananas</i></li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.rand"
+msgid "<b>rand</b>&mdash;generates a random number from 1 to the maximum value provided as the parameter. <ul><li>Examples:</li><ul><li><b>rand(999)</b> may result in any number from 1 to 999.</li></ul></ul>"
+msgstr "<b>rand</b> &mdash; １からパラメータで指定された最大値のうちランダムで数値を生成します。 <ul><li>例:</li><ul><li><b>rand(999)</b> 1 から 999 までのいづれかの数値を生成します。</li></ul></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.if"
+msgid "<b>if</b>&mdash;checks the expression in the first parameter. If the first parameter is <i>true</i>, the function returns the second parameter. Otherwise the function returns the third parameter.<ul><li>Examples:</li><ul><li><b>if($value>\"0\", \"In Stock\", \"Out of stock\")</b> will result in <i>In Stock</i> if <i>$value > 0</i> is <i>true</i>; otherwise the result will be <i>Out of stock</i></li></ul><li>Available operations for the expression are:<ul><li><b>=</b>&mdash;checks for equality: <i>if($value=100, ...)</i></li><li><b>!=</b>&mdash;checks for inequality: <i>if($value!=100, ...)</i></li><li><b>&gt;</b>&mdash;checks if the first value is greater than the second: <i>if($value&gt;100, ...)</i></li><li><b>&lt;</b>&mdash;checks if the first value is less than the second: <i>if($value&lt;100, ...)</i></li><li><b>&gt;=</b>&mdash;checks if the first value is greater than or equal to the second: <i>if($value&gt;=100, ...)</i></li><li><b>&lt;=</b>&mdash;checks if the first value is less than or equal to the second: <i>if($value&lt;=100, ...)</i></li></ul></li><li>Notes:<ul><li>If you use single (') or double (\") quotes in the first parameter, make sure that the first parameter is either wrapped in quotes entirely, or that there is no end quote in the middle of the parameter. For example, <i>if(\"My value\"=$value, ...)</i> will not work, but <i>if(\"My value=$value\", ...)</i> will.</ul></li></ul>"
+msgstr "<b>if</b> &mdash; 最初のパラメータの条件式を確認し、結果が <i>true</i>の場合、関数は２番めのパラメータを返します。そうでない場合は３番目のパラメータを返します。<ul><li>例:</li><ul><li><b>if($value>\"0\", \"In Stock\", \"Out of stock\")</b> = <i>In Stock</i> (<i>$value > 0</i> が <i>true</i>の場合; そうでない場合は <i>Out of stock</i>となります。)</li></ul><li>使用可能な比較演算子:<ul><li><b>=</b> &mdash; 等しい: <i>if($value=100, ...)</i></li><li><b>!=</b> &mdash; 等しくない: <i>if($value!=100, ...)</i></li><li><b>&gt;</b> &mdash; より多い: <i>if($value&gt;100, ...)</i></li><li><b>&lt;</b> &mdash; より少ない: <i>if($value&lt;100, ...)</i></li><li><b>&gt;=</b> &mdash; より多いか等しい: <i>if($value&gt;=100, ...)</i></li><li><b>&lt;=</b> &mdash; より少ないか等しい: <i>if($value&lt;=100, ...)</i></li></ul></li><li>注意:<ul><li>もしシングルクォーテーション (') あるいはダブルクオーテーション (\") を最初のパラメータで使用する場合、クオーテーションは書式を囲んで使用する必要があります。例えば、<i>if(\"My value\"=$value, ...)</i> は使用できませんが、<i>if(\"My value=$value\", ...)</i> は可能です。</ul></li></ul>"
+
+msgctxt "Languages::advanced_import.modifier_description.case"
+msgid "<b>case</b>&mdash;odd parameters are expressions, and the following even parameters are corresponding values. The function checks the expressions and returns the value corresponding to the first expression that ends up being <i>true</i>.<ul><li>Examples:</li><ul><li><b>case($value>100, \"More than 100\", $value>70, \"More than 70\", $value>20, \"More than 20\", $value>0, \"In stock\", $value=0, \"Out of stock\")</b> will result in <i>More than 70</i> if the <i>$value</i> in the imported file is a number between 71 and 100</li></ul><li>Notes:<ul><li>This function shares expression rules and available operations with the <b>if</b> function.</li><li>Only even numbers of parameters are supported: <b>2, 4, 6, 8</b>, etc.</li></ul></li></ul>"
+msgstr "<b>case</b> &mdash; 奇数位置のパラメーターは条件式、偶数位置のパラメーターは条件式が <i>true</i> の場合の値となります。<ul><li>例:</li><ul><li><b>case($value>100, \"More than 100\", $value>70, \"More than 70\", $value>20, \"More than 20\", $value>0, \"In stock\", $value=0, \"Out of stock\")</b> = <i>More than 70</i> (インポートしたファイルの <i>$value</i> が 71  から 100 の数値の場合)</li></ul><li>注意:<ul><li>使用可能な比較演算子は <b>if</b> 関数と同じです。</li><li>パラメーターは偶数個のみ使用できます: <b>2, 4, 6, 8</b> 等。</li></ul></li></ul>"
+
+msgctxt "Languages::advanced_import.modifier_self_reference_is_unsupported"
+msgid "This function doesn't support the use of a non-modified value from the imported file."
+msgstr "この関数ではインポートフィールド値を使用できません。"
+
+msgctxt "Languages::advanced_import.preset_last_view"
+msgid "Preset"
+msgstr "商品インポート"
+
+msgctxt "Languages::advanced_import.show_more"
+msgid "Show more"
+msgstr "更に表示"
+
+msgctxt "Languages::advanced_import.show_less"
+msgid "Show less"
+msgstr "隠す"
+
+msgctxt "Languages::advanced_import.target_node"
+msgid "XML target node"
+msgstr "XMLターゲットノード"
+
+msgctxt "Languages::advanced_import.target_node.description"
+msgid "The full path to the XML node with the information about an imported entity. The nodes nested in the specified node will be used as columns of the imported file. Here is an example of the path: yml_catalog/shop/offers/offer"
+msgstr "XMLノードへのフルパス。特定ノードの子ノードがインポートファイルのフィールドとして使用されます。パスの例： yml_catalog/shop/offers/offer"
+
+msgctxt "Languages::advanced_import.fetching_schema_failed_check_target_node"
+msgid "Please make sure that the <b>XML target node</b> field is filled in properly."
+msgstr "<b>XMLターゲットノード</b>フィールドが正しく入力されていることを確認してください。"
+
+msgctxt "Languages::advanced_import.general_settings"
+msgid "General settings"
+msgstr "基本設定"
+
+msgctxt "Languages::advanced_import.additional_settings"
+msgid "Additional settings"
+msgstr "追加設定"
+
+msgctxt "Languages::advanced_import.delete_additional_images"
+msgid "Delete existing additional images"
+msgstr "既存の追加画像を削除"
+
+msgctxt "Languages::advanced_import.delete_additional_images_tooltip"
+msgid "If you enable this setting, then the existing additional images of the imported products will be replaced with the images specified in the imported file (if no images are specified, the old images will remain). If the setting is disabled, the new additional images will simply be added to the existing images."
+msgstr "このチェックボックスにチェックを入れると、既存の追加画像がインポートファイルで指定した画像に置換されます。(画像が指定されてない場合は置換されません) このチェックボックスのチェックを外すと、新規の画像が追加されます。"
+
+msgctxt "Languages::advanced_import.fetching_schema_failed_check_file"
+msgid "Before you can run the import, please make sure that:<ul><li>You have created the import preset by using the Create button. If you see Save instead of Create, then you've already done that.</li><li>You have specified the correct XML target node on the File tab and saved the preset.</li><li>You have matched the imported information with the product properties in CS-Cart on the Fields mapping tab and saved the preset.</li></ul>If you see this message, you haven't completed point 1 or 2."
+msgstr "インポートを実行する前に、次の点を確認してください:<ul><li>商品インポートを登録ボタンで作成済みである。登録ボタンでなく保存ボタンが表示されている。</li><li>ファイルタブでXMLターゲットノードを指定し、保存している。</li><li>フィールドマッピングタブでインポートファイルのフィールドとCS-Cartの商品プロパティをマッピングし、保存している。</li></ul>このメッセージが表示されている場合は、上記を再確認してください。"
+
+msgctxt "Languages::advanced_import.test_import"
+msgid "Perform test import"
+msgstr "テストインポートを実行"
+
+msgctxt "Languages::advanced_import.test_import_tooltip"
+msgid "If you enable this setting, only the first [n] product will be processed.|If you enable this setting, only the first [n] products will be processed."
+msgstr "このチェックボックスにチェックを入れると、最初の [n] 商品だけがインポートされます。|このチェックボックスにチェックを入れると、最初の [n] 商品だけがインポートされます。"
+
+msgctxt "Languages::advanced_import.import_strategy"
+msgid "Import strategy"
+msgstr "インポート方法"
+
+msgctxt "Languages::advanced_import.import_strategy_tooltip"
+msgid "If you select \"Update existing products only\", products that don't exist in the database of your store will be skipped during import.<br>If you select \"Create new products only\", products that exist in the database of your store will be skipped during import."
+msgstr "\"既存の商品のみ更新\"を選択すると、データベースに存在していないショップの商品は無視されます。\"新しい商品のみ作成\"を選択すると、データベースに存在しているショップの商品は無視されます。"
+
+msgctxt "Languages::advanced_import.import_all"
+msgid "Import all products from the file"
+msgstr "全ての商品をファイルからインポート"
+
+msgctxt "Languages::advanced_import.create_new_products_only"
+msgid "Create new products only"
+msgstr "新しい商品のみ作成"
+
+msgctxt "Languages::advanced_import.cant_save_preset_invalid_modifiers"
+msgid "The preset can't be saved because it contains invalid modifiers"
+msgstr "不正な関数が含まれているため商品インポートは保存できません"
+
+msgctxt "Languages::advanced_import.missing_parameters_list_closer"
+msgid "The expected <b>[closer]</b> after the parameters list is missing."
+msgstr "パラメータリスト後の <b>[closer]</b> がありません。"
+
+msgctxt "Languages::advanced_import.run_import_via_cron_message"
+msgid "You can run the import automatically at certain time intervals. To do it, add the following command to CRON:"
+msgstr "インポートを定期的に自動実行できます。クロンジョブに下記コマンドを追加してください:"
+
+msgctxt "Languages::advanced_import.cannot_detect_csv_delimiter"
+msgid "Cannot detect delimiter automatically. Please specify the correct delimiter manually in the additional settings on the \"File\" tab."
+msgstr "CSV区切り文字を自動検出できません。\"ファイル\"タブの追加設定で正しいCSV区切り文字を選択してください。"
+
+msgctxt "Languages::advanced_import.incorrect_delimiter"
+msgid "Specified (or auto detected) delimiter seems to be incorrect. Please specify the correct delimiter manually in the additional settings on the \"File\" tab."
+msgstr "選択した（あるいは自動検出した）CSV区切り文字が間違っているようです。\"ファイル\"タブの追加設定で正しいCSV区切り文字を選択してください。"
+
+msgctxt "Languages::advanced_import.file_will_be_deleted_are_you_sure_to_proceed"
+msgid "Deleting this import preset will also delete the file attached to it. Are you sure you want to proceed?"
+msgstr "このインポート初期設定値を削除すると、それに関連付けられているファイルも削除されます。 続行してもよろしいですか？"
+
+msgctxt "Languages::advanced_import.common_preset"
+msgid "All vendors"
+msgstr "すべての出品者"
+
+msgctxt "Languages::advanced_import.your_presets"
+msgid "Vendor's presets"
+msgstr "出品社の初期設定値"
+
+msgctxt "Languages::advanced_import.common_presets"
+msgid "Marketplace presets"
+msgstr "マーケットプレイス初期設定値"
+
+msgctxt "Languages::advanced_import.file_not_loaded"
+msgid "File was not loaded. Please reload the page and try again."
+msgstr "ファイルはロードされませんでした。ページを再読み込みして、もう一度お試しください。"
+
+msgctxt "Languages::advanced_import.local_file_selected"
+msgid "Local file selected"
+msgstr "ローカルファイルが選択されました"
+
+msgctxt "Languages::advanced_import.text_popup_file_editor_notice_full_link"
+msgid "You can upload and download files via <a class=\"advanced-import-file-editor-opener\" data-target-input-id=\"[target]\">[link_text]</a>"
+msgstr "<a class=\"advanced-import-file-editor-opener\" data-target-input-id=\"[target]\"> [link_text] </a>を介してファイルをアップロードおよびダウンロードできます"
+
+msgctxt "Languages::advanced_import.file_extension_was_not_supported_by_owner"
+msgid "Couldn't use your file [name]. This import preset only allows the following extensions: [ext]."
+msgstr " [name]ファイルを使用できませんでした。 このインポートプリセットでは、次の拡張子のみが許可されます。：[ext]"
+
+msgctxt "Languages::advanced_import.save_selected_file"
+msgid "Save selected file"
+msgstr "選択したファイルを保存します"
+
+msgctxt "Languages::advanced_import.fields_delimiter"
+msgid "XML node delimiter"
+msgstr ""
+
+msgctxt "Languages::advanced_import.fields_delimiter.description"
+msgid "Delimiter between similar nodes."
+msgstr ""
+

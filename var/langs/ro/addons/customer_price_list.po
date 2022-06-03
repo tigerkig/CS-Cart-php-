@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.13.2/addons/customer_price_list.po\n"
+"X-Crowdin-File-ID: 4542\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::customer_price_list"
+msgid "Price list for customers"
+msgstr "Listă de prețuri pentru clienți"
+
+msgctxt "Addons::description::customer_price_list"
+msgid "Allows customers to download a price list either with all the products, or with the products in their cart."
+msgstr "Permite clienților să descarce o listă de prețuri, fie cu toate produsele, fie cu produsele din coșul lor."
+
+msgctxt "SettingsSections::customer_price_list::general"
+msgid "General"
+msgstr "Informații generale"
+
+msgctxt "SettingsSections::customer_price_list::files"
+msgid "Files"
+msgstr "Fişier"
+
+msgctxt "SettingsOptions::customer_price_list::price_list_fields"
+msgid "Fields"
+msgstr "Câmpuri"
+
+msgctxt "SettingsOptions::customer_price_list::price_list_sorting"
+msgid "Sort by"
+msgstr "Sortare după"
+
+msgctxt "SettingsOptions::customer_price_list::price_list_group_by_category"
+msgid "Group by category"
+msgstr "Grupați după categorie"
+
+msgctxt "SettingsOptions::customer_price_list::show_download_link_on_profile"
+msgid "Show download link in \"My Account\""
+msgstr "Afișați linkul de descărcare în „Contul meu”"
+
+msgctxt "SettingsOptions::customer_price_list::show_download_link_on_cart"
+msgid "Show download link in the cart"
+msgstr "Afișați linkul de descărcare în „Contul meu”"
+
+msgctxt "Languages::customer_price_list.attention"
+msgid "Attention"
+msgstr "Atenție"
+
+msgctxt "Languages::customer_price_list.run_price_list_updating_by_cron"
+msgid "Price list generation requires a lot of resources. It's best to generate price lists automatically at certain time intervals.To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron:</a>"
+msgstr "Generarea listelor de prețuri necesită o mulțime de resurse. Cel mai bine este să generați automat liste de prețuri la anumite intervale de timp. Pentru a face acest lucru, adăugați următoarea comandă la  <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron:</a>"
+
+msgctxt "Languages::customer_price_list.check_requirements"
+msgid "Price list generation uses the proc_open PHP function. Please make sure this function is available in the CLI mode. To check all the requirements, run the following script in the command line of your server:"
+msgstr "Generarea listei de prețuri folosește funcția \"proc_open PHP.\" Vă rugăm să vă asigurați că această funcție este disponibilă în modul CLI. Pentru a verifica toate cerințele, rulați următorul script în linia de comandă a serverului:"
+
+msgctxt "Languages::customer_price_list.updated_at"
+msgid "Updated at"
+msgstr "Actualizat la"
+
+msgctxt "Languages::customer_price_list.not_created_yet"
+msgid "Not created yet"
+msgstr "Nu a fost creat încă"
+
+msgctxt "Languages::customer_price_list.enable_generating_price_list"
+msgid "Generate own price list"
+msgstr "Generați propria listă de prețuri"
+
+msgctxt "Languages::customer_price_list.tooltip_enable_generating_price_list"
+msgid "If you plan to have different prices for this user group, generate an own price list for it. Otherwise, members of this group will get the common price list available to all customers."
+msgstr "Dacă intenționați să aveți prețuri diferite pentru acest grup de utilizatori, generați o listă de prețuri proprie pentru acesta. În caz contrar, membrii acestui grup vor primi lista de prețuri comună disponibilă pentru toți clienții."
+
+msgctxt "Languages::customer_price_list.price_list_priority"
+msgid "Price list priority"
+msgstr "Prioritatea listei de prețuri"
+
+msgctxt "Languages::customer_price_list.tooltip_price_list_priority"
+msgid "Determines which price list a user will get when he or she is a member of multiple groups with own price lists. Such users get the price list that has the highest number in \"Priority\"."
+msgstr "Stabilește ce listă de prețuri va primi un utilizator atunci când este membru al mai multor grupuri cu liste de preț proprii. Astfel de utilizatori obțin lista de prețuri care are cel mai mare număr în „Prioritate”."
+
+msgctxt "Languages::customer_price_list.price_list_generation_error"
+msgid "Sorry, we couldn't find your price list. Please try again later or contact us and let us know about this problem."
+msgstr "Ne pare rău, nu am putut găsi lista de prețuri. Încercați din nou mai târziu sau contactați-ne și informați-ne despre această problemă."
+
+msgctxt "Languages::customer_price_list.account.download_price_list"
+msgid "Download price list"
+msgstr "Descărcați lista de prețuri"
+
+msgctxt "Languages::customer_price_list.cart.download_price_list"
+msgid "Download price list"
+msgstr "Descărcați lista de prețuri"
+
+msgctxt "Languages::customer_price_list.starting_generate_price_list"
+msgid "[[storefront]]: [[usergroup]]: starting price list generation"
+msgstr "[[storefront]]: [[usergroup]]: initializare generare listei de prețuri"
+
+msgctxt "Languages::customer_price_list.ending_generate_price_list"
+msgid "[[storefront]]: [[usergroup]]: ending price list generation"
+msgstr "[[storefront]]: [[usergroup]]: sfarsitul generarii listei de prețuri"
+
+msgctxt "Languages::customer_price_list.generate_price_list_error"
+msgid "[[storefront]]: [[usergroup]]: [error]"
+msgstr "[[storefront]]: [[usergroup]]: [error]"
+

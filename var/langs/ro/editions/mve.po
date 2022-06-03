@@ -1,0 +1,1022 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.13.2/editions/mve.po\n"
+"X-Crowdin-File-ID: 4694\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Languages::add_companies"
+msgid "Add vendors"
+msgstr "Adaugă furnizori"
+
+msgctxt "Languages::add_companies_and_close"
+msgid "Add vendors and close"
+msgstr "Adaugă furnizori și închideți"
+
+msgctxt "Languages::add_vendor"
+msgid "Add vendor"
+msgstr "Adaugă furnizor"
+
+msgctxt "Languages::add_vendor_administrator"
+msgid "Add vendor's administrator"
+msgstr "Adauga Administratorul de furnizor"
+
+msgctxt "Languages::vendor_administrator"
+msgid "Vendor's administrator"
+msgstr "Administrator de furnizori/ vînzători"
+
+msgctxt "Languages::vendor_administrators"
+msgid "Vendor's administrators"
+msgstr "Administratorii  furnizori/ vînzători"
+
+msgctxt "Languages::vendor_administrators_menu_description"
+msgid "List of vendor's administrators, registered users with a vendor account."
+msgstr "Lista de administratori furnizori(vînzători), utilizatori înregistrați cu un cont de furnizor(vînzător)."
+
+msgctxt "Languages::vendor_candidate_notification"
+msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a href=\"[href]\">this URL</a> to view the account details</a>."
+msgstr "Bună,<br/><br/>Aveți o nouă solicitare in calitate de furnizor in magazin dvs. Acest cont furnizor este în așteptarea aprobării. Urmați <a href=\"[href]\"> această adresă URL</a> pentru a vizualiza detaliile contului </a>."
+
+msgctxt "Languages::demo_panel.go_vendor_panel"
+msgid "Go to Vendor panel"
+msgstr "Mergeți la panoul de furnizor"
+
+msgctxt "Languages::vendor_account_balance_menu_description"
+msgid "Income and expenditure statistics (total, per vendor, per period)."
+msgstr "Statisticile de venituri și cheltuieli (total, pe furnizor, pe perioadă)."
+
+msgctxt "Languages::merge_vendor"
+msgid "Merge vendor"
+msgstr "Îmbinare furnizor"
+
+msgctxt "Languages::select_new_owner_company"
+msgid "Select a new owner of this company's profile data:"
+msgstr "Selectați un nou proprietar al profilului datelor acestei companii:"
+
+msgctxt "Languages::warning_merging_companies"
+msgid "Merging two company accounts will remove [company_name] from the database, and all the profile data (products, orders, shipping methods, users, promotions, etc.) will be transferred to this company's account"
+msgstr "Fuziunea dintre dintre companii vor elimina [company_name] din baza de date, precum și toate datele de profil (produse, comenzi, metode de livrare, utilizatori, promoți, ect) vor fi transferate în contul acestei companii."
+
+msgctxt "Languages::all_vendors"
+msgid "All vendors"
+msgstr "Toți Furnizorii"
+
+msgctxt "Languages::apply_for_vendor_account"
+msgid "Apply for a vendor account"
+msgstr "Aplică pentru contul de furnizor"
+
+msgctxt "Languages::available_for_vendor"
+msgid "Available for vendor"
+msgstr "Disponibil pentru furnizor"
+
+msgctxt "Languages::balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "Sold reportat"
+
+msgctxt "Languages::block_vendors"
+msgid "Vendors"
+msgstr "Furnizori"
+
+msgctxt "Languages::charge_to_vendor_account"
+msgid "Charge to vendor account"
+msgstr "Încărcați pentru contul de furnizor"
+
+msgctxt "Languages::companies"
+msgid "Vendors"
+msgstr "Companie Furnizor"
+
+msgctxt "Languages::create_administrator_account"
+msgid "Create administrator account"
+msgstr "Creare cont de Administrator"
+
+msgctxt "Languages::displayed_vendors"
+msgid "Displayed vendors"
+msgstr "Afişare Furnizori"
+
+msgctxt "Languages::editing_vendor"
+msgid "Editing vendor"
+msgstr "Editaţi Furniroul"
+
+msgctxt "Languages::error_admin_not_created_email_already_used"
+msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this vendor manually."
+msgstr "Cont de administrator nu a fost creat. Adresa de e-mail aparține unui alt utilizator. Puteți adăuga administratorul pentru acest furnizor manual."
+
+msgctxt "Languages::error_admin_not_created_name_already_used"
+msgid "Administrator account was not created. The user name belongs to another user. You should change the administrator account's name."
+msgstr "Cont de administrator nu a fost creat. Numele de utilizator aparține unui alt utilizator. Dvs., trebuie să schimbaţi numele contului de administrator."
+
+msgctxt "Languages::error_vendor_exists"
+msgid "The vendor with e-mail you have chosen already exists, please try another."
+msgstr "Adresa de e-mail aleasă pentru furnizor există deja, incercaţi una nouă."
+
+msgctxt "Languages::expenditure"
+msgid "Expenditure"
+msgstr "Cheltuieli"
+
+msgctxt "Languages::income"
+msgid "Income"
+msgstr "Venituri"
+
+msgctxt "Languages::manage_vendors"
+msgid "Manage vendors"
+msgstr "Gestionați furnizori"
+
+msgctxt "Languages::new_administrator_account_created"
+msgid "New administrator account has been successfully created."
+msgstr "Cont nou de Administrator a fost creat cu succes."
+
+msgctxt "Languages::new_vendor"
+msgid "New vendor"
+msgstr "Furnizor nou"
+
+msgctxt "Languages::notify_vendor"
+msgid "Notify vendor"
+msgstr "Anunță vânzătorul"
+
+msgctxt "Languages::notify_vendors_by_email"
+msgid "Notify vendors by e-mail"
+msgstr "Anunță vânzătorul prin e-mail"
+
+msgctxt "Languages::privileges.manage_payouts"
+msgid "Can edit"
+msgstr "Poate edita"
+
+msgctxt "Languages::privileges.manage_vendors"
+msgid "Can edit"
+msgstr "Poate edita"
+
+msgctxt "Languages::privilege_groups.vendor_payouts"
+msgid "Accounting"
+msgstr "Contabilitate"
+
+msgctxt "Languages::privileges.view_payouts"
+msgid "Can view"
+msgstr "Poate vizualiza"
+
+msgctxt "Languages::privileges.view_vendors"
+msgid "Can view"
+msgstr "Poate vizualiza"
+
+msgctxt "Languages::privilege_sections.vendors"
+msgid "Vendors privileges"
+msgstr "Privilegii vendors"
+
+msgctxt "Languages::privilege_groups.vendors"
+msgid "Vendors"
+msgstr "Vânzători"
+
+msgctxt "Languages::sales_period"
+msgid "Sales period"
+msgstr "Perioada de vânzări"
+
+msgctxt "Languages::sales_period_total"
+msgid "Sales period total"
+msgstr "Perioada  totală de vânzări"
+
+msgctxt "Languages::search_by_vendor"
+msgid "Search by vendor"
+msgstr "Cauta dupa furnizor"
+
+msgctxt "Languages::sort_by_company_asc"
+msgid "Sort by alphabetical: A to Z"
+msgstr "Ordine alfabetică: de la A la Z"
+
+msgctxt "Languages::sort_by_company_desc"
+msgid "Sort by alphabetical: Z to A"
+msgstr "Ordine alfabetică: de la Z la A"
+
+msgctxt "Languages::text_company_status_active_to_pending"
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr "Statusul tău de furnizor a fost schimbat din Activ la În așteptare."
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr "Statusul tău de furnizor a fost schimbat din Inactiv la În așteptare."
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr "Statusul În așteptare îți permite să te conectezi la panoul de administrare, să schimbi informațiile despre companie și să adaugi produse."
+
+msgctxt "Languages::text_company_status_new_to_active"
+msgid "Your request for vendor [company] was approved."
+msgstr "Cererea dvs. de furnizor al [companie] a fost aprobată."
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_created"
+msgid "New administrator was created. You can access to the administrator area: <a href=\"[link]\">[link_text]</a> by using the following credentials:<br />Login: [login]<br />Password: [password]"
+msgstr "Un nou administrator a fost creat. Puteți accesa zona de Administrator: <a href=\"[link]\">[link_text]</a> utilizând următoarele credențiale:<br/>Autentificare: [login]<br/>Parola: [password]"
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_updated"
+msgid "Type of your account [login] changed to administrator. You may login into the administrator area: <a href=\"[link]\">[link_text]</a>"
+msgstr "Tipul contului dvs. [login] a fost schimbat în Administrator. Te poți loga în zona de administrator <a href=\"[link]\">[link_text]</a>"
+
+msgctxt "Languages::text_company_status_new_to_active_subj"
+msgid "Your request for vendor was approved."
+msgstr "Cererea dvs. de furnizor a fost aprobată."
+
+msgctxt "Languages::text_company_status_new_to_disable"
+msgid "Your request for vendor [company] was rejected."
+msgstr "Cererea dvs. de furnizor al [companie] a fost respinsă."
+
+msgctxt "Languages::text_company_status_new_to_disable_subj"
+msgid "Your request for vendor was rejected."
+msgstr "Cererea dvs. de furnizor a fost respinsă."
+
+msgctxt "Languages::text_company_status_new_to_pending"
+msgid "Congratulations, your application for getting a vendor account has been approved. Once we review you accont information, we will publish it on our website."
+msgstr "Felicitări, cererea dumneavoastră pentru a obține un cont de furnizor a fost aprobată. După ce vom revizui informațiile despre contul dvs., o vom publica pe site-ul nostru."
+
+msgctxt "Languages::text_company_status_pending_subj"
+msgid "Your company is waiting for approval."
+msgstr "Compania dvs. este în așteptare pentru aprobare."
+
+msgctxt "Languages::text_company_status_pending_to_active"
+msgid "Your profile changes for vendor [company] were approved."
+msgstr "Profilul dumneavoastră se schimbă pentru furnizor  [company] a fost aprobat."
+
+msgctxt "Languages::text_error_adding_request"
+msgid "Error while adding the request."
+msgstr "Eroare în timpul adăugării cererii"
+
+msgctxt "Languages::text_new_payment_was_created"
+msgid "New payment was created"
+msgstr "O nouă metodă de plată a fost creată"
+
+msgctxt "Languages::text_not_approved_vendors"
+msgid "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
+msgstr "Aveți furnizori care necesită aprobarea dvs., Vă rog  <a href=\"[link]\">urmați acest link</a> pentru a revizui acești furnizori."
+
+msgctxt "Languages::text_successful_request"
+msgid "Your request was successfully added. You will receive the email with the answer later."
+msgstr "Cererea ta a fost adaugata cu succes. Veți primi e-mail cu răspuns mai târziu."
+
+msgctxt "Languages::total_amount_due"
+msgid "Total amount due"
+msgstr "Suma total datorată"
+
+msgctxt "Languages::total_period_payout"
+msgid "Total sales period payout"
+msgstr "Plata totală perioadei de vânzări"
+
+msgctxt "Languages::total_unpaid_balance"
+msgid "Total unpaid balance"
+msgstr "Sold total neplătit"
+
+msgctxt "Languages::tt_views_payments_update_taxes"
+msgid "If payment surcharge is taken from vendors, taxes are not calculated"
+msgstr "În cazul în care taxă suplimentară plăți este luată de la furnizori, impozitele nu sunt calculate"
+
+msgctxt "Languages::unable_delete_vendor_orders_exists"
+msgid "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
+msgstr "Imposibil pentru a șterge acest cont  de furnizor pentru că există comenzi care conțin produse ale acestui furnizor în baza de date a magazinului. Pentru a șterge contul,  în primul rând vă rugăm să ștergeți toate aceste produse, comenzi."
+
+msgctxt "Languages::vendor"
+msgid "Vendor"
+msgstr "Furnizor"
+
+msgctxt "Languages::vendors"
+msgid "Vendors"
+msgstr "Furnizori"
+
+msgctxt "Languages::vendors_menu_title"
+msgid "Vendors"
+msgstr "Vânzători(furnizor)"
+
+msgctxt "Languages::vendors_menu_description"
+msgid "Sorted list of vendor accounts registered in the store."
+msgstr "Lista sortată a conturilor de furnizor înregistrate în magazin."
+
+msgctxt "Languages::vendor_account_balance"
+msgid "Account balance"
+msgstr "Soldul contului"
+
+msgctxt "Languages::vendor_approval_pending"
+msgid "New vendor account application"
+msgstr "Nouă cerere, cont de furnizor"
+
+msgctxt "Languages::vendor_id"
+msgid "Vendor ID"
+msgstr "ID furnizor"
+
+msgctxt "Languages::vendor_name"
+msgid "Vendor name"
+msgstr "Nume furnizor"
+
+msgctxt "Languages::vendor_pages"
+msgid "Vendor pages"
+msgstr "Pagini furnizor"
+
+msgctxt "Languages::vendor_panel"
+msgid "Vendor panel"
+msgstr "Panoul furnizor"
+
+msgctxt "Languages::view_vendor_orders"
+msgid "View vendor orders"
+msgstr "Vezi comenzi furnizor"
+
+msgctxt "Languages::view_vendor_products"
+msgid "View vendor products"
+msgstr "Vezi produsele furnizorului"
+
+msgctxt "Languages::view_vendor_users"
+msgid "View vendor users"
+msgstr "Vezi utilizatorii furnizorului"
+
+msgctxt "Languages::view_vendor_admins"
+msgid "View vendor admins"
+msgstr "Vedeți administratorii furnizorului(vanzatorului)"
+
+msgctxt "Languages::you_can_edit_account_details"
+msgid "You can edit the account details now."
+msgstr "Puteți să editați detaliile contului acum."
+
+msgctxt "SettingsSections::Vendors"
+msgid "Vendors"
+msgstr "Furnizori"
+
+msgctxt "SettingsOptions::vendors_per_page"
+msgid "Vendors per page"
+msgstr "Furnizori pe pagină"
+
+msgctxt "SettingsOptions::apply_for_vendor"
+msgid "Allow users to apply for vendor account"
+msgstr "Permite utilizatorilor să aplice pentru contul de furnizor"
+
+msgctxt "SettingsOptions::create_vendor_administrator_account"
+msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
+msgstr "Creați automat contul de administrator pentru noul furnizor aprobat. (Dacă setarea \"Permite utilizatorilor să aplice pentru contul furnizor\" este activat)"
+
+msgctxt "SettingsOptions::display_vendor"
+msgid "Display product vendor"
+msgstr "Afișează produsele furnizorului"
+
+msgctxt "SettingsOptions::need_agree_with_terms_n_conditions"
+msgid "Applying vendors must agree to the terms & conditions"
+msgstr "Aplicarea vânzătorii trebuie să convină la termenii & condiţiile"
+
+msgctxt "SettingsOptions::mailer_send_from_admin"
+msgid "Send vendor emails from marketplace email addresses"
+msgstr "Trimite email-uri furnizorului la adresele de e-mail a marketplace"
+
+msgctxt "SettingsOptions::allow_vendor_manage_features"
+msgid "Allow vendors to manage product features"
+msgstr "Permiteți vânzătorilor să gestioneze caracteristicile produsului"
+
+msgctxt "SettingsTooltips::need_agree_with_terms_n_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"vendor_terms_n_conditions_content\" language variable."
+msgstr "Textul de la termenii & condiţii va fi regăsită din variabila de limbă \"vendor_terms_n_conditions_content\"."
+
+msgctxt "Languages::use_for_apply_for_vendor_account"
+msgid "Apply for a vendor account form"
+msgstr "Se aplică pentru o formă de cont furnizor"
+
+msgctxt "Languages::block_vendor_categories"
+msgid "Vendor categories"
+msgstr "Categorii vanzător"
+
+msgctxt "Languages::block_vendor_categories_description"
+msgid "Product categories available to a particular vendor"
+msgstr "Categorii de produse disponibile pentru un anumit vânzător"
+
+msgctxt "Languages::block_vendor_information"
+msgid "Vendor information"
+msgstr "Informații vânzători"
+
+msgctxt "Languages::block_vendor_logo"
+msgid "Vendor logo"
+msgstr "Logo vânzător"
+
+msgctxt "Languages::show_location"
+msgid "Show location"
+msgstr "Arată locaţia"
+
+msgctxt "Languages::show_products_count"
+msgid "Show products count"
+msgstr "Afișați numărul de produse"
+
+msgctxt "Languages::block_vendor_search"
+msgid "Search by vendor products"
+msgstr "Căutare după produsele vânzătorului"
+
+msgctxt "Languages::vendor_filters"
+msgid "Vendor Product filters"
+msgstr "Filtre produs vânzător"
+
+msgctxt "Languages::vendor_products"
+msgid "Vendor products"
+msgstr "Produse vânzător"
+
+msgctxt "Languages::apply_shipping_for_all_vendors"
+msgid "Allow shipping for all vendors"
+msgstr "Permite transport pentru toţi furnizorii"
+
+msgctxt "Languages::apply_shipping_for_all_vendors_confirm"
+msgid "The shipping method will be applied to all the vendors. Are you sure you want to proceed?"
+msgstr "Metoda de transport va fi aplicată la toti furnizori. Sunteţi sigur că doriţi să continuaţi?"
+
+msgctxt "Languages::shipping_applied_to_vendors"
+msgid "The shipping method was applied to [vendors] vendors"
+msgstr "Metoda de transport a fost aplicat la [vendors] furnizori"
+
+msgctxt "Languages::block_vendor_filters"
+msgid "Vendor filters"
+msgstr "Filtre furnizor"
+
+msgctxt "Languages::email_template.apply_for_vendor_notification"
+msgid "Apply for vendor"
+msgstr "Se aplică pentru furnizor"
+
+msgctxt "Languages::email_template.company_status_notification"
+msgid "Company status change"
+msgstr "Schimbare stare firma"
+
+msgctxt "Languages::email_template.company_payment_notification"
+msgid "Company payment"
+msgstr "Sisteme de plata pentru firma"
+
+msgctxt "Languages::email_template.vendor_invitation"
+msgid "Vendor invitation"
+msgstr "Invitație furnizor"
+
+msgctxt "Languages::vendor_invitation_email_subject"
+msgid "Come Sell With [default_company_name]"
+msgstr "Vino să vinzi cu [default_company_name]"
+
+msgctxt "Languages::vendor_invitation_email_body"
+msgid "<p>Hello,</p><br/><p>We'd like to invite you to <a href=\"[create_account_url]\">create an account</a> with [default_company_name].  You'll be able to expand your client base by listing your products on our platform and selling them to our visitors.</p><br/><p>Best regards,</p><p>[default_company_name] team</p>"
+msgstr "<p> Bună ziua, </p> <br/> <p> Am dori să vă invităm să <a href=\"[create_account_url]\"> creați un cont </a> pe site-ul nostru [default_company_name]. Veți putea să vă extindeți baza de clienți listând produsele dvs. pe platforma noastră și vânzându-le vizitatorilor noștri. </p> <br/> <p> Cu respect, </p> <p> echipa [default_company_name]</p>"
+
+msgctxt "Languages::vendor_terms_n_conditions"
+msgid "I accept the [terms_href]"
+msgstr "Accept [terms_href]"
+
+msgctxt "Languages::vendor_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Termeni si conditii"
+
+msgctxt "Languages::vendor_terms_n_conditions_alert"
+msgid "In order to proceed, you need to accept our Terms and Conditions."
+msgstr "Pentru a continua, trebuie sa acceptati Termenii si Conditiile noastre."
+
+msgctxt "Languages::vendor_terms_n_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Vă rugăm să citiţi aceşti termeni şi condiţii (\"Termeni\", \"Termeni si conditii\") cu atenţie înainte de a utiliza site-ul <a href=\"http://www.mywebsite.com\"> http://www.mywebsite.com</a> şi meu Mobile App mobile cerere (\"serviciile\") operate de compania mea (\"noi\", \"noi\" sau \"al nostru\").</p> <p><strong>Prin accesarea sau utilizarea serviciului sunteţi de acord să respectaţi aceşti termeni. Dacă nu sunteţi de acord cu orice parte a termenilor, atunci nu puteţi accesa serviciul.</strong></p> <p><strong>Achiziţii</strong></p> <p>Dacă doriţi să achiziţionaţi orice produs sau serviciu facut disponibil prin intermediul serviciului (\"cumpărare\"), vi se poate cere să furnizeze anumite informații relevante să vă cumpărare, inclusiv, fără limitare, ta...</p> <p><strong>Conţinut</strong></p> <p>Noastra Service vă permite să posta, link-ul, stoca, partaja şi pune la dispoziţie anumite informaţii, text, grafică, video, sau alte materiale (\"Continut\"). Sunteţi responsabil pentru...</p> <p><strong>Modificări</strong></p> <p>Ne rezervăm dreptul, la discreţia noastră, să modifice sau să înlocuiţi aceşti termeni în orice moment. În cazul în care revizuirea este material vom încerca să ofere cel puţin 30 de zile preaviz înainte de orice termeni noi a lua efect. Ceea ce constituie o schimbare materială va fi stabilit la discreţia noastră absolută.</p> <p><strong>Contactati-ne</strong></p> <p>Dacă aveţi orice întrebări despre aceşti termeni, vă rugăm să ne contactaţi.</p>"
+
+msgctxt "Languages::mve_ultimate_or_plus_license_required"
+msgid "This action requires [product] Ultimate or [product] Plus"
+msgstr "Această acțiune necesită [product] Ultimate sau [product] Plus"
+
+msgctxt "Languages::mve_ultimate_license_required"
+msgid "[product] Ultimate is required for this"
+msgstr "[product]Ultimate este necesar pentru aceasta"
+
+msgctxt "Languages::text_mve_ultimate_or_plus_license_required"
+msgid "This action requires [product] Ultimate or [product] Plus. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> or <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>, you'll get access to all their features."
+msgstr "Această acțiune necesită [product] Ultimate sau [product] Plus. Dacă treceți la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> or <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>, veți avea acces la toate funcțiile lor."
+
+msgctxt "Languages::max_storefronts_reached"
+msgid "<p>You have reached the limit of storefronts available for your license. Adding another storefront requires buying a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, an edition with an unlimited number of storefronts.</p>"
+msgstr "<p> Ați atins limita vitrinelor disponibile pentru licența dvs. Adăugarea unei alte vitrine necesită cumpărarea unei <a href=\"[mve_ultimate_license_url]\"target=\"_blank\">[product]Ultimate </a>, o ediție cu un număr nelimitat de vitrine. </p>"
+
+msgctxt "Languages::mve_plus_license"
+msgid "[product] Plus"
+msgstr ""
+
+msgctxt "Languages::mve_ultimate_license"
+msgid "[product] Ultimate"
+msgstr ""
+
+msgctxt "Languages::text_mve_plus_license_required"
+msgid "<p>Let your vendors receive money from customers directly via your marketplace.</p><p>Manage vendors' abilities via user groups, and allow your vendors to change the looks of their stores.</p><p>Create a unified catalog, where vendors can start selling any product in a matter of minutes.</p>"
+msgstr "Lăsați furnizorii dvs. să primească bani de la clienți direct prin piața dvs. , unde furnizorii pot începe să vândă orice produs în câteva minute. </p>"
+
+msgctxt "Languages::text_mve_ultimate_license_required"
+msgid "<p>Branch out: get an unlimited number of storefronts for your marketplace.</p><p>A storefront is another domain created either for a specific country or city, or for a specific part of your product catalog.</p><p>Get all the other functionality of [product] Plus.</p>"
+msgstr "<p> Ramificați: obțineți un număr nelimitat de vitrine pentru piața dvs. </p> <p> O vitrină este un alt domeniu creat fie pentru o anumită țară sau oraș, fie pentru o anumită parte a catalogului dvs. de produse. </ p > <p> Obțineți toate celelalte funcționalități ale[product] Plus.</p>"
+
+msgctxt "Languages::text_mve_ultimate_license"
+msgid "A special edition of [product] that offers all the features of [product] Plus and an unlimited number of storefronts. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, you'll never see the message about the storefront limit again."
+msgstr "O ediție specială a [product]] care oferă toate caracteristicile[product] Plus și un număr nelimitat de vitrine. Dacă treceți la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, nu veți mai vedea niciodată mesajul despre limitările magazinului."
+
+msgctxt "Languages::product_state_description.mve.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "Acces nerestrictionat la toate caracteristicile. Introduceti un numar valid de licenta pentru a fi activ.<br /><br />Acest mod poate fi activat in orice moment.<br /><br />"
+
+msgctxt "Languages::product_state_description.mve"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr "<p> V-ați activat [product]. Îl puteți folosi fără restricții de timp acum. Pentru funcții avansate (cum ar fi plata separată pentru fiecare furnizor și promoțiile create de furnizor), obțineți <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> Pentru a utiliza mai multe domenii pentru piața dvs., obțineți <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+
+msgctxt "Languages::product_state_description.mve.plus"
+msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
+msgstr ""
+
+msgctxt "Languages::product_state_description.mve.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p> Acces complet nelimitat la toate funcțiile. Introduceți un număr de licență valid pentru activare. </p> <p> Acest mod poate fi activat oricând. </p> <br />"
+
+msgctxt "Languages::product_state_description.mve.ru.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p> <br />"
+msgstr "<p>Acces complet la toate caracteristicile. Introdu un număr de licenţă valabil pentru activare.</p><p>Acest mod poate fi activat oricând.</p> <br />"
+
+msgctxt "Languages::product_state_description.mve.ru"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr "<p> Ați activat[product].Îl puteți folosi fără restricții de timp acum. Pentru funcții avansate (cum ar fi checkout separat pentru fiecare furnizor și promoțiile create de furnizor), obțineți <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> Pentru a utiliza mai multe domenii pentru piața dvs., accesați<a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+
+msgctxt "Languages::product_state_description.mve.ru.plus"
+msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
+msgstr ""
+
+msgctxt "Languages::product_state_description.mve.ru.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr ""
+
+msgctxt "Languages::text_store_mode_changed_to_mve"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
+msgstr ""
+
+msgctxt "Languages::text_store_mode_changed_to_mve.plus"
+msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+msgstr ""
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ultimate"
+msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr ""
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
+msgstr ""
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.plus"
+msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+msgstr ""
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.ultimate"
+msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr ""
+
+msgctxt "Languages::store_mode.plus"
+msgid "Plus"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type"
+msgid "Type"
+msgstr "Tip"
+
+msgctxt "Languages::vendor_payouts.type.other"
+msgid "Other"
+msgstr "Altele"
+
+msgctxt "Languages::vendor_payouts.type.other.description"
+msgid "Other"
+msgstr "Altele"
+
+msgctxt "Languages::vendor_payouts.type.order_placed"
+msgid "Order placed"
+msgstr "Plasare comandă"
+
+msgctxt "Languages::vendor_payouts.type.order_placed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> placed"
+msgstr "Comanda <a href=\"[order_url]\">#[order_id]</a> a fost trimisă"
+
+msgctxt "Languages::vendor_payouts.type.order_changed"
+msgid "Order changed"
+msgstr "Comanda a fost schimbată"
+
+msgctxt "Languages::vendor_payouts.type.order_changed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> changed"
+msgstr "Comanda<a href=\"[order_url]\">#[order_id]</a>a fost schimbată"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded"
+msgid "Order refunded"
+msgstr "Comandă retrasă"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> refunded"
+msgstr "Comanda<a href=\"[order_url]\">#[order_id]</a>a fost retrasă"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal"
+msgid "Withdrawal"
+msgstr "Retragere"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal.description"
+msgid "Withdrawal"
+msgstr "Retragere"
+
+msgctxt "Languages::vendor_payouts.type.payout"
+msgid "Payout"
+msgstr "Plată"
+
+msgctxt "Languages::vendor_payouts.type.payout.description"
+msgid "Payout"
+msgstr "Plată"
+
+msgctxt "Languages::vendor_payouts.transactions"
+msgid "Transactions"
+msgstr "Tranzacții...."
+
+msgctxt "Languages::vendor_payouts.withdrawals"
+msgid "Balance withdrawals"
+msgstr "Soldul retragerilor"
+
+msgctxt "Languages::vendor_payouts.transaction_value"
+msgid "Transaction value"
+msgstr "Valoarea tranzacției"
+
+msgctxt "Languages::vendor_payouts.income"
+msgid "Income"
+msgstr "Venituri"
+
+msgctxt "Languages::vendor_payouts.income_carried_forward"
+msgid "Income carried forward"
+msgstr "Venit reportat"
+
+msgctxt "Languages::vendor_payouts.balance"
+msgid "Balance"
+msgstr "Sold"
+
+msgctxt "Languages::vendor_payouts.balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "Soldul reportat"
+
+msgctxt "Languages::add_withdrawal"
+msgid "Request withdrawal"
+msgstr "Cerere de retragere"
+
+msgctxt "Languages::new_withdrawal"
+msgid "New withdrawal"
+msgstr "Retragere nouă"
+
+msgctxt "Languages::vendor_accounting"
+msgid "Accounting"
+msgstr "Tranzactii & Balanța (Sold)"
+
+msgctxt "Languages::vendor_accounting_menu_description"
+msgid "Income and expenditure statistics (total income, vendor balance, vendor withdrawals)."
+msgstr "Statistici de venituri și cheltuieli (venituri totale, soldul furnizorilor, retrageri ale furnizorilor)."
+
+msgctxt "Languages::vendor_payouts.current_balance"
+msgid "Current balance: [balance]"
+msgstr "Sold curent: [balance]"
+
+msgctxt "Languages::vendor_payouts.current_balance_text"
+msgid "Current balance"
+msgstr "Sold curent"
+
+msgctxt "Languages::vendor_payouts.approval_status"
+msgid "Approval status"
+msgstr "Starea aprobării"
+
+msgctxt "Languages::vendor_payouts.approval_status.P"
+msgid "Pending"
+msgstr "În așteptare"
+
+msgctxt "Languages::vendor_payouts.approval_status.C"
+msgid "Completed"
+msgstr "Complet"
+
+msgctxt "Languages::vendor_payouts.approval_status.D"
+msgid "Declined"
+msgstr "Refuzată"
+
+msgctxt "Languages::email_template.accounting_new_payout"
+msgid "Accounting: Payout has been issued"
+msgstr "Contabilitate: plata a fost emisă"
+
+msgctxt "Languages::vendor_payouts.new_payout_issued"
+msgid "New payout has been issued"
+msgstr "A fost emisă o nouă plată"
+
+msgctxt "Languages::vendor_payouts.new_payout_issued_text"
+msgid "A new payout of [amount] has been issued by [issuer]"
+msgstr "O nouă plată a [amount] a fost emisă de [issuer]"
+
+msgctxt "Languages::vendor_payouts.view_details"
+msgid "You can view the details here"
+msgstr "Poți vizualiza detaliile aici"
+
+msgctxt "Languages::vendor_payouts.payout_comments"
+msgid "Payout comments"
+msgstr "Comentarii de plată"
+
+msgctxt "Languages::email_template.accounting_new_withdrawal"
+msgid "Accounting: Withdrawal has been requested"
+msgstr "Contabilitate: a fost solicitată retragerea"
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested"
+msgid "New withdrawal has been requested"
+msgstr "A fost solicitată o nouă retragere"
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested_text"
+msgid "A new withdrawal of [amount] has been requested by [requester]"
+msgstr "O nouă retragere[amount] a fost solicitată[requester]"
+
+msgctxt "Languages::vendor_payouts.withdrawal_comments"
+msgid "Withdrawal comments"
+msgstr "Comentarii de retragere"
+
+msgctxt "Languages::email_template.accounting_payout_approved"
+msgid "Accounting: Payout has been completed"
+msgstr "Contabilitate: plata a fost finalizată"
+
+msgctxt "Languages::vendor_payouts.payout_approved"
+msgid "Payout has been completed"
+msgstr "Plata a fost finalizată"
+
+msgctxt "Languages::vendor_payouts.payout_approved_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Completed</b>"
+msgstr ""
+
+msgctxt "Languages::email_template.accounting_payout_declined"
+msgid "Accounting: Payout hasn't been completed"
+msgstr "Contabilitate: Plata nu a fost finalizată"
+
+msgctxt "Languages::vendor_payouts.payout_declined"
+msgid "Payout hasn't been completed"
+msgstr "Plata nu a fost finalizată"
+
+msgctxt "Languages::vendor_payouts.payout_declined_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Not completed</b>"
+msgstr "Plata pentru[amount] emisă la [date] a fost marcată ca <b>Nefinalizată</b>"
+
+msgctxt "Languages::email_template.accounting_withdrawal_approved"
+msgid "Accounting: Withdrawal has been completed"
+msgstr "Contabilitate:retragerea a fost făcută "
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved"
+msgid "Withdrawal has been completed"
+msgstr "Retragerea a fost finalizată"
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Completed</b>"
+msgstr "Retragerea sumei[amount]solicitate pe[date]a fost <b>Completă</b>"
+
+msgctxt "Languages::email_template.accounting_withdrawal_declined"
+msgid "Accounting: Withdrawal has been declined"
+msgstr "Contabilitate: retragerea a fost refuzată"
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined"
+msgid "Withdrawal has been declined"
+msgstr "Retragerea a fost refuzată"
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Declined</b>"
+msgstr "Retragerea sumei[amount]solicitate pe[date]a fost <b>refuzată</b>"
+
+msgctxt "Languages::top_sellers"
+msgid "Top sellers"
+msgstr "Top Vânzători "
+
+msgctxt "SettingsOptions::can_edit_blocks"
+msgid "Allow vendors to edit layouts"
+msgstr "Permiteți vânzătorilor să modifice aspectele"
+
+msgctxt "Languages::mve.container_not_used"
+msgid "This container currently has default configuration. It looks exactly like the store owner configured it. Vendors can use custom configuration to change the blocks in this container."
+msgstr "Acest container are în prezent configurație implicită. Arată exact așa cum l-a configurat proprietarul magazinului. Furnizorii pot utiliza configurația personalizată pentru a schimba blocurile din acest container."
+
+msgctxt "SettingsOptions::can_edit_styles"
+msgid "Allow vendors to manage styles of the theme"
+msgstr "Permiteți vânzătorilor să gestioneze stilurile temei"
+
+msgctxt "Languages::theme_editor.page_cant_be_configured"
+msgid "The appearance of this page can't be configured with the Theme editor."
+msgstr "Aspectul acestei pagini nu poate fi configurat cu editorul de teme."
+
+msgctxt "Languages::error_admin_registers_as_vendor"
+msgid "You can't become a vendor because you are currently signed in as an administrator. Please sign out and resubmit the form. <p><a class=\"ty-btn ty-btn__secondary\" href=\"[sign_out_link]\">Sign out</a></p>"
+msgstr "Nu puteți deveni furnizor, deoarece sunteți conectat în prezent ca administrator. Vă rugăm să vă deconectați și să retrimiteți formularul.<p><a class=\"ty-btn ty-btn__secondary\" href=\"[sign_out_link]\">Ieșire</a></p>"
+
+msgctxt "Languages::logo_for_the_customer_area"
+msgid "Logo for the customer area"
+msgstr "Sigla(Logo) pentru zona clientului"
+
+msgctxt "Languages::logo_for_invoices"
+msgid "Logo for invoices"
+msgstr "Sigla (Logo)pentru facturi"
+
+msgctxt "Languages::vendor_language"
+msgid "Vendor language"
+msgstr "Limba vânzătorului"
+
+msgctxt "Languages::zipcode"
+msgid "Zipcode"
+msgstr "Cod poștal"
+
+msgctxt "Languages::vendors_statistics"
+msgid "Vendor's statistics"
+msgstr "Statistica vânzătorului"
+
+msgctxt "Languages::vendors_activity"
+msgid "Vendor activity in the selected period"
+msgstr "Activitatea vânzătorilor(furnizorilor) în perioada selectată"
+
+msgctxt "Languages::vendors_activity.vendors_with_sales"
+msgid "Vendors with sales"
+msgstr "Furnizori (vânzători) cu vânzări"
+
+msgctxt "Languages::vendors_activity.new_vendors"
+msgid "New vendors"
+msgstr "Vânzători noi"
+
+msgctxt "Languages::vendors_activity.vendors_with_new_products"
+msgid "Vendors with new products"
+msgstr "Vânzători cu produse noi"
+
+msgctxt "Languages::vendors_activity.not_logged_in_vendors"
+msgid "Vendors who haven't signed in"
+msgstr "Vânzători (furnizori) care nu s-au conectat"
+
+msgctxt "Languages::vendors_activity.new_products"
+msgid "New products"
+msgstr "Produse noi"
+
+msgctxt "Languages::vendors_activity.orders_created"
+msgid "Orders created"
+msgstr "Comenzi create"
+
+msgctxt "Languages::vendor_names"
+msgid "Vendor names"
+msgstr "Numele furnizorilor(vendorilor)"
+
+msgctxt "Languages::vendor_logos_and_product_count"
+msgid "Vendor logos and product count"
+msgstr "Siglele furnizorului și numărul de produse"
+
+msgctxt "Languages::invite_vendors"
+msgid "Invite vendors"
+msgstr "Invită vendori(vânzători)"
+
+msgctxt "Languages::invite_vendors_title"
+msgid "Invite people to register as vendors in your marketplace"
+msgstr "Invitați oamenii să se înregistreze ca furnizori pe piața dvs."
+
+msgctxt "Languages::invite_vendors_enter_emails"
+msgid "Emails where to send invitations"
+msgstr "E-mailuri unde să trimiteți invitații"
+
+msgctxt "Languages::separate_multiple_email_addresses"
+msgid "If you enter multiple emails, write each of them in a new line."
+msgstr "Dacă introduceți mai multe e-mailuri, scrieți fiecare dintre ele într-o nouă linie."
+
+msgctxt "Languages::send_invitations"
+msgid "Invite"
+msgstr "Invitație"
+
+msgctxt "Languages::pending_vendor_invitations"
+msgid "Pending vendor invitations"
+msgstr "Invitații în așteptare la vânzător"
+
+msgctxt "Languages::pending_vendor_invitations_menu_description"
+msgid "Manage invitations to your marketplace for potential vendors."
+msgstr "Gestionați invitațiile pe piața dvs. pentru potențiali furnizori."
+
+msgctxt "Languages::vendor_invited_at"
+msgid "Date sent"
+msgstr "Data trimiterii"
+
+msgctxt "Languages::vendor_invitations_sent_notification"
+msgid "Invitations sent: [sent_quantity]"
+msgstr "Invitații trimise: [sent_quantity]"
+
+msgctxt "Languages::vendor_invitations_fail_notification"
+msgid "Invitations not sent: [failed_quantity]<br/><b>[emails_list]</b><br/>An invitation won't be sent if it has already been sent to that email address before. But if none of your invitations are being sent, and you haven't sent invitations to those addresses before, please make sure that [product] can send any emails at all. If it can't, then the problem is related to [product] or server configuration. In that case, please contact your server administrator, hosting provider, or <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">our technical support</a> to investigate."
+msgstr "Invitațiile nu au fost trimise: [failed_quantity]<br/><b>[emails_list]</b><br/>O invitație nu va fi trimisă dacă a fost deja trimisă la acea adresă de e-mail. Dar dacă niciuna dintre invitațiile dvs. nu este trimisă și nu ați mai trimis invitații la acele adrese, vă rugăm să vă asigurați că [product] poate trimite orice e-mail. Dacă nu poate, atunci problema este legată de[product] sau de configurarea serverului. În acest caz, vă rugăm să contactați administratorul serverului, furnizorul de găzduire sau <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">suportul nostru tehnic</a> pentru a investiga."
+
+msgctxt "Languages::vendor_edit_invitation_email_template"
+msgid "<a href=\"[url]\">Edit vendor invitation email template</a>"
+msgstr "Editați șablonul de e-mail pentru invitația furnizorului"
+
+msgctxt "Languages::all_companies"
+msgid "All vendors"
+msgstr "Toți vendorii/furnizorii"
+
+msgctxt "Languages::is_default_storefront"
+msgid "Default storefront"
+msgstr ""
+
+msgctxt "Languages::default_storefront_must_exist"
+msgid "Default storefront must exist in the store"
+msgstr ""
+
+msgctxt "Languages::cant_remove_default_storefront"
+msgid "Default storefront <b>[url]</b> can't be removed"
+msgstr ""
+
+msgctxt "Languages::copy_theme_from_another_storefront"
+msgid "Copy theme and its layouts from another storefront"
+msgstr ""
+
+msgctxt "Languages::n_vendors"
+msgid "[n] vendor|[n] vendors"
+msgstr ""
+
+msgctxt "Languages::event.vendors_require_approval.name"
+msgid "Vendors require approval"
+msgstr "Vânzătorii necesită aprobare"
+
+msgctxt "Languages::event.vendors_require_approval.title"
+msgid "Some vendors are pending approval"
+msgstr "Unii vânzători sunt în așteptarea aprobării"
+
+msgctxt "Languages::event.vendor_status_changed.name"
+msgid "Vendor status changed to [status]"
+msgstr "Starea vânzătorului schimbată în [status]"
+
+msgctxt "Languages::event.vendor_status_changed_from.name"
+msgid "Vendor status changed from [status]"
+msgstr ""
+
+msgctxt "Languages::email_template.company_status_suspended_notification"
+msgid "Company status change to Suspended"
+msgstr "Schimbarea statutului companiei în \"Suspendat\""
+
+msgctxt "Languages::event.vendor_status_changed.title"
+msgid "Your status has been changed to [status]"
+msgstr "Starea ta a fost schimbată în [status]"
+
+msgctxt "Languages::event.vendor_status_changed.active.message"
+msgid "All your active products will now appear in the store"
+msgstr "Toate produsele tale active vor apărea acum în magazin"
+
+msgctxt "Languages::event.vendor_status_changed.pending.message"
+msgid "You can work with the admin panel and manage your products, but they won't appear to customers until your status changes to Active."
+msgstr "Poți lucra în panoul de admin să gestionezi produsele, dar acestea vor apărea clienților doar când starea ta se va schimba în Activ."
+
+msgctxt "Languages::vendor_notifications"
+msgid "Vendor notifications"
+msgstr "Notificări vendor"
+
+msgctxt "Languages::log_in_as_vendor"
+msgid "Log in as vendor"
+msgstr "Conectați-vă ca furnizor(vendor)"
+
+msgctxt "Languages::vendor_owner"
+msgid "Vendor's main administrator"
+msgstr "Administratorul principal al vendorului"
+
+msgctxt "Languages::owner_company"
+msgid "Vendor"
+msgstr ""
+
+msgctxt "Languages::block_manager.dynamic_entity_companies"
+msgid "vendor"
+msgstr ""
+
+msgctxt "Languages::vendor_features_only"
+msgid "Features created by vendors"
+msgstr "Funcții create de furnizori"
+
+msgctxt "Languages::any_vendor"
+msgid "Any vendor"
+msgstr "Orice vânzător"
+
+msgctxt "Languages::event.apply_for_vendor_notification.name"
+msgid "New vendor account application"
+msgstr "Nouă solicitare de creare a unui cont de vânzător(vendor)"
+
+msgctxt "Languages::suspend_alert"
+msgid "<p>Your account is suspended. To lift the suspension, please contact us.</p>"
+msgstr "<p> Contul dvs. este suspendat. Pentru a ridica suspendarea, vă rugăm să ne contactați. </p>"
+
+msgctxt "Languages::event.vendor_status_changed.suspended.title"
+msgid "Your account is suspended"
+msgstr "Contul tau a fost suspendat"
+
+msgctxt "Languages::event.vendor_status_changed.suspended.message"
+msgid "To lift the suspension, please contact us."
+msgstr "Pentru a vă reînnoi contul, vă rugăm să ne contactați."
+
+msgctxt "Languages::text_company_status_suspended_subj"
+msgid "Your account is suspended"
+msgstr "Contul tau a fost suspendat"
+
+msgctxt "Languages::logo_section.vendor"
+msgid "Default logo for new vendors"
+msgstr "Sigla prestabilită pentru noii furnizori"
+
+msgctxt "ProfileFields::tax_number"
+msgid "Tax number"
+msgstr ""
+
+msgctxt "Languages::tax_number"
+msgid "Tax number"
+msgstr ""
+
+msgctxt "Languages::text_sent_an_email_access_information"
+msgid "We've sent you an email with access information."
+msgstr ""
+
+msgctxt "Languages::update_notification.approve_vendors_notification_title"
+msgid "Simplified vendor approval flow"
+msgstr ""
+
+msgctxt "Languages::update_notification.approve_vendors_notification"
+msgid "<p>Previously, administrators had to check each and every vendor that registered in the marketplace. They manually approved those vendors to make them appear on the storefront and/or grant them access to the admin panel. There was no way for a vendor to start working in the marketplace (at least in the admin panel) immediately after registration.</p><p>Now vendors get access to the admin panel immediately after registration, as long as you allow automatic creation of administrator accounts for them. By default, vendors still require approval before they and their products appear on the storefront. But you can lift that restriction in the settings of the \"Vendor data premoderation\" add-on.</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">View moderation settings</a></p>"
+msgstr ""
+

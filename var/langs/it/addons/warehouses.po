@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /release-4.13.2/addons/warehouses.po\n"
+"X-Crowdin-File-ID: 4678\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::warehouses"
+msgid "Warehouses [Beta]"
+msgstr "Magazzino [Beta]"
+
+msgctxt "Addons::description::warehouses"
+msgid "Lets you set product stock separately for each store and warehouse. Shows to customers the availability of a product in stores or in particular rate areas."
+msgstr "Consente di impostare lo stock del prodotto separatamente per ogni negozio e magazzino. Mostra ai clienti la disponibilità di un prodotto nei negozi o in particolari zone tariffarie."
+
+msgctxt "Languages::warehouses.store_type"
+msgid "Type"
+msgstr "Tipologia"
+
+msgctxt "Languages::warehouses.store_type_store"
+msgid "Store"
+msgstr "Negozi"
+
+msgctxt "Languages::warehouses.store_type_pickup"
+msgid "Pickup point"
+msgstr "Punti ritiro"
+
+msgctxt "Languages::warehouses.store_type_warehouse"
+msgid "Warehouse"
+msgstr "Magazzino"
+
+msgctxt "Languages::warehouses.name"
+msgid "Name"
+msgstr "Nome"
+
+msgctxt "Languages::warehouses.city"
+msgid "City"
+msgstr "Città"
+
+msgctxt "Languages::warehouses.quantity"
+msgid "Quantity"
+msgstr "Quantità"
+
+msgctxt "Languages::warehouses.settings"
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgctxt "Languages::warehouses.ship_to"
+msgid "Ship to"
+msgstr "Spedisci a "
+
+msgctxt "Languages::warehouses.ship_to_tooltip"
+msgid "Determines the rate areas in which the products from this warehouse will be considered available."
+msgstr "Determina le aree tariffarie in cui i prodotti di questo magazzino saranno considerati disponibili."
+
+msgctxt "Languages::warehouses.main_destination_tooltip"
+msgid "Determines where this place is located. In turn, this determines the shipping rate and delivery time to this place."
+msgstr "Determina dove si trova questo luogo. A sua volta, questo determina la tariffa di spedizione e il tempo di consegna in questo luogo."
+
+msgctxt "Languages::warehouses.show_to"
+msgid "Show to"
+msgstr "Mostra a"
+
+msgctxt "Languages::warehouses.show_to_tooltip"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Ti consente di offrire questo punto di ritiro ai residenti di altre aree tariffarie al momento del pagamento."
+
+msgctxt "Languages::warehouses.out_of_stock_products"
+msgid "[product] isn't in stock in the selected region.|The following products aren't in stock in the selected region: [products]"
+msgstr "[product] non è disponibile nella regione selezionata. | I seguenti prodotti non sono disponibili nella regione selezionata: [products]"
+
+msgctxt "Languages::warehouses.warehouse_stock"
+msgid "Quantities"
+msgstr "Quantità"
+
+msgctxt "Languages::warehouses.stores_and_warehouses"
+msgid "Stores & Warehouses"
+msgstr "Negozi e magazzini"
+
+msgctxt "Languages::warehouses.store_warehouse"
+msgid "Store / Warehouse"
+msgstr "Negozi / Magazzini"
+
+msgctxt "Languages::warehouses.shipping_delay"
+msgid "Moving time"
+msgstr "Tempo di attesa"
+
+msgctxt "Languages::warehouses.shipping_delay.tooltip"
+msgid "The time it takes to move products from here to another store or warehouse in this rate area."
+msgstr "Il tempo necessario per spostare i prodotti da qui a un altro negozio o magazzino in questa area tariffaria."
+
+msgctxt "Languages::warehouses.warn_about_delay"
+msgid "Warn about delay"
+msgstr "Avvisa del ritardo"
+
+msgctxt "Languages::warehouses.warn_about_delay.tooltip"
+msgid "If a product has to be moved to the rate area from here, show the moving time in the product list and cart."
+msgstr "Se un prodotto deve essere spostato nell'area tariffaria da qui, mostra il tempo di spostamento nell'elenco dei prodotti e nel carrello."
+
+msgctxt "Languages::warehouses.destinations_configuration.tooltip"
+msgid "Products can be taken from different stores and warehouses first, depending on where your customer is. <a href=\"[destinations_url]\" target=\"_blank\">Configure store and warehouse priority individually for each rate area.</a>"
+msgstr "I prodotti possono essere prelevati prima da diversi negozi e magazzini, a seconda di dove si trova il cliente.  <a href=\"[destinations_url]\" target=\"_blank\">Configurare individualmente la priorità del negozio e del magazzino per ciascuna area.</a>"
+
+msgctxt "Languages::warehouses.shipping_delay.description"
+msgid "Product is at a remote warehouse. If you order it, we'll send it [shipping_delay]."
+msgstr "Il prodotto si trova in un magazzino esterno. Se lo ordini, te lo invieremo in [shipping_delay]."
+
+msgctxt "Languages::warehouses.shipping_delay.description.default"
+msgid "Product is at a remote warehouse. If you order it, shipping may take slightly longer."
+msgstr "Il prodotto si trova in un magazzino esterno. Se lo ordini, la spedizione potrebbe richiedere un po 'più di tempo."
+
+msgctxt "Languages::warehouses.shipping_delay.description.short"
+msgid "If ordered: [shipping_delay]"
+msgstr "Se ordinato: [shipping_delay]"
+
+msgctxt "Languages::warehouses.shipping_delay_for_products"
+msgid "Some of the products you ordered are at a remote warehouse. Shipping may take slightly longer than stated here."
+msgstr "Alcuni dei prodotti che hai ordinato si trovano in un magazzino esterno. La spedizione potrebbe richiedere un tempo leggermente più lungo di quanto dichiarato qui."
+
+msgctxt "Languages::warehouses.product_available_if_ordered"
+msgid "Available if ordered"
+msgstr "Disponibile su ordinazione"
+
+msgctxt "Languages::warehouses.product_in_stock"
+msgid "In stock"
+msgstr "in magazzino"
+
+msgctxt "Languages::warehouses.in_n_stores"
+msgid "in [n] store|in [n] stores"
+msgstr "in [n] negozio|nei [n] negozi"
+
+msgctxt "Languages::warehouses.product_availability"
+msgid "Availability in stores"
+msgstr "Disponibile nei negozi"
+
+msgctxt "Languages::block_availability_in_stores"
+msgid "Availability in stores"
+msgstr "Disponibile nei negozi"
+
+msgctxt "Languages::block_availability_in_stores_description"
+msgid "List of stores where the product can be purchased"
+msgstr "Elenco dei negozi in cui è possibile acquistare il prodotto"
+
+msgctxt "Languages::warehouses.store_and_address"
+msgid "Store and address"
+msgstr "Negozio ed indirizzo"
+
+msgctxt "Languages::warehouses.phone"
+msgid "Phone"
+msgstr "Telefono"
+
+msgctxt "Languages::warehouses.search_store"
+msgid "Search store"
+msgstr "Cerca per negozio"
+
+msgctxt "Languages::warehouses.stores_list"
+msgid "List"
+msgstr "Lista"
+
+msgctxt "Languages::warehouses.stores_map"
+msgid "Map"
+msgstr "Mappa"
+
+msgctxt "Languages::warehouses.no_matching_stores_found"
+msgid "No stores found matching the search criteria"
+msgstr "Nessun prodotto trovato corrispondente ai criteri di ricerca"
+
+msgctxt "Languages::warehouses.rate_area"
+msgid "Rate area"
+msgstr "Tariffa area"
+
+msgctxt "Languages::warehouses.shipping_delay_notification"
+msgid "Delay warning"
+msgstr "Avviso di ritardo"
+
+msgctxt "Languages::warehouses.shipping_delay_notification.tooltip"
+msgid "It will appear if products aren't available in the stores and warehouses above."
+msgstr "Apparirà se i prodotti non sono disponibili nei negozi e nei magazzini sopra."
+
+msgctxt "Languages::warehouses.type_to_search_or_check_all"
+msgid "Type to search, or click the button on the right to add all rate areas"
+msgstr "Digita per cercare o fai clic sul pulsante a destra per aggiungere tutte le aree tariffarie"
+
+msgctxt "Languages::warehouses.any_store_type"
+msgid "Any type of store"
+msgstr "Qualsiasi tipo di negozio"
+
+msgctxt "Languages::warehouses.add_all"
+msgid "Add all"
+msgstr "Aggiunti tutto"
+
+msgctxt "Languages::warehouses.quantity_tab.no_data"
+msgid "This storefront doesn't have any stores or warehouses. Please <a href=\"[create_url]\">create one</a> or <a href=\"[list_url]\">make an existing one available</a> for this storefront"
+msgstr "Questo shop non ha negozi o magazzini. Per favore <a href=\"[create_url]\">area uno</a> oppure <a href=\"[list_url]\">mostra uno disponibile, esistente</a> per questo negozio"
+
+msgctxt "Languages::warehouses.exim_reset_inventory_tooltip"
+msgid "This won't affect the products that have the quantity specified in the imported file. This also won't affect products at the warehouses that aren't updated in this preset."
+msgstr "Ciò non influirà sui prodotti che hanno la quantità specificata nel file importato. Anche questo non influirà sui prodotti nei magazzini che non sono aggiornati in questa preimpostazione."
+
+msgctxt "Languages::commerceml.map.entity_type.warehouse"
+msgid "Warehouses"
+msgstr "Magazzini"
+
+msgctxt "Languages::commerceml.tab.warehouse"
+msgid "Warehouses"
+msgstr "Magazzini"
+
+msgctxt "Languages::warehouses.commerceml.import.error.product.warehouse_not_found"
+msgid "Couldn't find warehouse [id]"
+msgstr "Impossibile trovare il magazzino [id]"
+
+msgctxt "Languages::warehouses.commerceml.import.message.warehouse.created"
+msgid "Category [id] created; local ID: [local_id]"
+msgstr "Categoria [id] creata; ID locale: [local_id]"
+

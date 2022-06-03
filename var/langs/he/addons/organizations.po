@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/organizations.po\n"
+"X-Crowdin-File-ID: 4600\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::organizations"
+msgid "Organizations and representatives [Beta]"
+msgstr "ארגונים ונציגים [בטא]"
+
+msgctxt "Addons::description::organizations"
+msgid "Allows your customers to create organizations (legal entities). An organization can have multiple customer accounts associated with it. They act as representatives of the organization."
+msgstr "מאפשר ללקוחות שלך ליצור ארגונים (ישויות משפטיות). לארגון יכולים להיות קשורים חשבונות לקוחות מרובים. הם פועלים כנציגי הארגון."
+
+msgctxt "SettingsSections::organizations::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::organizations::b2b_storefront_ids"
+msgid "B2B Storefronts"
+msgstr "B2B חזיתות החנויות"
+
+msgctxt "Languages::profile_types_section_organization"
+msgid "Organization information"
+msgstr "מידע על הארגון"
+
+msgctxt "Languages::organizations"
+msgid "Organizations"
+msgstr "ארגונים"
+
+msgctxt "Languages::organizations.organization"
+msgid "Organization"
+msgstr "ארגון"
+
+msgctxt "Languages::organizations.user_role_owner"
+msgid "Owner"
+msgstr "בעלים"
+
+msgctxt "Languages::organizations.user_role_representative"
+msgid "Representative"
+msgstr "נציג"
+
+msgctxt "Languages::organizations_menu_description"
+msgid "List of the store's organizations."
+msgstr "רשימת ארגוני החנות."
+
+msgctxt "Languages::organizations.new_organization"
+msgid "New organization"
+msgstr "ארגון החדש"
+
+msgctxt "Languages::organizations.edit_organization"
+msgid "Edit organization: [name]"
+msgstr "ערוך ארגון: [שם]"
+
+msgctxt "Languages::organizations.promotion_cond_once_per_organization"
+msgid "Once for organization"
+msgstr "פעם אחת לארגון"
+
+msgctxt "Languages::organizations.promotion_cond_organizations"
+msgid "Organizations"
+msgstr "ארגונים"
+
+msgctxt "Languages::promotion_cond_organizations"
+msgid "Organizations"
+msgstr "ארגונים"
+
+msgctxt "Languages::organizations.organization_details"
+msgid "Organization details"
+msgstr "פרטי הארגון"
+
+msgctxt "Languages::organizations.manage_users"
+msgid "Manage users"
+msgstr "ניהול משתמשים"
+
+msgctxt "Languages::organizations.last_sign_in"
+msgid "Last sign in"
+msgstr "כניסה אחרונה"
+

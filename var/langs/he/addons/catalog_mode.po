@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/catalog_mode.po\n"
+"X-Crowdin-File-ID: 4538\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::catalog_mode"
+msgid "Catalog mode"
+msgstr "מצב קטלוג"
+
+msgctxt "Addons::description::catalog_mode"
+msgid "Allows you to use the store as a product catalog"
+msgstr "מאפשר לך להשתמש בחנות כקטלוג מוצרים"
+
+msgctxt "Languages::catalog_mode"
+msgid "Catalog Mode"
+msgstr "מצב קטלוג"
+
+msgctxt "Languages::text_catalog_mode_zero_price_action_notice"
+msgid "In order that the \"Buy now\" button could be displayed on the product details page, please set \"Zero price action\" as \"Allow customers to add the product to cart\"."
+msgstr "על מנת שהכפתור \"קנה עכשיו\" יכול להיות מוצג בדף פרטי המוצר, הגדר \"אפס מחיר פעולה\" כמו \"אפשר ללקוחות להוסיף את המוצר לסל\"."
+
+msgctxt "Languages::buy_now_url"
+msgid "Buy Now URL"
+msgstr "לקנות עכשיו URL"
+
+msgctxt "SettingsSections::catalog_mode::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::catalog_mode::main_store_mode"
+msgid "Store operation mode"
+msgstr "מצב פעולת החנות"
+
+msgctxt "SettingsOptions::catalog_mode::add_to_cart_empty_buy_now_url"
+msgid "Allow purchasing products with empty Buy Now URL"
+msgstr "לאפשר רכישת מוצרים עם URL לקנות עכשיו ריק"
+
+msgctxt "SettingsVariants::catalog_mode::main_store_mode::catalog"
+msgid "Catalog"
+msgstr "קטלוג"
+
+msgctxt "SettingsVariants::catalog_mode::main_store_mode::store"
+msgid "Store"
+msgstr "חנות"
+

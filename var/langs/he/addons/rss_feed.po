@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/rss_feed.po\n"
+"X-Crowdin-File-ID: 4638\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::rss_feed"
+msgid "RSS feed"
+msgstr "הזנת RSS"
+
+msgctxt "Addons::description::rss_feed"
+msgid "Generates RSS feeds for products and blog posts"
+msgstr "מייצר הזנת RSS עבור מוצרים ופוסטים בבלוג"
+
+msgctxt "Languages::rss_feed"
+msgid "RSS feed"
+msgstr "הזנת RSS"
+
+msgctxt "Languages::feed_title"
+msgid "Feed title"
+msgstr "כותרת הזנה"
+
+msgctxt "Languages::feed_description"
+msgid "Feed description"
+msgstr "תיאור הזנה"
+
+msgctxt "Languages::rss_sort_by"
+msgid "Sort items by"
+msgstr "מיין את הפריטים לפי"
+
+msgctxt "Languages::rss_display_sku"
+msgid "Display SKU"
+msgstr "הצג SKU"
+
+msgctxt "Languages::rss_display_image"
+msgid "Display image"
+msgstr "הצג תמונה"
+
+msgctxt "Languages::rss_display_price"
+msgid "Display gross price"
+msgstr "הצג מחיר ברוטו"
+
+msgctxt "Languages::rss_display_original_price"
+msgid "Display net price"
+msgstr "הצג מחיר נטו"
+
+msgctxt "Languages::rss_display_add_to_cart"
+msgid "Display add to cart button"
+msgstr "הצג את הכפתור הוסף לסל קניות"
+
+msgctxt "Languages::rss_created"
+msgid "Created"
+msgstr "נוצר"
+
+msgctxt "Languages::rss_updated"
+msgid "Updated"
+msgstr "עודכן"
+
+msgctxt "Languages::block_rss_feed"
+msgid "RSS feed"
+msgstr "הזנת RSS"
+
+msgctxt "Languages::block_rss_feed_description"
+msgid "RSS feed subscription icon"
+msgstr "צלמית הרשמה להזנת RSS"
+
+msgctxt "SettingsSections::rss_feed::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::rss_feed::managing_editor"
+msgid "Content editor"
+msgstr "עורך תוכן"
+
+msgctxt "SettingsOptions::rss_feed::display_rss_feed_in_category"
+msgid "Show RSS feed for each category"
+msgstr "הצג הזנת RSS עבור כל קטגוריה"
+
+msgctxt "SettingsOptions::rss_feed::category_max_products_items"
+msgid "Max product number per category"
+msgstr "מספר מקסימלי של מוצרים לקטגוריה"
+
+msgctxt "SettingsTooltips::rss_feed::managing_editor"
+msgid "Enter the content editor's email and real name, e.g. john@example.com (John Doe)"
+msgstr "הכנס את כתובת דואר אלקטרוני ושם אמיתי של עורך תוכן, למשל john@example.com (פלוני אלמוני)"
+
+msgctxt "SettingsTooltips::rss_feed::display_rss_feed_in_category"
+msgid "RSS icon near category title."
+msgstr "סמל RSS ליד כותרת הקטגוריה."
+
+msgctxt "Languages::addons.rss_feed.icon"
+msgid "RSS feed subscription icon"
+msgstr "סמל מנוי להזנת RSS"
+

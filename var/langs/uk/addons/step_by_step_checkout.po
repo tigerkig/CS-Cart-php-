@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.13.2/addons/step_by_step_checkout.po\n"
+"X-Crowdin-File-ID: 4648\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::step_by_step_checkout"
+msgid "Step-by-Step Checkout [Deprecated]"
+msgstr "Покрокове оформленя замовлення [Deprecated]"
+
+msgctxt "Addons::description::step_by_step_checkout"
+msgid "Brings back the old checkout page split into multiple steps."
+msgstr "Повертає стару сторінку оформлення замовлення, поділеного на декілька кроків."
+
+msgctxt "SettingsOptions::step_by_step_checkout::step_by_step_checkout_information"
+msgid "Information"
+msgstr "Інформація"
+
+msgctxt "SettingsOptions::step_by_step_checkout::step_by_step_checkout_general_settings"
+msgid "Checkout settings"
+msgstr "Налаштування процесу покупки"
+
+msgctxt "Languages::step_by_step_checkout.layout_can_be_setup"
+msgid "Step-by-step checkout requires additional configuration to work properly. Please follow the instructions <a href=\"[href]\">in the settings of the Step-by-Step Checkout add-on</a>"
+msgstr "Щоб покрокове оформлення замовлення запрацювало, його потрібно додатково налаштувати. Дотримуйтесь інструкцій <a href=\"[href]\">в налаштуваннях модуля \"Покрокове оформлення замовлення\"</a>"
+
+msgctxt "Languages::step_by_step_checkout.setup_layout_instruction"
+msgid "Configure blocks as follows to make step-by-step checkout work properly:</br><ol><li>Go to <b>Design → Layouts</b> and switch to the <b>Checkout</b> tab.</li><li>Find the grid with the disabled <b>Main Content</b> block. Click the gear icon of the grid to open its settings, change the <b>Wrapper</b> from <i>Lite checkout</i> to <i>None</i>, then save your changes.</li><li>Activate the <b>Main Content</b> block in that grid.</li><li>Deactivate all the other blocks in that grid. Here is the list of blocks that exist there by default: <i>Deliver to, Shipping methods, Customer, Address, Customer information, Customer's notes, Payment methods, Terms and conditions, Sign up for our newsletters!</i></li></ol>"
+msgstr "Щоб покрокове оформлення замовлення працювало вірно, налаштуйте блоки таким чином: </br><ol><li>На сторінці <b>Дизайн → Макети</b> перейдіть на вкладку <b>Оформлення замовлення</b>. </li><li>Знайдіть секцію з вимкненим блоком <b>\"Головний вміст\"</b>. Натисніть на іконку шестерінки у секції, поміняйте в настройках <b>Оболонку</b> з <i>Простого оформлення замовлення</i> на <i>Не вибрано</i>, а потім збережіть зміни. </li><li>Увімкніть блок <b>\"Головний вміст\"</b> в цій секції</li><li>Вимкніть всі інші блоки в цій секції. Ось список блоків, які там є за замовчуванням: <i> \"Доставка в\", \"Способи доставки\", \"Покупець\", \"Адреса\", \"Інформація про покупця\", \"Примітки покупця\", \"Способи оплати\", \"Умови оформлення замовлення \",\" Підпишіться на нашу розсилку! \"</i></li></ol>"
+
+msgctxt "Languages::step_by_step_checkout.layout_page_was_backed_up"
+msgid "We've backed up the layout of your checkout in <b>[file_path]</b>. If you ever decide to use step-by-step checkout again, you'll be able to import that layout instead of configuring it manually as described in the add-on's settings."
+msgstr "Ми створили резервну копію макета вашої сторінки оформлення замовлення в файлі <b> [file_path]</b>. Якщо ви вирішите знову використовувати покрокове оформлення замовлення, то зможете імпортувати макет, а не налаштовувати сторінку оформлення замовлення вручну."
+
+msgctxt "Languages::step_by_step_checkout.check_layout_back_ups"
+msgid "You already have back-ups of checkout layouts in <b>[file_path]</b>. Instead of following the instruction below, you can simply import the backup."
+msgstr "У вас вже є резервні копії макетів сторінки оформлення замовлення в <b>[file_path]</b>. Замість того, щоб діяти за інструкцією, можете просто імпортувати резервні копії."
+
+msgctxt "Languages::step_by_step_checkout.tooltip.email_can_not_be_disabled"
+msgid "The <strong>Email</strong> field can't be disabled for the old checkout. To disable the <strong>Email</strong> field, please uninstall the <strong>Step-by-Step Checkout [Deprecated]</strong> add-on first."
+msgstr "Поле <strong>Email</strong> не можна вимкнути для старого \"оформлення замовлення\". Щоб вимкнути поле <strong>Email</strong>, спочатку видаліть модуль <strong>Покрокове оформлення замовлення [Deprecated]</strong>."
+
+msgctxt "Languages::step_by_step_checkout.upgrade_notification.try_new_checkout_title"
+msgid "Try the new checkout"
+msgstr "Спробуйте нове оформлення замовлення"
+
+msgctxt "Languages::step_by_step_checkout.upgrade_notification.try_new_checkout_message"
+msgid "<p>We have created a new checkout page. It is more compact and customizable. To try it, disable the <b>[addon_name]</b> add-on.</p><p>Once you do that, you’ll be able to customize the checkout page via block manager. Go to <b>Design → Layouts</b> and switch to the <i>Checkout</i> tab. Move the blocks, hide the ones you don’t need, and change their settings as you see fit.</p><p><a href=\"[disable_checkout]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Disable old checkout here</a></p>"
+msgstr "<p>Ми створили нову сторінку оформлення замовлення. Вона компактніше, а ще вона краще налаштовується. Щоб спробувати цю сторінку, вимкніть модуль <b>[addon_name]</b>.</p><p>Коли ви це зробите, то зможете налаштувати сторінку оформлення замовлення через менеджер блоків. Для настройки відкрийте сторінку <b>Дизайн → Макети</b> і перейдіть на вкладку <i>Оформлення замовлення</i>. Переміщайте блоки, ховайте непотрібні і міняйте налаштування у потрібних, як захочете.</p><p><a href=\"[disable_checkout]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Відключити старе оформлення замовлення</a></p>"
+

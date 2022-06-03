@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/vendor_communication.po\n"
+"X-Crowdin-File-ID: 4686\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::vendor_communication"
+msgid "Message center"
+msgstr "مركز الرسائل"
+
+msgctxt "Addons::description::vendor_communication"
+msgid "Allows customers, vendors, and administrators to contact each other via the built-in chat."
+msgstr "يسمح للعملاء والموردين والمسؤولين بالاتصال ببعضهم البعض عبر الدردشة المضمنة."
+
+msgctxt "SettingsSections::vendor_communication::general"
+msgid "General"
+msgstr "عام"
+
+msgctxt "SettingsSections::vendor_communication::vendor_to_customer"
+msgid "For customers"
+msgstr "للعملاء"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_product"
+msgid "Contact button on product pages"
+msgstr "زر الاتصال على صفحات المنتج"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_vendor"
+msgid "Contact button in vendor microstore"
+msgstr "زر الاتصال في microstore البائع"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_messages"
+msgid "Contact button at \"Messages\" menu"
+msgstr "زر الاتصال في قائمة \"الرسائل\""
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_product"
+msgid "Show the \"Ask a question\" button on product pages."
+msgstr "اعرض زر \"طرح سؤال\" على صفحات المنتج."
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_vendor"
+msgid "Show the \"Ask a question\" button in vendors' microstores."
+msgstr "اعرض الزر \"طرح سؤال\" في  microstores للبائعين."
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_customer_communication"
+msgid "Customer-to-seller communication"
+msgstr "التواصل بين العميل والبائع"
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_admin_communication"
+msgid "Vendor-to-admin communication"
+msgstr "التواصل بين البائع والمسؤول"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_order"
+msgid "Contact button on detailed order page"
+msgstr "زر الاتصال في صفحة الطلب المفصلة"
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_order"
+msgid "Show the \"Start communication\" button on detailed order page."
+msgstr "اعرض زر \"بدء الاتصال\" في صفحة الطلب التفصيلية."
+
+msgctxt "Languages::vendor_communication.messages"
+msgid "Messages"
+msgstr "رسائل"
+
+msgctxt "Languages::vendor_communication.message_center"
+msgid "Message center"
+msgstr "مركز الرسائل"
+
+msgctxt "Languages::vendor_communication.message_center_name"
+msgid "Message center"
+msgstr "مركز الرسائل"
+
+msgctxt "Languages::vendor_communication.message_center_name_menu_description"
+msgid "Messages from customers"
+msgstr "رسائل من العملاء"
+
+msgctxt "Languages::vendor_communication.message_center_menu_description"
+msgid "Customer-to-vendor messages"
+msgstr "رسائل العميل للمورد"
+
+msgctxt "Languages::vendor_communication.author"
+msgid "Author"
+msgstr "المؤلف"
+
+msgctxt "Languages::vendor_communication.date"
+msgid "Date"
+msgstr "التاريخ"
+
+msgctxt "Languages::vendor_communication.message"
+msgid "Message"
+msgstr "رساله"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "اتصل بالبائع"
+
+msgctxt "Languages::vendor_communication.ask_a_question"
+msgid "Ask a question"
+msgstr "طرح سؤال"
+
+msgctxt "Languages::vendor_communication.contact_vendor_name"
+msgid "Contact [vendor_name]"
+msgstr "اتصل [vendor_name]"
+
+msgctxt "Languages::vendor_communication.created_at"
+msgid "Created on"
+msgstr "تم إنشاؤها على"
+
+msgctxt "Languages::vendor_communication.new_thread_created"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>The vendor's reply will be sent to the email address of your account. To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "تم إرسال رسالتك الي <b>[vendor_name]</b>.<br/><br/>سيتم إرسال الرد الخاص بالمورد إلى عنوان البريد الإلكتروني للحساب الخاص بك. لعرض محفوظات الرسائل الخاصة بك، يرجى <a href=\"[thread_url]\">الذهاب إلى</a> مركز الرسائل الموجودة في قسم \"الرسائل\" قائمة \"حسابي\"."
+
+msgctxt "Languages::vendor_communication.message_sent"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>We'll notify you about a reply. To view your message history, please <a href=\"[thread_url]\" target=\"_blank\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "تم إرسال رسالتك إلى <b> [vendor_name] </b>. <br/> <br/> سنبلغك بالرد. لعرض محفوظات رسائلك ، يرجى <a href=\"[thread_url]\" target=\"_blank\"> الانتقال إلى مركز الرسائل </a> الموجود في قسم \"الرسائل\" من قائمة \"حسابي\"."
+
+msgctxt "Languages::vendor_communication.cannot_update_thread"
+msgid "Cannot update thread"
+msgstr "لا يمكن تحديث المناقشه"
+
+msgctxt "Languages::vendor_communication.cannot_create_thread"
+msgid "Cannot create thread"
+msgstr "لا يمكن إنشاء موضوع"
+
+msgctxt "Languages::email_template.vendor_communication.notify_admin"
+msgid "Ask seller a question: Admin Notification"
+msgstr "اطرح سؤالاً على البائع: إخطار المسؤول"
+
+msgctxt "Languages::email_template.vendor_communication.notify_customer"
+msgid "Ask seller a question: Customer Notification"
+msgstr "اسأل البائع سؤالاً: إخطار العميل"
+
+msgctxt "Languages::vendor_communication.you_have_new_message"
+msgid "You have a new <a href=\"[thread_url]\">message</a> from [message_from]."
+msgstr "لديك <a href=\"[thread_url]\"> رسالة </a> جديدة من [message_from]."
+
+msgctxt "Languages::vendor_communication.subject_email"
+msgid "You have a new message from [message_from]"
+msgstr "لديك رسالة جديدة من [message_from]"
+
+msgctxt "Languages::vendor_communication.thread"
+msgid "Thread #[thread_id]"
+msgstr "الموضوع #[thread_id]"
+
+msgctxt "Languages::vendor_communication.contact_with"
+msgid "#[thread_id]. Communication with [thread_company]"
+msgstr "#[thread_id]. التواصل مع [thread_company]"
+
+msgctxt "Languages::vendor_communication.ticket"
+msgid "Thread"
+msgstr "موضوع"
+
+msgctxt "Languages::vendor_communication.no_messages_found"
+msgid "No messages found"
+msgstr "لا توجد رسائل"
+
+msgctxt "Languages::vendor_communication.customer_name"
+msgid "Customer name"
+msgstr "إسم الزبون"
+
+msgctxt "Languages::vendor_communication.error_message"
+msgid "Please enter your message"
+msgstr "أدرج رسالتك من فضلك"
+
+msgctxt "Languages::vendor_communication.type_message"
+msgid "Type a message..."
+msgstr "اكتب رسالة..."
+
+msgctxt "Languages::vendor_communication.you"
+msgid "You"
+msgstr "أنت"
+
+msgctxt "Languages::vendor_communication.order_details"
+msgid "Order details"
+msgstr "تفاصيل الطلب"
+
+msgctxt "Languages::vendor_communication.import_details"
+msgid "Import details"
+msgstr "تفاصيل الاستيراد"
+
+msgctxt "Languages::vendor_communication.thread_deleted"
+msgid "Thread has been deleted"
+msgstr "تم حذف الموضوع"
+
+msgctxt "Languages::vendor_communication.threads_deleted"
+msgid "Threads have been deleted"
+msgstr "تم حذف المواضيع"
+
+msgctxt "Languages::vendor_communication.cannot_delete_thread"
+msgid "Cannot delete thread"
+msgstr "لا يمكن حذف الموضوع"
+
+msgctxt "Languages::vendor_communication.cannot_delete_threads"
+msgid "Cannot delete threads"
+msgstr "لا يمكن حذف المواضيع"
+
+msgctxt "Languages::vendor_communication.cannot_post_message"
+msgid "Cannot post message"
+msgstr "لا يمكن نشر الرسالة"
+
+msgctxt "Languages::vendor_communication.no_threads_found"
+msgid "No threads found"
+msgstr "لم يتم العثور على مواضيع"
+
+msgctxt "Languages::vendor_communication.required_field_is_missing"
+msgid "The [field_name] field is required"
+msgstr "حقل [field_name] مطلوب"
+
+msgctxt "Languages::vendor_communication.invalid_thread_object_type"
+msgid "Provided thread object type is invalid"
+msgstr "نوع كائن مؤشر الترابط المقدم غير صالح"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_contact_vendor"
+msgid "Please sign in to contact the vendor"
+msgstr "الرجاء تسجيل الدخول للاتصال بالبائع"
+
+msgctxt "Languages::privileges.manage_vendor_communication"
+msgid "Can edit"
+msgstr "قابل للتحرير"
+
+msgctxt "Languages::privileges.view_vendor_communication"
+msgid "Can view"
+msgstr "يمكن العرض"
+
+msgctxt "Languages::privilege_groups.vendor_communication"
+msgid "Message center: customer-to-vendor communication"
+msgstr "مركز الرسائل: التواصل بين العملاء والبائعين"
+
+msgctxt "Languages::vendor_communication.your_message_to_vendor_name"
+msgid "Your message to [vendor_name]"
+msgstr "رسالتك إلى [vendor_name]"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_be_notified"
+msgid "Please sign in so that we can notify you about a reply"
+msgstr "الرجاء تسجيل الدخول حتى نتمكن من إخطارك بالرد"
+
+msgctxt "Languages::vendor_communication"
+msgid "Message center"
+msgstr "مركز الرسائل"
+
+msgctxt "Languages::vendor_communication.event.message_received.name"
+msgid "Customer-to-vendor: New message received"
+msgstr "من عميل إلى بائع: تم استلام رسالة جديدة"
+
+msgctxt "Languages::vendor_communication.event.vendor_to_admin_message_received.name"
+msgid "Vendor-to-admin: New message received"
+msgstr "بائع إلى مسؤول: تم استلام رسالة جديدة"
+
+msgctxt "Languages::internal_template.vendor_communication_message_received"
+msgid "New message received"
+msgstr "تم استلام رسالة جديدة"
+
+msgctxt "Languages::vendor_communication.new_message.title"
+msgid "[company_name] has a new message from [customer]"
+msgstr "[company_name] لديه رسالة جديدة من [customer]"
+
+msgctxt "Languages::vendor_communication.new_message.message"
+msgid "Click this notification to see the message"
+msgstr "انقر فوق هذا الإخطار لرؤية الرسالة"
+
+msgctxt "Languages::vendor_communication.contact_admin"
+msgid "Contact administrator"
+msgstr "اتصل بالمسؤول"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "اتصل بالبائع"
+
+msgctxt "Languages::vendor_communication.communication"
+msgid "Communication"
+msgstr "الاتصالات"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name"
+msgid "Message center"
+msgstr "مركز الرسائل"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name_menu_description"
+msgid "Messages from vendor to administrator"
+msgstr "رسائل من البائع إلى المسؤول"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin"
+msgid "Vendor communication"
+msgstr "اتصالات البائع"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_customer"
+msgid "Customer communication"
+msgstr "التواصل مع العملاء"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin_for_vendor_panel"
+msgid "Admin communication"
+msgstr "التواصل الإداري"
+
+msgctxt "Languages::vendor_communication.your_message_to_admin"
+msgid "Your message to administrator"
+msgstr "رسالتك إلى المسؤول"
+
+msgctxt "Languages::vendor_communication.some_threads_have_not_been_created"
+msgid "Some threads have not been created: [count]"
+msgstr "لم يتم إنشاء بعض المواضيع: [count]"
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "تم إرسال رسالتك إلى <b>[name]</b>.رسا<br/><br/> لعرض محفوظات الرسائل ، يرجى <a href=\"[thread_url]\"> الانتقال إلى مركز الئل </a> الموجود في قائمة \"البائعون\"."
+
+msgctxt "Languages::vendor_communication.vendor_to_customer.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Customers\" menu."
+msgstr ""
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_list_sent"
+msgid "Your messages have been sent.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "تم إرسال رسائلك. <br/> <br/> لعرض محفوظات رسائلك ، يرجى <a href=\"[thread_url]\"> الانتقال إلى مركز الرسائل </a> الموجود في قائمة \"البائعون\"."
+
+msgctxt "Languages::privilege_groups.admin_communication"
+msgid "Message center: vendor-to-admin communication"
+msgstr "مركز الرسائل: التواصل بين البائع والمسؤول"
+
+msgctxt "Languages::customer_to_admin_communication.event.message_received.name"
+msgid "Customer-to-Admin: New message received"
+msgstr "عميل إلى مسؤول: تم استلام رسالة جديدة"
+
+msgctxt "Languages::vendor_communication.start_communication"
+msgid "Start communication"
+msgstr "ابدأ التواصل"
+
+msgctxt "Languages::privilege_groups.order_communication"
+msgid "Message center: communication with customer"
+msgstr "مركز الرسائل: التواصل مع العملاء"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin"
+msgid "Communication with vendor"
+msgstr "التواصل مع البائع"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_customer"
+msgid "Communication with customer"
+msgstr "التواصل مع العميل"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin_with_admin"
+msgid "Communication with administrator"
+msgstr "التواصل مع المسؤول"
+
+msgctxt "Languages::vendor_communication.contact_customer"
+msgid "Contact customer"
+msgstr "الاتصال بالعميل"
+
+msgctxt "Languages::vendor_communication.subject"
+msgid "Subject"
+msgstr "موضوع"
+
+msgctxt "Languages::vendor_communication.admin"
+msgid "Admin"
+msgstr "مسؤول"
+
+msgctxt "Languages::vendor_communication.your_message_to_customer"
+msgid "Your message to customer"
+msgstr "رسالتك إلى العميل"
+
+msgctxt "Languages::vendor_communication.event.order_message_received.name"
+msgid "Order communication: New message received"
+msgstr "الاتصال بالطلب: تم استلام رسالة جديدة"
+
+msgctxt "Languages::vendor_communication.scroll_to_top"
+msgid "Scroll to top"
+msgstr "انتقل إلى أعلى"
+
+msgctxt "Languages::vendor_communication.send_message"
+msgid "Send message"
+msgstr "أرسل رسالة"
+

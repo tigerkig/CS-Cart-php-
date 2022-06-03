@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.13.2/addons/vendor_communication.po\n"
+"X-Crowdin-File-ID: 4686\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::vendor_communication"
+msgid "Message center"
+msgstr "メッセージセンター"
+
+msgctxt "Addons::description::vendor_communication"
+msgid "Allows customers, vendors, and administrators to contact each other via the built-in chat."
+msgstr "お客様、出品者、管理者が組み込みのチャットを介して相互に連絡できるようにします。"
+
+msgctxt "SettingsSections::vendor_communication::general"
+msgid "General"
+msgstr "基本設定"
+
+msgctxt "SettingsSections::vendor_communication::vendor_to_customer"
+msgid "For customers"
+msgstr "お客様向け"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_product"
+msgid "Contact button on product pages"
+msgstr "商品ページににお問い合わせボタンを表示"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_vendor"
+msgid "Contact button in vendor microstore"
+msgstr "出品者ショップにお問い合わせボタンを表示"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_messages"
+msgid "Contact button at \"Messages\" menu"
+msgstr "「メッセージ」メニューのお問合せボタン"
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_product"
+msgid "Show the \"Ask a question\" button on product pages."
+msgstr "商品ページに「質問」ボタンを表示します。"
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_vendor"
+msgid "Show the \"Ask a question\" button in vendors' microstores."
+msgstr "ベンダーのストアに「質問」ボタンを表示します。"
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_customer_communication"
+msgid "Customer-to-seller communication"
+msgstr "お客様から出品者へのコミュニケーション"
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_admin_communication"
+msgid "Vendor-to-admin communication"
+msgstr "出品者から管理者へのコミュニケーション"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_order"
+msgid "Contact button on detailed order page"
+msgstr "注文詳細ページのお問合せボタン"
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_order"
+msgid "Show the \"Start communication\" button on detailed order page."
+msgstr "詳細詳細ページに「連絡開始」ボタンを表示"
+
+msgctxt "Languages::vendor_communication.messages"
+msgid "Messages"
+msgstr "出品者とのチャット"
+
+msgctxt "Languages::vendor_communication.message_center"
+msgid "Message center"
+msgstr "お客様と出品者のチャット"
+
+msgctxt "Languages::vendor_communication.message_center_name"
+msgid "Message center"
+msgstr "メッセージセンター"
+
+msgctxt "Languages::vendor_communication.message_center_name_menu_description"
+msgid "Messages from customers"
+msgstr "顧客からのメッセージ"
+
+msgctxt "Languages::vendor_communication.message_center_menu_description"
+msgid "Customer-to-vendor messages"
+msgstr "お客様と出品者のチャットです"
+
+msgctxt "Languages::vendor_communication.author"
+msgid "Author"
+msgstr "作成者"
+
+msgctxt "Languages::vendor_communication.date"
+msgid "Date"
+msgstr "日付"
+
+msgctxt "Languages::vendor_communication.message"
+msgid "Message"
+msgstr "メッセージ"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "出品者にお問い合わせ"
+
+msgctxt "Languages::vendor_communication.ask_a_question"
+msgid "Ask a question"
+msgstr "質問する"
+
+msgctxt "Languages::vendor_communication.contact_vendor_name"
+msgid "Contact [vendor_name]"
+msgstr "[vendor_name] にお問い合わせ"
+
+msgctxt "Languages::vendor_communication.created_at"
+msgid "Created on"
+msgstr "作成"
+
+msgctxt "Languages::vendor_communication.new_thread_created"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>The vendor's reply will be sent to the email address of your account. To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "お客様のメッセージは <b>[vendor_name]</b> に送信されました。出品者からの返信があるとお客様のEメールにお知らせが送信されます。チャットの履歴を見るには、マイアカウントメニューにある <a href=\"[thread_url]\">出品者とのチャット</a> をクリックしてください。"
+
+msgctxt "Languages::vendor_communication.message_sent"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>We'll notify you about a reply. To view your message history, please <a href=\"[thread_url]\" target=\"_blank\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "メッセージは<b> [vendor_name] </ b>に送信されました。<br/> <br/>返信があれば通知します。 メッセージ履歴を表示するには、アカウントメニューのメッセージにある<a href=\"[thread_url]\" target=\"_blank\">メッセージセンターにアクセス</a>してください。"
+
+msgctxt "Languages::vendor_communication.cannot_update_thread"
+msgid "Cannot update thread"
+msgstr "チャットのスレッドを更新できません"
+
+msgctxt "Languages::vendor_communication.cannot_create_thread"
+msgid "Cannot create thread"
+msgstr "チャットのスレッドを作成できません"
+
+msgctxt "Languages::email_template.vendor_communication.notify_admin"
+msgid "Ask seller a question: Admin Notification"
+msgstr "販売者に質問する：管理者通知"
+
+msgctxt "Languages::email_template.vendor_communication.notify_customer"
+msgid "Ask seller a question: Customer Notification"
+msgstr "販売者に質問する：顧客通知"
+
+msgctxt "Languages::vendor_communication.you_have_new_message"
+msgid "You have a new <a href=\"[thread_url]\">message</a> from [message_from]."
+msgstr "[message_from] 様から新しい <a href=\"[thread_url]\">メッセージ</a> があります。"
+
+msgctxt "Languages::vendor_communication.subject_email"
+msgid "You have a new message from [message_from]"
+msgstr "[message_from] 様から新しいメッセージがあります"
+
+msgctxt "Languages::vendor_communication.thread"
+msgid "Thread #[thread_id]"
+msgstr "スレッド #[thread_id]"
+
+msgctxt "Languages::vendor_communication.contact_with"
+msgid "#[thread_id]. Communication with [thread_company]"
+msgstr "#[thread_id] [thread_company] とのチャット"
+
+msgctxt "Languages::vendor_communication.ticket"
+msgid "Thread"
+msgstr "スレッド"
+
+msgctxt "Languages::vendor_communication.no_messages_found"
+msgid "No messages found"
+msgstr "メッセージが見つかりません"
+
+msgctxt "Languages::vendor_communication.customer_name"
+msgid "Customer name"
+msgstr "お客様名"
+
+msgctxt "Languages::vendor_communication.error_message"
+msgid "Please enter your message"
+msgstr "メッセージを入力してください"
+
+msgctxt "Languages::vendor_communication.type_message"
+msgid "Type a message..."
+msgstr "メッセージを入力..."
+
+msgctxt "Languages::vendor_communication.you"
+msgid "You"
+msgstr "あなた"
+
+msgctxt "Languages::vendor_communication.order_details"
+msgid "Order details"
+msgstr "注文詳細"
+
+msgctxt "Languages::vendor_communication.import_details"
+msgid "Import details"
+msgstr "インポート詳細"
+
+msgctxt "Languages::vendor_communication.thread_deleted"
+msgid "Thread has been deleted"
+msgstr "スレッドが削除されました"
+
+msgctxt "Languages::vendor_communication.threads_deleted"
+msgid "Threads have been deleted"
+msgstr "スレッドが削除されました"
+
+msgctxt "Languages::vendor_communication.cannot_delete_thread"
+msgid "Cannot delete thread"
+msgstr "スレッドを削除できません"
+
+msgctxt "Languages::vendor_communication.cannot_delete_threads"
+msgid "Cannot delete threads"
+msgstr "スレッドを削除できません"
+
+msgctxt "Languages::vendor_communication.cannot_post_message"
+msgid "Cannot post message"
+msgstr "メッセージを投稿できません"
+
+msgctxt "Languages::vendor_communication.no_threads_found"
+msgid "No threads found"
+msgstr "スレッドが見つかりません"
+
+msgctxt "Languages::vendor_communication.required_field_is_missing"
+msgid "The [field_name] field is required"
+msgstr "[field_name]は必須項目です"
+
+msgctxt "Languages::vendor_communication.invalid_thread_object_type"
+msgid "Provided thread object type is invalid"
+msgstr "スレッドのオブジェクトタイプが不正です"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_contact_vendor"
+msgid "Please sign in to contact the vendor"
+msgstr "出品者にお問い合わせするにはログインしてください"
+
+msgctxt "Languages::privileges.manage_vendor_communication"
+msgid "Can edit"
+msgstr "編集"
+
+msgctxt "Languages::privileges.view_vendor_communication"
+msgid "Can view"
+msgstr "閲覧"
+
+msgctxt "Languages::privilege_groups.vendor_communication"
+msgid "Message center: customer-to-vendor communication"
+msgstr "メッセージセンター：お客様から出品者への連絡"
+
+msgctxt "Languages::vendor_communication.your_message_to_vendor_name"
+msgid "Your message to [vendor_name]"
+msgstr "[vendor_name] へのメッセージ"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_be_notified"
+msgid "Please sign in so that we can notify you about a reply"
+msgstr "返信について通知するためサインインしてください"
+
+msgctxt "Languages::vendor_communication"
+msgid "Message center"
+msgstr "メッセージセンター"
+
+msgctxt "Languages::vendor_communication.event.message_received.name"
+msgid "Customer-to-vendor: New message received"
+msgstr "お客様から出品者：新しいメッセージが届きました"
+
+msgctxt "Languages::vendor_communication.event.vendor_to_admin_message_received.name"
+msgid "Vendor-to-admin: New message received"
+msgstr "出品者から管理者：新しいメッセージが届きました"
+
+msgctxt "Languages::internal_template.vendor_communication_message_received"
+msgid "New message received"
+msgstr "新しいメッセージを受信しました"
+
+msgctxt "Languages::vendor_communication.new_message.title"
+msgid "[company_name] has a new message from [customer]"
+msgstr " [company_name] が[customer]から新しいメッセージを受け取りました"
+
+msgctxt "Languages::vendor_communication.new_message.message"
+msgid "Click this notification to see the message"
+msgstr "メッセージを表示するにはこの通知をクリックしてください"
+
+msgctxt "Languages::vendor_communication.contact_admin"
+msgid "Contact administrator"
+msgstr "管理者に連絡する"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "出品者にお問い合わせ"
+
+msgctxt "Languages::vendor_communication.communication"
+msgid "Communication"
+msgstr "連絡"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name"
+msgid "Message center"
+msgstr "メッセージセンター"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name_menu_description"
+msgid "Messages from vendor to administrator"
+msgstr "出品者から管理者へのメッセージ"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin"
+msgid "Vendor communication"
+msgstr "出品者との連絡"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_customer"
+msgid "Customer communication"
+msgstr "お客様との連絡"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin_for_vendor_panel"
+msgid "Admin communication"
+msgstr "管理者との連絡"
+
+msgctxt "Languages::vendor_communication.your_message_to_admin"
+msgid "Your message to administrator"
+msgstr "管理者へのメッセージ"
+
+msgctxt "Languages::vendor_communication.some_threads_have_not_been_created"
+msgid "Some threads have not been created: [count]"
+msgstr "一部のスレッドは作成されていません： [count]"
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "メッセージは<b> [name] </b>に送信されました。<br/><br/>メッセージ履歴を表示するには、「出品者」メニューの中にある<a href=\"[thread_url]\">メッセージセンター</a>にアクセスしてください。"
+
+msgctxt "Languages::vendor_communication.vendor_to_customer.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Customers\" menu."
+msgstr ""
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_list_sent"
+msgid "Your messages have been sent.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "メッセージが送信されました。<br/><br/>メッセージ履歴を表示するには、「出品者」メニューにある <a href=\"[thread_url]\">メッセージセンター</a>にアクセスしてください。"
+
+msgctxt "Languages::privilege_groups.admin_communication"
+msgid "Message center: vendor-to-admin communication"
+msgstr "メッセージセンター：出品者から管理者への連絡"
+
+msgctxt "Languages::customer_to_admin_communication.event.message_received.name"
+msgid "Customer-to-Admin: New message received"
+msgstr "お客様から管理者：新しいメッセージを受信しました"
+
+msgctxt "Languages::vendor_communication.start_communication"
+msgid "Start communication"
+msgstr "連絡を始める"
+
+msgctxt "Languages::privilege_groups.order_communication"
+msgid "Message center: communication with customer"
+msgstr "メッセージセンター：お客様との連絡"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin"
+msgid "Communication with vendor"
+msgstr "出品者との連絡"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_customer"
+msgid "Communication with customer"
+msgstr "お客様との連絡"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin_with_admin"
+msgid "Communication with administrator"
+msgstr "管理者との連絡"
+
+msgctxt "Languages::vendor_communication.contact_customer"
+msgid "Contact customer"
+msgstr "お客様へ連絡"
+
+msgctxt "Languages::vendor_communication.subject"
+msgid "Subject"
+msgstr "件名"
+
+msgctxt "Languages::vendor_communication.admin"
+msgid "Admin"
+msgstr "管理者"
+
+msgctxt "Languages::vendor_communication.your_message_to_customer"
+msgid "Your message to customer"
+msgstr "お客様へのメッセージ"
+
+msgctxt "Languages::vendor_communication.event.order_message_received.name"
+msgid "Order communication: New message received"
+msgstr "注文の連絡：新しいメッセージを受け取りました"
+
+msgctxt "Languages::vendor_communication.scroll_to_top"
+msgid "Scroll to top"
+msgstr "トップにスクロール"
+
+msgctxt "Languages::vendor_communication.send_message"
+msgid "Send message"
+msgstr "メッセージ送信"
+

@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /release-4.13.2/addons/storefront_rest_api.po\n"
+"X-Crowdin-File-ID: 4652\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::storefront_rest_api"
+msgid "Storefront REST API"
+msgstr ""
+
+msgctxt "Addons::description::storefront_rest_api"
+msgid "Provides REST API entities"
+msgstr ""
+
+msgctxt "SettingsSections::storefront_rest_api::general"
+msgid "General"
+msgstr ""
+
+msgctxt "SettingsOptions::storefront_rest_api::access_key"
+msgid "Access key"
+msgstr ""
+
+msgctxt "Languages::storefront_rest_api.guests_cant_add_products_to_cart"
+msgid "Guests can't add products to cart. Please log in to your account to add products to cart."
+msgstr ""
+

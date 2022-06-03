@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/facebook_pixel.po\n"
+"X-Crowdin-File-ID: 4558\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::facebook_pixel"
+msgid "Facebook Pixel"
+msgstr "פיקסל בפייסבוק"
+
+msgctxt "Addons::description::facebook_pixel"
+msgid "Integrates a Facebook Pixel with the store"
+msgstr "משלב פיקסל בפייסבוק עם החנות"
+
+msgctxt "SettingsSections::facebook_pixel::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::facebook_pixel::pixel_id"
+msgid "Facebook Pixel Identifier"
+msgstr "מזהה פיקסל של פייסבוק"
+
+msgctxt "SettingsOptions::facebook_pixel::track_all_page_views"
+msgid "Track all page views"
+msgstr "עקוב אחר כל תצוגות העמודים"
+
+msgctxt "SettingsOptions::facebook_pixel::track_add_to_cart"
+msgid "Track adding product to cart"
+msgstr "עקוב אחר הוספת מוצר לסל קניות"
+
+msgctxt "SettingsOptions::facebook_pixel::track_order_placed"
+msgid "Track placing order"
+msgstr "עקוב אחר ביצוע קניה"
+

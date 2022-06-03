@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.13.2/addons/onekpay.po\n"
+"X-Crowdin-File-ID: 4596\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::onekpay"
+msgid "BillriantPay payments"
+msgstr "Платежі BillriantPay"
+
+msgctxt "Addons::description::onekpay"
+msgid "Lets you accept payments via BillriantPay."
+msgstr "Дозволяє приймати платежі через BillriantPay."
+
+msgctxt "Languages::onekpay.merchant_number"
+msgid "Merchant ID"
+msgstr "ID продавця"
+
+msgctxt "Languages::onekpay.terminal_number"
+msgid "Terminal ID"
+msgstr "ID термінала"
+
+msgctxt "Languages::onekpay.secure_hash"
+msgid "Secure hash"
+msgstr "Безпечний хеш"
+
+msgctxt "Languages::onekpay.payment_failed"
+msgid "Payment failed: [error_message]"
+msgstr "Не вдалося здійснити платіж: [error_message]"
+
+msgctxt "Languages::onekpay.short_notice"
+msgid "<a href=\"http://www.billriant.com\" target=\"_blank\">BillriantPay</a> is a global payment service provider, which works safely, drives merchants’ performance, and reduces a risk. BillriantPay understands the day-to-day realities and requirements of a modern eCommerce business so as to offer and build solutions that fit a wide range of businesses. BillriantPay helps you build stronger relationships with your buyers by streamlining the payment processes. <br /><br />Our advantages:<br />- Secure and fast<br />- Simple and easy to configure<br />- Flexible terms and conditions for different industries<br /><br /><strong><a href=\"https://merchant.billriant.com/login?from=cs-cart\" target=\"_blank\">Sign-up to Login and Pay with BillriantPay</a></strong>"
+msgstr "<a href=\"http://www.billriant.com\" target=\"_blank\">BillriantPay</a> - це глобальний постачальник платіжних послуг, який працює безпечно, стимулює ефективність продавців і знижує ризик. BillriantPay розуміє сьогоднішні реалії та вимоги сучасного бізнесу в галузі електронної комерції, щоб пропонувати та створювати рішення, що відповідають різним бізнес-процесам. BillriantPay допомагає вам будувати міцніші відносини з вашими покупцями шляхом упорядкування процесів оплати. <br /><br />Наші переваги:<br />- Безпека та швидкість<br />- Простота та зручність налаштування<br />- Гнучкі умови для різних галузей<br /><br /><strong><a href=\"https://merchant.billriant.com/login?from=cs-cart\" target=\"_blank\">Зареєструватися для входу та оплати через BillriantPay</a></strong>"
+

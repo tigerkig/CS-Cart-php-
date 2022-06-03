@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<addon scheme="4.0">
+    <id>client_tiers</id>
+    <version>1.0</version>
+    <priority>1500</priority>
+    <status>active</status>
+    <default_language>en</default_language>
+
+    <autoload>
+        <psr4 prefix="Tygh\Addons\ClientTiers\">src</psr4>
+    </autoload>
+    <bootstrap>\Tygh\Addons\ClientTiers\Bootstrap</bootstrap>
+    <installer>\Tygh\Addons\ClientTiers\Installer</installer>
+
+    <settings layout="separate" edition_type="ROOT">
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="tiers_reporting_period">
+                        <type>selectbox</type>
+                        <default_value>0</default_value>
+                    </item>
+                    <item id="upgrade_tier_option">
+                        <type>selectbox</type>
+                        <default_value>0</default_value>
+                    </item>
+                    <item id="automatic_downgrade">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="cron_command_tpl">
+                        <type>template</type>
+                        <default_value>cron_command.tpl</default_value>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+
+    <queries>
+        <item for="install">DROP TABLE IF EXISTS ?:usergroups_tiers</item>
+        <item for="install">
+            CREATE TABLE ?:usergroups_tiers (
+            usergroup_id mediumint(8) unsigned not null,
+            min_spend_value decimal(12,2) unsigned not null default 0,
+            PRIMARY KEY (usergroup_id)
+            ) ENGINE=MyISAM DEFAULT CHARSET UTF8;
+        </item>
+        <item for="uninstall">DROP TABLE IF EXISTS ?:usergroups_tiers</item>
+    </queries>
+</addon>

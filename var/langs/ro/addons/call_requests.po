@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.13.2/addons/call_requests.po\n"
+"X-Crowdin-File-ID: 4536\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::call_requests"
+msgid "Call requests"
+msgstr "Cereri de apel"
+
+msgctxt "Addons::description::call_requests"
+msgid "Adds the \"Buy now with one click\" and \"Request call\" buttons"
+msgstr ""
+
+msgctxt "SettingsSections::call_requests::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::call_requests::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::call_requests::phone"
+msgid "Rewrite phone"
+msgstr "Rescrie telefon"
+
+msgctxt "SettingsOptions::call_requests::phone_prefix_length"
+msgid "Highlight first chars [Deprecated]"
+msgstr "Evidențiați primele caractere [Deprecated]"
+
+msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
+msgid "Enable the \"Buy now with one click\" option"
+msgstr "Activaţi opţiunea \"Cumpără acum cu un singur click\""
+
+msgctxt "SettingsOptions::call_requests::order_status"
+msgid "Order status"
+msgstr "Starea comenzii"
+
+msgctxt "SettingsOptions::call_requests::phone_mask"
+msgid "Phone mask [Deprecated]"
+msgstr "Phone mask [Deprecated]"
+
+msgctxt "SettingsTooltips::call_requests::phone_mask"
+msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr "Lasă necompletat pentru a utiliza automat modelul de cod de țară, sau scrie un model personalizat. Poți folosi spaţii, virgule, +, - şi cifre. Reţine că 9 reprezintă orice cifră; dacă ai nevoie de un 9, scrie \\\\9. Exemple: +9 (999) 999 99 99 sau +99-99-9999-9999."
+
+msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
+msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
+msgstr "Inclusiv paranteza, spatii, etc. Utilizaţi pentru a evidenţia codul țării, prefixul zonal şi telefon prefix."
+
+msgctxt "SettingsOptions::call_requests::enable_call_requests_for_vendors"
+msgid "Enable call requests for vendors"
+msgstr "Activați solicitările de apeluri pentru furnizori(vendors)"
+
+msgctxt "SettingsTooltips::call_requests::enable_call_requests_for_vendors"
+msgid "This will also replace marketplace contact information with vendors' where necessary."
+msgstr "Aceasta va înlocui, de asemenea, informațiile de contact ale furnizorilor, acolo unde este necesar."
+
+msgctxt "Languages::privileges.manage_call_requests"
+msgid "Can edit"
+msgstr "Puteţi edita"
+
+msgctxt "Languages::privileges.view_call_requests"
+msgid "Can view"
+msgstr "Puteţi vizualiza"
+
+msgctxt "Languages::privilege_groups.call_requests"
+msgid "Call requests"
+msgstr "Cereri de apel"
+
+msgctxt "Languages::call_requests"
+msgid "Call requests"
+msgstr "Cereri de apel"
+
+msgctxt "Languages::call_requests_menu_description"
+msgid "Manage customer call requests"
+msgstr "Gestionati cererile de apel pentru clienți"
+
+msgctxt "Languages::call_requests.request_call"
+msgid "Request call"
+msgstr "Cereri de apel"
+
+msgctxt "Languages::call_requests.buy_now_with_one_click"
+msgid "Buy now with 1-click"
+msgstr "Cumpără acum cu un singur clic"
+
+msgctxt "Languages::call_requests.error_validate_call_form"
+msgid "Please enter your email or phone number"
+msgstr "Vă rugăm să introduceţi numărul dvs. de telefon sau e-mail"
+
+msgctxt "Languages::call_requests.request_recieved"
+msgid "We have received your request! Our manager will contact you soon."
+msgstr "Am primit cererea dumneavoastră! Un agent vânzări vă va contacta în curând."
+
+msgctxt "Languages::call_requests.order_placed"
+msgid "We have received your request! The order #[order_id] has been successfully created. Our manager will contact you soon."
+msgstr "Am primit cererea dumneavoastră! Comanda #[order_id] a fost creată cu succes. Un agent vânzări vă va contacta în curând."
+
+msgctxt "Languages::call_requests.phone_from_settings"
+msgid "Phone from settings"
+msgstr "Setările telefonului"
+
+msgctxt "Languages::call_requests.enter_phone_or_email_text"
+msgid "Please enter your phone number or email (for our manager to contact you)"
+msgstr "Vă rugăm să introduceţi numărul de telefon sau e-mail (departamentul vânzări vă va contacta)"
+
+msgctxt "Languages::call_requests.status.new"
+msgid "New"
+msgstr "Nou"
+
+msgctxt "Languages::call_requests.status.in_progress"
+msgid "In progress"
+msgstr "În curs de desfăşurare"
+
+msgctxt "Languages::call_requests.status.completed"
+msgid "Completed"
+msgstr "Finalizat"
+
+msgctxt "Languages::call_requests.status.no_answer"
+msgid "No answer"
+msgstr "Nici un răspuns"
+
+msgctxt "Languages::call_requests.responsible"
+msgid "Responsible"
+msgstr "Responsabil"
+
+msgctxt "Languages::call_requests.notes"
+msgid "Notes"
+msgstr "Note"
+
+msgctxt "Languages::call_requests.requested_product"
+msgid "Requested product"
+msgstr "Produsul solicitat"
+
+msgctxt "Languages::call_requests.convenient_time"
+msgid "Convenient time"
+msgstr "Ora convenabila"
+
+msgctxt "Languages::call_requests.awaiting_call"
+msgid "Awaiting call"
+msgstr "Apel in aşteptare"
+
+msgctxt "Languages::call_requests.order_exists"
+msgid "Order exists"
+msgstr "Comanda existenta"
+
+msgctxt "Languages::call_requests.person_name_and_phone"
+msgid "Name and phone"
+msgstr "Numele şi telefonul"
+
+msgctxt "Languages::call_requests.no_name_specified"
+msgid "No name specified"
+msgstr "Nici un nume specificat"
+
+msgctxt "Languages::call_requests.use_for_call_requests"
+msgid "Call request and buy now with one click form"
+msgstr "Cererea de apel şi cumpara acum cu un singur clic pe formular"
+
+msgctxt "Languages::block_call_request"
+msgid "Call request"
+msgstr "Cereri de apel"
+
+msgctxt "Languages::block_call_request_description"
+msgid "Store phone number and form for requesting a call"
+msgstr "Numărul de telefon al magazinului şi formularul pentru a solicita un apel"
+
+msgctxt "Languages::tmpl_call_request"
+msgid "Call request form"
+msgstr "Formular de cerere de apel"
+
+msgctxt "Languages::call_requests.text_call_request"
+msgid "Customer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "Clientul [customer] <a href=\"[href]\"> aşteaptă apelul dumneavoastră</a> pe numarul [phone_number]."
+
+msgctxt "Languages::call_requests.text_call_request_call_time"
+msgid "The convenient call time is between [time_from] and [time_to]."
+msgstr "Timpul convenabil pentru apel este între [time_from] şi [time_to]."
+
+msgctxt "Languages::call_requests.text_buy_with_one_click_request"
+msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
+msgstr "Clientul [customer] este <a href=\"[href]\"> aşteaptă apelul dumneavoastră</a> pe [phone_number], cu privire la achiziţionarea de produs <a href=\"[product_href]\">[product_name]</a>."
+
+msgctxt "Languages::call_requests.error_validator_phone"
+msgid "The phone number in the <b>[field]</b> field is invalid."
+msgstr "Numărul de telefon în câmpul <b>[field]</b> nu este valid."
+
+msgctxt "Languages::email_template.call_requests_buy_with_one_click"
+msgid "Call requests: buy with one click notification"
+msgstr "Cereri de apel: cumpara cu un singur clic notificare"
+
+msgctxt "Languages::email_template.call_requests_call_request"
+msgid "Call requests: call request notification"
+msgstr "Cereri de apel: notificare cereri de apel"
+
+msgctxt "Languages::call_request.work_time"
+msgid "Mon-Fr 9a.m.-6p.m."
+msgstr "Lu-Vi 9:00-18:00"
+
+msgctxt "Languages::call_requests.request_call_request_form"
+msgid "Call requests: request form"
+msgstr "Cereri de apel: formularul de cerere"
+
+msgctxt "Languages::call_requests.agreement_text_full_request_call_request_form"
+msgid "<p>We ([company]) will use the data you provide here to contact you regarding your call request or order. That data will remain in our system, visible to our staff (or the relevant vendor), until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Noi ([company]) vom folosi datele pe care le furnizaţi aici pentru a vă contacta cu privire la cererea de apel sau comanda dvs. Că datele vor rămâne în sistemul nostru, vor fi vizibile doar pentru personalul nostru (sau distribuitorul relevant), până când vă retrageţi consimţământul dumneavoastră. Dacă doriţi să aveţi datele personale eliminat, trimite un email pe adresa [email].</p> <p>În cazul în care credeţi că datele cu caracter personal a fost utilizat în mod abuziv, aveţi dreptul de a depune o plângere la autoritatea de supraveghere. Suntem obligați, conform Regulamentului UE privind protecția generală a datelor, să vă informăm despre acest drept; nu intenționăm să folosim în mod greșit datele dvs.</p>"
+
+msgctxt "Languages::call_requests.agreement_text_short_request_call_request_form"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Sunt de acord ca datele mele personale să fie <u>prelucrate după cum urmează.</u>"
+
+msgctxt "Languages::gdpr_call_requests"
+msgid "Personal data from call requests"
+msgstr "Datele cu caracter personal de cereri de apel"
+
+msgctxt "Languages::call_requests.event.request_created.name"
+msgid "Call requests: request created"
+msgstr "Cereri de apel: solicitare creată"
+
+msgctxt "Languages::call_requests.event.request_about_product_created.name"
+msgid "Call requests: request about product created"
+msgstr "Cereri de apel: cerere despre produsul creat"
+

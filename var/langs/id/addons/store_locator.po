@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 4650\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "Toko dan titik penjemputan"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "Memungkinkan Anda untuk memunculkan toko Anda di peta dan menawarkan kepada pelanggan untuk mengambil pesanan di sana, jika Anda membuat metode pengiriman secara bersamaan."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "Lihat di peta"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "Obtaining an API Key"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Pencari lokasi"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr ""
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Blok loker toko"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "Alamat tidak ditemukan"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Pilih koordinat"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Set"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Mengedit lokasi toko"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "Lokasi toko baru"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Tambahkan lokasi toko"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Koordinat"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "tahun"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "panjang"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "Semua toko"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "Tunjukkan peta dalam dokumen yang berkaitan dengan urutan"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "Cetak peta pada slip kemasan dan tagihan"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr ""
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr ""
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "Dapat mengedit"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "Penunjuk lokasi toko"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "Dapat melihat"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "Metode pengiriman \"Pengambilan oleh pelanggan\" menawarkan pelanggan untuk memilih toko tempat pengambilan produknya. Pilihan toko dapat dibuat pada \"Lokasi toko\" fitur tambahan<br /><b>Pembuatan toko:</b> <a href=\"[store_locator]\">Lokasi toko</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "Pilih toko"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "Tempat penjemputan"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "Bagian \"Posisi\" dalam pengaturan toko"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "Pesan yang sudah dipilih pada pengaturan metode pengiriman"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "Toko yang sudah dipilih"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "Toko yang tersedia"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "Peta dan daftar"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "Daftar"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "Peta"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "Tampilan daftar lokasi pada laman keluar"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "Jemput"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "Tersedia untuk penjemputan"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "Jam kerja"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "Jemput"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "Tidak ditemukan tujuan yang cocok"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "Toko tidak ditemukan"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "Jemput"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "ID penjemputan"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr ""
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "Biaya tambahan penjemputan"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "Alamat penjemputan"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "Telepon penjemputan"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "Waktu penjemputan"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "ID tujuan penjemputan"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr ""
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr ""
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr ""
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr ""
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr ""
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr ""
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr ""
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr ""
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr ""
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_title"
+msgid "Pick up from store: Surcharge per pickup point removed"
+msgstr ""
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_text"
+msgid "<p>The <b>[pickup_addon]</b> and <b>[store_locator_addon]</b> add-ons were merged into a new add-on called [stores_pickups_addon]. Shipping rates and time are more flexible now: they depend on the location (rate area) of a pickup point. The rates are now specified in one place: the editing page of a shipping method.</p><p>For that reason, we removed the <b>Surcharge</b> field from the pickup point editing page. Its value still appears in the admin panel, but isn’t used in rate calculation. Please check your pickup points, then adjust the shipping rates of all your \"Pick up from store\" shipping methods accordingly.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Adjust shipping rates</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">View my pickup points</a></p>"
+msgstr ""
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr ""
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr ""
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr ""
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr ""
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr ""
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr ""
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr ""
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr ""
+

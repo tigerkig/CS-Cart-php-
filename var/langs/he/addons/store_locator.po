@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 4650\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "חנויות ונקודות איסוף"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "מאפשרת לך לסמן את החנויות הפיזיות שלך על המפה ולהציע ללקוחות שלך לאסוף הזמנות משם, אם מוגדרת שיטת משלוח מקבילה."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "לראות במפה"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "השגת מפתח API"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "מאתר מיקום החנות"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "חנויות ונקודות איסוף"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "חנות את חסימת האיתור"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "כתובת לא נמצאה"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "בחר קואורדינטות"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "הגדר"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "עריכת מיקום החנות"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "מיקום חדש של חנות"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "הוסף את מיקום החנות"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "קואורדינטות"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "לאטיטוד"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "ארוך"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "כל החנויות"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "הצג מפה במסמכים הקשורים להזמנה"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "הדפיס את המפה על גבי תלוש האריזה ועל חשבונית"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "השתמש ברשימת הערים במפה"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "משפיע על יחידת מיקום של הלקוח. הרשימה תיווצר מערים עם חנויות ונקודות איסוף עצמי."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "יכול לערוך"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "מאתר חנויות"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "יכול לראות"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "שיטת המשלוח \"איסוף עצמי של לקוחות\" מציעה ללקוח לבחור חנות שתאסוף ממנה מוצר. ניתן ליצור את החנויות בתוסף \"מיקום החנות\" <br /> <b>יצירת</b> <a href=\"[store_locator]\">חנות</a> <b>:</b> <a href=\"[store_locator]\">מיקום החנות</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "בחר חנויות"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "נקודות איסוף"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "שדה \"מיקום\" בהגדרות החנות"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "ההזמנה שנבחרה בהגדרות שיטת המשלוח"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "חנויות נבחרות"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "חנויות זמינות"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "מפה ורשימה"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "רשימה"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "מפה"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "תצוגת רשימת מיקומים בעמוד התשלום"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "איסוף עצמי"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "זמין לאיסוף עצמי"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "שעות עבודה"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "איסוף עצמי"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "לא נמצא יעד מתאים"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "לא נמצאו חנויות"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "איסוף עצמי"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "מזהה איסוף עצמי"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "הועיל לאיסוף"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "תשלום עבור איסוף עצמי"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "כתובת איסוף עצמי"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "טלפון מקום לאיסוף עצמי"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "זמן איסוף עצמי"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "מזהי יעדי איסוף"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "הסתר מקומות שבהם אני לא יכול לאסוף את ההזמנה שלי"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "חנויות ונקודות איסוף"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "בגרסאות קודמות, התוסף נוסף לתעריפים הסטנדרטיים שצוינו לשיטת משלוח. כעת לא נלקח בחשבון היטל זה במהלך חישוב תעריף המשלוח. השארנו אותו כאן לנוחיותכם, כך שתוכלו לראות אותו ולהתאים את התעריפים בדף העריכה של שיטת המשלוח בהתאם."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "ממוקם באזור התעריף"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "קובע את תעריפי המשלוח עבור נקודת איסוף זו. התעריפים מוגדרים בדף העריכה של שיטת המשלוח. אם אינך בוחר אזור תעריף עבור נקודת איסוף, נקודת האיסוף לא תופיע בקופה."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "הראה ל"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "הראה ל"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "מאפשר לך להציע נקודת איסוף זו לתושבי אזורי התעריף האחרים בקופה."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "מ- [מחיר]"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_title"
+msgid "Pick up from store: Surcharge per pickup point removed"
+msgstr "איסוף מהחנות: תשלום נוסף לנקודת איסוף הוסר"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_text"
+msgid "<p>The <b>[pickup_addon]</b> and <b>[store_locator_addon]</b> add-ons were merged into a new add-on called [stores_pickups_addon]. Shipping rates and time are more flexible now: they depend on the location (rate area) of a pickup point. The rates are now specified in one place: the editing page of a shipping method.</p><p>For that reason, we removed the <b>Surcharge</b> field from the pickup point editing page. Its value still appears in the admin panel, but isn’t used in rate calculation. Please check your pickup points, then adjust the shipping rates of all your \"Pick up from store\" shipping methods accordingly.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Adjust shipping rates</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">View my pickup points</a></p>"
+msgstr "<p style=\";text-align:right;direction:rtl\"> <b>התוספות [pickup_addon]</b> ו- <b>[store_locator_addon] אוחדו לתוסף</b> חדש שנקרא [stores_pickups_addon]. שיעורי המשלוח וזמן גמישים יותר כעת: הם תלויים במיקום (אזור התעריף) של נקודת איסוף. התעריפים מוגדרים כעת במקום אחד: דף העריכה של שיטת המשלוח. </p><p style=\";text-align:right;direction:rtl\"> מסיבה זו הסרנו את שדה ה- <b>Surcharge</b> מדף העריכה של נקודת האיסוף. ערכו עדיין מופיע בלוח הניהול, אך אינו משמש בחישוב שיעור. אנא בדוק את נקודות האיסוף שלך, ואז התאם את שיעורי המשלוח של כל שיטות המשלוח \"איסוף מהחנות\" בהתאם. </p><p style=\";text-align:right;direction:rtl\"> <a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">התאם את שיעורי המשלוח הצגת</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">נקודות האיסוף שלי</a> </p>"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "השתמש בשתי אצבעות כדי להזיז את המפה"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "גלול למעלה"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "אין אזור תעריף"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "שם"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "מקומות לאיסוף עצמי"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "כל אזור תעריף"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "איסוף מהחנות"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "כל מוכר"
+

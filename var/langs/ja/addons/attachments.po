@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.13.2/addons/attachments.po\n"
+"X-Crowdin-File-ID: 4520\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "添付ファイル"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "商品にファイルを添付することができます"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "添付ファイル"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "添付ファイルの追加"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "添付ファイルの追加"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "添付ファイルの編集"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "ショップがインストールされたディレクトリの画像ディレクトリを指定してください。また、インポートする画像をこのディレクトリにアップロードしてください。"
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "いくつかの商品画像がインポートできませんでした。画像が存在しない（あるいはアクセスできない）か、インポートファイルの画像パスが不正です。"
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "商品画像"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "画像区切り文字"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "商品内にある複数画像の区切文字"
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "既存画像の削除"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "このチェックボックスにチェックを入れると、商品の画像がインポートファイルで指定した画像に置換されます。(画像が指定されてない場合は置換されません) このチェックボックスのチェックを外すと、新規で画像が追加されます。"
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "画像ディレクトリ"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "基本設定"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "画像登録"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "インポートされたファイルにURLとしてリストされている画像がサーバにダウンロードされます。"
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr "商品[product]のファイル[url]を読み込めませんでした"
+

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/quickbooks.po\n"
+"X-Crowdin-File-ID: 4626\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::quickbooks"
+msgid "Quickbooks"
+msgstr "Quickbooks"
+
+msgctxt "Addons::description::quickbooks"
+msgid "Integrates the Quickbooks accounting software with the store"
+msgstr "Mengintegrasikan perangkat lunak akuntansi Quickbooks dengan toko"
+
+msgctxt "Languages::export_to_quickbooks"
+msgid "Export to Quickbooks"
+msgstr "Ekspor ke Quickbooks"
+
+msgctxt "SettingsSections::quickbooks::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::quickbooks::trns_class"
+msgid "Transaction class name"
+msgstr "Nama kelas transaksi"
+
+msgctxt "SettingsOptions::quickbooks::accnt_tax"
+msgid "Account to track taxes. The type of this account should be INC."
+msgstr "Akun untuk melacak pajak. Jenis akun ini harus INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_product"
+msgid "Account to track product sales. The type of this account should be INC."
+msgstr "Account untuk melacak penjualan produk. Jenis akun ini harus INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_shipping"
+msgid "Account to track shipping cost. The type of this account should be INC."
+msgstr "Account untuk melacak ongkos kirim. Jenis akun ini harus INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_discount"
+msgid "Account to track discounts. The type of this account should be INC."
+msgstr "Akun untuk melacak diskon. Jenis akun ini harus INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_surcharge"
+msgid "Account to track the payment surcharge of your items sales (where applicable). The type of this account should be INC."
+msgstr "Akun untuk melacak pembayaran biaya tambahan penjualan barang Anda (jika ada). Jenis akun ini harus INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_asset"
+msgid "Account to track the value of your inventory. The type of this account should be OASSET."
+msgstr "Akun untuk melacak nilai inventaris Anda. Jenis akun ini harus OASSET."
+
+msgctxt "SettingsOptions::quickbooks::accnt_cogs"
+msgid "Account to track the cost of your items sales. The type of this account should be COGS."
+msgstr "Akun untuk melacak biaya penjualan barang Anda. Jenis akun ini harus COGS."
+

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.13.2/addons/step_by_step_checkout.po\n"
+"X-Crowdin-File-ID: 4648\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::step_by_step_checkout"
+msgid "Step-by-Step Checkout [Deprecated]"
+msgstr "Пошаговое оформление заказа [Не рекомендуется]"
+
+msgctxt "Addons::description::step_by_step_checkout"
+msgid "Brings back the old checkout page split into multiple steps."
+msgstr "Возвращает старую страницу оформления заказа, разбитую на несколько шагов."
+
+msgctxt "SettingsOptions::step_by_step_checkout::step_by_step_checkout_information"
+msgid "Information"
+msgstr "Информация"
+
+msgctxt "SettingsOptions::step_by_step_checkout::step_by_step_checkout_general_settings"
+msgid "Checkout settings"
+msgstr "Настройки оформления заказа"
+
+msgctxt "Languages::step_by_step_checkout.layout_can_be_setup"
+msgid "Step-by-step checkout requires additional configuration to work properly. Please follow the instructions <a href=\"[href]\">in the settings of the Step-by-Step Checkout add-on</a>"
+msgstr "Чтобы пошаговое оформление заказа заработало, его нужно дополнительно настроить. Следуйте инструкциям <a href=\"[href]\">в настройках модуля \"Пошаговое оформление заказа\"</a>"
+
+msgctxt "Languages::step_by_step_checkout.setup_layout_instruction"
+msgid "Configure blocks as follows to make step-by-step checkout work properly:</br><ol><li>Go to <b>Design → Layouts</b> and switch to the <b>Checkout</b> tab.</li><li>Find the grid with the disabled <b>Main Content</b> block. Click the gear icon of the grid to open its settings, change the <b>Wrapper</b> from <i>Lite checkout</i> to <i>None</i>, then save your changes.</li><li>Activate the <b>Main Content</b> block in that grid.</li><li>Deactivate all the other blocks in that grid. Here is the list of blocks that exist there by default: <i>Deliver to, Shipping methods, Customer, Address, Customer information, Customer's notes, Payment methods, Terms and conditions, Sign up for our newsletters!</i></li></ol>"
+msgstr "Чтобы пошаговое оформление заказа работало правильно, настройте блоки следующим образом:</br><ol><li>На странице <b>Дизайн → Макеты</b> перейдите на вкладку <b>Оформить заказ</b>.</li><li>Найдите секцию с выключенным блоком <b>\"Главное содержимое\"</b>. Нажмите на иконку шестерёнки у секции, поменяйте в настройках <b>Оболочку</b> с <i>Простого оформления заказа</i> на <i>Не выбрано</i>, а затем сохраните изменения.</li><li>Включите блок <b>\"Главное содержимое\"</b> в этой секции.</li><li>Выключите все остальные блоки в этой секции. Вот список блоков, которые там есть по умолчанию: <i>\"Доставка в\", \"Способы доставки\", \"Покупатель\", \"Адрес\", \"Информация о покупателе\", \"Примечания покупателя\", \"Способы оплаты\", \"Условия оформления заказа\", \"Подпишитесь на нашу рассылку!\"</i></li></ol>"
+
+msgctxt "Languages::step_by_step_checkout.layout_page_was_backed_up"
+msgid "We've backed up the layout of your checkout in <b>[file_path]</b>. If you ever decide to use step-by-step checkout again, you'll be able to import that layout instead of configuring it manually as described in the add-on's settings."
+msgstr "Мы создали резервную копию макета вашей страницы оформления заказа в файле <b>[file_path]</b>. Если вы решите снова использовать пошаговое оформление заказа, то сможете импортировать макет, а не настраивать страницу оформления заказа вручную."
+
+msgctxt "Languages::step_by_step_checkout.check_layout_back_ups"
+msgid "You already have back-ups of checkout layouts in <b>[file_path]</b>. Instead of following the instruction below, you can simply import the backup."
+msgstr "У вас уже есть резервные копии макетов страницы оформления заказа в <b>[file_path]</b>. Вместо того, чтобы следовать инструкции, можете просто импортировать резервные копии."
+
+msgctxt "Languages::step_by_step_checkout.tooltip.email_can_not_be_disabled"
+msgid "The <strong>Email</strong> field can't be disabled for the old checkout. To disable the <strong>Email</strong> field, please uninstall the <strong>Step-by-Step Checkout [Deprecated]</strong> add-on first."
+msgstr "Поле <strong>Email</strong> нельзя отключить для старого оформления заказа. Чтобы отключить поле <strong>Email</strong>, сначала удалите модуль <strong>Пошаговое оформление заказа</strong>."
+
+msgctxt "Languages::step_by_step_checkout.upgrade_notification.try_new_checkout_title"
+msgid "Try the new checkout"
+msgstr "Попробуйте новое оформление заказа"
+
+msgctxt "Languages::step_by_step_checkout.upgrade_notification.try_new_checkout_message"
+msgid "<p>We have created a new checkout page. It is more compact and customizable. To try it, disable the <b>[addon_name]</b> add-on.</p><p>Once you do that, you’ll be able to customize the checkout page via block manager. Go to <b>Design → Layouts</b> and switch to the <i>Checkout</i> tab. Move the blocks, hide the ones you don’t need, and change their settings as you see fit.</p><p><a href=\"[disable_checkout]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Disable old checkout here</a></p>"
+msgstr "<p>Мы создали новую страницу оформления заказа. Она компактнее, а ещё она лучше настраивается. Чтобы попробовать эту страницу, выключите модуль <b>[addon_name]</b>.</p><p>Когда вы это сделаете, то сможете настроить страницу оформления заказа через менеджер блоков. Для настройки откройте страницу <b>Дизайн → Макеты</b> и перейдите на вкладку <i>Оформить заказ</i>. Перемещайте блоки, прячьте ненужные и меняйте настройки у нужных, как захотите.</p><p><a href=\"[disable_checkout]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Отключить старое оформление заказа</a></p>"
+

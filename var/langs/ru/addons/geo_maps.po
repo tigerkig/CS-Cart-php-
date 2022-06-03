@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.13.2/addons/geo_maps.po\n"
+"X-Crowdin-File-ID: 4564\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::geo_maps"
+msgid "Maps and geolocation"
+msgstr "Карты и геолокация"
+
+msgctxt "Addons::description::geo_maps"
+msgid "Enables Google or Yandex maps and geolocation functionality in your store."
+msgstr "Добавляет в ваш магазин карты и геолокацию от Яндекса или Google."
+
+msgctxt "SettingsSections::geo_maps::general"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "SettingsSections::geo_maps::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsSections::geo_maps::yandex"
+msgid "Yandex"
+msgstr "Яндекс"
+
+msgctxt "SettingsOptions::geo_maps::provider"
+msgid "Provider"
+msgstr "Сервис"
+
+msgctxt "SettingsVariants::geo_maps::provider::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsVariants::geo_maps::provider::yandex"
+msgid "Yandex"
+msgstr "Яндекс"
+
+msgctxt "SettingsOptions::geo_maps::show_shippings_on_product"
+msgid "Show shipping cost and time on product pages"
+msgstr "Показать стоимость и сроки доставки на страницах товаров"
+
+msgctxt "SettingsOptions::geo_maps::yandex_api_key"
+msgid "API key"
+msgstr "API-ключ"
+
+msgctxt "SettingsTooltips::geo_maps::yandex_api_key"
+msgid "Get the API key here: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+msgstr "Получите API-ключ здесь: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+
+msgctxt "SettingsOptions::geo_maps::yandex_commercial"
+msgid "I use the paid version of the API"
+msgstr "Я использую платную версию API"
+
+msgctxt "SettingsOptions::geo_maps::google_api_key"
+msgid "API key"
+msgstr "API-ключ"
+
+msgctxt "SettingsTooltips::geo_maps::google_api_key"
+msgid "Get the API key here: <a href=\" https://console.developers.google.com\" target=\"_blank\"> https://console.developers.google.com</a>"
+msgstr "Получите API-ключ здесь: <a href=\" https://console.developers.google.com\" target=\"_blank\"> https://console.developers.google.com</a>"
+
+msgctxt "Languages::geo_maps.select_your_city"
+msgid "Select your city"
+msgstr "Выберите ваш город"
+
+msgctxt "Languages::geo_maps.your_city"
+msgid "Your city"
+msgstr "Ваш город"
+
+msgctxt "Languages::geo_maps.location_detection_disabled"
+msgid "Your location could not be determined. Try enabling the location services on your device or disabling the tracking protection."
+msgstr "Не удалось определить ваше местоположение. Попробуйте включить на устройстве службы геолокации и отключить защиту от отслеживания."
+
+msgctxt "Languages::block_geo_maps_customer_location"
+msgid "Customer location"
+msgstr "Местоположение покупателя"
+
+msgctxt "Languages::block_geo_maps_customer_location_description"
+msgid "Customer city and city selection form"
+msgstr "Город покупателя и форма выбора города"
+
+msgctxt "Languages::geo_maps.shipping_address_on_map"
+msgid "Shipping address on map"
+msgstr "Адрес доставки на карте"
+
+msgctxt "Languages::geo_maps.cannot_select_location"
+msgid "This location couldn't be selected due to technical reasons. If you encounter any difficulties when placing an order, please contact us."
+msgstr "По техническим причинам не удалось выбрать это местоположение. Если у вас возникнут сложности при размещении заказа, пожалуйста свяжитесь с нами."
+
+msgctxt "Languages::geo_maps.shipping_time_and_rates"
+msgid "Shipping time and rates"
+msgstr "Стоимость и сроки доставки"
+
+msgctxt "Languages::geo_maps.shipping_group_pickup"
+msgid "Pick-up"
+msgstr "Самовывоз"
+
+msgctxt "Languages::geo_maps.shipping_group_delivery"
+msgid "Shipping"
+msgstr "Доставка"
+
+msgctxt "Languages::geo_maps.from_pickup_points"
+msgid "[shipping], [n] pickup point|[shipping], [n] pickup points"
+msgstr "[shipping], [n] пункт самовывоза|[shipping], [n] пункта самовывоза|[shipping], [n] пунктов самовывоза"
+
+msgctxt "Languages::geo_maps.shipping_about"
+msgid "about"
+msgstr "примерно"
+
+msgctxt "Languages::geo_maps.shipping_from"
+msgid "from"
+msgstr "от"
+
+msgctxt "Languages::geo_maps.shipping_time"
+msgid "Shipping time"
+msgstr "Время доставки"
+
+msgctxt "Languages::geo_maps.no_shippings"
+msgid "Sorry, we couldn't find any shipping options for your location. Please contact us, and we'll see what we can do about it."
+msgstr "К сожалению, мы не нашли вариантов доставки до вашего местоположения. Свяжитесь с нами, и мы постараемся вам помочь."
+
+msgctxt "Languages::geo_maps.text_settings_google_api_notice"
+msgid "Learn more about setting up API key <a target=\"_blank\" href=\"https://docs.cs-cart.com/4.10.x/user_guide/addons/maps_and_geolocation/#configuration\">in the documentation</a>."
+msgstr "О настройке API-ключа читайте <a target=\"_blank\" href=\"https://www.cs-cart.ru/docs/4.10.x/user_guide/addons/maps_and_geolocation/#id3\">в документации</a>."
+

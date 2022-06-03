@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/seo.po\n"
+"X-Crowdin-File-ID: 4642\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::seo"
+msgid "SEO"
+msgstr "SEO"
+
+msgctxt "Addons::description::seo"
+msgid "Adds Search engine-friendly URLs support"
+msgstr "Keresőbarát URL-ek és SEO beállítások kezelése"
+
+msgctxt "Languages::seo_rules_menu_description"
+msgid "Use this section to define global rules for the URLs rewritten in your store."
+msgstr "Ezt a szekciót használva globális linkátírási szabályok hozhatóak létre."
+
+msgctxt "Languages::seo.redirects_manager_menu_description"
+msgid "Manages redirect rules from old URLs"
+msgstr "Régi linkek átirányításának kezelése"
+
+msgctxt "Languages::controller_description"
+msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "Amennyiben keresőbarát linket határoz meg egy oldalhoz, pl. http://pelda.hu/index.php?dispatch=<b>categories.catalog</b>, \"<b>categories.catalog</b>\" értéket kell megadni a \"<b>A \"dispatch\" paraméter értéke a linkből</b>\" mezőbe, majd ezt követően a kívánt keresőbarát nevet a \"<b>Keresőbarát név</b>\" mezőbe."
+
+msgctxt "Languages::seo_name"
+msgid "SEO name"
+msgstr "Keresőbarát név"
+
+msgctxt "Languages::warning_seo_urls_disabled"
+msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
+msgstr "Keresőbarát linkek le vannak tiltva. Webszerver beállításainak ellenőrzésével feloldható ez a probléma."
+
+msgctxt "Languages::dispatch_value"
+msgid "Dispatch value"
+msgstr "Útvonal értéke"
+
+msgctxt "Languages::url_dispatch_part"
+msgid "The value of the \"dispatch\" parameter from the URL"
+msgstr "A \"dispatch\" paraméter értéke a linkből"
+
+msgctxt "Languages::new_rule"
+msgid "New rule"
+msgstr "Új szabály"
+
+msgctxt "Languages::seo_rules"
+msgid "SEO rules"
+msgstr "Keresőbarát szabályok"
+
+msgctxt "Languages::seo_page_title"
+msgid "page [n]"
+msgstr "[n] oldal"
+
+msgctxt "Languages::privileges.manage_seo_rules"
+msgid "Can edit"
+msgstr "Szerkeszthető"
+
+msgctxt "Languages::privilege_groups.seo"
+msgid "SEO"
+msgstr "SEO"
+
+msgctxt "Languages::privileges.view_seo_rules"
+msgid "Can view"
+msgstr "Megtekinthető"
+
+msgctxt "Languages::seo.redirects_manager"
+msgid "301 redirects"
+msgstr "301 átirányítások"
+
+msgctxt "Languages::seo.old_url"
+msgid "Old URL"
+msgstr "Régi link"
+
+msgctxt "Languages::seo.new_url"
+msgid "New URL"
+msgstr "Új link"
+
+msgctxt "Languages::seo.new_redirect"
+msgid "New Redirect"
+msgstr "Új átirányítás"
+
+msgctxt "Languages::seo.error_old_url_exists"
+msgid "The URL you're redirecting from is already exist"
+msgstr "A link, melyről az átirányítás történik, használatban van"
+
+msgctxt "Languages::seo.rich_snippets"
+msgid "Google rich snippets preview"
+msgstr "Google strukturált adatok előnézete"
+
+msgctxt "Languages::seo.rich_snippets_rating"
+msgid "Rating"
+msgstr "Értékelés"
+
+msgctxt "Languages::seo.rich_snippets_reviews"
+msgid "[n] review|[n] reviews"
+msgstr "[n] értékelés|[n] értékelés"
+
+msgctxt "Languages::seo.create_redirect"
+msgid "Create redirect from old URL"
+msgstr "Átirányítás készítése régi linkről"
+
+msgctxt "Languages::seo.error_incorrect_url"
+msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Helytelen formátum a <b>[url]</b> linkhez. Ha például a fő link <b>http://pelda.hu/link/az/objektumhoz</b>, az alábbi értéket kell megadni: <b>/link/az/objektumhoz</b>"
+
+msgctxt "Languages::tt_addons_seo_views_seo_redirects_manage_seo.old_url"
+msgid "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Ha például a fő link <b>http://pelda.hu/link/az/objektumhoz</b>, az alábbi értéket kell megadni: <b>/link/az/objektumhoz</b>"
+
+msgctxt "SettingsSections::seo::general"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "SettingsOptions::seo::seo_product_type"
+msgid "Product SEO URL format"
+msgstr "Termékek keresőbarát link formátuma"
+
+msgctxt "SettingsOptions::seo::seo_category_type"
+msgid "Category SEO URL format"
+msgstr "Kategóriák keresőbarát link formátuma"
+
+msgctxt "SettingsOptions::seo::seo_page_type"
+msgid "Page SEO URL format"
+msgstr "Oldalak keresőbarát link formátuma"
+
+msgctxt "SettingsOptions::seo::seo_other_type"
+msgid "Other SEO URL format"
+msgstr "Egyéb elemek keresőbarát link formátuma"
+
+msgctxt "SettingsOptions::seo::seo_language"
+msgid "Show additional language in the URL"
+msgstr "További nyelvek megjelenítése az URL-ben"
+
+msgctxt "SettingsOptions::seo::single_url"
+msgid "Use single URL for all languages"
+msgstr "Egyetlen link használata minden nyelvre"
+
+msgctxt "SettingsOptions::seo::non_latin_symbols"
+msgid "Allow non-latin symbols in URL"
+msgstr "Nem-latin karakterek engedélyezése a linkekben"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
+msgid "/product-name/"
+msgstr "/termek-neve/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file"
+msgid "/product-name.html"
+msgstr "/termek-neve.html"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
+msgid "/category-name/[subcategory-name/]product-name/"
+msgstr "/kategoria-neve/[alkategoria-neve]/termek-neve/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category"
+msgid "/category-name/[subcategory-name/]product-name.html"
+msgstr "/kategoria-neve/[alkategoria-neve]/termek-neve.html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
+msgid "/parent-category/category/[page-2/]"
+msgstr "/szulo-kategoria/kategoria/[oldal-2/]"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category"
+msgid "/parent-category/category-[page-2].html"
+msgstr "/szulo-kategoria/kategoria-[page-2].html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::root_category"
+msgid "/category/[page-2/]"
+msgstr "/kategoria/[page-2]"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page"
+msgid "/parent-page/page.html"
+msgstr "/szulo-oldal/oldal.html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page_nohtml"
+msgid "/parent-page/page/"
+msgstr "/szulo-oldal/oldal/"
+
+msgctxt "SettingsVariants::seo::seo_page_type::root_page"
+msgid "/page/"
+msgstr "/oldal/"
+
+msgctxt "SettingsVariants::seo::seo_other_type::directory"
+msgid "/item/"
+msgstr "/elem/"
+
+msgctxt "SettingsVariants::seo::seo_category_type::file"
+msgid "/category[-page-2].html"
+msgstr "/kategoria[-page-2].html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::file"
+msgid "/page.html"
+msgstr "/oldal.html"
+
+msgctxt "SettingsVariants::seo::seo_other_type::file"
+msgid "/item.html"
+msgstr "/elem.html"
+
+msgctxt "Languages::seo.important_language_text"
+msgid "<b>Warning!</b> The <b>SEO</b> add-on is currently configured to use a single URL for all languages. If you hide, disable, or delete a default language of one of the storefronts, the SEO URLs will be changed."
+msgstr "<b>Figyelmeztetés!</b> A <b>SEO</b> bővítmény jelenleg úgy van beállítva, hogy minden nyelvhez egyetlen URL-t használjon. Ha elrejted, letiltod vagy törlöd az egyik piactéri kirakat alapértelmezett nyelvét, a SEO URL-ek megváltoznak."
+
+msgctxt "Languages::seo.upgrade_notes.seo_language.title"
+msgid "Changes in SEO add-on"
+msgstr "Változások a SEO bővítményben"
+
+msgctxt "Languages::seo.upgrade_notes.seo_language.message"
+msgid "To improve rating in search engines, we have changed the behavior of the \"Show language in URL\" setting. The default language of the storefront will no longer be displayed in the URL. If your storefront in the default language was previously located at <b>[old_store_url]</b>, it will now be available at <b>[new_store_url]</b>.<br/>All old URLs will be redirected correctly to the new ones."
+msgstr "A keresőmotorokban való értékelés javítása érdekében megváltoztattuk a \"Nyelv megjelenítése az URL-ben\" beállítás viselkedését. A piactér alapértelmezett nyelve többé nem jelenik meg az URL-ben. Ha az alapértelmezett nyelvű piactér korábban a <b>[old_store_url]</b> címen volt megtalálható, akkor mostantól a <b>[new_store_url]</b> címen lesz elérhető. <br/>A régi URL-ek helyesen átirányításra kerülnek az újakra."
+
+msgctxt "Languages::seo.product_feature.feature_code.notice"
+msgid "A suitable code can help this feature appear with the product in search engines. Supported codes:"
+msgstr "Egy megfelelő kód segíthet abban, hogy ez a tulajdonság a termékkel együtt jelenjen meg a keresőmotorokban. Támogatott kódok:"
+
+msgctxt "Languages::seo.brand"
+msgid "Brand"
+msgstr "Márka"
+
+msgctxt "Languages::seo.feature_code.brand.description"
+msgid "Name used by an organization or business person for labeling a product"
+msgstr "Egy szervezet vagy üzletember által a termék megjelölésére használt név."
+
+msgctxt "Languages::seo.isbn"
+msgid "ISBN"
+msgstr ""
+
+msgctxt "Languages::seo.feature_code.isbn.description"
+msgid "International Standard Book Number"
+msgstr "Nemzetközi Szabványos Könyvazonosító "
+
+msgctxt "Languages::seo.gtin"
+msgid "GTIN"
+msgstr ""
+
+msgctxt "Languages::seo.feature_code.gtin.description"
+msgid "Global Trade Item Number"
+msgstr "Globális kereskedelmi azonosító szám"
+
+msgctxt "Languages::seo.MPN"
+msgid "MPN"
+msgstr ""
+
+msgctxt "Languages::seo.feature_code.mpn.description"
+msgid "Manufacturer Part Number"
+msgstr "Gyártói alkatrészszám"
+
+msgctxt "Languages::seo.storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of this storefront, the SEO URLs will be changed."
+msgstr "A <a href=\"[link]\">SEO</a> bővítmény jelenleg úgy van beállítva, hogy minden nyelven egyetlen URL-t használjon. Ha megváltoztatod a piactér alapértelmezett nyelvét, a SEO URL-ek is megváltoznak."
+
+msgctxt "Languages::seo.default_storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of the default storefront, the SEO URLs will be changed for all storefronts."
+msgstr "A <a href=\"[link]\">SEO</a> bővítmény jelenleg úgy van beállítva, hogy minden nyelvhez egyetlen URL-t használjon. Ha megváltoztatod az alapértelmezett kirakat alapértelmezett nyelvét, a SEO URL-ek az összes kirakat esetében megváltoznak."
+
+msgctxt "Languages::seo.error_at_creation_seo_name"
+msgid "The following SEO name already exists in your store: <b>[names]</b>. <p> The following SEO name was used instead: <b>[new_names]</b>.|The following SEO names already exist in your store: <b>[names]</b>. The following SEO names were used instead: <b>[new_names]</b>."
+msgstr "A következő SEO név már létezik a piacterén: <b>[names]</b>. <p> Helyette a következő SEO nevet használtuk: <b>[new_names]</b>.|A következő SEO nevek már léteznek a piacterén: <b>[names]</b>. A következő SEO neveket használtuk helyettük: <b>[new_names]</b>."
+

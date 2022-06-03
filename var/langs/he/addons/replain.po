@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/replain.po\n"
+"X-Crowdin-File-ID: 4630\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::replain"
+msgid "Re:plain Telegram chat"
+msgstr "Re:plain צ'אט של טלגרם"
+
+msgctxt "Addons::description::replain"
+msgid "Allows you to add Telegram chat to your storefront"
+msgstr "מאפשר לך להוסיף צ'אט של טלגרם לחזית החנות שלך"
+
+msgctxt "Languages::replain"
+msgid "Re:plain chat"
+msgstr "Re:plain צ'אט"
+
+msgctxt "Languages::replain.insert_script"
+msgid "Here is how to set up Telegram chat:<br>1. Make sure Telegram is installed on your device.<br>2. Use <a href=\"[bot_url]\">Re:plain bot</a> to create a chat.<br> 3. Paste the code acquired from the bot into the field below and click <b>Save</b> to connect the chat to your store"
+msgstr "כך מגדירים צ'אט של טלגרם:<br>1. וודא שטלגרם מותקן במכשיר שלך.<br>2. השתמש <a href=\"[bot_url]\">Re:plain bot</a> כדי ליצור צ'אט<br> 3. הדבק את הקוד שהתקבל מהבוט לשדה למטה והקלק על <b>שמור</b>כדי לחבר את הצ'אט לחזית החנות שלך"
+
+msgctxt "SettingsOptions::replain::replain_script"
+msgid "Re:Plain script"
+msgstr "Re:Plain סקריפט"
+

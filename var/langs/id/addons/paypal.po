@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/paypal.po\n"
+"X-Crowdin-File-ID: 4608\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::paypal"
+msgid "PayPal payments"
+msgstr "Pembayaran PayPal"
+
+msgctxt "Addons::description::paypal"
+msgid "Lets you accept payments via PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced, and PayPal Payflow Pro."
+msgstr "Memungkinkan Anda menerima pembayaran melalui Checkout Express PayPal, PayPal Pro, Standar PayPal, Advanced PayPal, dan PayPal Payflow Pro."
+
+msgctxt "SettingsOptions::paypal::override_customer_info"
+msgid "Override customer info"
+msgstr "Mengganti info pelanggan"
+
+msgctxt "SettingsOptions::paypal::test_mode"
+msgid "Test mode"
+msgstr "Tes mode"
+
+msgctxt "SettingsSections::paypal::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "Languages::protection_eligibility"
+msgid "Protection eligibility"
+msgstr "Perlindungan kelayakan"
+
+msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
+msgid "Instant payment notification settings"
+msgstr "Setelan pemberitahuan pembayaran instan"
+
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "Peta konversi status pesanan PayPal"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "Pengaturan logo PayPal"
+
+msgctxt "Languages::text_paypal_surcharge"
+msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
+msgstr "<b>Catatan:</b> Menurut PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'> kebijakan</a> (4.6), biaya tambahan yang tidak didukung."
+
+msgctxt "Languages::txn_id"
+msgid "Transaction ID"
+msgstr "ID transaksi"
+
+msgctxt "Languages::paypal_logo"
+msgid "PayPal logo"
+msgstr "Logo PayPal"
+
+msgctxt "Languages::ttc_paypal_logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "Gunakan format grafis yang valid, seperti .gif, .jpg, atau .png. Batasi gambar hingga 190 piksel dengan lebar 60 piksel. Citra tanaman PayPal yang lebih besar. PayPal menempatkan gambar logo Anda di bagian atas area ulasan keranjang."
+
+msgctxt "Languages::ipn_errors"
+msgid "IPN errors"
+msgstr "Kesalahan IPN"
+
+msgctxt "Languages::pp_product_count_is_incorrect"
+msgid "Number of paid items is different than the number of items in the order"
+msgstr "Jumlah barang berbayar berbeda dengan jumlah barang yang dipesan"
+
+msgctxt "Languages::pp_currency_is_incorrect"
+msgid "Currency used for the payment is different than the order currency."
+msgstr "Mata uang yang digunakan untuk pembayaran berbeda dengan mata uang pesanan."
+
+msgctxt "Languages::pp_total_is_incorrect"
+msgid "Payment total is different than the order total."
+msgstr "Jumlah pembayaran berbeda dengan jumlah pesanan."
+
+msgctxt "Languages::pp_mode"
+msgid "Paypal mode"
+msgstr "Mode paypal"
+
+msgctxt "Languages::paypal_vendor"
+msgid "Vendor"
+msgstr "Penjaja"
+
+msgctxt "Languages::paypal_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "Gunakan Checkout dalam konteks"
+
+msgctxt "Languages::ttc_paypal_use_in_context_checkout"
+msgid "In-Context Checkout will not be used when the store is running in Widget mode"
+msgstr "Checkout dalam konteks tidak akan digunakan saat toko berjalan dalam mode Widget"
+
+msgctxt "Languages::paypal_express_notice"
+msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
+msgstr "ID pedagang diperlukan untuk menggunakan fitur <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'> Fitur Checkout Dalam-Konteks </a> di dalam integrasi ini Anda dapat mencari ID pedagang Anda dengan masuk ke <a href='https://www.paypal.com/' target='_blank'> https://www.paypal.com/ </a>. Klik ikon profil di sisi kanan atas halaman lalu pilih <b> Profil dan pengaturan </ b> di menu <b> Profil Bisnis </ b>. (Jika Anda tidak melihat ikon profil di bagian atas halaman, klik <b> Profil </ b>, yang muncul di menu paling atas saat tab <b> Akun Saya </ b> dipilih.) Klik < b> info bisnis saya </ b> di sebelah kiri, dan <b> ID akun Pedagang </ b> ditampilkan dalam daftar item profil di sebelah kanan."
+
+msgctxt "Languages::paypal_ipn_note"
+msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."
+msgstr "Instant Payment Notification (IPN) adalah layanan yang secara otomatis memberitahukan pedagang tentang kejadian yang terkait dengan transaksi PayPal. Ketika pelanggan memesan dan memilih PayPal sebagai metode pembayaran, pesanan tersebut mendapatkan status <b> Open </ b>. PayPal kemudian mengirimkan pesan Pemberitahuan Pembayaran Instan yang menyertakan status transaksi. Status ini mengubah status pesanan di toko Anda sesuai dengan peta konversi status."
+
+msgctxt "Languages::paypal_ipn_transaction_status"
+msgid "Transaction status"
+msgstr "Status transaksi"
+
+msgctxt "Languages::paypal.ipn_transaction_status"
+msgid "Transaction status: [status]"
+msgstr "Status transaksi: [status]"
+
+msgctxt "Languages::addons.paypal.surcharge_policy_notice"
+msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
+msgstr "undefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefined"
+
+msgctxt "Languages::addons.paypal.rma.perform_refund"
+msgid "Give a refund via PayPal"
+msgstr "Berikan pengembalian dana via PayPal"
+
+msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "Pengembalian dana akan dilakukan setelah administrator mengubah status permintaan pengembalian"
+
+msgctxt "Languages::addons.paypal.rma.refund_performed"
+msgid "The refund has been made via PayPal"
+msgstr "Pengembalian dana telah dilakukan melalui PayPal"
+
+msgctxt "Languages::addons.paypal.refund_message"
+msgid "[amount] [currency] have been refunded in [date] at [time]."
+msgstr "[jumlah] [mata uang] telah dikembalikan pada [tanggal] pada [waktu]."
+
+msgctxt "SettingsOptions::paypal::paypal_partial_refund_action"
+msgid "Order status on partial refund"
+msgstr "Memesan status pengembalian dana sebagian"
+
+msgctxt "Languages::addons.paypal.do_not_change"
+msgid "Do not change"
+msgstr "Jangan berubah"
+
+msgctxt "Languages::tt_addons_paypal_settings_partial_refund_action_order_status"
+msgid "Determines whether or not to change the order status automatically after a partial refund via PayPal."
+msgstr "Menentukan apakah akan mengubah status pesanan secara otomatis setelah pengembalian dana sebagian melalui PayPal."
+
+msgctxt "Languages::addons.paypal.set_status_to"
+msgid "Set to:"
+msgstr "Mulai:"
+
+msgctxt "Languages::addons.paypal.ipn_receiving_time"
+msgid "IPN receiving time"
+msgstr "IPN menerima waktu"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders"
+msgid "Initial order status"
+msgstr "Status pesanan awal"
+
+msgctxt "Languages::ttc_addons.paypal.status_for_new_orders"
+msgid "All orders with a PayPal payment method get this status until the response from PayPal (an IPN message) arrives or a customer returns to the store via a link on the PayPal site."
+msgstr "Semua pesanan dengan metode pembayaran PayPal mendapatkan status ini sampai tanggapan dari PayPal (pesan IPN) tiba atau pelanggan kembali ke toko melalui tautan di situs PayPal."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.open"
+msgid "By default, the <i>Open</i> status decreases the inventory, so two customers won't be able to buy the same product while the payment is being processed by PayPal. But if a customer leaves the PayPal website without paying or returning to the store via a link on the PayPal site, you'll have an abandoned <i>Open</i> order with reserved products."
+msgstr "Secara default, status <i> Open </ i> menurunkan inventaris, jadi dua pelanggan tidak akan dapat membeli produk yang sama saat pembayaran diproses oleh PayPal. Tetapi jika pelanggan meninggalkan situs PayPal tanpa membayar atau kembali ke toko melalui tautan di situs PayPal, Anda akan memiliki pesanan <i> Open </ i> yang ditinggalkan dengan produk yang dipesan."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.incomplete"
+msgid "This ensures that you won't have abandoned unpaid orders with the <i>Open</i> status and reserved products. But until the response from PayPal (an IPN message) arrives or the customer returns to the store via a link on the PayPal site, the order will be listed as <i>Incomplete</i>, and products won't be reserved."
+msgstr "Ini memastikan bahwa Anda tidak akan meninggalkan pesanan yang belum dibayar dengan status <i> Open </ i> dan produk yang dipesan. Tapi sampai tanggapan dari PayPal (pesan IPN) tiba atau pelanggan kembali ke toko melalui tautan di situs PayPal, pesanan tersebut akan tercantum sebagai <i> Tidak lengkap </ i>, dan produk tidak akan dipesan."
+
+msgctxt "Languages::addons.paypal.display_name"
+msgid "Display name"
+msgstr "Nama tampilan"
+
+msgctxt "Languages::addons.paypal.display_description"
+msgid "Display description"
+msgstr "Deskripsi tampilan"
+
+msgctxt "Languages::addons.paypal.technical_details"
+msgid "Technical details"
+msgstr "Rincian teknis"
+
+msgctxt "Languages::addons.paypal.connect_to_paypal"
+msgid "Connect to PayPal"
+msgstr "Hubungkan ke PayPal"
+
+msgctxt "Languages::addons.paypal.use_buttons_to_signup"
+msgid "Use these buttons to complete the configuration wizard"
+msgstr "Gunakan tombol ini untuk melengkapi wizard konfigurasi"
+
+msgctxt "Languages::addons.paypal.configure_live"
+msgid "Configure Live"
+msgstr "Konfigurasikan Hidup"
+
+msgctxt "Languages::addons.paypal.configure_test"
+msgid "Configure Test"
+msgstr "Mengkonfigurasi Test"
+
+msgctxt "Languages::addons.paypal.connecting_to_signup_server"
+msgid "Connecting to <b>PayPal Sign Up Server</b>..."
+msgstr "Menghubungkan ke <b> PayPal Sign Up Server </ b>..."
+
+msgctxt "Languages::addons.paypal.signup_completed"
+msgid "The <b>[payment]</b> payment method has been successfully configured"
+msgstr "Metode pembayaran <b> [pembayaran] </ b> telah berhasil dikonfigurasi"
+
+msgctxt "Languages::addons.paypal.signup_errors.signup_init"
+msgid "An error occurred when connecting to a PayPal account"
+msgstr "Terjadi kesalahan saat menghubungkan ke akun PayPal"
+
+msgctxt "Languages::addons.paypal.signup_errors.merchant_credentials"
+msgid "An error occurred when obtaining the payment method configuration"
+msgstr "Terjadi kesalahan saat mendapatkan konfigurasi metode pembayaran"
+
+msgctxt "Languages::addons.paypal.signup_messages.finish_signup"
+msgid "You now have a PayPal business account, and you've successfully integrated [product] with PayPal.<br>Don't forget to confirm your email to activate your account so you can access the payments. To do this, follow the instructions PayPal sent to your email."
+msgstr "Anda sekarang memiliki akun bisnis PayPal, dan Anda telah berhasil mengintegrasikan [produk] dengan PayPal. <br> Jangan lupa konfirmasikan email Anda untuk mengaktifkan akun Anda sehingga Anda dapat mengakses pembayaran. Untuk melakukan ini, ikuti instruksi yang dikirim PayPal ke email Anda."
+
+msgctxt "Languages::addons.paypal.signup_messages.confirmation_needed"
+msgid "To access payments from your customers, please confirm your email address by following the instructions PayPal emailed to you."
+msgstr "Untuk mengakses pembayaran dari pelanggan Anda, konfirmasikan alamat email Anda dengan mengikuti petunjuk yang dikirimkan oleh PayPal kepada Anda."
+
+msgctxt "Languages::paypal.addon_is_disabled_notice"
+msgid "The <b>PayPal payments</b> add-on is disabled so you can't configure this payment method."
+msgstr "Fitur tambahan<b>Pembayaran PayPal</b> dinonaktifkan sehingga Anda tidak dapat melakukan konfigurasi pada metode pembayaran ini."
+
+msgctxt "Languages::addons.paypal.3d_secure_mandatory_notice"
+msgid "3-D secure is mandatory in the United Kingdom."
+msgstr ""
+
+msgctxt "Languages::paypal.show_cart_button"
+msgid "Show the \"Checkout with PayPal\" button on the cart contents page"
+msgstr ""
+

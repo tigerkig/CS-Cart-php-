@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /release-4.13.2/addons/gdpr.po\n"
+"X-Crowdin-File-ID: 4562\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::gdpr"
+msgid "GDPR Compliance (EU)"
+msgstr "Cumplimiento de RGPD (UE)"
+
+msgctxt "Addons::description::gdpr"
+msgid "Helps you to comply with GDPR (a European Union regulation on personal data) by showing customers info about their personal data, asking their consent for its processing, and by offering ways to delete or export personal data."
+msgstr "Te ayuda a cumplir con la RGPD (El reglamento general de protección de datos de la Unión Europea) mostrando a los clientes información personal de sus datos, preguntando por su consentimiento para su procesamiento, y ofreciendo maneras de borrar o exportar los datos personales."
+
+msgctxt "SettingsSections::gdpr::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsSections::gdpr::gdpr"
+msgid "GDPR"
+msgstr "RGPD"
+
+msgctxt "SettingsOptions::gdpr::gdpr_cookie_consent"
+msgid "Cookie consent"
+msgstr "Consentimiento de uso de cookies"
+
+msgctxt "SettingsTooltips::gdpr::gdpr_cookie_consent"
+msgid "Implicit consent means an unobtrusive pop-up in the corner.<br/>Explicit consent means asking to agree to cookies before allowing customers to access the website for the first time."
+msgstr "El consentimiento implicito implica que aparezca una ventana emergente en la esquina. <br/>El consentimiento explicito significa solicitar que se acepten cookies antes de permitir que los clientes tengan acceso al sitio web por primera vez."
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::none"
+msgid "None"
+msgstr "Ninguno"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::implicit"
+msgid "Implicit"
+msgstr "Implicito"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::explicit"
+msgid "Explicit"
+msgstr "Explicito"
+
+msgctxt "Languages::gdpr.gdpr_user_data"
+msgid "GDPR user data"
+msgstr "Datos del usuario RGPD"
+
+msgctxt "Languages::gdpr_user_data"
+msgid "User personal data"
+msgstr "Datos personales del usuario"
+
+msgctxt "Languages::gdpr_user_profiles"
+msgid "Personal data from user profiles"
+msgstr "Datos personales de los perfiles del usuario"
+
+msgctxt "Languages::gdpr_product_subscriptions"
+msgid "Personal data from product subscriptions"
+msgstr "Datos personales de las suscripciones del producto"
+
+msgctxt "Languages::gdpr_agreements"
+msgid "Personal data from GDPR agreements"
+msgstr "Datos personales de los acuerdos RGPD"
+
+msgctxt "Languages::gdpr.anonymize"
+msgid "Anonymize"
+msgstr "Garantizar el anonimato"
+
+msgctxt "Languages::gdpr.text_anonymize_question"
+msgid "Once you anonymize someone, all their personal information will be replaced with randomly-generated data. This action can not be undone, unless you restore the database from a backup. Are you sure you want to proceed?"
+msgstr "Una vez que garantizas el anonimato del cliente, toda su información personal será sustituida con datos generados aleatoriamente. Esta acción no se puede deshace, a menos que usted restaure la base de datos desde una copia de segurida. ¿Está seguro que deseas continuar?"
+
+msgctxt "Languages::gdpr.view_and_edit"
+msgid "View and edit"
+msgstr "Ver y editar"
+
+msgctxt "Languages::gdpr_orders_data"
+msgid "Personal data from orders"
+msgstr "Datos personales de los pedidos"
+
+msgctxt "Languages::gdpr.full_agreement"
+msgid "Full agreement text"
+msgstr "Texto completo de consentimiento"
+
+msgctxt "Languages::gdpr.short_agreement"
+msgid "Short agreement text"
+msgstr "Texto corto de consentimiento"
+
+msgctxt "Languages::gdpr.checkout.place_order.personal_data_processing"
+msgid "Checkout: Place order: Personal data processing"
+msgstr "Pago: orden del pedido: procesamiento de datos personales"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Nosotros ([company]) enviamos correos electrónicos relacionados con su cuenta (tales como notificación de estado, correos de restablecimiento de contraseña y otros) a la dirección de correo electrónico proporcionada. Por este motivo, necesitamos almacenar su dirección de correo electrónico mientras siga siendo nuestro cliente.</p><p>Nosotros utilizamos la información contenida en la sección de facturación/envío y podría ser enviada a un proveedor de envío o pago:</p><ul><li>Determine qué métodos de envío o pago están disponibles para su ubicación.</li><li>Complete el proceso de envío o pago a través del proveedor que seleccione en la cesta de compras cuando haga su pedido.</li></ul><p>Algunos miembros de nuestro personal y/o proveedores que venden productos de nuestra tienda y utilizan el panel de administración pueden tener acceso a su datos. Valoramos su privacidad, por lo que el acceso a los datos se hace en la medida que se necesite para la operatividad de la tienda. Por ejemplo, un proveedor solo recibe sus datos si usted le ha solicitado un producto, de manera que el vendedor pueda completar el pedido.</p><p> Si usted decide que no desea utilizar la tienda y quiere que sus datos personales sean eliminados de nuestra base de datos (o si quiere obtener todos sus datos personales que tenemos asociados a su cuenta), por favor envíe un correo electrónico a[email].</p><p>Si usted cree que sus datos personales han sido utilizados para otros fines, tiene el derecho de presentar una queja con la autoridad encargada de la supervisión de datos. Estamos obligados por el Reglamento General de Protección de Datos de la Unión Europea que usted tiene este derecho; no pretendemos en realidad hacer mal uso de sus datos.</p>"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Acepto que mis datos personales<u>se procesen de la siguiente manera.</u>"
+
+msgctxt "Languages::gdpr.user.registration.personal_data_processing"
+msgid "Customer: registration"
+msgstr "Cliente: registro"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Los correos electrónicos distinguen unos clientes de otros. Si inicia la sesión en la tienda ingresando el correo electrónico y la contraseña que proporciona aquí.</p><p>Nosotros ([company]) también enviamos correos electrónicos relacionados con la cuenta (como notificaciones de estado de pedidos, correos electrónicos de restablecimiento de contraseñas, y más) a la dirección de correo electrónico proporcionada. Por esta razón necesitamos almacenar su correo electrónico mientras siga siendo nuestro cliente.</p><p>Otros campos de su perfil que puedan aparecer o no en este sitio web son almacenados junto con su correo electrónico. Podríamos utilizar esta información para comunicarnos con usted, si surge la necesidad.</p><p>Algunos miembros de nuestro personal y/o proveedores que venden productos en nuestra tienda y utilizan el panel de administración pueden tener acceso a su datos. Valoramos su privacidad, por lo que el acceso a los datos se hace en la medida que se necesite para la operatividad de la tienda. Por ejemplo, un proveedor solo recibe sus datos si usted le ha solicitado un producto, de manera que el vendedor pueda completar el pedido.</p><p> Si usted decide que no desea utilizar la tienda y quiere que sus datos personales sean eliminados de nuestra base de datos (o si quiere obtener todos sus datos personales que tenemos asociados a su cuenta), por favor envíe un correo electrónico a[email].</p><p>Si usted cree que sus datos personales han sido utilizados para otros fines, tiene el derecho de presentar una queja con lel Delegado de supervisión de datos. Estamos obligados por el Reglamento General de Protección de Datos de la Unión Europea a informarle que usted tiene este derecho; en realidad no pretendemos hacer mal uso de sus datos.</p>"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Acepto que mis datos personales<u>se procesen de la siguiente manera.</u>"
+
+msgctxt "Languages::gdpr.profiles.update.personal_data_processing"
+msgid "Profiles: update"
+msgstr "Perfiles: actualizar"
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location.</li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p> "
+msgstr "<p>Los correos electrónicos distinguen unos clientes de otros. Si inicia la sesión en la tienda ingresando el correo electrónico y la contraseña que proporciona aquí.</p><p>Nosotros ([company]) también enviamos correos electrónicos relacionados con la cuenta (como notificaciones de estado de pedidos, correos electrónicos de restablecimiento de contraseñas, y más) a la dirección de correo electrónico proporcionada. Por esta razón necesitamos almacenar su correo electrónico mientras siga siendo nuestro cliente.</p><p>Otros campos de su perfil que puedan aparecer o no en este sitio web son almacenados junto con su correo electrónico. Podríamos utilizar esta información para comunicarnos con usted, si surge la necesidad.</p><p>Utilizamos la información de la sección de dirección de facturación/envío y podríamos enviarla a un proevedor de envíos o sistemas de pago:</p><ul><li>Determine qué sistemas de pagos están disponibles para su ubicación.</li><li>Complete el proceso de pago o envío a través del proveedor que seleccione para su compra cuando haga el pedido.</li></ul><p> Algunos miembros de nuestro personal y/o proveedores que venden productos en nuestra tienda y utilizan el panel de administración pueden tener acceso a su datos. Valoramos su privacidad, por lo que el acceso a los datos se hace en la medida que se necesite para la operatividad de la tienda. Por ejemplo, un proveedor solo recibe sus datos si usted le ha solicitado un producto, de manera que el vendedor pueda completar el pedido.</p><p> Si usted decide que no desea utilizar la tienda y quiere que sus datos personales sean eliminados de nuestra base de datos (o si quiere obtener todos sus datos personales que tenemos asociados a su cuenta), por favor envíe un correo electrónico a[email].</p><p>Si usted cree que sus datos personales han sido utilizados para otros fines, tiene el derecho de presentar una queja con el Delegado de supervisión de datos. Estamos obligados por el Reglamento General de Protección de Datos de la Unión Europea a informarle que usted tiene este derecho; en realidad no pretendemos hacer mal uso de sus datos.</p> "
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Acepto que mis datos personales<u>se procesen de la siguiente manera.</u>"
+
+msgctxt "Languages::gdpr.vendor.apply.personal_data_processing"
+msgid "Vendor: apply for vendor"
+msgstr "Proveedor: solicitar vendedor"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_full_personal_data_processing"
+msgid "<p>Because vendors sell products in our marketplace, we ([company]) have to request certain information about them. For example, the company name and description of a vendor are shown to customers and serve to distinguish vendors from each other; the address is used for shipping rate calculation.</p> <p>However, we also request some personal data, such as first name/last name and emails address. Those are necessary for creating a vendor’s administrator account in our system. Vendors work with the marketplace through such accounts. Email addresses are necessary because they distinguish administrators from each other. You sign in to the store by entering the email address you provide here. Names are necessary because a single vendor can have multiple administrators—it is easier to handle accountability that way.</p> <p>We also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer. If you decide that you no longer want to work with our marketplace and would like to have personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Debido a que los vendedores venden productos en nuestro mercado, nosotros ([company]) tenemos que solicitar información acerca de ellos. Por ejemplo, el nombre de la compañia y la descripción del proveedor se muestran a los clientes y sirven para que los proveedores se distingan entre sí; la dirección es utilizada para calcular la tarifa del envío.</p><p>Sin embargo, nosotros también solicitamos algunos datos personales, tales como el primer nombre/apellido y correos electrónicos. Esos datos son necesarios para crear la cuenta de administración de un proveedor en nuestro sistema. Los vendedores trabajan con el mercado a través de tales cuentas. Los correos electrónicos son necesarios debido a que los administradores se distinguen entre sí. Inicias la sesión en la tienda ingresando el correo electrónico proporcionado aquí. Los nombres son necesarios debido a que\n"
+"un vendedor puede tener múltiples administradores - es más fácil de manejar la responsabilidad de esta manera.</p><p>También enviamos correos electrónicos relacionados con su cuenta (tales como notificaciones de estado del pedido, restablecimiento de contraseñas de correos electrónicos, y más) a la dirección de correo electrónico proporcionada. Por esta razón necesitamos almacenar su dirección de correo electrónico mientras siga siendo nuestro cliente. Si decide que no quiere trabajar más con nuestro mercado y desea que sus datos personales sean eliminados de nuestra base de datos (o si desea obtener todos los datos personales asociados a su cuenta), por favor envíe un correo electrónico a [email].</p><p>Si usted considera que sus datos personales están siendo utilizados para otros fines, tiene el derecho de presentar una queja a un delegado de supervisión de datos. Estamos obligados por el Reglamento General de Protección de Datos de la Unión Europea a informarle que usted tiene este derecho, realmente no pretendemos hacer un mal uso de sus datos.</p>"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Acepto que mis datos personales<u>se procesen de la siguiente manera.</u>"
+
+msgctxt "Languages::gdpr.products.subscribe.personal_data_processing"
+msgid "Products: subscribe"
+msgstr "Productos: suscribirse"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) will add your email address to a special mailing list for this product. Once the product is in stock, you’ll get an email about it automatically, and your email address will be removed from the product’s mailing list.</p> <p>The data will be visible to some members of our staff. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Nosotros ([company]) agregaremos su dirección de correo electrónico a una lista particular de correo electrónico para este producto. Una vez que se confirma que el producto esta en existencia, recibirá un correo electrónico acerca del producto automáticamente, y su dirección de correo electrónico será eliminada de la lista de correo electrónico del producto.</p><p>Los datos estarán visibles para algunos miembros de nuestro personal. Si desea que sus datos personales sena eliminados, envíe un correo electrónico a [email].</p><p>Si usted cree que sus datos personales han sido utilizados para otro fin, tiene el derecho de presentar una queja ante el personal de supervisión. Nosotros estamos obligados por el Reglamento General de Protección de Datos de la Unión Europea de informarles acerca de este derecho; nosotros bajo ningún concepto intentamos utilizar sus datos para otros fines.</p>"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Acepto que mis datos personales<u>se procesen de la siguiente manera.</u>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.personal_data_processing"
+msgid "Checkout: profiles update"
+msgstr "Pago: actualización de perfiles"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Nosotros ([company]) enviamos correos electrónicos relacionados con su cuenta (tales como notificaciones del estado de pedidos, correos electrónicos de restablecimiento de contraseñas, y más) a la dirección de correo electrónico proporcionada. Por esta razón necesitamos almacenar su dirección de correo electrónico mientras siga siendo nuestro cliente.</p><p>Nosotros utilizamos la información contenida en la sección de facturación/envío y podría ser enviada a un proveedor de envío o de pago:</p><ul><li>Determine qué sistemas de pagos están disponibles para su ubicación.</li><li>Complete el proceso de pago o envío a través del proveedor que seleccione para su compra cuando haga el pedido.</li></ul><p> Algunos miembros de nuestro personal y/o proveedores que venden productos en nuestra tienda y utilizan el panel de administración pueden tener acceso a su datos. Valoramos su privacidad, por lo que el acceso a los datos se hace en la medida que se necesite para la operatividad de la tienda. Por ejemplo, un proveedor solo recibe sus datos si usted le ha solicitado un producto, de manera que el vendedor pueda completar el pedido.</p><p> Si usted decide que no desea utilizar más la tienda y quiere que sus datos personales sean eliminados de nuestra base de datos (o si quiere obtener todos sus datos personales que tenemos asociados a su cuenta), por favor envíe un correo electrónico a [email].</p><p>Si usted cree que sus datos personales han sido utilizados para otros fines, tiene el derecho de presentar una queja con el Delegado de supervisión de datos. Estamos obligados por el Reglamento General de Protección de Datos de la Unión Europea a informarle que usted tiene este derecho; en realidad no pretendemos hacer mal uso de sus datos.</p>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows</u>."
+msgstr "Acepto que mis datos personales<u>se procesen de la siguiente manera</u>."
+
+msgctxt "Languages::gdpr.export_to_xml"
+msgid "Export to XML"
+msgstr "Exportar a XML"
+
+msgctxt "Languages::gdpr.agreement_required_error"
+msgid "Your agreement is required to proceed."
+msgstr "Se requiere de su consentimiento para proceder."
+
+msgctxt "Languages::gdpr.user_anonymized"
+msgid "User has been anonymized."
+msgstr "Al usuario se le ha garantizado el anonimato."
+
+msgctxt "Languages::gdpr.check_other_sources_for_personal_data"
+msgid "<p>Please note that anonymization doesn't affect any backups and logs that you might have. If necessary, please do the following:</p><ol><li>Clear the logs under <b>Administration → Logs</b>.</li><li>Secure and delete the backups you might have under <b>Administration → Backup/Restore</b>.</li></ol>"
+msgstr "<p>Por favor tenga en cuenta que el anonimanto no afecta a los respaldos y los resgistros que pueda tener. Si es necesario, haga lo siguiente:</p><ol><li>Elimine los regustros en<b>Administración→Registros</b>.</li><li>Proteja y elimine los respaldos que pueda tener en<b>Administración → Copia de seguridad/Restaurar</b>.</li></ol>"
+
+msgctxt "Languages::gdpr.cookie_consent"
+msgid "Cookie consent"
+msgstr "Consentimiento de uso de cookies"
+
+msgctxt "Languages::gdpr.cookie_consent_message"
+msgid "<p>This website uses cookies (small pieces of data saved on your computer). Some cookies are added by the website itself: they help to show you the content of your cart, keep you signed in once you enter your email and password, preserve your preferences, and do a lot of other useful things. We use these cookies only to make the site work properly for you. Even your agreement to our use of cookies is stored as a cookie.</p><p>Other cookies may be used by third-party services (such as PayPal, YouTube, Google Maps, Facebook, etc.) to store the data about how you use those third-party services on the website. We have no control over how third parties use cookies, but those cookies are also important for proper functioning of the website. For example, some of the PayPal functionality may not work without PayPal cookies.</p><p>Without cookies, many things can go wrong. That's why we ask that you agree to cookies being used before you proceed. If you don't want any cookies but would like to continue using the website, please configure your browser to block cookies, and then you'll be able to \"agree\" to their use, while we won't treat that as your consent.</p>"
+msgstr "<p>Este sitio web utiliza cookies (pequeños archivos de datos que se almacenan en su computadora). Algunos cookies son añadidos por la misma página web: ayudan a mostrarle el contenido de su carrito, lo mantiene conectado una vez que ingresa su correo electrónico y su contraseña, conserva sus preferencias, y hacen muchas otras cosas útiles. Utilizamos esas cookies solo para que el sitio web funcione correctamente para usted. Incluso cuando su consentimiento de utilización de cookies se almacena como cookie.</p><p>Otras cookies pueden ser utilizadas por servicios de terceros (tales como Paypal, Youtube, Google Maps, Facebook, etc.) para almacenar los datos de cómo utilizas estos servicios de terceros en el sitio web. No tenemos control de cómo los servicios de terceros utilizan cookies, pero esos cookies son solamente importantes para el funcionamiento apropiado del sitio web. Por ejemplo, algunas funciones de Paypal pueden no ejecutarse sin el uso de las cookies de Paypal.</p><p> Sin cookies, muchas cosas pueden funcionar mal. Es por eso que le pedimos que acepte el uso de cookies antes de continuar. Si usted no quiere aceptar el uso de cookies pero desea continuar utilizando el sitio web, por favor configure su navegador para bloquear cookies, y entonces podrá utilizar el sitio web, sin embargo, no será considerado como un consentimiento.</p>"
+
+msgctxt "Languages::gdpr.cookie_consent_accept"
+msgid "I agree"
+msgstr "Acepto"
+
+msgctxt "Languages::gdpr.cookie_consent_decline"
+msgid "No, take me out of here"
+msgstr "No, sácame de aquí"
+
+msgctxt "Languages::gdpr.uk_cookies_law"
+msgid "Cookies are used on this site to provide the best user experience. If you continue, we assume that you agree to receive cookies from this site. <span class=\"button button-wrap-left\"><span class=\"button button-wrap-right\"><a rel=\"nofollow\" href=\"[url]\">OK</a></span></span>"
+msgstr "Los cookies son utilizados en este sitio para proporcionar al usuario la mejor experiencia. Si continua, asumimos que acepta recibir cookies de este sitio.<span class=\"button button-wrap-left\"><span class=\"button button-wrap-right\"><a rel=\"nofollow\" href=\"[url]\">OK</a></span></span>"
+
+msgctxt "Languages::block_gdpr"
+msgid "GDPR"
+msgstr "RGPD"
+
+msgctxt "Languages::gdpr"
+msgid "GDPR"
+msgstr "RGPD"
+
+msgctxt "Languages::block_gdpr_description"
+msgid "Allows registered users to request their personal data or anonymization"
+msgstr "Permite a los usuarios registrados solicitar sus datos personales o la garantía de anonimato"
+
+msgctxt "Languages::gdpr.user_profile_actions_description"
+msgid "<p>As customers interact with the store, they provide personal data for various purposes. When you place an order, we need to know where to ship it; when you subscribe for an email newsletter, we need to know where to send it, and so on. We keep this data organized, so that you always could:</p> <ol> <li>Request that we send you all your personal data. In that case we’ll send you an XML file by email. That file will contain all your personal data we have.</li> <li>Request to be forgotten. In that case your account will be deactivated, and all your personal data will be removed. If necessary, you’ll be able to register a new account with the same email address in the future.</li> </ol> <p>Please note that we’ll need some time to process either of those requests. We may contact you regarding your request by email or through other means.</p>"
+msgstr "<p>A medida que los clientes interactúan con la tienda, proporcionan datos personales para diversos fines. Cuando realiza un pedido, nececistamos saber dónde enviarlo; cuando se suscribe a un boletín por email, necesitamos saber dónde enviarlo, y así sucesivamente. Mantenemos esta información organizada, de manera que siempre pueda:</p><ol><li>Solicitar que le enviemos sus datos personales. En este caso enviaremos un archivo XML vía correo electrónico. Ese archivo tendrá todos sus datos personales que tenemos.</li><li>Solicitud para ser olvidado. En ese caso su cuenta será desactivada, y todos sus datos personales serán eliminados. Si es necesario, podrá registrar una nueva cuenta con la misma dirección de correo electrónico en el futuro.</li></ol><p>Por favor tenga en cuenta que necesitaremos tiempo para procesar cualquiera de esas solicitudes. Podemos contactarlo con respecto a su solicitud a través del correo electrónico u otros medios.</p>"
+
+msgctxt "Languages::gdpr.send_my_data"
+msgid "Send me my data"
+msgstr "Enviarme mis datos personales"
+
+msgctxt "Languages::gdpr.send_my_data_description"
+msgid "<p>We’ll send you an XML file with all your personal data we have. Please note that we’ll need some time to process this request, so the email with your XML file won’t be sent immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>Te enviaremos un archivo XML con tus datos personales. Por favor tenga en cuenta que necesitaremos tiempo para procesar su solicitud, por lo que el correo electrónico con el archivo XML no será enviado inmediatamente. Si tiene algún otro comentario relacionado con su solicitud, por favor escríbalo en el siguiente espacio.</p>"
+
+msgctxt "Languages::gdpr.email_subject_personal_data_request"
+msgid "Personal Data Copy Request: [customer_email]"
+msgstr "Solicitud de copia de sus datos personales:[customer_email]"
+
+msgctxt "Languages::gdpr.email_body_personal_data_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested a copy of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to get the data in the XML format. After that, send the XML file to the customer.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a>con la dirección de correo electrónico [customer_email] ha solicitado una copia de sus datos personales con el siguiente mensaje:</p><p>[comment]</p><p>Haga clic en el enlace que se muestra al inicio de este mensaje y utilice el botón correspondiente en la página de perfil del usuario en el panel de Administración para obtener los datos en formato XML. Una vez finalice este proceso, envíe el archivo XML al cliente.</p>"
+
+msgctxt "Languages::gdpr.remove_my_data"
+msgid "Remove my data"
+msgstr "Eliminar mis datos"
+
+msgctxt "Languages::gdpr.remove_my_data_description"
+msgid "<p>We’ll deactivate your account and remove all your personal data from it. After that you won’t be able to sign in. However, you’ll be able to register a new account with the same email address in the future. Please note that we’ll need some time to process this request, so your account won’t be deactivated immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>Desactivaremos su cuenta y eliminaremos todos sus datos personales. Después de ejecutada esta acción no podrá iniciar sesión. Sin embargo, podrá registrar una cuenta nueva con la misma dirección de correo electrónico in el futuro. Por favor tenga en cuenta que necesitaremos tiempo para procesar esta solicitud, por lo que su cuenta no se desactivará inmediatamente. Si tiene algún comentario relacionado con su solicitud, por favor escríbalo en el siguiente espacio.</p>"
+
+msgctxt "Languages::gdpr.email_subject_anonymization_request"
+msgid "Personal Data Removal Request: [customer_email]"
+msgstr "Solicitud de eliminación de datos personales:[customer_email]"
+
+msgctxt "Languages::gdpr.email_body_anonymization_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested the removal of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to anonymize the customer.</p> <p>Please note that <b>this action will replace all the personal data of the customer</b> with randomly generated data. It’s best to make sure that all business with the customer (such as orders and return requests) is concluded before you do that.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a>con la dirección de correo electrónico[customer_email] ha solicitado la eliminación de sus datos personales con el siguiente mensaje:</p><p>[comment]</p><p>Haga clic en el enlace al inicio del mensaje y utilice el botón correspondiente en la página de perfil del cliente en el panel de Administración para solicitar el anonimato del cliente.</p><p>Por favor tenga en cuenta que <b>esta acción reemplazará todos los datos personales del cliente</b>con los datos generados de manera aleatoria. Lo mejor es asegurarse de que todas las transacciones con el cliente (como órdenes y solicitudes de devolución) hayan finalizado antes de solicitar la eliminación de sus datos.</p>"
+
+msgctxt "Languages::gdpr.user_action_request_success"
+msgid "Your request has been sent successfully."
+msgstr "Su solicitud ha sido enviada exitosamente."
+
+msgctxt "Languages::gdpr.user_action_request_fail"
+msgid "An error has occurred during the attempt to send your request. Please try again or send a message to the following email address: <a href=\"mailto:[email]\">[email]</a>"
+msgstr "Se ha producido un error al intentar enviar su solicitud. Por favor intente de nuevo o envie un mensaje a la siguiente dirección de correo electrónico: <a href=\"mailto:[email]\">[email]</a>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. If you only have one storefront, the data for the placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>. If you have multiple storefronts, the data will be taken from the settings of the storefront that a customer visits:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>Los textos de los acuerdos listados a continuación pueden tener <b>[email]</b> o <b>[company]</b>. Esos son marcadores que serán automáticamente reemplazados con los datos reales una vez que el cliente visualice el consentimiento. Si solo tiene una tienda, los datos de los marcadores serán tomados de <a href=\"[company_settings_url]\" target=\"_blank\">Ajustes → Compañía</a>. Si tiene múltiples tiendas, los datos serán tomados de los ajustes de la tienda que el cliente visite:</p><ul><li><b>[company]</b> serán tomados de <i>Nombre de la compañía</i>.[email]</b></li><li><b> serán tomados de <i>dirección de correo electrónico del departamento del usuario</i>.</li></ul>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint_mve"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. The data for placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>Los textos de los acuerdos listados a continuación pueden tener<b>[email]</b>o<b>[company]</b>. Esos son marcadores que serán reemplazados automáticamente con los datos reales una vez que los clientes visualicen los consentimientos. Los datos de los marcadores serán tomados de<a href=\"[company_settings_url]\" target=\"_blank\"> Ajustes→Compañía</a>:</p><ul><li><b>[company]</b>serán tomados de<i>Nombre de la compañía</i>.</li><li><b>[email]</b>serán tomados de<i>Dirección de correo electrónico del departamento de usuario</i>.</li></ul>"
+

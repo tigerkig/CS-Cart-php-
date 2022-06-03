@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /release-4.13.2/addons/product_reviews.po\n"
+"X-Crowdin-File-ID: 4622\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::product_reviews"
+msgid "Product reviews"
+msgstr ""
+
+msgctxt "Addons::description::product_reviews"
+msgid "Allows your customers to leave reviews for products. That can build up trust, provide social proof, and add user-generated content to your site."
+msgstr ""
+
+msgctxt "Languages::product_reviews.use_for_reviews"
+msgid "Comments and reviews forms"
+msgstr "Formularios de comentarios y opiniones"
+
+msgctxt "Languages::product_reviews.title_giftreg"
+msgid "Guestbook"
+msgstr "Libro de invitados"
+
+msgctxt "Languages::product_reviews.title"
+msgid "Reviews"
+msgstr "Opiniones"
+
+msgctxt "Languages::product_reviews.no_reviews_found"
+msgid "No reviews found"
+msgstr "No se encontraron opiniones"
+
+msgctxt "Languages::product_reviews.your_rating"
+msgid "Your rating"
+msgstr "Tu puntuación"
+
+msgctxt "Languages::product_reviews.comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "Comentarios y opiniones"
+
+msgctxt "Languages::product_reviews.rating"
+msgid "Rating"
+msgstr "Valorar"
+
+msgctxt "Languages::product_reviews.date"
+msgid "Date"
+msgstr "Fecha"
+
+msgctxt "Languages::product_reviews.error_already_posted"
+msgid "You have posted in this review already"
+msgstr ""
+
+msgctxt "Languages::product_reviews.text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "Gracias por tu comentario"
+
+msgctxt "Languages::product_reviews.text_review_pended"
+msgid "Your review will be checked before it gets published."
+msgstr "Tu comentario será revisado antes de ser publicado."
+
+msgctxt "Languages::product_reviews.reviews"
+msgid "Reviews: [n]"
+msgstr ""
+
+msgctxt "Languages::product_reviews.n_reviews"
+msgid "review|reviews"
+msgstr "Opinión | opiniones"
+
+msgctxt "Languages::product_reviews.text_new_post_notification"
+msgid "This is a notification of a new post to product"
+msgstr "Este es la notificación del nuevo comentario al producto"
+
+msgctxt "Languages::product_reviews.text_new_reply_notification"
+msgid "This is a notification of a new reply to your product review"
+msgstr "Esta es una notificación de una nueva respuesta a su opinión del producto"
+
+msgctxt "Languages::product_reviews.text_approval_notice"
+msgid "This review needs approving"
+msgstr "Este opinión tiene que ser aprobado."
+
+msgctxt "Languages::product_reviews.latest_reviews"
+msgid "Latest reviews"
+msgstr "Últimas opiniones"
+
+msgctxt "Languages::product_reviews.comment_by"
+msgid "Comment by"
+msgstr "Comentario hecho por"
+
+msgctxt "Languages::product_reviews.and"
+msgid "and"
+msgstr "Y"
+
+msgctxt "Languages::product_reviews.approve"
+msgid "Approve"
+msgstr "Aprobar"
+
+msgctxt "Languages::product_reviews.disapprove"
+msgid "Disapprove"
+msgstr "Rechazar"
+
+msgctxt "Languages::product_reviews.approved"
+msgid "Approved"
+msgstr "Aprobado"
+
+msgctxt "Languages::product_reviews.not_approved"
+msgid "Not approved"
+msgstr "No aprobado"
+
+msgctxt "Languages::product_reviews.manager"
+msgid "Comments and reviews"
+msgstr "Comentarios y opiniones"
+
+msgctxt "Languages::privileges.view_product_reviews"
+msgid "Can view"
+msgstr "Puede ver"
+
+msgctxt "Languages::privileges.manage_product_reviews"
+msgid "Can edit"
+msgstr "Puede editar"
+
+msgctxt "Languages::privilege_groups.product_reviews"
+msgid "Product reviews"
+msgstr "Opiniones de productos"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Ordenar por puntuación: de menor a mayor"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "Ordena por puntuación"
+
+msgctxt "Languages::product_reviews.product_reviews"
+msgid "Product reviews"
+msgstr "Opiniones de productos"
+
+msgctxt "Languages::product_reviews.menu_title"
+msgid "Reviews"
+msgstr "Opiniones"
+
+msgctxt "Languages::product_reviews.menu_title_menu_description"
+msgid "Customer reviews on products"
+msgstr "Opiniones de los clientes sobre los productos"
+
+msgctxt "Languages::product_reviews.write_review"
+msgid "Write a review"
+msgstr "Escribe una opinión"
+
+msgctxt "SettingsOptions::product_reviews::reviews_per_page"
+msgid "Reviews per page"
+msgstr "Opiniones por página"
+
+msgctxt "SettingsOptions::product_reviews::review_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Administrador debe aprobar comentarios presentados por"
+
+msgctxt "SettingsOptions::product_reviews::review_ip_check"
+msgid "Allow one review per IP address"
+msgstr ""
+
+msgctxt "SettingsOptions::product_reviews::split_reviews_by_storefronts"
+msgid "Split reviews by storefront"
+msgstr "Dividir las opiniones por tienda"
+
+msgctxt "SettingsTooltips::product_reviews::product_reviews_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "Determina si se permiten comentarios y/o opiniones para productos recien creados. No afecta los productos existentes."
+
+msgctxt "SettingsOptions::product_reviews::review_after_purchase"
+msgid "Only buyers can post"
+msgstr "Sólo los compradores pueden enviar un comentario"
+
+msgctxt "SettingsTooltips::product_reviews::review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "Permite dejar opiniones de un producto sólo a aquellos que compraron ese producto."
+
+msgctxt "SettingsOptions::product_reviews::review_fields"
+msgid "Review fields"
+msgstr "Campos de opiniones"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::advanced"
+msgid "Comment with advantages and disadvantages"
+msgstr "Comentario con ventajas y desventajas"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::simple"
+msgid "Only comment"
+msgstr "Sólo comentarios"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::any"
+msgid "Any customer"
+msgstr "Cualquier cliente"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Sólo los clientes anónimos"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::disabled"
+msgid "No approval needed"
+msgstr "No se requiere aprobación"
+
+msgctxt "SettingsOptions::product_reviews::review_ask_for_customer_location"
+msgid "Ask for customer location"
+msgstr "Preguntar por la ubicación del cliente"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::none"
+msgid "None"
+msgstr "Ninguno"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::country"
+msgid "Country"
+msgstr "País"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::city"
+msgid "City"
+msgstr "Ciudad"
+
+msgctxt "Languages::email_template.product_reviews_notification"
+msgid "Product reviews: New review notification"
+msgstr "Opiniones de productos: Nueva notificación de opinión"
+
+msgctxt "Languages::email_template.product_reviews_reply_notification"
+msgid "Product reviews: Reply notification"
+msgstr "Reseñas de productos: Responder notificación"
+
+msgctxt "Languages::product_reviews.show_rating"
+msgid "Show review rating"
+msgstr "Mostrar puntuación de opinión"
+
+msgctxt "Languages::product_reviews.show_reviews"
+msgid "Show reviews"
+msgstr "Mostrar opiniones"
+
+msgctxt "Languages::product_reviews.show_review"
+msgid "Show review"
+msgstr "Mostrar opinión"
+
+msgctxt "Languages::product_reviews.show_n_reviews"
+msgid "Show [n] review|Show [n] reviews"
+msgstr "Mostrar [n] opinión|Mostrar [n] opiniones"
+
+msgctxt "Languages::product_reviews.scroll_to_reviews"
+msgid "Scroll to reviews"
+msgstr "Desplácese a las opiniones"
+
+msgctxt "Languages::product_reviews.show_review_images"
+msgid "Show review images"
+msgstr "Mostrar imágenes de opiniones"
+
+msgctxt "Languages::product_reviews.scroll_to_review_images"
+msgid "Scroll to review images"
+msgstr "Desplácese a las imágenes de las opiniones"
+
+msgctxt "Languages::product_reviews.gdpr_reviews_data"
+msgid "Personal data from reviews"
+msgstr "Datos personales de las opiniones"
+
+msgctxt "Languages::product_reviews.add_new_review"
+msgid "reviews: new review"
+msgstr "opiniones: nueva opinión"
+
+msgctxt "Languages::product_reviews.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Tu nombre aparecerá junto a tu opinión o comentario, visible para todos. Nosotros ([empresa]) también guardamos su dirección IP como medida de seguridad, pero en sólo puede ser vista por nuestro personal. Permanecerá en nuestro sistema hasta que retire su consentimiento. Si desea que se eliminen sus datos personales, envíe un correo electrónico a [email].</p> <p>Si cree que sus datos personales se han utilizado de forma indebida, tiene derecho a presentar una reclamación ante una autoridad de control. Estamos obligados por el Reglamento General de Protección de Datos de la UE a informarle de este derecho; en realidad no tenemos intención de hacer un uso indebido de sus datos.</p> <p>"
+
+msgctxt "Languages::product_reviews.terms_n_conditions"
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Seleccione esta casilla para aceptar los [terms_href]"
+
+msgctxt "Languages::product_reviews.terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Términos y Condiciones"
+
+msgctxt "Languages::product_reviews.terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Por favor, lea atentamente estos Términos y Condiciones (\"Términos\", \"Términos y Condiciones\") antes de utilizar el sitio web <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> y la aplicación móvil My Mobile App (el \"Servicio\") operados por My Company (\"nosotros\", \"nos\" o \"nuestro\").</p><p><strong>Al acceder o utilizar el Servicio usted acepta quedar vinculado por estos Términos. Si no está de acuerdo con alguna parte de las Condiciones, no podrá acceder al Servicio.</strong></p><p><strong>Compras</strong></p><p>Si desea adquirir algún producto o servicio disponible a través del Servicio (\"Compra\"), es posible que se le pida que proporcione cierta información relevante para su Compra, incluyendo, sin limitación, su . ...</p><p><strong>Contenido</strong></p><p>Nuestro Servicio le permite publicar, enlazar, almacenar, compartir y poner a disposición cierta información, texto, gráficos, vídeos u otro material (\"Contenido\"). Usted es responsable de la ...</p><p><strong>Cambios</strong></p><p>Nos reservamos el derecho, a nuestra entera discreción, de modificar o sustituir estas Condiciones en cualquier momento. Si una revisión es material, intentaremos avisar con al menos 30 días de antelación antes de que los nuevos términos entren en vigor. Lo que constituya un cambio sustancial se determinará a nuestra entera discreción.</p><p><strong>Contáctenos</strong></p><p>Si tiene alguna pregunta sobre estas Condiciones, póngase en contacto con nosotros.</p> <p"
+
+msgctxt "Languages::product_reviews.moderation_rules"
+msgid "Before submitting a review, make sure that it does not violate the moderation rules: it does not contain links to third-party resources and insults."
+msgstr "Antes de enviar una opinión, asegúrate de que no infringe las normas de moderación: no contiene enlaces a recursos de terceros ni insultos."
+
+msgctxt "Languages::product_reviews.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Estoy de acuerdo que mis datos personales sean<u> utilizados de la siguiente manera.</u>"
+
+msgctxt "Languages::product_reviews.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "Por favor inicie sesión para escribir una opinión"
+
+msgctxt "Languages::product_reviews.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "No puedes escribir una opinión para este producto. Los clientes sólo pueden escribir opiniones sobre los productos que han comprado. Si realmente has comprado este producto, pero sigues viendo este mensaje, ponte en contacto con nosotros."
+
+msgctxt "Languages::product_reviews.event.new_post"
+msgid "New review posted"
+msgstr "Nueva opinión publicada"
+
+msgctxt "Languages::product_reviews.event.new_reply"
+msgid "New reply was added to review"
+msgstr "Se ha añadido una nueva respuesta a la opinión"
+
+msgctxt "Languages::product_reviews.helpfulness"
+msgid "Helpfulness"
+msgstr "Ayuda"
+
+msgctxt "Languages::product_reviews.vote_up"
+msgid "Vote up"
+msgstr "Vota hacia arriba"
+
+msgctxt "Languages::product_reviews.vote_down"
+msgid "Vote down"
+msgstr "Vota hacia abajo"
+
+msgctxt "Languages::sort_by_product_review_timestamp_desc"
+msgid "Sort by date: Newest to Oldest"
+msgstr "Ordenar por fecha: de más nueva a más antigua"
+
+msgctxt "Languages::sort_by_product_review_timestamp_asc"
+msgid "Sort by date: Oldest to Newest"
+msgstr "Ordenar por fecha: de más antigua a más nueva"
+
+msgctxt "Languages::sort_by_helpfulness_asc"
+msgid "Helpful last"
+msgstr "Última ayuda"
+
+msgctxt "Languages::sort_by_helpfulness_desc"
+msgid "Helpful first"
+msgstr "Primera ayuda"
+
+msgctxt "Languages::sort_by_rating_value_desc"
+msgid "Sort by rating: High to Low"
+msgstr "Ordenar por puntuación: de mayor a menor"
+
+msgctxt "Languages::sort_by_rating_value_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Ordenar por puntuación: de menor a mayor"
+
+msgctxt "Languages::product_reviews.advantages"
+msgid "Advantages"
+msgstr "Ventajas"
+
+msgctxt "Languages::product_reviews.disadvantages"
+msgid "Disadvantages"
+msgstr "Desventajas"
+
+msgctxt "Languages::product_reviews.comments"
+msgid "Comments"
+msgstr "Comentarios"
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Comentario"
+
+msgctxt "Languages::product_reviews.disabled"
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgctxt "Languages::product_reviews.vendor"
+msgid "Vendor"
+msgstr "Vendedor"
+
+msgctxt "Languages::product_reviews.vendor_reply"
+msgid "Vendor reply"
+msgstr "Respuesta del vendedor"
+
+msgctxt "Languages::product_reviews.type_message"
+msgid "Type a message..."
+msgstr "Escriba un mensaje..."
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Compra verificada"
+
+msgctxt "Languages::product_reviews.reviews_lower"
+msgid "reviews"
+msgstr "opiniones"
+
+msgctxt "Languages::product_reviews.review"
+msgid "Review"
+msgstr "Opiniones"
+
+msgctxt "Languages::product_reviews.write_your_review"
+msgid "Write your review"
+msgstr "Escribe tu opinión"
+
+msgctxt "Languages::product_reviews.add_images"
+msgid "Add a photo"
+msgstr "Añade una foto"
+
+msgctxt "Languages::product_reviews.write_review_anonymously"
+msgid "Write your review anonymously"
+msgstr "Escriba tu opinión de forma anónima"
+
+msgctxt "Languages::product_reviews.submit_review"
+msgid "Submit review"
+msgstr "Enviar opinión"
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Compra verificada"
+
+msgctxt "Languages::product_reviews.with_photo"
+msgid "With photo"
+msgstr "Con foto"
+
+msgctxt "Languages::product_reviews.without_photo"
+msgid "Without photo"
+msgstr "Sin foto"
+
+msgctxt "Languages::product_reviews.customer_photos"
+msgid "Customer photos"
+msgstr "Fotos del cliente"
+
+msgctxt "Languages::product_reviews.review_status"
+msgid "Review status"
+msgstr "Estado de la opinión"
+
+msgctxt "Languages::product_reviews.star"
+msgid "star"
+msgstr "estrella"
+
+msgctxt "Languages::product_reviews.stars"
+msgid "stars"
+msgstr "estrellas"
+
+msgctxt "Languages::product_reviews.n_stars"
+msgid "[n] star|[n] stars"
+msgstr ""
+
+msgctxt "Languages::product_reviews.out_of_five"
+msgid "out of 5"
+msgstr "de 5"
+
+msgctxt "Languages::product_reviews.review_this_product"
+msgid "Review this product"
+msgstr "Opinar sobre este producto"
+
+msgctxt "Languages::product_reviews.review_this_product_description"
+msgid "Share your thoughts with other customers"
+msgstr "Comparte tu opinión con otros clientes"
+
+msgctxt "Languages::product_reviews.reply"
+msgid "Reply"
+msgstr "Responder"
+
+msgctxt "Languages::product_reviews.first_and_last_name"
+msgid "First and last name"
+msgstr "Nombre y apellidos"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_review"
+msgid "Thank you for your review"
+msgstr "Gracias por tu opinión"
+
+msgctxt "Languages::product_reviews.excellent"
+msgid "Excellent!"
+msgstr "¡Excelente!"
+
+msgctxt "Languages::product_reviews.very_good"
+msgid "Very Good"
+msgstr "Muy bueno"
+
+msgctxt "Languages::product_reviews.average"
+msgid "Average"
+msgstr "Media"
+
+msgctxt "Languages::product_reviews.fair"
+msgid "Fair"
+msgstr "Razonable"
+
+msgctxt "Languages::product_reviews.poor"
+msgid "Poor"
+msgstr "Malo"
+
+msgctxt "Languages::product_reviews.five_star_icon"
+msgid "★★★★★"
+msgstr "★★★★★"
+
+msgctxt "Languages::product_reviews.four_star_icon"
+msgid "★★★★"
+msgstr "★★★★"
+
+msgctxt "Languages::product_reviews.three_star_icon"
+msgid "★★★"
+msgstr "★★★"
+
+msgctxt "Languages::product_reviews.two_star_icon"
+msgid "★★"
+msgstr "★★"
+
+msgctxt "Languages::product_reviews.one_star_icon"
+msgid "★"
+msgstr "★"
+
+msgctxt "Languages::product_reviews.product_details"
+msgid "Product details"
+msgstr "Detalles del producto"
+
+msgctxt "Languages::product_reviews.rating_4_and_up"
+msgid "Rating 4+"
+msgstr "Puntuación 4+"
+
+msgctxt "Languages::product_reviews.event.new_post.title"
+msgid "New review posted for a product"
+msgstr "Nueva opinión publicada para un producto"
+
+msgctxt "Languages::product_reviews.event.new_post.message"
+msgid "A new review has been posted for product [product]. Click this notification to see the review."
+msgstr "Se ha publicado una nueva opinión sobre el producto [producto]. Haz clic en esta notificación para ver la opinión."
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Comentario"
+
+msgctxt "Languages::product_reviews.copy_old_reviews_warning"
+msgid "You have product reviews in the old \"Comments and reviews\" add-on. While that add-on is installed, you'll be able copy those reviews to the new \"Product reviews\" add-on <a class=\"cm-post\" href=\"[url]\">in its settings</a>."
+msgstr "Tienes las opiniones de los productos en el antiguo complemento \"Comentarios y opiniones\". Mientras ese complemento esté instalado, podrás copiar esas reseñas en el nuevo complemento \"Opiniones de productos\" <a class=\"cm-post\" href=\"[url]\">en su configuración</a>."
+
+msgctxt "Languages::product_reviews.copy_old_reviews_notice"
+msgid "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Copy reviews from the \"Comments and reviews\" add-on<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Only reviews that have both a score and a user's comment will be copied. Go to your products and check the \\“Reviews\" setting on the \"Add-ons\" tab. You might have to allow communication and rating first.</li><li>A review without a score or without a comment will not be copied. To transfer it, you must first manually add the missing score or comment by editing the review.</li><li>While the old \"Comments and reviews\" add-on is installed, the reviews won't be removed from there. That way, you can choose to move to \"Product reviews\" whenever all your reviews are ready.</li><li>If you ever need to copy the reviews from the old add-on again in the future, just uninstall and reinstall the \"Product reviews\" add-on. This will remove all its reviews from the database, and you'll be able to import the reviews from the \"Comments and reviews\" add-on again.</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Copy product reviews</a></div>"
+msgstr "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Copiar las opiniones del complemento \"Comentarios y opiniones\"<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Sólo se copiarán las opiniones que tengan tanto una puntuación como un comentario del usuario. Ve a tus productos y comprueba la configuración de \"Opiniones\" en la pestaña \"Complementos\". Es posible que primero tengas que permitir la comunicación y la valoración.</li><li>Una opinión sin puntuación o sin comentario no se copiará. Para transferirla, primero debe añadir manualmente la puntuación o el comentario que falta editando la opinión.</li><li>Mientras el antiguo complemento \"Comentarios y opiniones\" esté instalado, las opiniones no se eliminarán de allí. De este modo, puede optar por pasar a \"Comentarios de productos\" cuando todas sus opiniones estén listas.</li><li>Si alguna vez necesita volver a copiar las opiniones del antiguo complemento en el futuro, simplemente desinstale y vuelva a instalar el complemento \"Comentarios de productos\". Esto eliminará todas sus valoraciones de la base de datos, y podrá importar las valoraciones del complemento \"Comentarios y valoraciones\" de nuevo.</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Copiar valoraciones de productos</a></div>"
+
+msgctxt "Languages::product_reviews.update_reply"
+msgid "Update reply"
+msgstr "Actualizar respuesta"
+
+msgctxt "Languages::product_reviews.add_reply"
+msgid "Add reply"
+msgstr "Añadir respuesta"
+
+msgctxt "Languages::product_reviews.max_number_image_message"
+msgid "A review can have up to [max_image_number] images."
+msgstr ""
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_description"
+msgid "Drop images here"
+msgstr ""
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_info"
+msgid "Photo up to [max_size]"
+msgstr ""
+
+msgctxt "Languages::product_reviews.admin_reply"
+msgid "Administrator reply"
+msgstr ""
+
+msgctxt "Languages::product_reviews.company_reply"
+msgid "[company_name] reply"
+msgstr ""
+
+msgctxt "Languages::product_reviews.hide_name"
+msgid "Hide my name in the review"
+msgstr ""
+
+msgctxt "Languages::product_reviews.product_is_rated_n_out_of_five_stars"
+msgid "The product is rated [n] out of 5 stars"
+msgstr ""
+
+msgctxt "Languages::product_reviews.click_to_see_reviews"
+msgid "Click to see the reviews"
+msgstr ""
+

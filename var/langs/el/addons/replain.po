@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.13.2/addons/replain.po\n"
+"X-Crowdin-File-ID: 4630\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::replain"
+msgid "Re:plain Telegram chat"
+msgstr "Re:plain Telegram chat"
+
+msgctxt "Addons::description::replain"
+msgid "Allows you to add Telegram chat to your storefront"
+msgstr "Σας δίνει τη δυνατότητα να προσθέσετε Telegram chat στο κατάστημα σας"
+
+msgctxt "Languages::replain"
+msgid "Re:plain chat"
+msgstr "Re:plain chat"
+
+msgctxt "Languages::replain.insert_script"
+msgid "Here is how to set up Telegram chat:<br>1. Make sure Telegram is installed on your device.<br>2. Use <a href=\"[bot_url]\">Re:plain bot</a> to create a chat.<br> 3. Paste the code acquired from the bot into the field below and click <b>Save</b> to connect the chat to your store"
+msgstr "Ακολουθεί ο τρόπος ρύθμισης του Telegram chat: <br> 1. Βεβαιωθείτε ότι έχει εγκατασταθεί το Τelegram chat στη συσκευή σας. <br> 2. Χρησιμοποιήστε το <a href=\"[bot_url]\">Re:plain chat</a> για να δημιουργήσετε μια συνομιλία. 3. Επικολλήστε τον κώδικα που αποκτήσατε από το bot στο παρακάτω πεδίο και κάντε κλικ στο <b> Αποθήκευση </ b> για να συνδέσετε τη συζήτηση στο κατάστημά σας"
+
+msgctxt "SettingsOptions::replain::replain_script"
+msgid "Re:Plain script"
+msgstr "Re:Plain script"
+

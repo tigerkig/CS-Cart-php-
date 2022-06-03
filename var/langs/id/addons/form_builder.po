@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/form_builder.po\n"
+"X-Crowdin-File-ID: 4560\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::form_builder"
+msgid "Form builder"
+msgstr "Pembentuk formulir"
+
+msgctxt "Addons::description::form_builder"
+msgid "Lets you create custom forms (e.g. Contact us)"
+msgstr "Memungkinkan Anda membuat formulir kustom (misalnya Hubungi kami)"
+
+msgctxt "Languages::use_for_form_builder"
+msgid "Custom forms"
+msgstr "Bentuk kustom"
+
+msgctxt "Languages::new_form"
+msgid "New form"
+msgstr "Bentuk baru"
+
+msgctxt "Languages::editing_form"
+msgid "Editing form"
+msgstr "Bentuk editing"
+
+msgctxt "Languages::form_builder"
+msgid "Form builder"
+msgstr "Bentuk pembangun"
+
+msgctxt "Languages::form_submit_text"
+msgid "Form submit text"
+msgstr "Bentuk mengirimkan teks"
+
+msgctxt "Languages::email_to"
+msgid "E-mail to"
+msgstr "E-mail ke"
+
+msgctxt "Languages::add_form"
+msgid "Add form"
+msgstr "Tambahkan formulir"
+
+msgctxt "Languages::base"
+msgid "Base"
+msgstr "Base"
+
+msgctxt "Languages::multiple_checkboxes"
+msgid "Multiple checkboxes"
+msgstr "Beberapa kotak centang"
+
+msgctxt "Languages::multiple_selectbox"
+msgid "Multiple selectbox"
+msgstr "Beberapa kotak pilih"
+
+msgctxt "Languages::header"
+msgid "Header"
+msgstr "Header"
+
+msgctxt "Languages::separator"
+msgid "Separator"
+msgstr "Pemisah"
+
+msgctxt "Languages::special"
+msgid "Special"
+msgstr "Khusus"
+
+msgctxt "Languages::countries_list"
+msgid "Countries list"
+msgstr "Daftar negara"
+
+msgctxt "Languages::states_list"
+msgid "States list"
+msgstr "Daftar negara"
+
+msgctxt "Languages::referer"
+msgid "Referer"
+msgstr "Rujukan"
+
+msgctxt "Languages::email_template.form_builder_form"
+msgid "Contact form"
+msgstr "Formulir kontak"
+
+msgctxt "Languages::addons.form_builder.form_fields"
+msgid "Form fields"
+msgstr "Bidang formulir"
+
+msgctxt "Languages::addons.form_builder.form_name"
+msgid "Form name"
+msgstr "Nama formulir"
+
+msgctxt "Languages::addons.form_builder.other_subject"
+msgid "Other subject (specify below)"
+msgstr "Subjek lainnya (sebutkan di bawah)"
+
+msgctxt "Languages::addons.form_builder.email_subject_field"
+msgid "E-mail subject field"
+msgstr "Bidang subjek e-mail"
+
+msgctxt "Languages::ttc_addons.form_builder.email_subject_field"
+msgid "Fields of type \"Select box\" or \"Input field\" can be used"
+msgstr "Bidang tipe \"Select box\" atau \"Input field\" bisa digunakan"
+

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.13.2/addons/organizations.po\n"
+"X-Crowdin-File-ID: 4600\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::organizations"
+msgid "Organizations and representatives [Beta]"
+msgstr "Organizações e representantes [Beta]"
+
+msgctxt "Addons::description::organizations"
+msgid "Allows your customers to create organizations (legal entities). An organization can have multiple customer accounts associated with it. They act as representatives of the organization."
+msgstr "Permite que os seus clientes criem organizações (entidades legais). Uma organização pode ter múltiplas contas de cliente associadas a ela. Elas agem como representantes da organização."
+
+msgctxt "SettingsSections::organizations::general"
+msgid "General"
+msgstr "Geral"
+
+msgctxt "SettingsOptions::organizations::b2b_storefront_ids"
+msgid "B2B Storefronts"
+msgstr "Lojas B2B"
+
+msgctxt "Languages::profile_types_section_organization"
+msgid "Organization information"
+msgstr "Informações da organização"
+
+msgctxt "Languages::organizations"
+msgid "Organizations"
+msgstr "Organizações"
+
+msgctxt "Languages::organizations.organization"
+msgid "Organization"
+msgstr "Organização"
+
+msgctxt "Languages::organizations.user_role_owner"
+msgid "Owner"
+msgstr "Proprietário"
+
+msgctxt "Languages::organizations.user_role_representative"
+msgid "Representative"
+msgstr "Representante"
+
+msgctxt "Languages::organizations_menu_description"
+msgid "List of the store's organizations."
+msgstr "Lista de organizações da loja."
+
+msgctxt "Languages::organizations.new_organization"
+msgid "New organization"
+msgstr "Nova organização"
+
+msgctxt "Languages::organizations.edit_organization"
+msgid "Edit organization: [name]"
+msgstr "Editar organização: [name]"
+
+msgctxt "Languages::organizations.promotion_cond_once_per_organization"
+msgid "Once for organization"
+msgstr "Uma vez para organização"
+
+msgctxt "Languages::organizations.promotion_cond_organizations"
+msgid "Organizations"
+msgstr "Organizações"
+
+msgctxt "Languages::promotion_cond_organizations"
+msgid "Organizations"
+msgstr "Organizações"
+
+msgctxt "Languages::organizations.organization_details"
+msgid "Organization details"
+msgstr "Detalhes da organização"
+
+msgctxt "Languages::organizations.manage_users"
+msgid "Manage users"
+msgstr "Gerenciar usuários"
+
+msgctxt "Languages::organizations.last_sign_in"
+msgid "Last sign in"
+msgstr "Última conexão"
+

@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/polls.po\n"
+"X-Crowdin-File-ID: 4618\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::polls"
+msgid "Polls"
+msgstr "Pendapat"
+
+msgctxt "Addons::description::polls"
+msgid "Adds a possibility to add customized polls to the site"
+msgstr "Adds a possibility to add customized polls to the site"
+
+msgctxt "Languages::use_for_polls"
+msgid "Polls"
+msgstr "Pendapat"
+
+msgctxt "Languages::tmpl_polls_central"
+msgid "Central"
+msgstr "Central"
+
+msgctxt "Languages::tmpl_polls_side"
+msgid "Side box"
+msgstr "Kotak samping"
+
+msgctxt "Languages::polls_answers_with_comments"
+msgid "Answers with comments"
+msgstr "Answers with comments"
+
+msgctxt "Languages::polls_have_completed"
+msgid "You have already completed this poll."
+msgstr "Anda telah menyelesaikan jajak pendapat ini."
+
+msgctxt "Languages::polls_total_votes"
+msgid "Total votes"
+msgstr "Total votes"
+
+msgctxt "Languages::polls"
+msgid "Polls"
+msgstr "Pendapat"
+
+msgctxt "Languages::new_poll"
+msgid "New poll"
+msgstr "Postingan baru"
+
+msgctxt "Languages::editing_poll"
+msgid "Editing poll"
+msgstr "Mengedit jajak pendapat"
+
+msgctxt "Languages::use_for_polls"
+msgid "Polls"
+msgstr "Pendapat"
+
+msgctxt "Languages::text_you_have_already_filled_this_poll"
+msgid "You have already completed this poll"
+msgstr "Anda telah menyelesaikan jajak pendapat ini"
+
+msgctxt "Languages::block_polls"
+msgid "Polls"
+msgstr "Pendapat"
+
+msgctxt "Languages::poll"
+msgid "Poll"
+msgstr "Pendapat"
+
+msgctxt "Languages::questions"
+msgid "Questions"
+msgstr "Pertanyaan"
+
+msgctxt "Languages::poll_statistics"
+msgid "Poll statistics"
+msgstr "Statistik jajak pendapat"
+
+msgctxt "Languages::add_polls_and_close"
+msgid "Add polls and close"
+msgstr "Tambahkan jajak pendapat dan menutup"
+
+msgctxt "Languages::add_polls"
+msgid "Add polls"
+msgstr "Tambahkan jajak pendapat"
+
+msgctxt "Languages::required_not_answered"
+msgid "You should answer all the mandatory questions"
+msgstr "Anda harus menjawab semua pertanyaan wajib"
+
+msgctxt "Languages::thanks_for_voting"
+msgid "Thank you for taking time to complete this poll."
+msgstr "Terima kasih telah meluangkan waktu untuk menyelesaikan jajak pendapat ini."
+
+msgctxt "Languages::poll_show_results"
+msgid "Poll results visible to"
+msgstr "Hasil polling terlihat"
+
+msgctxt "Languages::poll_results_nobody"
+msgid "nobody"
+msgstr "tak seorangpun"
+
+msgctxt "Languages::poll_results_voted"
+msgid "voted users"
+msgstr "memilih pengguna"
+
+msgctxt "Languages::poll_results_everybody"
+msgid "everybody (in a pop-up)"
+msgstr "semua orang (dalam pop-up)"
+
+msgctxt "Languages::poll_header"
+msgid "Poll header"
+msgstr "Header polling"
+
+msgctxt "Languages::poll_footer"
+msgid "Poll footer"
+msgstr "Footer jajak pendapat"
+
+msgctxt "Languages::poll_results"
+msgid "Poll message"
+msgstr "Pesan jajak pendapat"
+
+msgctxt "Languages::new_question"
+msgid "New question"
+msgstr "Pertanyaan baru"
+
+msgctxt "Languages::add_question"
+msgid "Add question"
+msgstr "Tambahkan pertanyaan"
+
+msgctxt "Languages::editing_question"
+msgid "Editing question"
+msgstr "Mengedit pertanyaan"
+
+msgctxt "Languages::add_poll"
+msgid "Add poll"
+msgstr "Tambahkan jajak pendapat"
+
+msgctxt "Languages::polls_total_submited"
+msgid "Total number of submitted poll forms"
+msgstr "Jumlah total formulir polling yang dikirim"
+
+msgctxt "Languages::polls_total_completed"
+msgid "Number of poll forms completed in full"
+msgstr "Jumlah formulir jajak pendapat selesai secara penuh"
+
+msgctxt "Languages::polls_first_submited"
+msgid "First poll form submitted"
+msgstr "Formulir polling pertama diserahkan"
+
+msgctxt "Languages::polls_last_submited"
+msgid "Last poll form submitted"
+msgstr "Formulir jajak pendapat terakhir diserahkan"
+
+msgctxt "Languages::statistics_by_questions"
+msgid "Statistics by questions"
+msgstr "Statistik dengan pertanyaan"
+
+msgctxt "Languages::view_answers"
+msgid "View answers"
+msgstr "Lihat jawaban"
+
+msgctxt "Languages::polls_votes"
+msgid "Votes"
+msgstr "Suara"
+
+msgctxt "Languages::answers"
+msgid "Answers"
+msgstr "Jawaban"
+
+msgctxt "Languages::question_text"
+msgid "Question text"
+msgstr "Teks pertanyaan"
+
+msgctxt "Languages::select_single_type"
+msgid "Select single option"
+msgstr "Pilih satu pilihan"
+
+msgctxt "Languages::select_one_or_more_type"
+msgid "Select one or more options"
+msgstr "Pilih satu atau beberapa opsi"
+
+msgctxt "Languages::text_answer_type"
+msgid "Provide a textual answer"
+msgstr "Berikan jawaban tekstual"
+
+msgctxt "Languages::answer_text"
+msgid "Answer text"
+msgstr "Teks jawaban"
+
+msgctxt "Languages::text_box"
+msgid "Text box"
+msgstr "Kolom tulisan"
+
+msgctxt "Languages::tt_addons_polls_hooks_pages_tabs_content_post_poll_results"
+msgid "Message that is displayed in the storefront after the poll is completed."
+msgstr "Pesan yang ditampilkan di etalase setelah polling selesai."
+
+msgctxt "SettingsSections::polls::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::polls::polls_votes_on_page"
+msgid "Votes on page"
+msgstr "Suara di halaman"
+
+msgctxt "SettingsOptions::polls::polls_comments_on_page"
+msgid "Answers on page"
+msgstr "Jawaban di halaman"
+
+msgctxt "Languages::n_polls"
+msgid "[n] poll|[n] polls"
+msgstr ""
+

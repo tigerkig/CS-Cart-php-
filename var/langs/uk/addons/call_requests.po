@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.13.2/addons/call_requests.po\n"
+"X-Crowdin-File-ID: 4536\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::call_requests"
+msgid "Call requests"
+msgstr "Зворотній дзвінок"
+
+msgctxt "Addons::description::call_requests"
+msgid "Adds the \"Buy now with one click\" and \"Request call\" buttons"
+msgstr ""
+
+msgctxt "SettingsSections::call_requests::general"
+msgid "General"
+msgstr "Загальні"
+
+msgctxt "SettingsOptions::call_requests::general"
+msgid "General"
+msgstr "Загальні"
+
+msgctxt "SettingsOptions::call_requests::phone"
+msgid "Rewrite phone"
+msgstr "Переписати телефон"
+
+msgctxt "SettingsOptions::call_requests::phone_prefix_length"
+msgid "Highlight first chars [Deprecated]"
+msgstr "Виділити перших символів [Deprecated]"
+
+msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
+msgid "Enable the \"Buy now with one click\" option"
+msgstr "Увімкніть параметр \"Купити в один клік\""
+
+msgctxt "SettingsOptions::call_requests::order_status"
+msgid "Order status"
+msgstr "Статус замовлення"
+
+msgctxt "SettingsOptions::call_requests::phone_mask"
+msgid "Phone mask [Deprecated]"
+msgstr "Маска телефону [Deprecated]"
+
+msgctxt "SettingsTooltips::call_requests::phone_mask"
+msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr "Залиште порожнім для автоматичного вибору шаблону по країні. У власному шаблоні можна використовувати пробіли, коми, +, - і цифри. Приклади: 9 означає будь-яку цифру. Використовуйте \\\\9 для дев'ятки. Приклади: +99 (999) 999 99 99, 99999999, 999 999 99 or + 99-99-9999-9999."
+
+msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
+msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
+msgstr "Включаючи дужки, пробіли та інші символи. Використовуйте для підсвічування коду країни та міста чи коду оператора в мобільному номері."
+
+msgctxt "SettingsOptions::call_requests::enable_call_requests_for_vendors"
+msgid "Enable call requests for vendors"
+msgstr "Дозволити зворотні дзвінки для продавців"
+
+msgctxt "SettingsTooltips::call_requests::enable_call_requests_for_vendors"
+msgid "This will also replace marketplace contact information with vendors' where necessary."
+msgstr "Це також замінить, де це необхідно в маркетплейсі, контактну інформацію продавця."
+
+msgctxt "Languages::privileges.manage_call_requests"
+msgid "Can edit"
+msgstr "Можна редагувати"
+
+msgctxt "Languages::privileges.view_call_requests"
+msgid "Can view"
+msgstr "Можна переглянути"
+
+msgctxt "Languages::privilege_groups.call_requests"
+msgid "Call requests"
+msgstr "Зворотні дзвінки"
+
+msgctxt "Languages::call_requests"
+msgid "Call requests"
+msgstr "Зворотній двінок"
+
+msgctxt "Languages::call_requests_menu_description"
+msgid "Manage customer call requests"
+msgstr "Перегляд і обробка замовлень клієнтів на зворотній дзвінок"
+
+msgctxt "Languages::call_requests.request_call"
+msgid "Request call"
+msgstr "Замовити зворотній двінок"
+
+msgctxt "Languages::call_requests.buy_now_with_one_click"
+msgid "Buy now with 1-click"
+msgstr "Купити в 1-клік"
+
+msgctxt "Languages::call_requests.error_validate_call_form"
+msgid "Please enter your email or phone number"
+msgstr "Будь ласка, введіть ваш номер телефону чи email для зв'язку з вами"
+
+msgctxt "Languages::call_requests.request_recieved"
+msgid "We have received your request! Our manager will contact you soon."
+msgstr "Ми отримали ваш запит! Наш менеджер зв'яжеться з вами найближчим часом."
+
+msgctxt "Languages::call_requests.order_placed"
+msgid "We have received your request! The order #[order_id] has been successfully created. Our manager will contact you soon."
+msgstr "Ми отримали ваш запит! Створено замовлення #[order_id]. Наш менеджер зв'яжеться з вами найближчим часом."
+
+msgctxt "Languages::call_requests.phone_from_settings"
+msgid "Phone from settings"
+msgstr "Телефон з налаштувань"
+
+msgctxt "Languages::call_requests.enter_phone_or_email_text"
+msgid "Please enter your phone number or email (for our manager to contact you)"
+msgstr "Будь ласка, введіть ваш номер телефону або email (для зв'язку з вами)"
+
+msgctxt "Languages::call_requests.status.new"
+msgid "New"
+msgstr "Новий"
+
+msgctxt "Languages::call_requests.status.in_progress"
+msgid "In progress"
+msgstr "В процесі"
+
+msgctxt "Languages::call_requests.status.completed"
+msgid "Completed"
+msgstr "Завершено"
+
+msgctxt "Languages::call_requests.status.no_answer"
+msgid "No answer"
+msgstr "Немає відповіді"
+
+msgctxt "Languages::call_requests.responsible"
+msgid "Responsible"
+msgstr "Відповідальний"
+
+msgctxt "Languages::call_requests.notes"
+msgid "Notes"
+msgstr "Коментарі"
+
+msgctxt "Languages::call_requests.requested_product"
+msgid "Requested product"
+msgstr "Запит по товару"
+
+msgctxt "Languages::call_requests.convenient_time"
+msgid "Convenient time"
+msgstr "Зручний час"
+
+msgctxt "Languages::call_requests.awaiting_call"
+msgid "Awaiting call"
+msgstr "Очікує на дзвінок"
+
+msgctxt "Languages::call_requests.order_exists"
+msgid "Order exists"
+msgstr "Замовлення існує"
+
+msgctxt "Languages::call_requests.person_name_and_phone"
+msgid "Name and phone"
+msgstr "Ім'я та телефон"
+
+msgctxt "Languages::call_requests.no_name_specified"
+msgid "No name specified"
+msgstr "Ім'я не вказано"
+
+msgctxt "Languages::call_requests.use_for_call_requests"
+msgid "Call request and buy now with one click form"
+msgstr "Форм зворотнього дзвінка і покупки в 1 клік"
+
+msgctxt "Languages::block_call_request"
+msgid "Call request"
+msgstr "Зворотній дзвінок"
+
+msgctxt "Languages::block_call_request_description"
+msgid "Store phone number and form for requesting a call"
+msgstr "Телефон магазину і форма для замовлення дзвінка"
+
+msgctxt "Languages::tmpl_call_request"
+msgid "Call request form"
+msgstr "Зворотній дзвінок"
+
+msgctxt "Languages::call_requests.text_call_request"
+msgid "Customer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "Покупець [customer] - <a href=\"[href]\">очікує вашого дзвінка</a> на номер [phone_number]."
+
+msgctxt "Languages::call_requests.text_call_request_call_time"
+msgid "The convenient call time is between [time_from] and [time_to]."
+msgstr "Зручний час для звінка від [time_from] до [time_to]."
+
+msgctxt "Languages::call_requests.text_buy_with_one_click_request"
+msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
+msgstr "Клієнт [customer] - <a href=\"[href]\">чекає вашого дзвінка</a> на номер [phone_number], щодо купівлі товару <a href=\"[product_href]\">[product_name]</a>."
+
+msgctxt "Languages::call_requests.error_validator_phone"
+msgid "The phone number in the <b>[field]</b> field is invalid."
+msgstr "Номер в полі <b>[field]</b> некоректний."
+
+msgctxt "Languages::email_template.call_requests_buy_with_one_click"
+msgid "Call requests: buy with one click notification"
+msgstr "Зворотній дзвінок: повідомлення про покупку в один клік"
+
+msgctxt "Languages::email_template.call_requests_call_request"
+msgid "Call requests: call request notification"
+msgstr "Зворотній дзвінок: запит на дворотній дзвінок"
+
+msgctxt "Languages::call_request.work_time"
+msgid "Mon-Fr 9a.m.-6p.m."
+msgstr "Пн-Пт: 9:00-18:00."
+
+msgctxt "Languages::call_requests.request_call_request_form"
+msgid "Call requests: request form"
+msgstr "Зворотній дзвінок: форма запиту"
+
+msgctxt "Languages::call_requests.agreement_text_full_request_call_request_form"
+msgid "<p>We ([company]) will use the data you provide here to contact you regarding your call request or order. That data will remain in our system, visible to our staff (or the relevant vendor), until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Ми ([company]) використовуємо ваші дані, щоб згодом зв'язатися з Вами по щодо Вашого запиту чи для обговорення замовлення. Дані зберігаються в нашій системі і доступні деяким нашим співробітникам (або продавцям, у яких зроблено замовлення) до тих пір, поки ви не відкличете свою згоду. Якщо ви хочете, щоб Ваші персональні дані були видалені, надішліть листа на адресу [email].</p><p>Якщо Ви вважаєте, що Ваші персональні дані використовуються не за призначенням, Ви маєте право звернутися зі скаргою в наглядовий орган. Згідно \"Загального регламенту щодо захисту даних\" в ЄС ми зобов'язані повідомити Вам про це право, однак ми не плануємо використовувати Ваші дані не за призначенням..</p>"
+
+msgctxt "Languages::call_requests.agreement_text_short_request_call_request_form"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Я даю згоду на <u>обработку моїх персональних даних.</u>"
+
+msgctxt "Languages::gdpr_call_requests"
+msgid "Personal data from call requests"
+msgstr "Персональні дані із запитів на зворотній дзвінок"
+
+msgctxt "Languages::call_requests.event.request_created.name"
+msgid "Call requests: request created"
+msgstr "Зворотній дзвінок: створено запит на дзвінок"
+
+msgctxt "Languages::call_requests.event.request_about_product_created.name"
+msgid "Call requests: request about product created"
+msgstr "Зворотній дзвінок: створено запит про товар"
+

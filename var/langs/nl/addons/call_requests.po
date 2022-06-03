@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.13.2/addons/call_requests.po\n"
+"X-Crowdin-File-ID: 4536\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::call_requests"
+msgid "Call requests"
+msgstr "Bel verzoeken"
+
+msgctxt "Addons::description::call_requests"
+msgid "Adds the \"Buy now with one click\" and \"Request call\" buttons"
+msgstr ""
+
+msgctxt "SettingsSections::call_requests::general"
+msgid "General"
+msgstr "Algemeen"
+
+msgctxt "SettingsOptions::call_requests::general"
+msgid "General"
+msgstr "Algemeen"
+
+msgctxt "SettingsOptions::call_requests::phone"
+msgid "Rewrite phone"
+msgstr "Telefoon herschrijven"
+
+msgctxt "SettingsOptions::call_requests::phone_prefix_length"
+msgid "Highlight first chars [Deprecated]"
+msgstr ""
+
+msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
+msgid "Enable the \"Buy now with one click\" option"
+msgstr "\"Koop nu met één klik\" optie inschakelen"
+
+msgctxt "SettingsOptions::call_requests::order_status"
+msgid "Order status"
+msgstr "Bestelstatus"
+
+msgctxt "SettingsOptions::call_requests::phone_mask"
+msgid "Phone mask [Deprecated]"
+msgstr ""
+
+msgctxt "SettingsTooltips::call_requests::phone_mask"
+msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr ""
+
+msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
+msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
+msgstr "Spaties, haakjes, etc. inbegrepen. Gebruik deze om landcode, plaatscode en netnummer te markeren."
+
+msgctxt "SettingsOptions::call_requests::enable_call_requests_for_vendors"
+msgid "Enable call requests for vendors"
+msgstr ""
+
+msgctxt "SettingsTooltips::call_requests::enable_call_requests_for_vendors"
+msgid "This will also replace marketplace contact information with vendors' where necessary."
+msgstr ""
+
+msgctxt "Languages::privileges.manage_call_requests"
+msgid "Can edit"
+msgstr "Kan bewerken"
+
+msgctxt "Languages::privileges.view_call_requests"
+msgid "Can view"
+msgstr "Kan bekijken"
+
+msgctxt "Languages::privilege_groups.call_requests"
+msgid "Call requests"
+msgstr ""
+
+msgctxt "Languages::call_requests"
+msgid "Call requests"
+msgstr "Bel verzoeken"
+
+msgctxt "Languages::call_requests_menu_description"
+msgid "Manage customer call requests"
+msgstr "Bel verzoeken van klant beheren"
+
+msgctxt "Languages::call_requests.request_call"
+msgid "Request call"
+msgstr "Bel verzoek"
+
+msgctxt "Languages::call_requests.buy_now_with_one_click"
+msgid "Buy now with 1-click"
+msgstr "Koop nu met één klik"
+
+msgctxt "Languages::call_requests.error_validate_call_form"
+msgid "Please enter your email or phone number"
+msgstr "Vul uw e-mailadres of telefoonnummer in"
+
+msgctxt "Languages::call_requests.request_recieved"
+msgid "We have received your request! Our manager will contact you soon."
+msgstr "We hebben uw aanvraag ontvangen en zullen spoedig contact met u opnemen."
+
+msgctxt "Languages::call_requests.order_placed"
+msgid "We have received your request! The order #[order_id] has been successfully created. Our manager will contact you soon."
+msgstr "We hebben uw aanvraag ontvangen! Bestelling #[order_id] is aangemaakt. We zullen spoedig contact met u opnemen."
+
+msgctxt "Languages::call_requests.phone_from_settings"
+msgid "Phone from settings"
+msgstr "Telefoon van instellingen"
+
+msgctxt "Languages::call_requests.enter_phone_or_email_text"
+msgid "Please enter your phone number or email (for our manager to contact you)"
+msgstr "Plaats uw telefoonnummer of e-mailadres (zodat wij contact met u kunnen opnemen)"
+
+msgctxt "Languages::call_requests.status.new"
+msgid "New"
+msgstr "Nieuw"
+
+msgctxt "Languages::call_requests.status.in_progress"
+msgid "In progress"
+msgstr "In behandeling"
+
+msgctxt "Languages::call_requests.status.completed"
+msgid "Completed"
+msgstr "Afgerond"
+
+msgctxt "Languages::call_requests.status.no_answer"
+msgid "No answer"
+msgstr "Geen antwoord"
+
+msgctxt "Languages::call_requests.responsible"
+msgid "Responsible"
+msgstr "Verantwoordelijk"
+
+msgctxt "Languages::call_requests.notes"
+msgid "Notes"
+msgstr "Opmerkingen"
+
+msgctxt "Languages::call_requests.requested_product"
+msgid "Requested product"
+msgstr "Gevraagde product"
+
+msgctxt "Languages::call_requests.convenient_time"
+msgid "Convenient time"
+msgstr ""
+
+msgctxt "Languages::call_requests.awaiting_call"
+msgid "Awaiting call"
+msgstr "Wachtend op oproep"
+
+msgctxt "Languages::call_requests.order_exists"
+msgid "Order exists"
+msgstr "Bestelling is aanwezig"
+
+msgctxt "Languages::call_requests.person_name_and_phone"
+msgid "Name and phone"
+msgstr "Naam en telefoonnummer"
+
+msgctxt "Languages::call_requests.no_name_specified"
+msgid "No name specified"
+msgstr "Geen naam opgegeven"
+
+msgctxt "Languages::call_requests.use_for_call_requests"
+msgid "Call request and buy now with one click form"
+msgstr "Bel verzoek en Koop nu met één klik-formulier"
+
+msgctxt "Languages::block_call_request"
+msgid "Call request"
+msgstr "Bel verzoek"
+
+msgctxt "Languages::block_call_request_description"
+msgid "Store phone number and form for requesting a call"
+msgstr "Telefoonnummer en formulier voor bel verzoek opslaan"
+
+msgctxt "Languages::tmpl_call_request"
+msgid "Call request form"
+msgstr "Bel verzoek formulier"
+
+msgctxt "Languages::call_requests.text_call_request"
+msgid "Customer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr ""
+
+msgctxt "Languages::call_requests.text_call_request_call_time"
+msgid "The convenient call time is between [time_from] and [time_to]."
+msgstr "Bij voorkeur bellen tussen [time_from] en [time_to]."
+
+msgctxt "Languages::call_requests.text_buy_with_one_click_request"
+msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
+msgstr "Klant [customer] is <a href=\"[href]\">in afwachting van een telefoontje</a> op telefoonnummer [phone_number], met betrekking tot de aankoop van het product <a href=\"[product_href]\">[product_name]</a>."
+
+msgctxt "Languages::call_requests.error_validator_phone"
+msgid "The phone number in the <b>[field]</b> field is invalid."
+msgstr "Het telefoonnummer in het veld <b>[field]</b> is ongeldig."
+
+msgctxt "Languages::email_template.call_requests_buy_with_one_click"
+msgid "Call requests: buy with one click notification"
+msgstr "Bel verzoek: Koop met één klik melding"
+
+msgctxt "Languages::email_template.call_requests_call_request"
+msgid "Call requests: call request notification"
+msgstr "Bel verzoek: Bel verzoek melding"
+
+msgctxt "Languages::call_request.work_time"
+msgid "Mon-Fr 9a.m.-6p.m."
+msgstr ""
+
+msgctxt "Languages::call_requests.request_call_request_form"
+msgid "Call requests: request form"
+msgstr ""
+
+msgctxt "Languages::call_requests.agreement_text_full_request_call_request_form"
+msgid "<p>We ([company]) will use the data you provide here to contact you regarding your call request or order. That data will remain in our system, visible to our staff (or the relevant vendor), until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr ""
+
+msgctxt "Languages::call_requests.agreement_text_short_request_call_request_form"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr ""
+
+msgctxt "Languages::gdpr_call_requests"
+msgid "Personal data from call requests"
+msgstr ""
+
+msgctxt "Languages::call_requests.event.request_created.name"
+msgid "Call requests: request created"
+msgstr ""
+
+msgctxt "Languages::call_requests.event.request_about_product_created.name"
+msgid "Call requests: request about product created"
+msgstr ""
+

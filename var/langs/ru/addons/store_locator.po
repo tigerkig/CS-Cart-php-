@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.13.2/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 4650\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "Магазины и пункты самовывоза"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "Позволяет отмечать физические магазины на карте и предлагать покупателям забирать товары оттуда, если вы создадите соответствующий способ доставки."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "Посмотреть на карте"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "Получение API-ключа"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Поиск ближайших магазинов"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "Магазины и ПВЗ"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Блок поиска ближайших магазинов"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "Адрес не найден"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Выбрать координаты"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Установить"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Редактирование местоположения магазина"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "Новое местоположение магазина"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Добавить местоположение магазина"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Координаты"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "широта"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "долгота"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "Все магазины"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "Показывать карту в документах заказов"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "Распечатывать карту в упаковочном реестре и счете заказа"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "Использовать список городов вместо карты"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "Влияет на блок \"Местоположение покупателя\". Список сгенерируется на основе городов, где есть магазины и пункты самовывоза."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "Редактирование"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "Магазины и ПВЗ"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "Просмотр"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "Способ доставки \"Самовывоз\" предлагает покупателю выбрать магазин для самовывоза. Создание и редактирование магазинов выполняется в модуле \"Расположение магазина\"<br /><b>Создание магазинов:</b> <a href=\"[store_locator]\">Расположение магазина</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "Выберите магазины"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "Пункты самовывоза"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "Поле \"Позиция\" в настройках магазина"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "Порядок, выбранный в настройках способа доставки"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "Выбранные магазины"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "Доступные магазины"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "Карта и список"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "Список"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "Карта"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "Отображение пунктов самовывоза на странице оформления заказа"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "Самовывоз"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "Доступен для самовывоза"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "Режим работы"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "Самовывоз"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "Нет подходящего пункта назначения"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "Точки самовывоза не найдены"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "Самовывоз"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "ID самовывоза"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "Доступность самовывоза"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "Доплата за самовывоз"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "Адрес пункта самовывоза"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "Телефон пункта самовывоза"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "Время самовывоза"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "ID пунктов самовывоза"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "Скрыть места, где я не смогу забрать заказ"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "Магазины и пункты самовывоза"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "В прошлых версиях дополнительный сбор добавлялся к стандартной стоимости, которая задавалась через способ доставки. Теперь дополнительный сбор не учитывается при расчёте способа доставки. Мы оставили его здесь, чтобы вы могли посмотреть, какой надбавка была раньше, и правильно настроить стоимость на странице редактирования способа доставки."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "Находится в тарифной зоне"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "Определяет стоимость доставки в эту точку самовывоза. Тарифы задаются на странице редактирования способа доставки. Если вы не выберете тарифную зону, то пункт самовывоза не появится на странице оформления заказа."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "Показывать в"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "Показывать в"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Позволяет предлагать этот пункт самовывоза на странице оформления заказа тем, кто находится в других тарифных зонах."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "от [price]"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_title"
+msgid "Pick up from store: Surcharge per pickup point removed"
+msgstr "Самовывоз: Убран дополнительный сбор у пунктов самовывоза"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_text"
+msgid "<p>The <b>[pickup_addon]</b> and <b>[store_locator_addon]</b> add-ons were merged into a new add-on called [stores_pickups_addon]. Shipping rates and time are more flexible now: they depend on the location (rate area) of a pickup point. The rates are now specified in one place: the editing page of a shipping method.</p><p>For that reason, we removed the <b>Surcharge</b> field from the pickup point editing page. Its value still appears in the admin panel, but isn’t used in rate calculation. Please check your pickup points, then adjust the shipping rates of all your \"Pick up from store\" shipping methods accordingly.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Adjust shipping rates</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">View my pickup points</a></p>"
+msgstr "<p>Модули <b>[pickup_addon]</b> и <b>[store_locator_addon]</b> объединены в один новый — <b>[stores_pickups_addon]</b>. Стоимость и сроки доставки теперь задаются более гибко и зависят от местонахождения (т.е. тарифной зоны) пункта самовывоза. Стоимость задаётся в единственном месте — на странице редактирования способа доставки.</p><p>По этой причине мы убрали поле <b>Доп. сбор</b> со страницы редактирования пункта самовывоза. Его значение всё ещё появляется в панели администратора, но не используется при расчёте стоимости. Проверьте ваши пункты самовывоза, а затем поправьте вручную стоимость доставки у всех способов доставки \"Самовывоз\".</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Список способов доставки</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">Список пунктов самовывоза</a></p>"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "Двигайте карту двумя пальцами"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Вернуться к началу"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "Нет тарифной зоны"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "Название"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "Места выдачи заказов"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "Любая тарифная зона"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "Самовывоз"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "Любой продавец"
+

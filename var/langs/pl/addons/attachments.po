@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /release-4.13.2/addons/attachments.po\n"
+"X-Crowdin-File-ID: 4520\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "Załączniki"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "Umożliwia dołączanie plików do produktów"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "Załączniki"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "Nowy załącznik"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "Dodaj załącznik"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "Edytowanie załączników"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "Proszę określić katalog z załącznikami zaczynając od katalogu głównego. Proszę umieścić załączniki do importu w tym katalogu."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "Nie można zaimportować załączników do niektórych produktów. Te załączniki nie istnieją (lub nie można uzyskać do nich dostępu) lub ścieżki do tych załączników w importowanym pliku są niepoprawne."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "Załączniki do produktów"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "Separator załączników"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "Znak rozdzielający między załącznikami do produktu."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "Usuń istniejące załączniki"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "Jeśli włączysz to ustawienie, istniejące dodatkowe załączniki importowanych produktów zostaną zastąpione załącznikami określonymi w zaimportowanym pliku (jeśli nie określono załączników, stare załączniki pozostaną). Jeśli ustawienie jest wyłączone, nowe dodatkowe załączniki zostaną po prostu dodane do już istniejących."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "Katalog załączników"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "Ogólne"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "Zapisz załączniki na swoim serwerze"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "Załączniki wymienione jako adresy URL w importowanym pliku zostaną pobrane na Twój serwer."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr "Nie można załadować pliku [url] dla produktu [product]"
+

@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/email_marketing.po\n"
+"X-Crowdin-File-ID: 4556\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::email_marketing"
+msgid "E-mail marketing"
+msgstr "E-mail pemasaran"
+
+msgctxt "Addons::description::email_marketing"
+msgid "Synchronizes your newsletter subscriber lists with MailChimp and Mad Mimi"
+msgstr "Mensinkronisasi daftar pelanggan newsletter Anda dengan MailChimp dan gila Mimi"
+
+msgctxt "Languages::subscribers_menu_description"
+msgid "Manage newsletter subscribers and settings."
+msgstr "Mengelola pelanggan newsletter dan pengaturan."
+
+msgctxt "Languages::email_marketing.subscription_confirmed"
+msgid "Thank you for subscribing to our newsletter"
+msgstr "Terima kasih untuk berlangganan newsletter kami"
+
+msgctxt "Languages::email_marketing.text_subscription_confirmed"
+msgid "Your subscription has been confirmed. No extra actions is required."
+msgstr "Langganan Anda telah dikonfirmasi. Tidak ada tindakan tambahan diperlukan."
+
+msgctxt "Languages::email_marketing.subscription_pending"
+msgid "Email confirmation is required!"
+msgstr "Email konfirmasi diperlukan!"
+
+msgctxt "Languages::email_marketing.text_subscription_pending"
+msgid "Thank you for subscribing to our newsletter.<p>A confirmation email has been sent to you. Please use the link in the email to confirm your subscription</p>"
+msgstr "Terima kasih untuk berlangganan newsletter kami. <p>A email konfirmasi telah dikirim kepada Anda. Silahkan gunakan link dalam email untuk mengkonfirmasi langganan Anda</p>"
+
+msgctxt "Languages::email_marketing.confirm_subscription"
+msgid "Please confirm subscription"
+msgstr "Konfirmasi berlangganan"
+
+msgctxt "Languages::email_marketing.text_confirm_subscription"
+msgid "We received a subscription request from you. Please confirm it:<p><a href=\"[href]\">Click here to confirm your subscription to our newsletter</a></p>If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above."
+msgstr "Kami menerima permintaan berlangganan dari Anda. Harap mengkonfirmasi: <p><a href=\"[href]\"> Klik di sini untuk mengkonfirmasi langganan newsletter kami</a></p> jika Anda menerima email ini karena kesalahan, hanya menghapusnya. Anda tidak akan berlangganan jika Anda tidak mengklik link konfirmasi di atas."
+
+msgctxt "Languages::email_marketing.subscription_confirmed_2"
+msgid "Subscription confirmed"
+msgstr "Berlangganan dikonfirmasi"
+
+msgctxt "Languages::email_marketing.text_subscription_confirmed_2"
+msgid "Your subscription to our newsletter has been confirmed. Thank you for subscribing!"
+msgstr "Langganan newsletter kami telah dikonfirmasi. Terima kasih untuk berlangganan!"
+
+msgctxt "Languages::email_marketing.email_subscribed"
+msgid "You were subscribed to our newsletter"
+msgstr "Anda berlangganan newsletter kami"
+
+msgctxt "Languages::email_marketing.text_email_subscribed"
+msgid "Thank you for subscribing to our newsletter. <p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "Terima kasih untuk berlangganan newsletter kami. <p>Jika sewaktu-waktu Anda ingin berhenti menerima email kami, <a href=\"[href]\"> Klik link ini untuk berhenti berlangganan</a>.</p>"
+
+msgctxt "Languages::email_marketing.email_subscribed_2optin"
+msgid "Subscription confirmed"
+msgstr "Berlangganan dikonfirmasi"
+
+msgctxt "Languages::email_marketing.text_email_subscribed_2optin"
+msgid "Your subscription to our newsletter has been confirmed.<p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "Langganan newsletter kami telah dikonfirmasi. <p>Jika sewaktu-waktu Anda ingin berhenti menerima email kami, <a href=\"[href]\"> Klik link ini untuk berhenti berlangganan</a>.</p>"
+
+msgctxt "Languages::email_marketing.unsubscribe_successful"
+msgid "Unsubscribe successful"
+msgstr "Berhenti berlangganan sukses"
+
+msgctxt "Languages::email_marketing.text_unsubscribe_successful"
+msgid "Your email has been removed from our list."
+msgstr "Email Anda telah dihapus dari daftar kami."
+
+msgctxt "Languages::email_marketing.export_all"
+msgid "Export all"
+msgstr "Ekspor semua"
+
+msgctxt "Languages::email_marketing.enter_api_key_and_save"
+msgid "Enter API key and save first"
+msgstr "Masukkan kunci API dan simpan dulu"
+
+msgctxt "Languages::email_marketing.warning_email_exists"
+msgid "[email] is already subscribed"
+msgstr "[email] sudah berlangganan"
+
+msgctxt "Languages::email_marketing.new_subscriber"
+msgid "New subscriber"
+msgstr "Pelanggan baru"
+
+msgctxt "Languages::email_marketing.sync"
+msgid "Sync"
+msgstr "Sinkronkan"
+
+msgctxt "Languages::email_marketing.text_subscribe"
+msgid "Subscribe to our newsletter"
+msgstr "Berlangganan newsletter kami"
+
+msgctxt "Languages::email_marketing.tmpl_subscription"
+msgid "Email marketing: Newsletter subscription form"
+msgstr "Pemasaran email: Formulir langganan buletin"
+
+msgctxt "Languages::privileges.manage_email_marketing"
+msgid "Can edit"
+msgstr "Dapat mengedit"
+
+msgctxt "Languages::privileges.view_email_marketing"
+msgid "Can view"
+msgstr "Dapat melihat"
+
+msgctxt "Languages::privilege_groups.email_marketing"
+msgid "Email marketing"
+msgstr "E-mail pemasaran"
+
+msgctxt "Languages::email_marketing.error_no_list"
+msgid "Please select mailing list in add-on settings to start import"
+msgstr "Silakan pilih milis di add-on settings untuk memulai import"
+
+msgctxt "SettingsSections::email_marketing::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsSections::email_marketing::mailchimp"
+msgid "MailChimp"
+msgstr "MailChimp"
+
+msgctxt "SettingsSections::email_marketing::madmimi"
+msgid "MadMimi"
+msgstr "MadMimi"
+
+msgctxt "SettingsOptions::email_marketing::em_show_on_checkout"
+msgid "Newsletter checkbox on checkout"
+msgstr "Kotak centang di checkout"
+
+msgctxt "SettingsOptions::email_marketing::em_checkout_enabled"
+msgid "Tick off by default"
+msgstr "Centang secara default"
+
+msgctxt "SettingsOptions::email_marketing::em_double_opt_in"
+msgid "Double opt-in"
+msgstr "Ganda opt-in"
+
+msgctxt "SettingsOptions::email_marketing::em_welcome_letter"
+msgid "Send a welcome letter with the unsubscribe link"
+msgstr "Kirimkan surat selamat datang dengan tautan berhenti berlangganan"
+
+msgctxt "SettingsOptions::email_marketing::em_service"
+msgid "Email integration provider"
+msgstr "Penyedia integrasi email"
+
+msgctxt "SettingsOptions::email_marketing::em_mailchimp_api_key"
+msgid "API key"
+msgstr "Kunci API"
+
+msgctxt "SettingsOptions::email_marketing::em_mailchimp_list"
+msgid "List"
+msgstr "Daftar"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_username"
+msgid "E-mail"
+msgstr "E-mail"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_api_key"
+msgid "API key"
+msgstr "Kunci API"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_list"
+msgid "List"
+msgstr "Daftar"
+
+msgctxt "SettingsVariants::email_marketing::em_service::dummy"
+msgid "--"
+msgstr "--"
+
+msgctxt "SettingsVariants::email_marketing::em_service::mailchimp"
+msgid "MailChimp"
+msgstr "MailChimp"
+
+msgctxt "SettingsVariants::email_marketing::em_service::madmimi"
+msgid "MadMimi"
+msgstr "MadMimi"
+
+msgctxt "Languages::email_template.email_marketing_confirmation"
+msgid "Email marketing: subscription confirmation"
+msgstr "Kirimkan surat selamat datang dengan tautan berhenti berlangganan"
+
+msgctxt "Languages::email_template.email_marketing_welcome"
+msgid "Email marketing: welcome letter"
+msgstr "Email pemasaran: Surat Selamat datang"
+
+msgctxt "Languages::email_template.email_marketing_welcome_2optin"
+msgid "Email marketing: welcome letter (2optin)"
+msgstr "Email pemasaran: Surat Selamat datang (2optin)"
+

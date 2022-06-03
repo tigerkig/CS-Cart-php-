@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/hybrid_auth.po\n"
+"X-Crowdin-File-ID: 4580\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::hybrid_auth"
+msgid "Social login"
+msgstr "Login sosial"
+
+msgctxt "Addons::description::hybrid_auth"
+msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
+msgstr "Menambahkan fitur Login Sosial; memungkinkan pelanggan menggunakan Facebook, Twitter, dll untuk login di toko"
+
+msgctxt "SettingsSections::hybrid_auth::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::hybrid_auth::icons_pack"
+msgid "Icons pack"
+msgstr "Ikon paket"
+
+msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
+msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
+msgstr "Direktori dengan ikon jaringan sosial. Jalur ke direktori: media / gambar / addons / addons / hybrid_auth / icons /."
+
+msgctxt "SettingsOptions::hybrid_auth::autogen_email"
+msgid "Autogeneration email"
+msgstr "Email autogenerasi"
+
+msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
+msgid "Enables the email auto generation in case that a social network does not pass the address."
+msgstr "Mengaktifkan generasi penerus email jika jaringan sosial tidak melewati alamat."
+
+msgctxt "Languages::hybrid_auth"
+msgid "Social login"
+msgstr "Login sosial"
+
+msgctxt "Languages::hybrid_auth.linked_provider"
+msgid "Linked"
+msgstr "Terkait"
+
+msgctxt "Languages::hybrid_auth.not_linked_provider"
+msgid "Not linked"
+msgstr "Tidak terhubung"
+
+msgctxt "Languages::hybrid_auth.providers"
+msgid "Providers"
+msgstr "Penyedia"
+
+msgctxt "Languages::hybrid_auth.add_provider"
+msgid "Add provider"
+msgstr "Tambahkan penyedia"
+
+msgctxt "Languages::hybrid_auth.new_provider"
+msgid "New provider"
+msgstr "Penyedia baru"
+
+msgctxt "Languages::hybrid_auth.editing_provider"
+msgid "Editing provider"
+msgstr "Penyuntingan"
+
+msgctxt "Languages::hybrid_auth.callback_url"
+msgid "Callback URL"
+msgstr "URL panggilan balik"
+
+msgctxt "Languages::hybrid_auth.social_login"
+msgid "Or sign-in with another identity provider"
+msgstr "Atau masuk dengan penyedia identitas lain"
+
+msgctxt "Languages::hybrid_auth.unspecified_error"
+msgid "Unspecified error"
+msgstr "Kesalahan yang tidak spesifik"
+
+msgctxt "Languages::hybrid_auth.configuration_error"
+msgid "Hybriauth configuration error"
+msgstr "Kesalahan konfigurasi Hybriauth"
+
+msgctxt "Languages::hybrid_auth.provider_error_configuration"
+msgid "Provider not properly configured"
+msgstr "Penyedia tidak dikonfigurasi dengan benar"
+
+msgctxt "Languages::hybrid_auth.wrong_provider"
+msgid "Unknown or disabled provider"
+msgstr "Penyedia tidak dikenal atau dinonaktifkan"
+
+msgctxt "Languages::hybrid_auth.missing_credentials"
+msgid "Missing provider application credentials"
+msgstr "Kredensial aplikasi penyedia hilang"
+
+msgctxt "Languages::hybrid_auth.failed_auth"
+msgid "Authentication failed. The user has canceled the authentication or the provider refused the connection"
+msgstr "Otentikasi gagal. Pengguna telah membatalkan otentikasi atau penyedia menolak sambungan"
+
+msgctxt "Languages::hybrid_auth.connecting_provider"
+msgid "Contacting <b>[provider]</b>. Please wait..."
+msgstr "Menghubungi <b> [provider] </b>. Mohon tunggu..."
+
+msgctxt "Languages::hybrid_auth.cant_create_profile"
+msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
+msgstr "Sayangnya, kami gagal membuat pelanggan dan masuk ke toko karena salah satu alasan berikut: <br/> - Anda masuk ke toko kami lebih awal dengan menggunakan penyedia OpenID lain tempat email yang sama digunakan. <br/> - Anda telah terdaftar di toko kami menggunakan email Anda. <br/> Silahkan hubungi pemilik toko untuk menyelesaikan masalah."
+
+msgctxt "Languages::hybrid_auth.password_generated"
+msgid "We are glad to inform you that you have been successfully registered in the store. A password was generated for you"
+msgstr "Kami dengan senang hati memberi tahu Anda bahwa Anda telah berhasil terdaftar di toko. Kata sandi dibuat untuk Anda"
+
+msgctxt "Languages::hybrid_auth.change_password"
+msgid "You can change your password here"
+msgstr "Anda dapat mengubah kata sandi Anda di sini"
+
+msgctxt "Languages::hybrid_auth.link_provider"
+msgid "Social network accounts"
+msgstr "Akun jaringan sosial"
+
+msgctxt "Languages::hybrid_auth.text_link_provider"
+msgid "Assign your social network account to this one and use it to log in"
+msgstr "Tetapkan akun jaringan sosial Anda ke akun ini dan gunakan untuk masuk"
+
+msgctxt "Languages::hybrid_auth.text_user_is_already_link"
+msgid "This social network account is already being used"
+msgstr "Akun jaringan sosial ini sudah digunakan"
+
+msgctxt "Languages::hybrid_auth.connect_social"
+msgid "Connect social account"
+msgstr "Hubungkan akun sosial"
+
+msgctxt "Languages::hybrid_auth.connect_social_title"
+msgid "Such user already exists"
+msgstr "Pengguna seperti itu sudah ada"
+
+msgctxt "Languages::hybrid_auth.text_connect_social"
+msgid "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
+msgstr "<p> Pengguna dengan e-mail yang ditentukan saat login sosial sudah ada. </p> <p> Jika Anda ingin menetapkan akun jaringan sosial ke pengguna terdaftar, masuklah. </p>"
+
+msgctxt "Languages::hybrid_auth.specify_email"
+msgid "Specify email"
+msgstr "Tentukan email"
+
+msgctxt "Languages::hybrid_auth.specify_email_title"
+msgid "The e-mail was not specified."
+msgstr "E-mail tidak ditentukan."
+
+msgctxt "Languages::hybrid_auth.text_specify_email"
+msgid "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
+msgstr "<p> Saat masuk melalui jaringan sosial, e-mail tidak ditentukan. </p> <p> Silahkan masukkan e-mail anda dan klik Continue. </p>"
+
+msgctxt "Languages::hybrid_auth_menu_description"
+msgid "Create social provider"
+msgstr "Buat penyedia sosial"
+
+msgctxt "Languages::public_key"
+msgid "Public key"
+msgstr "Kunci publik"
+
+msgctxt "Languages::paypal_seamless"
+msgid "Use seamless checkout"
+msgstr "Gunakan checkout tanpa batas"
+
+msgctxt "Languages::paypal_sandbox"
+msgid "Test mode"
+msgstr "Mode uji"
+
+msgctxt "Languages::privileges.manage_providers"
+msgid "Can edit"
+msgstr "Dapat mengedit"
+
+msgctxt "Languages::privileges.view_providers"
+msgid "Can view"
+msgstr "Dapat melihat"
+
+msgctxt "Languages::privilege_groups.social_login"
+msgid "Social login"
+msgstr "Login sosial"
+
+msgctxt "Languages::hybrid_auth.instruction_facebook"
+msgid "Use the application ID and Secret key that you've received after creating an application on <a href='https://developers.facebook.com/apps' target='_blank'>Facebook Developers</a>."
+msgstr "Gunakan ID aplikasi dan kunci Rahasia yang Anda terima setelah membuat aplikasi di <a href='https://developers.facebook.com/apps' target='_blank'> Pengembang Facebook </a>."
+
+msgctxt "Languages::hybrid_auth.instruction_facebook_login"
+msgid "Use the application ID and Secret key that you've received after creating an application on <a href=\"https://developers.facebook.com/apps\" target=\"_blank\">Facebook Developers</a>. After that copy the value of the <b>Valid OAuth redirect URIs</b> field to the corresponding setting of the <b>Facebook Login</b> product in your Facebook application."
+msgstr "Gunakan ID aplikasi dan kunci Rahasia yang Anda terima setelah membuat aplikasi di <a href=\"https://developers.facebook.com/apps\" target=\"_blank\"> Pengembang Facebook </a>.Setelah itu salin nilai field <b> Valid OAuth redirect URIs </b> ke pengaturan yang sesuai dari produk <b> Login Facebook </b> di aplikasi Facebook Anda."
+
+msgctxt "Languages::hybrid_auth.instruction_google"
+msgid "Use ID and Secret key that you've received after creating a project on <a href='https://code.google.com/apis/console/?pli=1' target='_blank'>Google</a>."
+msgstr "Gunakan kunci ID dan Rahasia yang Anda terima setelah membuat proyek di <a href='https://code.google.com/apis/console/?pli=1' target='_blank'> Google </a>."
+
+msgctxt "Languages::hybrid_auth.instruction_paypal"
+msgid "Use the application ID and Secret key that you've received after creating an application on <a href='https://developer.paypal.com/developer/applications' target='_blank'>PayPal Developers</a>."
+msgstr "Gunakan ID aplikasi dan kunci Rahasia yang Anda terima setelah membuat aplikasi di <a href='https://developer.paypal.com/developer/applications' target='_blank'> Pengembang PayPal </a>."
+
+msgctxt "Languages::hybrid_auth.instruction_twitter"
+msgid "Use ID (Consumer key) and Secret key that you've received after creating an application on <a href='https://apps.twitter.com/' target='_blank'>Twitter</a>."
+msgstr "Gunakan ID (Kunci konsumen) dan kunci Rahasia yang Anda terima setelah membuat aplikasi di <a href='https://apps.twitter.com/' target='_blank'> Twitter </a>."
+
+msgctxt "Languages::hybrid_auth.instruction_yahoo"
+msgid "Use ID (Identificator) and Secret key that you've received after creating an application on <a href='https://developer.yahoo.com/apps/create/' target='_blank'>Yahoo</a>."
+msgstr "Gunakan ID (Identifikator) dan kunci Rahasia yang Anda terima setelah membuat aplikasi di <a href='https://developer.yahoo.com/apps/create/' target='_blank'> Yahoo </a>."
+
+msgctxt "Languages::hybrid_auth.instruction_live"
+msgid "Use the application ID and Secret key that you've received after adding an application on <a href='https://account.live.com/developers/applications/create' target='_blank'>Live</a>."
+msgstr "Gunakan ID aplikasi dan kunci Rahasia yang Anda terima setelah menambahkan aplikasi di <a href='https://account.live.com/developers/applications/create' target='_blank'> Live </a>."
+
+msgctxt "Languages::hybrid_auth.instruction_linkedin"
+msgid "Use ID (Consumer key) and Secret key that you've received after creating an application on <a href='https://www.linkedin.com/developer/apps' target='_blank'>LinkedIn Developers</a>."
+msgstr "Gunakan ID (Kunci konsumen) dan kunci Rahasia yang Anda terima setelah membuat aplikasi di <a href='https://www.linkedin.com/developer/apps' target='_blank'> Pengembang LinkedIn </a>."
+
+msgctxt "Languages::hybrid_auth.instruction_foursquare"
+msgid "Use the application ID and Secret key that you've received after creating an application on <a href='https://foursquare.com/developers/apps' target='_blank'>Fousquare</a>."
+msgstr "Gunakan ID aplikasi dan kunci Rahasia yang Anda terima setelah membuat aplikasi di <a href='https://foursquare.com/developers/apps' target='_blank'> Fousquare </a>."
+
+msgctxt "Languages::email_template.hybrid_auth_create_profile"
+msgid "Create user profile via social login"
+msgstr "Buat profil pengguna melalui login sosial"
+
+msgctxt "Languages::hybrid_auth.provider_not_found"
+msgid "Provider [provider] not found"
+msgstr "Penyedia [provider] tidak ditemukan"
+
+msgctxt "Languages::hybrid_auth.facebook_disabled_upgrade_notification_title"
+msgid "Social Login: Sign-ins via Facebook have been disabled due to an old PHP version"
+msgstr "Login Sosial: Masuk melalui Facebook telah dinonaktifkan karena versi PHP lama"
+
+msgctxt "Languages::hybrid_auth.facebook_disabled_upgrade_notification_text"
+msgid "<p>We had to move to a newer version of Facebook API, because the API version that we used previously is no longer supported. However, to work with the new API, [product] requires PHP 5.4. You are seeing this message because your server has an older PHP version.</p><p>The status of the <b>Facebook</b> provider under <b>Website → Social login</b> has been set to <i>Disabled</i>.</p><p>Please update your PHP version to 5.4 or higher before you re-enable Facebook.</p>"
+msgstr "<p> Kami harus beralih ke versi Facebook API yang lebih baru, karena versi API yang kami gunakan sebelumnya tidak lagi didukung. Namun, untuk bekerja dengan API baru, [product] membutuhkan PHP 5.4. Anda melihat pesan ini karena server Anda memiliki versi PHP yang lebih lawas. </p> <p> Status penyedia <b> Facebook </b> di bawah <b> Situs Web → Masuk sosial </b> telah diset ke <i> Dinonaktifkan </i>. </p> <p> Harap perbarui versi PHP Anda menjadi 5.4 atau lebih tinggi sebelum Anda mengaktifkan kembali Facebook. </p>"
+
+msgctxt "Languages::hybrid_auth.facebook_oauth_redirect_uris"
+msgid "Valid OAuth redirect URIs"
+msgstr "URI pengalihan OAuth yang valid"
+
+msgctxt "Languages::hybrid_auth.live_redirect_urls"
+msgid "Redirect URLs"
+msgstr "Arahkan ulang URLs"
+
+msgctxt "Languages::hybrid_auth.linkedin_api_version"
+msgid "API version"
+msgstr ""
+
+msgctxt "Languages::ttc_hybrid_auth.linkedin_api_version"
+msgid "LinkedIn <a target=\"_blank\" href=\"https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/migration-faq?context=linkedin/consumer/context\">deprecated API v1</a>, but old apps still use it. If you're configuring LinkedIn app for the first time now, use API v2. Old LinkedIn apps configured some time ago may still be using v1."
+msgstr ""
+
+msgctxt "Languages::hybrid_auth.linkedin_api_v1"
+msgid "v1"
+msgstr ""
+
+msgctxt "Languages::hybrid_auth.linkedin_api_v2"
+msgid "v2"
+msgstr ""
+
+msgctxt "Languages::hybrid_auth.instruction_paypal_application"
+msgid "Use the application ID and Secret key that you've received after creating an application on <a href='https://developer.paypal.com/developer/applications' target='_blank'>PayPal Developers</a>. Please enable all Personal Profile scope attributes and at least one scope attribute in Address and in Account Information in your PayPal application settings."
+msgstr ""
+

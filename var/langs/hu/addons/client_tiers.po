@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/client_tiers.po\n"
+"X-Crowdin-File-ID: 4540\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::client_tiers"
+msgid "Client tiers"
+msgstr "Vásárlói szintek"
+
+msgctxt "Addons::description::client_tiers"
+msgid "Automatically assigns and removes customer's user group depending on money spent. Allows you to rank your customers (for example, bronze, silver, gold customers)."
+msgstr "Automatikusan hozzárendeli és eltávolítja a vásárló felhasználói csoportját az elköltött pénztől függően. Lehetővé teszi vásárlóid rangsorolását (például bronz, ezüst, arany szintű vásárlók)."
+
+msgctxt "SettingsSections::client_tiers::general"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "SettingsOptions::client_tiers::tiers_reporting_period"
+msgid "Reporting period"
+msgstr "Jelentési időszak"
+
+msgctxt "SettingsTooltips::client_tiers::tiers_reporting_period"
+msgid "Statistics from this period is checked to see if a customer is eligible for a certain tier"
+msgstr "Ellenőrzi ennek az időszaknak a statisztikáit, hogy kiderüljön, jogosult-e az adott vásárló egy bizonyos szintre."
+
+msgctxt "SettingsOptions::client_tiers::upgrade_tier_option"
+msgid "Customer tier can upgrade"
+msgstr "A vásárló szintet léphet felfelé"
+
+msgctxt "SettingsOptions::client_tiers::automatic_downgrade"
+msgid "Tier check can downgrade customer's tier"
+msgstr "A szint ellenőrzése visszaminősítheti a vásárló szintjét"
+
+msgctxt "Languages::client_tiers.minimum_spend_value"
+msgid "Required spendings"
+msgstr "Szükséges költések"
+
+msgctxt "Languages::client_tiers.tooltip_minimum_spend_value"
+msgid "Set 0 if you don't want this user group to be assigned automatically. Otherwise, customer can get this user group after spending the specified sum during the reporting period set in the Client Tiers add-on."
+msgstr "Állítsd be a 0 értéket, ha nem szeretnéd, hogy ezt a felhasználói csoportot automatikusan hozzád rendeljék. Egyébként a vásárló ezt a felhasználói csoportot a vásárlói szintek bővítményben beállított jelentési időszak alatt a megadott összeg elköltése után kaphatja meg."
+
+msgctxt "Languages::client_tiers.bronze_level_customers"
+msgid "Bronze level customers"
+msgstr " Bronz szintű vásárlók"
+
+msgctxt "Languages::client_tiers.silver_level_customers"
+msgid "Silver level customers"
+msgstr "Ezüst szintű vásárlók"
+
+msgctxt "Languages::client_tiers.gold_level_customers"
+msgid "Gold level customers"
+msgstr "Arany szintű vásárlók"
+
+msgctxt "Languages::client_tiers.client_success_set_tier"
+msgid "[username] spent [total] amount in reported period and moved to [new_group]"
+msgstr "[username] [total] összeget költött a jelentett időszakban és átkerült a [new_group] csoportba"
+
+msgctxt "Languages::client_tiers.client_fail_set_new_tier"
+msgid "Couldn't assign user group [new_group] to customer with id [user_id]. Customer spent [total] in the reporting period, which is more than the required spendings for this user group."
+msgstr "Nem sikerült hozzárendelni a [new_group] felhasználói csoportot a [user_id] azonosítóval rendelkező vásárlóhoz. A vásárló [total] összeget költött a jelentési időszakban, ami több, mint az adott felhasználói csoporthoz előírt költés.       "
+
+msgctxt "Languages::client_tiers.client_fail_unset_old_tier"
+msgid "Couldn't remove user group [old_group] from customer with id [user_id]. With [total] spent in the reporting period, customer shouldn't be a part of this user group."
+msgstr "Nem sikerült eltávolítani az [old_group] felhasználói csoportot a [user_id] azonosítóval rendelkező vásárlóról. A jelentési időszakban elköltött [total] összeggel a vásárló nem lehet tagja ennek a felhasználói csoportnak."
+
+msgctxt "Languages::client_tiers.client_success_unset_tier"
+msgid "Customer [username] was successfully removed from [old_group] due to [total] spent in reporting period."
+msgstr "[username] vásárlót sikeresen eltávolítottuk a [old_group] felhasználói csoportból a jelentési időszakban elköltött [total] összeg miatt."
+
+msgctxt "Languages::log_type_client_tiers"
+msgid "Client Tiers"
+msgstr "Vásárlói szintek"
+
+msgctxt "Languages::log_action_ct_success"
+msgid "Success"
+msgstr "Sikeres"
+
+msgctxt "Languages::log_action_ct_failure"
+msgid "Errors"
+msgstr "Hiba!"
+
+msgctxt "Languages::client_tiers.previous_30_days"
+msgid "Previous 30 days"
+msgstr "Előző 30 nap"
+
+msgctxt "Languages::client_tiers.previous_month"
+msgid "Previous month"
+msgstr "Előző hónap"
+
+msgctxt "Languages::client_tiers.previous_12_months"
+msgid "Previous 12 months"
+msgstr "Előző 12 hónap"
+
+msgctxt "Languages::client_tiers.previous_year"
+msgid "Previous year"
+msgstr "Előző év"
+
+msgctxt "Languages::client_tiers.after_completed_purchase"
+msgid "After the order is paid"
+msgstr "A megrendelés kifizetését követően"
+
+msgctxt "Languages::client_tiers.after_tier_check"
+msgid "After tier check only"
+msgstr "Csak a szint ellenőrzését követően"
+
+msgctxt "Languages::client_tiers.update_tiers"
+msgid "Tier check"
+msgstr "Szint ellenőrzése"
+
+msgctxt "Languages::client_tiers.run_recalculation"
+msgid "Check customer tiers now"
+msgstr "Vásárlói szintek ellenőrzése most"
+
+msgctxt "Languages::client_tiers.run_tiers_updating_by_cron"
+msgid "Updating client tiers is the resource-intensive process. It's recommended to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+msgstr "A vásárlói szintek frissítése sok erőforrást igényel. Javasoljuk, hogy bizonyos időközönként automatikusan futtassa le.<br>Ehhez a következő parancs szükséges <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+
+msgctxt "Languages::client_tiers.all_been_recalculated"
+msgid "Tiers have been checked and updated"
+msgstr "A szintek ellenőrzése és frissítése megtörtént"
+
+msgctxt "Languages::client_tiers.silver_promotion"
+msgid "Silver tier promotion"
+msgstr "Ezüst szintű promóció"
+
+msgctxt "Languages::client_tiers.bronze_promotion"
+msgid "Bronze tier promotion"
+msgstr "Bronz szintű promóció"
+
+msgctxt "Languages::client_tiers.gold_promotion"
+msgid "Gold tier promotion"
+msgstr "Arany szintű promóció"
+
+msgctxt "Languages::client_tiers.silver_promotion.detailed_description"
+msgid "Only Silver Level Customers are eligible for this promotion."
+msgstr "Csak az Ezüst szintű vásárlók jogosultak erre a promócióra."
+
+msgctxt "Languages::client_tiers.silver_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Silver Level Customers."
+msgstr "Ez a promóció automatikusan jött létre a vásárlói szintek bővítmény részeként. Csak az Ezüst szintű vásárlókra vonatkozik."
+
+msgctxt "Languages::client_tiers.bronze_promotion.detailed_description"
+msgid "Only Bronze Level Customers are eligible for this promotion."
+msgstr "Csak a Bronz szintű vásárlók jogosultak erre a promócióra."
+
+msgctxt "Languages::client_tiers.bronze_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Bronze Level Customers."
+msgstr "Ez a promóció automatikusan jött létre a vásárlói szintek bővítmény részeként. Csak a Bronz szintű vásárlókra vonatkozik."
+
+msgctxt "Languages::client_tiers.gold_promotion.detailed_description"
+msgid "Only Gold Level Customers are eligible for this promotion."
+msgstr "Csak az Arany szintű vásárlók jogosultak erre a promócióra."
+
+msgctxt "Languages::client_tiers.gold_promotion.short_description"
+msgid "This promotion was created automatically as part of the Client Tiers add-on. It applies only to Gold Level Customers."
+msgstr "Ez a promóció automatikusan jött létre a vásárlói szintek bővítmény részeként. Csak az Arany szintű vásárlókra vonatkozik."
+
+msgctxt "Languages::client_tiers.removed_from_old_group"
+msgid "Removed from user group"
+msgstr "Felhasználói csoportból eltávolítva"
+
+msgctxt "Languages::client_tiers.moved_to_new_group"
+msgid "Moved to user group"
+msgstr "Felhasználói csoportba áthelyezve"
+
+msgctxt "Languages::client_tiers.installation_message"
+msgid "To help you get started, we have added user groups for Gold, Silver, and Bronze Level Customers, as well as corresponding promotions. Please check <a href=\"[user_groups]\" target=\"_blank\">user groups</a> and <a href=\"[promotions]\" target=\"_blank\">promotions</a>, and adjust them as needed. You can also delete them and create your own."
+msgstr "Hogy egyszerűsítsük az indulást, az Arany, Ezüst és Bronz szintű vásárlók számára felhasználói csoportokat hoztunk létre, valamint hozzájuk tartozó promóciókat. Kérjük, ellenőrizd a  <a href=\"[user_groups]\" target=\"_blank\">felhasználói csoportokat</a> és<a href=\"[promotions]\" target=\"_blank\">promóciókat</a>, és szükség szerint állítsd be őket. Akár törölheted is, és létrehozhatsz sajátokat."
+

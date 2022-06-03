@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.13.2/addons/age_verification.po\n"
+"X-Crowdin-File-ID: 4516\n"
+"PO-Revision-Date: 2021-07-02 13:51\n"
+
+msgctxt "Addons::name::age_verification"
+msgid "Age verification"
+msgstr "Обмеження по віку"
+
+msgctxt "Addons::description::age_verification"
+msgid "Toggles age restriction rules for products and categories"
+msgstr "Вікові обмеження для товарів та категорій"
+
+msgctxt "Languages::age_verification"
+msgid "Age verification"
+msgstr "Обмеження по віку"
+
+msgctxt "Languages::product_need_age_verification"
+msgid "You should verify your age to view this product."
+msgstr "Для перегляду цього товару ви маєте підтвердити свій вік."
+
+msgctxt "Languages::your_age"
+msgid "Your age"
+msgstr "Ваш вік"
+
+msgctxt "Languages::verify"
+msgid "Verify"
+msgstr "Підтвердити"
+
+msgctxt "Languages::birthday"
+msgid "Birthday"
+msgstr "День народження"
+
+msgctxt "Languages::age_limit"
+msgid "Age limit"
+msgstr "Віковий ценз"
+
+msgctxt "Languages::years"
+msgid "years"
+msgstr "років"
+
+msgctxt "Languages::age_warning_message"
+msgid "Warning message"
+msgstr "Попереджувальне повідомлення"
+
+msgctxt "Languages::promotion_cond_birthday"
+msgid "Birthday"
+msgstr "День народження"
+

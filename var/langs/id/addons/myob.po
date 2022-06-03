@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/myob.po\n"
+"X-Crowdin-File-ID: 4592\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::myob"
+msgid "MYOB"
+msgstr "MYOB"
+
+msgctxt "Addons::description::myob"
+msgid "Adds the MYOB integration"
+msgstr "Menambahkan integrasi MYOB"
+
+msgctxt "Languages::export_to_myob"
+msgid "Export to MYOB"
+msgstr "Ekspor ke MYOB"
+
+msgctxt "SettingsSections::myob::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::myob::sales_account"
+msgid "Default Sales Account"
+msgstr "Akun Penjualan Default"
+
+msgctxt "SettingsOptions::myob::currency"
+msgid "Currency"
+msgstr "Mata uang"
+
+msgctxt "SettingsOptions::myob::tax_gst_code"
+msgid "Tax Code / GST Code"
+msgstr "Kode Pajak / Kode GST"
+
+msgctxt "SettingsOptions::myob::freight_tax_gst_code"
+msgid "Freight Tax Code / Freight GST Code"
+msgstr "Kode Pajak Pengangkutan / Kode GST Freight"
+

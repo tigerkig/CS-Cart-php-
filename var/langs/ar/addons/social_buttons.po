@@ -1,0 +1,706 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/social_buttons.po\n"
+"X-Crowdin-File-ID: 4646\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::social_buttons"
+msgid "Social buttons"
+msgstr "أزرار وسائل التواصل الاجتماعي"
+
+msgctxt "Addons::description::social_buttons"
+msgid "Adds the buttons for sharing products and pages in social media (Twitter, Facebook, etc.). Helps social networks and messengers to display better previews for the links to your site"
+msgstr "يضيف الأزرار لمشاركة المنتجات والصفحات في وسائل التواصل الاجتماعي (Twitter و Facebook وما إلى ذلك). يساعد الشبكات الاجتماعية والمراسلين على عرض معاينات أفضل للروابط إلى موقعك"
+
+msgctxt "Languages::facebook"
+msgid "Facebook"
+msgstr "فيسبوك"
+
+msgctxt "Languages::facebook_obj_type"
+msgid "Facebook object type"
+msgstr "نوع كائن Facebook"
+
+msgctxt "Languages::fb_activities"
+msgid "Activities"
+msgstr "الأنشطة"
+
+msgctxt "Languages::fb_businesses"
+msgid "Businesses"
+msgstr "الأعمال التجارية"
+
+msgctxt "Languages::fb_groups"
+msgid "Groups"
+msgstr "المجموعات"
+
+msgctxt "Languages::fb_organizations"
+msgid "Organizations"
+msgstr "المنظمات"
+
+msgctxt "Languages::fb_people"
+msgid "People"
+msgstr "الناس"
+
+msgctxt "Languages::fb_places"
+msgid "Places"
+msgstr "الأماكن"
+
+msgctxt "Languages::fb_products_entertainment"
+msgid "Products and Entertainment"
+msgstr "المنتجات والترفيه"
+
+msgctxt "Languages::fb_websites"
+msgid "Websites"
+msgstr "مواقع الويب"
+
+msgctxt "Languages::text_recommendation_notes"
+msgid "Your friend has recommended this page to you. Please follow the link:"
+msgstr "لقد أوصى صديقك بهذه الصفحة لك. الرجاء اتباع الرابط:"
+
+msgctxt "Languages::sb_share"
+msgid "Share"
+msgstr "مشاركة"
+
+msgctxt "SettingsSections::social_buttons::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsSections::social_buttons::twitter"
+msgid "Twitter"
+msgstr "تويتر"
+
+msgctxt "SettingsSections::social_buttons::facebook"
+msgid "Facebook"
+msgstr "فيسبوك"
+
+msgctxt "SettingsSections::social_buttons::vkontakte"
+msgid "Vkontakte"
+msgstr "فكونتاكتي"
+
+msgctxt "SettingsOptions::social_buttons::yandex_enable"
+msgid "Show Yandex.Share block"
+msgstr "إظهار كتلة Yandex.Share"
+
+msgctxt "SettingsOptions::social_buttons::yandex_share_code"
+msgid "Yandex.Share code"
+msgstr "كود Yandex.Share"
+
+msgctxt "SettingsOptions::social_buttons::yandex_display_on"
+msgid "Display on"
+msgstr "عرض على"
+
+msgctxt "SettingsVariants::social_buttons::yandex_display_on::products"
+msgid "Product details pages"
+msgstr "صفحات تفاصيل المنتج"
+
+msgctxt "SettingsVariants::social_buttons::yandex_display_on::pages"
+msgid "Pages"
+msgstr "الصفحات"
+
+msgctxt "SettingsTooltips::social_buttons::yandex_share_code"
+msgid "You can configure the block and get the code at <a href=\"http://api.yandex.ru/share/\" target=\"_blank\">http://api.yandex.ru/share/</a>"
+msgstr "يمكنك تكوين الكتلة والحصول على الرمز على <a href=\"http://api.yandex.ru/share/\" target=\"_blank\"> http://api.yandex.ru/share/ </a>"
+
+msgctxt "SettingsOptions::social_buttons::twitter_enable"
+msgid "Show Twitter button"
+msgstr "إظهار زر تويتر"
+
+msgctxt "SettingsOptions::social_buttons::twitter_via"
+msgid "Via"
+msgstr "عن طريق"
+
+msgctxt "SettingsOptions::social_buttons::twitter_size"
+msgid "Button size"
+msgstr "حجم الزر"
+
+msgctxt "SettingsOptions::social_buttons::twitter_display_count"
+msgid "Display count"
+msgstr "عدد مرات العرض"
+
+msgctxt "SettingsOptions::social_buttons::twitter_display_on"
+msgid "Display on"
+msgstr "عرض على"
+
+msgctxt "SettingsOptions::social_buttons::facebook_enable"
+msgid "Show Facebook button"
+msgstr "إظهار زر ألفيس بوك"
+
+msgctxt "SettingsOptions::social_buttons::facebook_app_id"
+msgid "Facebook app ID"
+msgstr "معرف التطبيق الفيسبوك"
+
+msgctxt "SettingsOptions::social_buttons::facebook_href"
+msgid "The URL of the page to like"
+msgstr "عنوان URL للصفحة التي تريد الإعجاب بها"
+
+msgctxt "SettingsOptions::social_buttons::facebook_send"
+msgid "Include a Send button with the Like button"
+msgstr "يتضمن زر الإرسال مع زر لايك"
+
+msgctxt "SettingsOptions::social_buttons::facebook_width"
+msgid "Width of the Like button (px)"
+msgstr "مقاس العرض للزر لايك (Px)"
+
+msgctxt "SettingsOptions::social_buttons::facebook_layout"
+msgid "Button layout"
+msgstr "تخطيط الزر"
+
+msgctxt "SettingsOptions::social_buttons::facebook_show_faces"
+msgid "Display profile photos"
+msgstr "عرض صور الصفحة الشخصية"
+
+msgctxt "SettingsOptions::social_buttons::facebook_action"
+msgid "Button verb"
+msgstr "فعل الزر"
+
+msgctxt "SettingsOptions::social_buttons::facebook_lang"
+msgid "Language"
+msgstr "اللغة"
+
+msgctxt "SettingsOptions::social_buttons::facebook_action_font"
+msgid "Button font"
+msgstr "خط الزر"
+
+msgctxt "SettingsOptions::social_buttons::facebook_colorscheme"
+msgid "Color scheme"
+msgstr "نظام الألوان"
+
+msgctxt "SettingsOptions::social_buttons::facebook_display_on"
+msgid "Display on"
+msgstr "عرض على"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_enable"
+msgid "Show Vkontakte button"
+msgstr "إظهار زر فكونتاكتي"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_appid"
+msgid "Vkontakte app ID"
+msgstr "معرف تطبيق فكونتاكتي"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_button_style"
+msgid "Button layout"
+msgstr "تخطيط زر"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_height"
+msgid "Button height (px)"
+msgstr "ارتفاع الزر(px)"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_width"
+msgid "Button width (px)"
+msgstr "عرض الزر"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_buttons_name"
+msgid "Button name"
+msgstr "اسم الزر"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_display_on"
+msgid "Display on"
+msgstr "عرض على"
+
+msgctxt "SettingsTooltips::social_buttons::twitter_via"
+msgid "User name to attribute the Tweet to (i.e. 'via @username')"
+msgstr "اسم المستخدم الذي سينسب إليه التغريدة (على سبيل المثال ، 'عبر @ اسم المستخدم')"
+
+msgctxt "SettingsTooltips::social_buttons::facebook_app_id"
+msgid "Specify any Facebook app ID, otherwise the button will not be shown"
+msgstr "حدد أي معرف تطبيق Facebook ، وإلا فلن يظهر الزر"
+
+msgctxt "SettingsTooltips::social_buttons::facebook_href"
+msgid "Leave empty to use an actual page URL"
+msgstr "اتركه فارغًا لاستخدام عنوان URL الفعلي للصفحة"
+
+msgctxt "SettingsTooltips::social_buttons::facebook_show_faces"
+msgid "Enable to display profile photos below the button (standard layout only)"
+msgstr "تمكين لعرض صور الملف الشخصي أسفل الزر (التخطيط القياسي فقط)"
+
+msgctxt "SettingsTooltips::social_buttons::vkontakte_width"
+msgid "Only for the button with text counter"
+msgstr "فقط للزر مع عداد النص"
+
+msgctxt "SettingsVariants::social_buttons::twitter_size::medium"
+msgid "Medium"
+msgstr "متوسط"
+
+msgctxt "SettingsVariants::social_buttons::twitter_size::large"
+msgid "Large"
+msgstr "كبير"
+
+msgctxt "SettingsVariants::social_buttons::twitter_display_count::none"
+msgid "None"
+msgstr "لا شيء"
+
+msgctxt "SettingsVariants::social_buttons::twitter_display_count::horizontal"
+msgid "Horizontal"
+msgstr "أفقي"
+
+msgctxt "SettingsVariants::social_buttons::twitter_display_count::vertical"
+msgid "vertical"
+msgstr "عمودي"
+
+msgctxt "SettingsVariants::social_buttons::twitter_display_on::products"
+msgid "Product details pages"
+msgstr "صفحات تفاصيل المنتج"
+
+msgctxt "SettingsVariants::social_buttons::twitter_display_on::pages"
+msgid "Pages"
+msgstr "الصفحات"
+
+msgctxt "SettingsVariants::social_buttons::facebook_display_on::products"
+msgid "Product details pages"
+msgstr "صفحات تفاصيل المنتج"
+
+msgctxt "SettingsVariants::social_buttons::facebook_display_on::pages"
+msgid "Pages"
+msgstr "الصفحات"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_display_on::products"
+msgid "Product details pages"
+msgstr "صفحات تفاصيل المنتج"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_display_on::pages"
+msgid "Pages"
+msgstr "الصفحات"
+
+msgctxt "SettingsVariants::social_buttons::facebook_layout::standard"
+msgid "Standard"
+msgstr "اساسي"
+
+msgctxt "SettingsVariants::social_buttons::facebook_layout::button_count"
+msgid "With count"
+msgstr "مع العد"
+
+msgctxt "SettingsVariants::social_buttons::facebook_layout::box_count"
+msgid "With large count"
+msgstr "مع عدد كبير"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_buttons_name::like"
+msgid "Like"
+msgstr "إعجاب"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action::like"
+msgid "Like"
+msgstr "إعجاب"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action::recommend"
+msgid "Recommend"
+msgstr "يرشح"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::af_ZA"
+msgid "Afrikaans"
+msgstr "الأفريكانية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ar_AR"
+msgid "Arabic"
+msgstr "عربى"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::az_AZ"
+msgid "Azerbaijani"
+msgstr "الأذربيجانية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::be_BY"
+msgid "Belarusian"
+msgstr "البيلاروسية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::bg_BG"
+msgid "Bulgarian"
+msgstr "البلغارية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::bn_IN"
+msgid "Bengali"
+msgstr "البنغالية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::bs_BA"
+msgid "Bosnian"
+msgstr "البوسنية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ca_ES"
+msgid "Catalan"
+msgstr "الكاتالونية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::cs_CZ"
+msgid "Czech"
+msgstr "التشيكية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::cy_GB"
+msgid "Welsh"
+msgstr "الويلزية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::da_DK"
+msgid "Danish"
+msgstr "الدانماركية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::de_DE"
+msgid "German"
+msgstr "الألمانية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::el_GR"
+msgid "Greek"
+msgstr "اليونانية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::en_GB"
+msgid "English (UK)"
+msgstr "الإنكليزية (المملكة المتحدة)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::en_PI"
+msgid "English (Pirate)"
+msgstr "الإنجليزية (قرصان)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::en_UD"
+msgid "English (Upside Down)"
+msgstr "الإنجليزية (رأسا على عقب)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::en_US"
+msgid "English (US)"
+msgstr "الإنجليزية (الولايات المتحدة)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::eo_EO"
+msgid "Esperanto"
+msgstr "اسبرانتو"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::es_ES"
+msgid "Spanish (Spain)"
+msgstr "الإسبانية (إسبانيا)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::es_LA"
+msgid "Spanish"
+msgstr "الإسبانية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::et_EE"
+msgid "Estonian"
+msgstr "الإستونية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::eu_ES"
+msgid "Basque"
+msgstr "الباسك"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fa_IR"
+msgid "Persian"
+msgstr "فارسي"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fb_LT"
+msgid "Leet Speak"
+msgstr "ليت الكلام"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fi_FI"
+msgid "Finnish"
+msgstr "الفنلندية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fo_FO"
+msgid "Faroese"
+msgstr "فارويز"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fr_CA"
+msgid "French (Canada)"
+msgstr "الفرنسية (كندا)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fr_FR"
+msgid "French (France)"
+msgstr "الفرنسية (فرنسا)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fy_NL"
+msgid "Frisian"
+msgstr "الفريزيان"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ga_IE"
+msgid "Irish"
+msgstr "الأيرلندية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::gl_ES"
+msgid "Galician"
+msgstr "الجاليكية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::he_IL"
+msgid "Hebrew"
+msgstr "العبرية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::hi_IN"
+msgid "Hindi"
+msgstr "الهندية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::hr_HR"
+msgid "Croatian"
+msgstr "الكرواتية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::hu_HU"
+msgid "Hungarian"
+msgstr "المجرية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::hy_AM"
+msgid "Armenian"
+msgstr "الأرمينية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::id_ID"
+msgid "Indonesian"
+msgstr "الإندونيسية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::is_IS"
+msgid "Icelandic"
+msgstr "الأيسلندية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::it_IT"
+msgid "Italian"
+msgstr "الإيطالية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ja_JP"
+msgid "Japanese"
+msgstr "اليابانية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ka_GE"
+msgid "Georgian"
+msgstr "الجورجية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::km_KH"
+msgid "Khmer"
+msgstr "الخمير"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ko_KR"
+msgid "Korean"
+msgstr "الكورية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ku_TR"
+msgid "Kurdish"
+msgstr "الكردية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::la_VA"
+msgid "Latin"
+msgstr "اللاتينية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::lt_LT"
+msgid "Lithuanian"
+msgstr "الليتوانية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::lv_LV"
+msgid "Latvian"
+msgstr "اللاتفية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::mk_MK"
+msgid "Macedonian"
+msgstr "مقدوني"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ml_IN"
+msgid "Malayalam"
+msgstr "المالايالامية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ms_MY"
+msgid "Malay"
+msgstr "لغة الملايو"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::nb_NO"
+msgid "Norwegian (bokmal)"
+msgstr "النرويجية (بوكمال)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ne_NP"
+msgid "Nepali"
+msgstr "النيبالية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::nl_NL"
+msgid "Dutch"
+msgstr "الهولندية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::nn_NO"
+msgid "Norwegian (nynorsk)"
+msgstr "النرويجية (نينورسك)‏"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::pa_IN"
+msgid "Punjabi"
+msgstr "البنجابية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::pl_PL"
+msgid "Polish"
+msgstr "البولندية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ps_AF"
+msgid "Pashto"
+msgstr "الباشتو"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::pt_BR"
+msgid "Portuguese (Brazil)"
+msgstr "البرتغالية (البرازيل)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::pt_PT"
+msgid "Portuguese (Portugal)"
+msgstr "البرتغالية (البرتغال)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ro_RO"
+msgid "Romanian"
+msgstr "روماني"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ru_RU"
+msgid "Russian"
+msgstr "الروسية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sk_SK"
+msgid "Slovak"
+msgstr "السلوفاكية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sl_SI"
+msgid "Slovenian"
+msgstr "السلوفينية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sq_AL"
+msgid "Albanian"
+msgstr "الألبانية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sr_RS"
+msgid "Serbian"
+msgstr "الصربية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sv_SE"
+msgid "Swedish"
+msgstr "السويدية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sw_KE"
+msgid "Swahili"
+msgstr "السواحيلية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ta_IN"
+msgid "Tamil"
+msgstr "التاميل"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::te_IN"
+msgid "Telugu"
+msgstr "التيلجو"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::th_TH"
+msgid "Thai"
+msgstr "التايلاندية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::tl_PH"
+msgid "Filipino"
+msgstr "الفلبينية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::tr_TR"
+msgid "Turkish"
+msgstr "اللغة التركية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::uk_UA"
+msgid "Ukrainian"
+msgstr "الأوكرانية"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::vi_VN"
+msgid "Vietnamese"
+msgstr "فيتنامي"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::zh_CN"
+msgid "Simplified Chinese (China)"
+msgstr "الصينية المبسطة (الصين)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::zh_HK"
+msgid "Traditional Chinese (Hong Kong)"
+msgstr "الصينية التقليدية (هونج كونج)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::zh_TW"
+msgid "Traditional Chinese (Taiwan)"
+msgstr "الصينية التقليدية (تايوان)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::arial"
+msgid "Arial"
+msgstr "اريال"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::lucida grande"
+msgid "Lucida grande"
+msgstr "لوسيدا غراندي"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::segoe ui"
+msgid "Segoe ui"
+msgstr "Segoe ui"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::tahoma"
+msgid "Tahoma"
+msgstr "تاهوما"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::trebuchet ms"
+msgid "Trebuchet ms"
+msgstr "Trebuchet ms"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::verdana"
+msgid "Verdana"
+msgstr "فيردانا"
+
+msgctxt "SettingsVariants::social_buttons::facebook_colorscheme::light"
+msgid "Light"
+msgstr "فاتح"
+
+msgctxt "SettingsVariants::social_buttons::facebook_colorscheme::dark"
+msgid "Dark"
+msgstr "غامق"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_button_style::full"
+msgid "Button with a text counter"
+msgstr "زر مع عداد النص"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_button_style::button"
+msgid "Button with a little counter"
+msgstr "زر مع عداد صغير"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_button_style::mini"
+msgid "Mini button"
+msgstr "زر صغير"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_button_style::Vertical"
+msgid "Mini button, counter on top"
+msgstr "زر صغير ، عداد في الأعلى"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_buttons_name::interesting"
+msgid "It's interesting"
+msgstr "إنه شيق"
+
+msgctxt "SettingsOptions::social_buttons::pinterest_display_on"
+msgid "Display on"
+msgstr "عرض على"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_display_on::products"
+msgid "Product details pages"
+msgstr "صفحات تفاصيل المنتج"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_display_on::pages"
+msgid "Pages"
+msgstr "الصفحات"
+
+msgctxt "SettingsSections::social_buttons::pinterest"
+msgid "Pinterest"
+msgstr "بينتيريست"
+
+msgctxt "SettingsOptions::social_buttons::pinterest_enable"
+msgid "Show Pinterest button"
+msgstr "إظهار زر بينتيريست"
+
+msgctxt "SettingsOptions::social_buttons::pinterest_size"
+msgid "Button size"
+msgstr "حجم الزر"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_size::20"
+msgid "Small"
+msgstr "صغير"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_size::28"
+msgid "Large"
+msgstr "كبير"
+
+msgctxt "SettingsOptions::social_buttons::pinterest_shape"
+msgid "Shape"
+msgstr "الشكل"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_shape::rect"
+msgid "Rectangular"
+msgstr "مستطيل"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_shape::round"
+msgid "Circular"
+msgstr "دائري"
+
+msgctxt "Languages::addons.social_buttons.yandex_button_update_notice_title"
+msgid "Social buttons: Please update Yandex.Share code if you use Yandex social buttons"
+msgstr "الأزرار الاجتماعية: يرجى تحديث رمز Yandex.Share إذا كنت تستخدم أزرار Yandex الاجتماعية"
+
+msgctxt "Languages::addons.social_buttons.yandex_button_update_notice"
+msgid "<p>After some changes on the Yandex end, the Odnoklassniki social button stopped working for some of our clients. To make sure that the button works in your store, copy the up-to-date code from the Yandex website, paste it into the <b>Yandex.Share code</b> field, and save your changes.</p><p><a href=\"[GO_TO_ADDON_SETTING_LINK]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Open add-on settings</a> <a href=\"https://tech.yandex.ru/share/\" target=\"_blank\" class=\"btn btn-large\">Get up-to-date code from Yandex</a></p>"
+msgstr "<p>بعد إجراء بعض التغييرات في نهاية Yandex ، توقف زر Odnoklassniki الاجتماعي عن العمل لبعض عملائنا. للتأكد من أن الزر يعمل في متجرك ، انسخ الرمز المحدث من موقع Yandex الإلكتروني ، والصقه في حقل<b>Yandex.Share code</b> ، واحفظ التغييرات.</p><p><a href=\"[GO_TO_ADDON_SETTING_LINK]\" target=\"_blank\" class=\"btn btn-large btn-primary\">فتح إعدادات الوظيفة الإضافية</a> <a href=\"https://tech.yandex.ru/share/\" target=\"_blank\" class=\"btn btn-large\">احصل على كود محدث من</a></p>"
+

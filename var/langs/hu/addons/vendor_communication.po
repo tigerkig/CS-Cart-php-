@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.13.2/addons/vendor_communication.po\n"
+"X-Crowdin-File-ID: 4686\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::vendor_communication"
+msgid "Message center"
+msgstr "Üzenetközpont"
+
+msgctxt "Addons::description::vendor_communication"
+msgid "Allows customers, vendors, and administrators to contact each other via the built-in chat."
+msgstr "Lehetővé teszi, hogy a vásárlók, a termelők és az adminisztrátorok a beépített chaten keresztül kapcsolatba léphessenek egymással."
+
+msgctxt "SettingsSections::vendor_communication::general"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "SettingsSections::vendor_communication::vendor_to_customer"
+msgid "For customers"
+msgstr "A vásárlók számára"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_product"
+msgid "Contact button on product pages"
+msgstr "Kapcsolat gomb a termékoldalakon"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_vendor"
+msgid "Contact button in vendor microstore"
+msgstr "Kapcsolat gomb a termelői mikropiactéren"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_messages"
+msgid "Contact button at \"Messages\" menu"
+msgstr "Kapcsolat gomb az \"Üzenetek\" menüben"
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_product"
+msgid "Show the \"Ask a question\" button on product pages."
+msgstr "A \"Kérdezz\" gomb megjelenítése a termékoldalakon."
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_vendor"
+msgid "Show the \"Ask a question\" button in vendors' microstores."
+msgstr "A \"Kérdezz\" gomb megjelenítése a termelők mikropiacterén."
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_customer_communication"
+msgid "Customer-to-seller communication"
+msgstr "Vásárló és eladó közötti kommunikáció"
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_admin_communication"
+msgid "Vendor-to-admin communication"
+msgstr "Termelő és adminisztrátor közötti kommunikáció"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_order"
+msgid "Contact button on detailed order page"
+msgstr "Kapcsolat gomb a részletes rendelési oldalon"
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_order"
+msgid "Show the \"Start communication\" button on detailed order page."
+msgstr "A \"Kommunikáció indítása\" gomb megjelenítése a részletes rendelési oldalon."
+
+msgctxt "Languages::vendor_communication.messages"
+msgid "Messages"
+msgstr "Üzenetek"
+
+msgctxt "Languages::vendor_communication.message_center"
+msgid "Message center"
+msgstr "Üzenetközpont"
+
+msgctxt "Languages::vendor_communication.message_center_name"
+msgid "Message center"
+msgstr "Üzenetközpont"
+
+msgctxt "Languages::vendor_communication.message_center_name_menu_description"
+msgid "Messages from customers"
+msgstr "Üzenetek a vásárlóktól"
+
+msgctxt "Languages::vendor_communication.message_center_menu_description"
+msgid "Customer-to-vendor messages"
+msgstr "Vasárlótól a termelőhöz szóló üzenetek"
+
+msgctxt "Languages::vendor_communication.author"
+msgid "Author"
+msgstr "Szerző"
+
+msgctxt "Languages::vendor_communication.date"
+msgid "Date"
+msgstr "Dátum"
+
+msgctxt "Languages::vendor_communication.message"
+msgid "Message"
+msgstr "Üzenet"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "Kapcsolat a termelővel"
+
+msgctxt "Languages::vendor_communication.ask_a_question"
+msgid "Ask a question"
+msgstr "Kérdés feltevése"
+
+msgctxt "Languages::vendor_communication.contact_vendor_name"
+msgid "Contact [vendor_name]"
+msgstr "Kapcsolatfelvétel [vendor_name]"
+
+msgctxt "Languages::vendor_communication.created_at"
+msgid "Created on"
+msgstr "Létrehozva ...-án"
+
+msgctxt "Languages::vendor_communication.new_thread_created"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>The vendor's reply will be sent to the email address of your account. To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "Üzeneted elküldtük a <b>[vendor_name]</b> címre.<br/><br/>A termelő válasza a fiókodban megadott e-mail címre érkezik. Az üzenettörténet megtekintéséhez kérjük, <a href=\"[thread_url]\">menj az Üzenetközpontba</a>, amely a \"Fiókom\" menü \"Üzenetek\" részében található."
+
+msgctxt "Languages::vendor_communication.message_sent"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>We'll notify you about a reply. To view your message history, please <a href=\"[thread_url]\" target=\"_blank\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "Üzeneted elküldtük a <b>[vendor_name]</b> címre.<br/><br/>A válaszról értesítünk. Az üzeneteinek előzményei megtekintéséhez kérjük, <a href=\"[thread_url]\" target=\"_blank\">menj az Üzenetközpontba</a>, amely a \"Fiókom\" menü \"Üzenetek\" részében található."
+
+msgctxt "Languages::vendor_communication.cannot_update_thread"
+msgid "Cannot update thread"
+msgstr "Nem lehet frissíteni a témát"
+
+msgctxt "Languages::vendor_communication.cannot_create_thread"
+msgid "Cannot create thread"
+msgstr "Nem lehet témát létrehozni"
+
+msgctxt "Languages::email_template.vendor_communication.notify_admin"
+msgid "Ask seller a question: Admin Notification"
+msgstr "Kérdéssel fordulj a termelőhöz: Admin értesítése"
+
+msgctxt "Languages::email_template.vendor_communication.notify_customer"
+msgid "Ask seller a question: Customer Notification"
+msgstr "Kérdéssel fordulj a termelőhöz:  Vásárló értesítése"
+
+msgctxt "Languages::vendor_communication.you_have_new_message"
+msgid "You have a new <a href=\"[thread_url]\">message</a> from [message_from]."
+msgstr "Új <a href=\"[thread_url]\">üzenet</a> érkezett a [message_from] címről."
+
+msgctxt "Languages::vendor_communication.subject_email"
+msgid "You have a new message from [message_from]"
+msgstr "Új üzeneted érkezett a [message_from]-tól."
+
+msgctxt "Languages::vendor_communication.thread"
+msgid "Thread #[thread_id]"
+msgstr "#[thread_id] téma"
+
+msgctxt "Languages::vendor_communication.contact_with"
+msgid "#[thread_id]. Communication with [thread_company]"
+msgstr "#[thread_id]. Kommunikáció a [thread_company]-val"
+
+msgctxt "Languages::vendor_communication.ticket"
+msgid "Thread"
+msgstr "Téma"
+
+msgctxt "Languages::vendor_communication.no_messages_found"
+msgid "No messages found"
+msgstr "Nem található üzenet"
+
+msgctxt "Languages::vendor_communication.customer_name"
+msgid "Customer name"
+msgstr "Vásárló neve"
+
+msgctxt "Languages::vendor_communication.error_message"
+msgid "Please enter your message"
+msgstr "Kérjük, írd be az üzeneted"
+
+msgctxt "Languages::vendor_communication.type_message"
+msgid "Type a message..."
+msgstr "Írj üzenetet..."
+
+msgctxt "Languages::vendor_communication.you"
+msgid "You"
+msgstr "Te"
+
+msgctxt "Languages::vendor_communication.order_details"
+msgid "Order details"
+msgstr "Rendelés részletei"
+
+msgctxt "Languages::vendor_communication.import_details"
+msgid "Import details"
+msgstr "Importálás részletei"
+
+msgctxt "Languages::vendor_communication.thread_deleted"
+msgid "Thread has been deleted"
+msgstr "A témát törölték"
+
+msgctxt "Languages::vendor_communication.threads_deleted"
+msgid "Threads have been deleted"
+msgstr "A témákat törölték"
+
+msgctxt "Languages::vendor_communication.cannot_delete_thread"
+msgid "Cannot delete thread"
+msgstr "Nem lehet törölni a témát"
+
+msgctxt "Languages::vendor_communication.cannot_delete_threads"
+msgid "Cannot delete threads"
+msgstr "Nem lehet témákat törölni"
+
+msgctxt "Languages::vendor_communication.cannot_post_message"
+msgid "Cannot post message"
+msgstr "Nem lehet üzenetet küldeni"
+
+msgctxt "Languages::vendor_communication.no_threads_found"
+msgid "No threads found"
+msgstr "Nem találtak témákat"
+
+msgctxt "Languages::vendor_communication.required_field_is_missing"
+msgid "The [field_name] field is required"
+msgstr "A [field_name] mező kötelező"
+
+msgctxt "Languages::vendor_communication.invalid_thread_object_type"
+msgid "Provided thread object type is invalid"
+msgstr "A megadott témaobjektum típusa érvénytelen"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_contact_vendor"
+msgid "Please sign in to contact the vendor"
+msgstr "Kérjük, jelentkezz be, hogy kapcsolatba léphess a termelővel"
+
+msgctxt "Languages::privileges.manage_vendor_communication"
+msgid "Can edit"
+msgstr "Szerkeszthető"
+
+msgctxt "Languages::privileges.view_vendor_communication"
+msgid "Can view"
+msgstr "Megtekinthető"
+
+msgctxt "Languages::privilege_groups.vendor_communication"
+msgid "Message center: customer-to-vendor communication"
+msgstr "Üzenetközpont: vásárló és termelő közötti kommunikáció"
+
+msgctxt "Languages::vendor_communication.your_message_to_vendor_name"
+msgid "Your message to [vendor_name]"
+msgstr "Üzeneted [vendor_name] részére"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_be_notified"
+msgid "Please sign in so that we can notify you about a reply"
+msgstr "Kérjük, jelentkezz be, hogy értesíthessünk a válaszról."
+
+msgctxt "Languages::vendor_communication"
+msgid "Message center"
+msgstr "Üzenetközpont"
+
+msgctxt "Languages::vendor_communication.event.message_received.name"
+msgid "Customer-to-vendor: New message received"
+msgstr "A vásárlótól a termelőnek: Új üzenet érkezett"
+
+msgctxt "Languages::vendor_communication.event.vendor_to_admin_message_received.name"
+msgid "Vendor-to-admin: New message received"
+msgstr "A termelőtől az adminisztrátornak: Új üzenet érkezett"
+
+msgctxt "Languages::internal_template.vendor_communication_message_received"
+msgid "New message received"
+msgstr "Új üzenet érkezett"
+
+msgctxt "Languages::vendor_communication.new_message.title"
+msgid "[company_name] has a new message from [customer]"
+msgstr "[company_name] új üzenetet kapott [customer]-tól"
+
+msgctxt "Languages::vendor_communication.new_message.message"
+msgid "Click this notification to see the message"
+msgstr "Kattints erre az értesítésre az üzenet megtekintéséhez"
+
+msgctxt "Languages::vendor_communication.contact_admin"
+msgid "Contact administrator"
+msgstr "Kapcsolatfelvétel az adminisztrátorral"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "Kapcsolat a termelővel"
+
+msgctxt "Languages::vendor_communication.communication"
+msgid "Communication"
+msgstr "Kommunikáció"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name"
+msgid "Message center"
+msgstr "Üzenetközpont"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name_menu_description"
+msgid "Messages from vendor to administrator"
+msgstr "A termelőtől az adminisztrátorhoz küldött üzenetek"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin"
+msgid "Vendor communication"
+msgstr "Termelői kommunikáció"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_customer"
+msgid "Customer communication"
+msgstr "Vásárlói kommunikáció"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin_for_vendor_panel"
+msgid "Admin communication"
+msgstr "Adminisztrátori kommunikáció"
+
+msgctxt "Languages::vendor_communication.your_message_to_admin"
+msgid "Your message to administrator"
+msgstr "Üzeneted az adminisztrátornak"
+
+msgctxt "Languages::vendor_communication.some_threads_have_not_been_created"
+msgid "Some threads have not been created: [count]"
+msgstr "Egyes témakörök nem lettek létrehozva: [count]"
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "Az üzeneted a <b>[name]</b> címre lett elküldve.<br/><br/>Az üzenetek előzményeinek megtekintéséhez kérjük, <a href=\"[thread_url]\">menj az Üzenetközpontba</a>, amely az \"Termelők\" menüben található."
+
+msgctxt "Languages::vendor_communication.vendor_to_customer.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Customers\" menu."
+msgstr "Üzeneted elküldtük a következő címre: <b>[név]</b>.<br/><br/>Az üzenet előzményeinek megtekintéséhez kérjük, <a href=\"[thread_url]\">menj az Üzenetközpontba</a>, amely a \"Vásárlók\" menüben található."
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_list_sent"
+msgid "Your messages have been sent.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "Az üzeneteidet elküldtük.<br/><br/>Az üzenet előzményeinek megtekintéséhez kérjük, <a href=\"[thread_url]\">menj az Üzenetközpontba</a>, amely a \"Vásárlók\" menüben található."
+
+msgctxt "Languages::privilege_groups.admin_communication"
+msgid "Message center: vendor-to-admin communication"
+msgstr "Üzenetközpont: termelő és adminisztrátor közötti kommunikáció"
+
+msgctxt "Languages::customer_to_admin_communication.event.message_received.name"
+msgid "Customer-to-Admin: New message received"
+msgstr "Vásárló és adminisztrátor közötti kommunikáció: Új üzenet érkezett"
+
+msgctxt "Languages::vendor_communication.start_communication"
+msgid "Start communication"
+msgstr "Kommunikáció megkezdése"
+
+msgctxt "Languages::privilege_groups.order_communication"
+msgid "Message center: communication with customer"
+msgstr "Üzenetközpont: kommunikáció a vásárlóval"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin"
+msgid "Communication with vendor"
+msgstr "Kommunikáció a termelővel"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_customer"
+msgid "Communication with customer"
+msgstr "Kommunikáció a vásárlóval"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin_with_admin"
+msgid "Communication with administrator"
+msgstr "Kommunikáció az adminisztrátorral"
+
+msgctxt "Languages::vendor_communication.contact_customer"
+msgid "Contact customer"
+msgstr "Kapcsolatfelvétel a vásárlóval"
+
+msgctxt "Languages::vendor_communication.subject"
+msgid "Subject"
+msgstr "Tárgy"
+
+msgctxt "Languages::vendor_communication.admin"
+msgid "Admin"
+msgstr "Admininsztrátor"
+
+msgctxt "Languages::vendor_communication.your_message_to_customer"
+msgid "Your message to customer"
+msgstr "Üzeneted a vásárlónak"
+
+msgctxt "Languages::vendor_communication.event.order_message_received.name"
+msgid "Order communication: New message received"
+msgstr "Rendeléssel kapcsolatos kommunikáció: Új üzenet érkezett"
+
+msgctxt "Languages::vendor_communication.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Görgess a tetejére"
+
+msgctxt "Languages::vendor_communication.send_message"
+msgid "Send message"
+msgstr "Üzenet küldése"
+

@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/tags.po\n"
+"X-Crowdin-File-ID: 4658\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::tags"
+msgid "Tags"
+msgstr "Tag"
+
+msgctxt "Addons::description::tags"
+msgid "Enables product tags"
+msgstr "Memungkinkan label produk"
+
+msgctxt "Languages::tags_menu_description"
+msgid "Manage product and content page tags."
+msgstr "Kelola tag halaman produk dan konten."
+
+msgctxt "Languages::sign_in_to_enter_tags"
+msgid "Sign in to enter tags"
+msgstr "Masuk untuk memasukkan tag"
+
+msgctxt "Languages::tag_cloud"
+msgid "Tag cloud"
+msgstr "Tag cloud"
+
+msgctxt "Languages::tags"
+msgid "Tags"
+msgstr "Tag"
+
+msgctxt "Languages::block_tags"
+msgid "Tags"
+msgstr "Tag"
+
+msgctxt "Languages::block_tags_description"
+msgid "Product tags"
+msgstr "Tag produk"
+
+msgctxt "Languages::addons.tags.add_a_tag"
+msgid "add a tag"
+msgstr "tambahkan tag"
+
+msgctxt "Languages::items_marked_by_tag"
+msgid "Items marked by the \"[tag]\" tag:"
+msgstr "Item yang ditandai dengantag \" [tag] \":"
+
+msgctxt "Languages::tag"
+msgid "Tag"
+msgstr "Menandai"
+
+msgctxt "Languages::add_tag"
+msgid "Add tag"
+msgstr "Tambahkan tag"
+
+msgctxt "SettingsSections::tags::general"
+msgid "General"
+msgstr "Umum\n"
+" \n"
+"Konteks | Permintaan Konteks"
+
+msgctxt "SettingsOptions::tags::tags_for_products"
+msgid "Tags for products"
+msgstr "Tag untuk produk"
+
+msgctxt "SettingsOptions::tags::tags_for_pages"
+msgid "Tags for pages"
+msgstr "Tag untuk halaman"
+
+msgctxt "Languages::n_tags"
+msgid "[n] tag|[n] tags"
+msgstr ""
+

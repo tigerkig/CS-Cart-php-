@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/google_export.po\n"
+"X-Crowdin-File-ID: 4570\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::google_export"
+msgid "Google export"
+msgstr "גוגל ייצוא"
+
+msgctxt "Addons::description::google_export"
+msgid "Expands the Data Feeds add-on to work with Google Base and creates an example of such data feed"
+msgstr "מרחיב את ההרחבה הזנות נתונים כדי לעבוד עם בסיס של גוגל ויוצר דוגמה של נתונים כגון להאכיל"
+
+msgctxt "Languages::google_export_general_info"
+msgid "<p>Note: toggle this setting if you need multi-language Google categories installed. Supports French, German, Italian, Spanish, and British English. Pay attention that this operation can take a significant amount of time.</p>"
+msgstr "<p>הערה: החלף הגדרה זו אם אתה זקוק לקטגוריות Google מרובות שפותמות. תומך צרפתית, גרמנית, איטלקית, ספרדית, אנגלית בריטית. שימו לב כי פעולה זו יכולה לקחת כמות משמעותית של זמן.</p>"
+
+msgctxt "Languages::google_export_start_import"
+msgid "Start importing"
+msgstr "להתחיל בייבוא"
+
+msgctxt "SettingsSections::google_export::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::google_export::general_info"
+msgid "General info"
+msgstr "מידע כללי"
+
+msgctxt "SettingsOptions::google_export::additional_langs"
+msgid "Install additional languages for Google categories"
+msgstr "להתקין שפות נוספות לקטגוריות Google"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices"
+msgid "Don't export items with a price value of 0.00"
+msgstr "אל תייצא פריטים בעלי ערך מחיר של 0.00"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices_description"
+msgid "You must not include a price value of 0.00 for your Google Products Feed items. Items with zero prices may not appear in the search results."
+msgstr "אין לכלול ערך מחיר של 0.00 את הפריטים להאכיל מוצרי גוגל. פריטים במחירי אפס עשויים שלא להופיע בתוצאות החיפוש."
+
+msgctxt "Languages::addons.google_export.notice"
+msgid "Before you export products to Google Product Feed, make sure that the Code of your store's <a href=\"[currency_url]\">primary currency</a> conforms to <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> and used <a href=\"[settings_url]\">Weight symbol</a> is one of the following: lb, oz, g, kg"
+msgstr "לפני שתייצא מוצרים לעדכון המוצרים של Google, ודא שקוד החנות שלך<a href=\"[currency_url]\">- מטבע ראשוני</a> תואם <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> ו בשימוש <a href=\"[settings_url]\">סמל משקל</a> הוא אחד מהבאים: lb, oz, g, kg"
+
+msgctxt "Languages::addons.google_export.google_export"
+msgid "Google export"
+msgstr "גוגל ייצוא"
+
+msgctxt "Languages::google_name_option"
+msgid "Equivalent in Google:"
+msgstr "המקבילה ב- Google:"
+
+msgctxt "Languages::addons.google_export.tax_notice"
+msgid "For the US, don't include tax in the price. For Canada and India, do not include any value added tax in the price. For all other countries, value added tax (VAT) has to be included in the price."
+msgstr "ארה ב, לא כוללים מע מ במחיר. עבור קנדה והודו, אינם כוללים כל ערך מוסף מס במחיר. עבור כל מדינות אחרות, ערך מוסף מיסים (VAT) חייב להיות כלול במחיר."
+
+msgctxt "Languages::addons.google_export.info_google_features"
+msgid "<p>Before you export a data feed file for Google Merchant, make sure to edit your products and specify the values of product features that belong to the Google Export group. You can do this via product import and export, or mass editing.</p><p> GTIN is a key identifier of a product. If you didn't specify GTIN as a feature, product's SKU from the CODE field will be used. GTINs for option combinations are always taken from the CODE fields of combinations.</p>"
+msgstr "<p>לפני שתייצא קובץ עדכון נתונים עבור Google Merchant, הקפד לערוך את המוצרים שלך ולציין את הערכים של תכונות המוצר השייכות לקבוצת הייצוא של Google. ניתן לעשות זאת באמצעות ייבוא וייצוא מוצרים, או עריכה המונית.</p><p> GTIN הוא מזהה מפתח של מוצר. אם לא ציינת את ה- GTIN כתכונה, ייעשה שימוש ב- SKU של המוצר משדה CODE. GTINs עבור שילובי אפשרויות נלקחים תמיד משדות ה- CODE של השילובים.</p>"
+
+msgctxt "Languages::tt_addons_google_export_hooks_product_options_properties_post_google_name_option"
+msgid "When you export a data feed file, this option will provide data for the selected Google field type."
+msgstr "כאשר אתה מייצא קובצ נתונים, אפשרות זו תספק נתונים עבור סוג שדה של גוגל."
+
+msgctxt "Languages::addons.google_export.text_info_setting_options"
+msgid "Please make sure that you selected this option as \"Equivalent in Google\" for one of the options in your store. Otherwise the data feed file may not be exported properly."
+msgstr "נא ודא כי בחרת באפשרות זו כמו \"המקבילה בגוגל\" עבור אחת מהאפשרויות בחנות שלך. אחרת להאכיל קובץ הנתונים אין אפשרות לייצא כראוי."
+

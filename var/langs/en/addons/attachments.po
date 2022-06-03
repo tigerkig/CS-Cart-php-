@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "Attachments"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "Makes it possible to attach files to products"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "Attachments"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "New attachment"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "Add attachment"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "Editing attachment"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "Product attachments"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "Attachments delimiter"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "Delimiter between attachments of a product."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "Delete existing attachments"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "Attachments directory"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "Save attachments to your server"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "Attachments listed as URLs in the imported file will be downloaded to your server."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr "Couldn't load file [url] for product [product]"

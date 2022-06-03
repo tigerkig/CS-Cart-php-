@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /release-4.13.2/addons/pay360.po\n"
+"X-Crowdin-File-ID: 4602\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::pay360"
+msgid "Pay360 payments"
+msgstr "Płatności Pay360"
+
+msgctxt "Addons::description::pay360"
+msgid "Allows you to accept payments via Pay360"
+msgstr "Umożliwia przyjmowanie płatności przez Pay360"
+
+msgctxt "Languages::pay360.api_username"
+msgid "API Username"
+msgstr "Nazwa użytkownika API"
+
+msgctxt "Languages::pay360.api_password"
+msgid "API Password"
+msgstr "Hasło API"
+
+msgctxt "Languages::pay360.installation_id"
+msgid "Hosted Cashier"
+msgstr "Hostowany kasjer"
+
+msgctxt "Languages::pay360.account_number_description"
+msgid "Account number used to identify the customer or loan. If this is a PAN, then provide the first six and last four digits of the PAN. Otherwise, provide up to ten characters of the account number."
+msgstr "Numer rachunku służący do identyfikacji klienta lub pożyczki. Jeśli jest to PAN, podaj pierwsze sześć i ostatnie cztery cyfry PAN. W przeciwnym razie podaj do dziesięciu znaków numeru konta."
+
+msgctxt "Languages::pay360.postal_code_description"
+msgid "First part of the postal code of the loan recipient; up to six characters. For example, if the postal code is “EC2A 1AE”, this would be “EC2A”."
+msgstr "Pierwsza część kodu pocztowego pożyczkobiorcy; do sześciu znaków. Na przykład, jeśli kod pocztowy to \"EC2A 1AE\", będzie to \"EC2A\"."
+
+msgctxt "Languages::pay360.surname_description"
+msgid "Surname of the loan recipient; up to six characters, excluding numbers or special characters. If the name is longer than six characters, then provide the first six. For example, for “Smith”, this would be “Smith”; for “Williams”, this would be “Willia”."
+msgstr "Nazwisko pożyczkobiorcy; do sześciu znaków, z wyłączeniem cyfr i znaków specjalnych. Jeśli nazwa ma więcej niż sześć znaków, podaj pierwsze sześć. Na przykład dla \"Smith\" będzie to \"Smith\"; dla \"Williams\" będzie to \"Willia\"."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols"
+msgid "Please, use only alphabetical characters."
+msgstr "Proszę używać tylko liter alfabetu."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols_and_numbers"
+msgid "Please, use only alphabetical characters and numbers."
+msgstr "Proszę używać tylko liter i cyfr."
+
+msgctxt "Languages::pay360.mandatory_fields_commentary"
+msgid "Mandatory for UK- and Europe-based MCC 6012, 6051 and some 7299 merchants"
+msgstr "Obowiązkowe dla brytyjskich i europejskich MCC 6012, 6051 i niektórych 7299 sprzedawców"
+

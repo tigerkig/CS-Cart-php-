@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<addon scheme="4.0">
+    <id>bulk_add_to_cart</id>
+    <version>1.0</version>
+    <priority>100</priority>
+    <status>active</status>
+    <default_language>en</default_language>
+
+    <autoload>
+        <psr4 prefix="Tygh\Addons\BulkAddToCart\">src</psr4>
+    </autoload>
+    <installer>\Tygh\Addons\BulkAddToCart\Installer</installer>
+
+</addon>

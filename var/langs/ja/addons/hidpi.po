@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.13.2/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 4578\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "高解像度ディスプレイ対応"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "Retinaディスプレイに最適化した画像を表示します"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "一般"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "高解像度画像をアップロードする"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "高解像度画像をアップロードする"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "デフォルトで \"高解像度画像をアップロードする\" チェックボックスにチェックを入れます。必要に応じてチェックを外してください。"
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "高解像度ディスプレイ対応が有効化されています"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "高解像度画像をアップロードする"
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "このチェックボックスがチェックされていると、ソース画像は2段階ダウンスケールされて表示されます。この設定はソース画像を表示する場合にだけ影響し、サムネイルには影響しません。オリジナルのサイズで表示したい場合はチェックボックスを外してください。"
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "画像の改善"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "前バージョンの高解像度ディスプレイ対応アドオンはアップロード画像を縮小していましたが、現バージョンでは必要ありません。しかし、画像を美しく表示するには改善をクリックする必要があります。"
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "改善"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong>注意!</strong> この処理はもとに戻せません: ダウングレードしても画像改善処理はもとに戻せません。そのため、必ずバックアップを取得してください。画像数により処理に時間がかかります。"
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_title"
+msgid "Make sure your images look good."
+msgstr "画像を美しく表示する"
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "いくつかの画像はまだ低画質です。高画質を使用するには、<a href=\"[convert_url]\">高画質画像に改善</a> してください。自動処理です。"
+
+msgctxt "Languages::hidpi.refactoring_upgrade_notification_text"
+msgid "<p>The previous version of the <b>[addon_name]</b> add-on shrank the uploaded images. We improved the add-on, so there is no need for that now. However, the existing images remain shrunk and don’t look good.</p><p>We can make your existing images look nice and sharp, but that procedure will take some time. That’s why we need you to start it.</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Make image look good</a></p>"
+msgstr "<p>前バージョンの <b>[addon_name]</b> アドオンはアップロード画像を縮小していました。アドオンを改善し、現バージョンでは縮小が不要となっています。しかし、既存の画像は縮小されたままです。</p><p>既存の画像を改善することができますが、処理には時間がかかります。こちらから操作してください。</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">高画質画像に改善</a></p>"
+

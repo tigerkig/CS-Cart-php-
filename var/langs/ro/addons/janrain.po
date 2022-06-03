@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.13.2/addons/janrain.po\n"
+"X-Crowdin-File-ID: 4584\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::janrain"
+msgid "Janrain"
+msgstr "Janrain"
+
+msgctxt "Addons::description::janrain"
+msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
+msgstr "Adaugă caracteristica Social Login; permite clienților să utilizeze Facebook, Twitter etc. să se conecteze la magazin"
+
+msgctxt "Languages::janrain_general_info"
+msgid "<p>Get these values and configure social login at <a href=\"http://janrain.com\" target=\"_blank\">janrain.com</a></p>"
+msgstr "<p> Obțineți aceste valori și configurați datele de conectare socială la <a href=\"http://janrain.com\" target=\"_blank\">janrain.com</a></p>"
+
+msgctxt "Languages::janrain_social_login"
+msgid "Social login"
+msgstr ""
+
+msgctxt "Languages::janrain_need_update_profile"
+msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
+msgstr "Câmpul \"Password\"și alte câmpuri obligatorii sunt goale în acest moment.  Vă rugăm să vă actualizați profilul."
+
+msgctxt "Languages::janrain_cant_create_profile"
+msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
+msgstr "Din păcate, nu am reușit să creăm un client și să ne conectăm la magazin din unul dintre următoarele motive: <br /> - V-ați conectat la magazinul nostru mai devreme folosind un alt furnizor OpenID în care este utilizat același e-mail. <Br / > - V-ați înregistrat deja în magazinul nostru folosind e-mailul dvs. <br /> Vă rugăm să contactați proprietarul magazinului pentru a rezolva problemele."
+
+msgctxt "SettingsSections::janrain::general"
+msgid "General"
+msgstr ""
+
+msgctxt "SettingsOptions::janrain::general_info"
+msgid "General info"
+msgstr ""
+
+msgctxt "SettingsOptions::janrain::apikey"
+msgid "API Key"
+msgstr ""
+
+msgctxt "SettingsOptions::janrain::appdomain"
+msgid "Application Domain"
+msgstr "Domeniul aplicației"
+

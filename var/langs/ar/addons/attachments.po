@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/attachments.po\n"
+"X-Crowdin-File-ID: 4520\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "المرفقات"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "يجعل من الممكن إرفاق ملفات إلى المنتجات"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "المرفقات"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "مرفق جديد"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "إضافة مرفق"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "تحرير المرفقات"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "يرجى تعريف مجلد الصور نسبة إلى مجلد المتجر الرئيسي. قم بوضع الصور لاستيرادها في هذا المجلد."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "لم نستطع استيراد المرفقات لبعض المنتجات. قد تكون المرفقات غير موجودة أو أن المسار لها غير صحيح."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "مرفقات المنتح"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "فاصل المرفقات"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "الفاصل بين المرفقات أو المنتجات."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "احذف المرفقات الموجودة"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "إذا قمت بتمكين هذا الإعداد ، فسيتم استبدال الصور الإضافية الموجودة للمنتجات المستوردة بالصور المحددة في الملف المدرج (في حالة عدم تحديد أي صور ، ستبقى الصور القديمة). إذا تم تعطيل الإعداد ، فسيتم ببساطة إضافة الصور الإضافية الجديدة إلى الصور الموجودة."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "مجلد الملفات"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "عام"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "احفظ المرفقات الى سيرفرك"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "المرفقات المدرجة كعناوين الأنترنت |URLs| في الملف المستورد سيتم تنزيلها إلى السيرفر الخاص بك."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr "لم يتم تحميل [url] لمنتج [product]"
+

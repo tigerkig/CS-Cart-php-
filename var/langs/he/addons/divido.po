@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.13.2/addons/divido.po\n"
+"X-Crowdin-File-ID: 4552\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::divido"
+msgid "Divido payments"
+msgstr "Divido תשלום"
+
+msgctxt "Addons::description::divido"
+msgid "Lets customers spread the cost of any purchase over a period of time while the merchant gets paid in full right away."
+msgstr "מאפשר ללקוחות להפיץ את העלות של כל רכישה על פני תקופה של זמן, בעוד הסוחר מקבל תשלום מלא באופן מיידי."
+
+msgctxt "Languages::addons.divido.select_currency_undefined"
+msgid "The [currency] currency is not set up in store"
+msgstr "המטבע [currency] אינו מוגדר במערכת"
+
+msgctxt "Languages::addons.divido.order_status"
+msgid "Divido status"
+msgstr "Divido מצב"
+
+msgctxt "Languages::addons.divido"
+msgid "Divido"
+msgstr "Divido"
+
+msgctxt "Languages::addons.divido.pay_in_instalments"
+msgid "Pay in instalments"
+msgstr "לשלם בתשלומים"
+
+msgctxt "Languages::addons.divido.choose_your_plan"
+msgid "Choose your plan"
+msgstr "בחר את התוכנית שלך"
+
+msgctxt "Languages::addons.divido.choose_your_deposit"
+msgid "Choose your deposit"
+msgstr "לבחור את הפיקדון"
+
+msgctxt "Languages::addons.divido.monthly_payments_of"
+msgid "monthly payments of"
+msgstr "תשלומים חודשיים"
+
+msgctxt "Languages::addons.divido.term"
+msgid "Term"
+msgstr "תנאי"
+
+msgctxt "Languages::addons.divido.deposit"
+msgid "Deposit"
+msgstr "פיקדון"
+
+msgctxt "Languages::addons.divido.cost_of_credit"
+msgid "Cost of credit"
+msgstr "עלות האשראי"
+
+msgctxt "Languages::addons.divido.total_payable"
+msgid "Total payable"
+msgstr "סה\"כ לתשלום"
+
+msgctxt "Languages::addons.divido.total_interest_apr"
+msgid "Total interest APR"
+msgstr "סה\"כ ריבית APR"
+
+msgctxt "Languages::addons.divido.text_redirected"
+msgid "You will be redirected to Divido to complete this finance application when you place your order"
+msgstr "תועבר אל Divido להשלמת יישום זה האוצר בעת ביצוע ההזמנה"
+
+msgctxt "Languages::addons.divido.cart_amount_limit"
+msgid "Minimum order total"
+msgstr "כמות מינימום להזמנה"
+
+msgctxt "Languages::addons.divido.monthly_instalment"
+msgid "Monthly instalment"
+msgstr "תשלום חודשי"
+
+msgctxt "Languages::ttc_addons.divido.cart_amount_limit"
+msgid "The order total has to be equal or greater than this sum, or the payment method won't be available at checkout. Leave empty if you don't want to impose this restriction."
+msgstr "סכום ההזמנה חייב להיות שווה או גדול מסכום זה, או ששיטת התשלום לא תהיה זמינה בזמן היציאה. השאר ריק אם אינך רוצה להטיל הגבלה זו."
+
+msgctxt "Languages::addons.divido.show_product_page_calculator"
+msgid "Show monthly payment rate on the product page"
+msgstr "הצג את שיעור התשלום החודשי בדף המוצר"
+
+msgctxt "Languages::addons.divido.product_price_limit"
+msgid "Minimum product price"
+msgstr "מחיר המוצר מינימלי"
+
+msgctxt "Languages::ttc_addons.divido.product_price_limit"
+msgid "The product price has to be equal or greater than this sum, or the monthly payment rate won't appear on the product page. Leave empty if you don't want to impose this restriction."
+msgstr "מחיר המוצר חייב להיות שווה או גדול מסכום זה, או ששיעור התשלום החודשי לא יופיע בדף המוצר. השאר ריק אם אינך רוצה להטיל הגבלה זו."
+
+msgctxt "Languages::finance_code"
+msgid "Finance code"
+msgstr "האוצר קוד"
+
+msgctxt "Languages::addons.divido.availability_notice"
+msgid "<b>Note:</b> Payments via Divido are only available to the residents of the United Kingdom and can only be made in pounds sterling (GBP)."
+msgstr "<b> שים לב: </b> תשלומים באמצעות Divido זמינים רק לתושבי בריטניה וניתן לבצעם רק ב לירות שטרלינג (GBP)."
+

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.13.2/addons/attachments.po\n"
+"X-Crowdin-File-ID: 4520\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "Atașamente"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "Face posibilă atașarea de fișiere produselor"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "Atașamente"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "Atașament nou"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "Adăugare atașament"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "Editare atașament"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "Va rugam specificati directorul destinat imaginilor in root-ul magazinului. Amplasati imaginile destinate importarii in acest director."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "Nu s-au putut importa imagini pentru unele produse. Aceste imagini nu există (sau nu pot fi accesate), sau căile spre aceste imagini din fișierul importat sunt incorecte."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "Atașamentele produsului"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "Delimitator de atașamente"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "Delimitarea între atașamentele unui produs."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "Ștergeți atașamentele existente"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "Dacă activați această setare, imaginile suplimentare existente ale produselor importate vor fi înlocuite cu imaginile specificate în fișierul importat (dacă nu sunt specificate imagini, imaginile vechi vor rămâne). Dacă setarea este dezactivată, noile imagini suplimentare vor fi adăugate pur și simplu la imaginile existente."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "Folderul atașamentelor"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "Informații generale"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "Salvați atașamentele pe serverul dvs."
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "Atașamentele listate ca adrese URL în fișierul importat vor fi descărcate pe serverul dvs."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr ""
+

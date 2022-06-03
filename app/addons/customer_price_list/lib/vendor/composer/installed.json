@@ -1,0 +1,55 @@
+{
+    "packages": [
+        {
+            "name": "mk-j/php_xlsxwriter",
+            "version": "0.37",
+            "version_normalized": "0.37.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mk-j/PHP_XLSXWriter.git",
+                "reference": "c4ba6023fcd49578062e35ed6af3e205dd50a903"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mk-j/PHP_XLSXWriter/zipball/c4ba6023fcd49578062e35ed6af3e205dd50a903",
+                "reference": "c4ba6023fcd49578062e35ed6af3e205dd50a903",
+                "shasum": ""
+            },
+            "require": {
+                "ext-zip": "*",
+                "php": ">=5.2.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.3.*"
+            },
+            "time": "2018-01-11T08:03:56+00:00",
+            "type": "project",
+            "installation-source": "dist",
+            "autoload": {
+                "classmap": [
+                    "xlsxwriter.class.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "PHP Library to write XLSX files",
+            "homepage": "https://github.com/mk-j/PHP_XLSXWriter",
+            "keywords": [
+                "excel",
+                "library",
+                "php",
+                "xls",
+                "xlsx"
+            ],
+            "support": {
+                "issues": "https://github.com/mk-j/PHP_XLSXWriter/issues",
+                "source": "https://github.com/mk-j/PHP_XLSXWriter/tree/0.37"
+            },
+            "install-path": "../mk-j/php_xlsxwriter"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}

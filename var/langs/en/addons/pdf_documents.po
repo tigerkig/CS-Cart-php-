@@ -1,0 +1,37 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::pdf_documents"
+msgid "PDF Documents"
+msgstr "PDF Documents"
+
+msgctxt "Addons::description::pdf_documents"
+msgid "Handles the generation of all PDF files. We offer it as a free service and generate PDFs on our own server WITHOUT keeping any data."
+msgstr "Handles the generation of all PDF files. We offer it as a free service and generate PDFs on our own server WITHOUT keeping any data."
+
+msgctxt "SettingsOptions::pdf_documents::service_url"
+msgid "PDF server"
+msgstr "PDF server"
+
+msgctxt "SettingsTooltips::pdf_documents::service_url"
+msgid "The location of the server where we'll be generating PDF files for your site. All servers work the same way, and they don't keep or analyze any of your data. Select the one that your legal advisor suggests, or the one you're most comfortable with."
+msgstr "The location of the server where we'll be generating PDF files for your site. All servers work the same way, and they don't keep or analyze any of your data. Select the one that your legal advisor suggests, or the one you're most comfortable with."
+
+msgctxt "SettingsVariants::pdf_documents::service_url::https://converter.cs-cart.ru"
+msgid "Russia"
+msgstr "Russia"
+
+msgctxt "SettingsVariants::pdf_documents::service_url::https://converter.cart-services.com"
+msgid "USA"
+msgstr "USA"
+
+msgctxt "Languages::pdf_documents.activate_notification"
+msgid "PDF documents (such as invoices, packing slips, etc.) will now be generated at our cloud service: [service_url]. It works as follows: your store sends an HTML document and receives a PDF copy of it. We do not view, keep, or analyze any of your data that goes through that service."
+msgstr "PDF documents (such as invoices, packing slips, etc.) will now be generated at our cloud service: [service_url]. It works as follows: your store sends an HTML document and receives a PDF copy of it. We do not view, keep, or analyze any of your data that goes through that service."
+
+msgctxt "Languages::pdf_documents.disable_notification"
+msgid "The generation of PDF documents (such as invoices, packing slips, etc.) has been disabled. Your data will no longer go through our cloud service [service_url]. If you'd like to generate PDF documents without using our cloud service, you're welcome to <a href=\"[helpdesk_url]\" target=\"_blank\">contact us via Help Desk</a> or configure it on your own."
+msgstr "The generation of PDF documents (such as invoices, packing slips, etc.) has been disabled. Your data will no longer go through our cloud service [service_url]. If you'd like to generate PDF documents without using our cloud service, you're welcome to <a href=\"[helpdesk_url]\" target=\"_blank\">contact us via Help Desk</a> or configure it on your own."

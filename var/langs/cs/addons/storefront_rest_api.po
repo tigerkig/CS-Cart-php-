@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.13.2/addons/storefront_rest_api.po\n"
+"X-Crowdin-File-ID: 4652\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::storefront_rest_api"
+msgid "Storefront REST API"
+msgstr "RES API Obchodu"
+
+msgctxt "Addons::description::storefront_rest_api"
+msgid "Provides REST API entities"
+msgstr "Poskytuje REST API entity"
+
+msgctxt "SettingsSections::storefront_rest_api::general"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "SettingsOptions::storefront_rest_api::access_key"
+msgid "Access key"
+msgstr "Přístupový klíč"
+
+msgctxt "Languages::storefront_rest_api.guests_cant_add_products_to_cart"
+msgid "Guests can't add products to cart. Please log in to your account to add products to cart."
+msgstr "Hosté nemohou přidat produkty do košíku. Přihlaste se prosím do vašeho účtu, abyste mohli produkty do košíku přidat."
+

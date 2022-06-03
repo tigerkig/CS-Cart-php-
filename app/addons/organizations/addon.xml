@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<addon scheme="4.0">
+    <id>organizations</id>
+    <version>1.0</version>
+    <priority>1500</priority>
+    <status>active</status>
+    <default_language>en</default_language>
+    <autoload>
+        <psr4 prefix="Tygh\Addons\Organizations\">src</psr4>
+    </autoload>
+    <bootstrap>\Tygh\Addons\Organizations\Bootstrap</bootstrap>
+    <installer>\Tygh\Addons\Organizations\Installer</installer>
+
+    <settings edition_type="ROOT">
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="b2b_storefront_ids">
+                        <type>multiple select</type>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+
+    <queries>
+        <item for="install">DROP TABLE IF EXISTS ?:organization;</item>
+        <item for="install">DROP TABLE IF EXISTS ?:organization_user;</item>
+
+        <item for="install">ALTER TABLE ?:orders ADD organization_id int(11) unsigned NULL;</item>
+        <item for="install">ALTER TABLE ?:user_session_products ADD organization_id int(11) unsigned NULL;</item>
+
+        <item for="install">
+            CREATE TABLE ?:organization (
+                organization_id int(11) unsigned NOT NULL auto_increment,
+                status char(1) NOT NULL default 'A',
+                name varchar(128) NOT NULL default '',
+                description varchar(128) NOT NULL default '',
+                created_at int(11) unsigned NOT NULL default '0',
+                updated_at int(11) unsigned NOT NULL default '0',
+                PRIMARY KEY (organization_id)
+            ) DEFAULT CHARSET UTF8;
+        </item>
+        <item for="install">
+            CREATE TABLE ?:organization_user (
+                organization_id int(11) unsigned NOT NULL,
+                user_id int(11) unsigned NOT NULL,
+                role varchar(32) NOT NULL default '',
+                is_primary_organization tinyint(1) NOT NULL default 0,
+                PRIMARY KEY (organization_id, user_id)
+            ) DEFAULT CHARSET UTF8;
+        </item>
+
+        <item for="uninstall">DROP TABLE IF EXISTS ?:organization;</item>
+        <item for="uninstall">DROP TABLE IF EXISTS ?:organization_user;</item>
+        <item for="uninstall">ALTER TABLE ?:orders DROP organization_id;</item>
+        <item for="uninstall">ALTER TABLE ?:user_session_products DROP organization_id;</item>
+    </queries>
+</addon>

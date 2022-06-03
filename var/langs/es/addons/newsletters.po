@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /release-4.13.2/addons/newsletters.po\n"
+"X-Crowdin-File-ID: 4594\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::newsletters"
+msgid "Newsletters"
+msgstr "Boletines de noticias"
+
+msgctxt "Addons::description::newsletters"
+msgid "Lets you configure newsletter sending"
+msgstr "Le permite configurar envío de boletines de noticias"
+
+msgctxt "Languages::newsletters_menu_description"
+msgid "Create and send newsletters to your customer."
+msgstr "Crea y envia boletines de noticias a sus clientes."
+
+msgctxt "Languages::news_plain"
+msgid "Plain"
+msgstr "Simple"
+
+msgctxt "Languages::text_signup_for_subscriptions"
+msgid "Sign up for our newsletters!"
+msgstr "¡Suscríbase a nuestros boletines de noticias!"
+
+msgctxt "Languages::tmpl_subscription"
+msgid "Newsletters: subscription form"
+msgstr "Boletines de noticias: formulario de suscripción"
+
+msgctxt "Languages::unsubscribe_link"
+msgid "Unsubscribe link"
+msgstr "Enlace para cancelar la suscripción"
+
+msgctxt "Languages::ne_add_subscribers_from_users"
+msgid "Add subscribers from the list of users"
+msgstr "Añadir subscriptores a partir de la lista de usuarios"
+
+msgctxt "Languages::ne_warning_subscr_email_exists"
+msgid "<b>[email]</b> is already in the subscribers list"
+msgstr "<b>[email]</b> ya está en la lista de suscriptores"
+
+msgctxt "Languages::warning_subscribers_import"
+msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
+msgstr "Algunas listas de correo no se encontraron en la base de datos desde el archivo de entrada. Algunos suscriptores importados quedarán sin asignar."
+
+msgctxt "Languages::subscribers_menu_item_text"
+msgid "Subscribers"
+msgstr "Suscriptores"
+
+msgctxt "Languages::block_mailing_lists"
+msgid "Newsletter subscription"
+msgstr "Suscripción al Boletín de noticias"
+
+msgctxt "Languages::block_mailing_lists_description"
+msgid "Email field for newsletter subscription"
+msgstr "Campo de correo electrónico para la suscripción al boletín de noticias"
+
+msgctxt "Languages::block_lite_checkout_newsletters"
+msgid "Checkout: Newsletters"
+msgstr "Comprobación: Boletines de noticias"
+
+msgctxt "Languages::block_lite_checkout_newsletters_description"
+msgid "Ability to sign up for newsletters"
+msgstr "Posibilidad de suscribirse a los boletines de noticias"
+
+msgctxt "Languages::privileges.view_newsletters"
+msgid "Can view"
+msgstr "Puede ver"
+
+msgctxt "Languages::privileges.manage_newsletters"
+msgid "Can edit"
+msgstr "Puede editar"
+
+msgctxt "Languages::privilege_groups.newsletters"
+msgid "Newsletters"
+msgstr "Boletín de noticias"
+
+msgctxt "Languages::warning_newsletter_no_recipients"
+msgid "Newsletter hasn't been sent because no recipients were found matching the selected criteria."
+msgstr "El boletín de noticias no ha sido envíado porque no se encontraron destinatarios que coincidan con los criterios seleccionados."
+
+msgctxt "Languages::text_newsletter_sent"
+msgid "The newsletter(s) have been sent successfully."
+msgstr "El los) boletín (es) de noticia (s) ha (n) sido enviado (s) con éxito."
+
+msgctxt "Languages::email_cannot_be_empty"
+msgid "E-mail cannot be empty"
+msgstr "El campo de correo electrónico no puede estar vacío"
+
+msgctxt "Languages::sending_email_to"
+msgid "Sending email to [email]..."
+msgstr "Enviando correo a [email]..."
+
+msgctxt "Languages::text_subscriber_added"
+msgid "Your e-mail has been successfully added to our free e-mail updates list"
+msgstr "Su dirección de correo electrónico ha sido añadida con éxito a nuestra lista de noticias y promociones"
+
+msgctxt "Languages::error_email_already_subscribed"
+msgid "Your e-mail is already subscribed."
+msgstr "Su correo ya está suscrito."
+
+msgctxt "Languages::text_subscriber_removed"
+msgid "Your e-mail has been successfully removed from our free e-mail updates list"
+msgstr "Su dirección de correo electrónico ha sido eliminada con éxito de nuestra lista de noticias y promociones"
+
+msgctxt "Languages::text_subscriber_activated"
+msgid "Your email has been successfully activated"
+msgstr "Tu correo electrónico ha sido activado exitosamente"
+
+msgctxt "Languages::link_message_for_test_letter"
+msgid "The link will be displayed in a live newsletter"
+msgstr "El enlace se mostrará en un boletín de noticias en vivo"
+
+msgctxt "Languages::newsletters"
+msgid "Newsletters"
+msgstr "Boletín de noticias"
+
+msgctxt "Languages::autoresponders"
+msgid "Autoresponders"
+msgstr "Generador de respuestas automáticas"
+
+msgctxt "Languages::campaigns"
+msgid "Campaigns"
+msgstr "Campañas"
+
+msgctxt "Languages::sent"
+msgid "Sent"
+msgstr "Enviado"
+
+msgctxt "Languages::subscribers_num"
+msgid "Number of subscribers"
+msgstr "Número de suscriptores"
+
+msgctxt "Languages::editing_mailing_list"
+msgid "Editing mailing list"
+msgstr "Edición de la lista de correo"
+
+msgctxt "Languages::from_name"
+msgid "From name"
+msgstr "De nombre"
+
+msgctxt "Languages::from_email"
+msgid "From email"
+msgstr "De correo electrónico"
+
+msgctxt "Languages::reply_to"
+msgid "Reply to"
+msgstr "Responder a"
+
+msgctxt "Languages::register_autoresponder"
+msgid "Confirmation email"
+msgstr "Confirmación de correo electrónico"
+
+msgctxt "Languages::no_autoresponder"
+msgid "No autoresponder"
+msgstr "Sin respuesta automática"
+
+msgctxt "Languages::show_on_checkout"
+msgid "Show at checkout"
+msgstr "Mostrar al finalizar la compra"
+
+msgctxt "Languages::hide_on_checkout"
+msgid "Hide at checkout"
+msgstr "Ocultar en la compra"
+
+msgctxt "Languages::addons.newsletters.show_on_registration_and_profile"
+msgid "Show on the Registration and Profile Details pages"
+msgstr "Mostrar en las páginas de registro y detalles del perfil"
+
+msgctxt "Languages::addons.newsletters.hide_on_registration_and_profile"
+msgid "Hide on the Registration and Profile Details pages"
+msgstr "Ocultar en las páginas de registro y detalles del perfil"
+
+msgctxt "Languages::show_on_separate_page"
+msgid "Show on separate page"
+msgstr "Mostrar en una página separada"
+
+msgctxt "Languages::campaign_stats"
+msgid "Campaign statistics"
+msgstr "Estadísticas de la campaña"
+
+msgctxt "Languages::add_campaign"
+msgid "Add campaign"
+msgstr "Añadir campaña"
+
+msgctxt "Languages::new_campaign"
+msgid "New campaign"
+msgstr "Nueva campaña"
+
+msgctxt "Languages::newsletter_templates"
+msgid "Newsletter templates"
+msgstr "Plantillas de Boletines"
+
+msgctxt "Languages::newsletter_autoresponders"
+msgid "Newsletter autoresponders"
+msgstr "Boletín autoresponders"
+
+msgctxt "Languages::subject"
+msgid "Subject"
+msgstr "Asunto"
+
+msgctxt "Languages::add_newsletter"
+msgid "Add newsletter"
+msgstr "Agregar newsletter"
+
+msgctxt "Languages::add_template"
+msgid "Add template"
+msgstr "Añadir plantilla"
+
+msgctxt "Languages::add_autoresponder"
+msgid "Add autoresponder"
+msgstr "Agregar autoresponder"
+
+msgctxt "Languages::more_subjects"
+msgid "Random subjects (one per line)"
+msgstr "Asunto al azar (uno por línea)"
+
+msgctxt "Languages::body_html"
+msgid "HTML body"
+msgstr "Cuerpo HTML"
+
+msgctxt "Languages::no_template"
+msgid "No template"
+msgstr "Ninguna plantilla de"
+
+msgctxt "Languages::load"
+msgid "Load"
+msgstr "Cargar"
+
+msgctxt "Languages::campaign"
+msgid "Campaign"
+msgstr "Campaña"
+
+msgctxt "Languages::send_to"
+msgid "Send to"
+msgstr "Enviar a"
+
+msgctxt "Languages::add_recipients_from_users"
+msgid "Add recipients from users"
+msgstr "Agregar destinatarios de los usuarios"
+
+msgctxt "Languages::customers_with_abandoned"
+msgid "Customers with abandoned"
+msgstr "Clientes abandonados"
+
+msgctxt "Languages::cart_or_wishlist"
+msgid "Cart or Wishlist"
+msgstr "Carro o lista de deseos"
+
+msgctxt "Languages::which_is"
+msgid "which is"
+msgstr "que es"
+
+msgctxt "Languages::days_old"
+msgid "days old"
+msgstr "días de antigüedad"
+
+msgctxt "Languages::send_to_test_email"
+msgid "Send to test email"
+msgstr "Enviar un correo electrónico para su comprobación"
+
+msgctxt "Languages::save_and_send"
+msgid "Save and send"
+msgstr "Guardar y enviar"
+
+msgctxt "Languages::newsletter"
+msgid "Newsletter"
+msgstr "Boletín de noticias"
+
+msgctxt "Languages::newsletter_template"
+msgid "Newsletter template"
+msgstr "Plantillas de boletín de noticias"
+
+msgctxt "Languages::newsletter_autoresponder"
+msgid "Newsletter autoresponder"
+msgstr "Boletín de noticias con respuesta automática"
+
+msgctxt "Languages::mailing_list"
+msgid "Mailing list"
+msgstr "Listas de correo"
+
+msgctxt "Languages::confirmed"
+msgid "Confirmed"
+msgstr "Confirmado"
+
+msgctxt "Languages::subscribed_to"
+msgid "Subscribed to [num] lists"
+msgstr "Suscrito a listas de [num]"
+
+msgctxt "Languages::subscribed"
+msgid "Subscribed"
+msgstr "Suscrito"
+
+msgctxt "Languages::text_success_subscription"
+msgid "You have been successfully subscribed to our free e-mail updates and promotions!"
+msgstr "¡Usted se subscribió con éxito a nuestras noticias y promociones!"
+
+msgctxt "Languages::text_unsubscribe_instructions"
+msgid "We respect your privacy and do not send unsolicited e-mail to users who have not requested correspondence. You have received this e-mail because you requested to receive our free updates and promotions.<br /><br /> If you wish to unsubscribe, please follow the link below:"
+msgstr "Respetamos su privacidad y no enviamos correos electrónicos a usuarios que no lo han solicitado. Usted ha recibido este correo electrónico porque solicitó recibir nuestras actualizaciones y promociones.<br /><br /> Si usted desea cancelar la suscripción por favor haga clic en el siguiente enlace:"
+
+msgctxt "Languages::updates_subscription"
+msgid "updates and promotions subscription"
+msgstr "suscripción a actualizaciones y promociones"
+
+msgctxt "Languages::ult_shared_with"
+msgid "Shared with:"
+msgstr "Compartido con:"
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_email"
+msgid "Email of a sender."
+msgstr "Correo electrónico de un remitente."
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_name"
+msgid "Name of a sender (e.g. company name)."
+msgstr "Nombre del remitente (por ejemplo, nombre de la empresa)."
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_reply_to"
+msgid "Email to send replies to."
+msgstr "Correo electrónico para enviar respuestas."
+
+msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_more_subjects"
+msgid "If several subjects are specified, email subject is randomly picked from this list."
+msgstr "Si se especifican varios temas, el tema de correo electrónico es elegido al azar de esta lista."
+
+msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_users"
+msgid "If the message text contains the unsubscribe link, it will be empty for these users."
+msgstr "Si el texto del mensaje contiene el enlace para Cancelar su suscripción, estará vacía para estos usuarios."
+
+msgctxt "Languages::add_mailing_lists"
+msgid "Add mailing list"
+msgstr "Añadir lista de correo"
+
+msgctxt "Languages::manage_subscribers"
+msgid "Manage subscribers"
+msgstr "Administrar suscriptores"
+
+msgctxt "Languages::new_mailing_lists"
+msgid "New mailing list"
+msgstr "Nueva lista de correo"
+
+msgctxt "Languages::newsletters.new_subscribers"
+msgid "New subscribers"
+msgstr "Nuevos suscriptores"
+
+msgctxt "SettingsSections::newsletters::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::newsletters::newsletters_per_pass"
+msgid "Newsletters sent per step"
+msgstr "Boletines de noticias enviados por paso"
+
+msgctxt "SettingsOptions::newsletters::elm_advanced_mailing_server_options"
+msgid "Advanced mailing server options"
+msgstr "Opciones avanzadas del servidor de correo electrónico"
+
+msgctxt "SettingsOptions::newsletters::mailer_send_method"
+msgid "Method of sending e-mails"
+msgstr "Método de envío de correos electrónicos"
+
+msgctxt "SettingsOptions::newsletters::elm_smtp_server_settings"
+msgid "SMTP server settings"
+msgstr "Configuración del servidor SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_host"
+msgid "SMTP host"
+msgstr "Alojamiento SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_username"
+msgid "SMTP username"
+msgstr "Nombre del usuario de SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_password"
+msgid "SMTP password"
+msgstr "Contraseña de SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_ecrypted_connection"
+msgid "Use Encrypted Connection"
+msgstr "Usar conexión cifrada"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::none"
+msgid "None"
+msgstr "Ninguno"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::tls"
+msgid "TLS"
+msgstr "TLS"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::ssl"
+msgid "SSL"
+msgstr "SSL"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_auth"
+msgid "Use SMTP authentication"
+msgstr "Usar autentificación SMTP"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::smtp"
+msgid "via SMTP server"
+msgstr "por servidor SMTP"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::mail"
+msgid "via php mail function"
+msgstr "por la función php mail"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::default"
+msgid "use default settings"
+msgstr "utilizar la configuración predeterminada"
+
+msgctxt "SettingsSections::newsletters::promotions"
+msgid "Promotions"
+msgstr "Promociones"
+
+msgctxt "SettingsOptions::newsletters::coupon"
+msgid "Choose a promotion whose promo code will be given at subscription"
+msgstr "Elija una promoción cuyo código de promoción le será dado en el momento de su suscripción"
+
+msgctxt "Languages::subscribers_promo_subject"
+msgid "Thank you for subscribing! Use the coupon code [coupon] in our special offer \"[promotion]\"."
+msgstr "Gracias por suscribirse! Utilizar el código del cupón [coupon] en nuestra oferta especial \"[promotion]\"."
+
+msgctxt "Languages::subscribers_no_promo"
+msgid "No promotion"
+msgstr "No hay promoción"
+
+msgctxt "Languages::promotion_cond_subscribed"
+msgid "Customer is subscribed"
+msgstr "Al cliente se ha suscrito"
+
+msgctxt "Languages::addons.newsletters.email_exists_in_list"
+msgid "<b>[email]</b> is already in the mailing list"
+msgstr "<b>[email]</b>ya se encuentra suscrito en la lista de correo"
+
+msgctxt "Languages::email_template.newsletters_newsletter"
+msgid "Newsletter"
+msgstr "Boletín de noticias"
+
+msgctxt "Languages::email_template.newsletters_promotion"
+msgid "Newsletters: promotion"
+msgstr "Boletines: promoción"
+
+msgctxt "Languages::activation_key"
+msgid "Activation key"
+msgstr "Clave de activación"
+
+msgctxt "Languages::unsubscribe_key"
+msgid "Unsubscribe key"
+msgstr "Enlace para cancelar la suscripción"
+
+msgctxt "Languages::subscribers_date"
+msgid "Subscribers date"
+msgstr "Fecha de suscriptores"
+
+msgctxt "Languages::mailing_list_date"
+msgid "Mailing list date"
+msgstr "Fecha de creación de la lista de correo"
+
+msgctxt "Languages::gdpr_newsletters"
+msgid "Personal data from newsletters"
+msgstr "Información personal de los boletines de noticias"
+
+msgctxt "Languages::newsletters.subscribe_to_newsletters"
+msgid "Newsletters: Subscribe to newsletters"
+msgstr "Boletines de noticias: Suscríbete a los boletines de noticias"
+
+msgctxt "Languages::newsletters.agreement_text_short_subscribe_to_newsletters"
+msgid "I agree to have my personal data <u>processed as follows</u> and I want to subscribe for the following newsletters:"
+msgstr "Acepto que mis datos personales<u>sean procesados de la siguiente manera</u>y deseo suscribirme a los siguientes boletines de noticias:"
+
+msgctxt "Languages::newsletters.agreement_text_full_subscribe_to_newsletters"
+msgid "<p>When you sign up for a specific newsletter, we ([company]) add your email address to a corresponding mailing list. While it is there, we know that we can contact you by email regarding that topic.</p> <p>You can always have your email address removed from our mailing lists. There are multiple ways to do it:</p><ul> <li>Once your account is registered, just sign in and unsubscribe from newsletters in profile settings.</li> <li>Use the “Unsubscribe” link in our newsletters that you receive.</li> <li>Send an email to [email].</li> </ul> <p>We may use a third-party email service (MailChimp and/or Mad Mimi) to send newsletters. Some members of our staff can view mailing lists with email addresses. That way they’ll be able to remove your email address from the mailing list, should you request us to do so.</p> <p>Please note that mailing lists are independent from each other. If you decide not to receive newsletters at all, you’ll have to unsubscribe from all the mailing lists. Even if you do that, you’ll still receive account-related emails (such as order status notifications, password reset emails, and more). It is essential for operating an online store.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Cuando se registra para un boletín de noticias específico, nosotros ([company]) agregamos su correo electrónico a la lista de correos correspondientes. Mientras este suscrito, sabemos que podemos contactarlo por correo electrónico acerca de ese tema.</p><p>Usted siempre tiene la opción de darte de baja de nuestra lista de correos. Existen distintas maneras de hacerlo:</p><ul><li>Una vez que su cuenta este registrada, solo tienes que iniciar sesión y darte de baja de los boletines de noticias en la configuración del perfil.</li><li>Utilice el enlace de darse de baja que se encuentra en el boletín de noticias que recibe.</li><li>Envíe un correo electrónico a </li></ul><p>[email]. Puede que utilicemos un servicio de correo electrónico de terceros (Mailchimp y/o Mad Mimi) para enviar nuestros boletines de noticias. Algunos miembros de nuestro personal pueden tener acceso a nuestras listas de correos electrónicos. De esta manera ellos podrán ser capaces de eliminar su correo electrónico de la lista de correo, si usted lo ha solicitado así.</p><p>Por favor tenga en cuenta que las listas de correo son independientes unas de otras. Si no desea recibir más los boletines de noticias, tendrás que date de baja de todas las listas de correos. Aún si lo hace, seguirá recibiendo mensajes relacionados con su cuenta (como notificaciones del estado del pedido, restablecimiento de contraseñas de correos electrónicos, y más). Esto es esencial para el funcionamiento de una tienda en línea.</p><p>Si decide que ya no quiere utilizar nuestra tienda y quisiera que sus datos personales sean eliminados de nuestra base de datos (o si desea obtener los datos personales asociados a su cuenta), por favor envíe un correo electrónico a [email].</p><p>Si usted piensa que sus datos personales han sido utilizados para otros fines, usted tiene el derecho de presentar una queja al supervisor de protección de datos. Estamos obligados por la Normativa General de Protección de Datos de la Unión Europea a informarle que usted tiene este derecho; y que no pretendemos bajo ninguna circunstancia utilizar sus datos personales para otros fines.</p>"
+
+msgctxt "Languages::newsletters.use_for_subscribe_form"
+msgid "Subscribe form"
+msgstr "Formulario de subscripción"
+
+msgctxt "Languages::newsletters.default_mailing_list"
+msgid "Default mailing list"
+msgstr "Lista de correo por defecto"
+

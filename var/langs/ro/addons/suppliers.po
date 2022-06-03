@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.13.2/addons/suppliers.po\n"
+"X-Crowdin-File-ID: 4656\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::suppliers"
+msgid "Suppliers"
+msgstr "Furnizori"
+
+msgctxt "Addons::description::suppliers"
+msgid "Adds supplier assignment support to products"
+msgstr "Adaugă suport pentru atribuirea furnizorilor la produse"
+
+msgctxt "Languages::search_by_supplier"
+msgid "Search by supplier"
+msgstr "Căutați după furnizor"
+
+msgctxt "Languages::notify_supplier"
+msgid "Notify supplier"
+msgstr "Notificare furnizor"
+
+msgctxt "Languages::view_supplier_products"
+msgid "View supplier products"
+msgstr "Vezi furnizorii produselor"
+
+msgctxt "Languages::supplier"
+msgid "Supplier"
+msgstr "Furnizor"
+
+msgctxt "Languages::supplier_email_header"
+msgid "The following products have been purchased in our store and need to be shipped."
+msgstr "Următoarele produse au fost achizioționate în magazinul dvs. și trebuie să fie expediate."
+
+msgctxt "Languages::suppliers_menu_description"
+msgid "List of supplier accounts registered in the store."
+msgstr ""
+
+msgctxt "Languages::dear_sirs"
+msgid "Dear Sirs"
+msgstr "Bună ziua"
+
+msgctxt "Languages::add_supplier"
+msgid "Add supplier"
+msgstr "Adăugați furnizor"
+
+msgctxt "Languages::available_for_supplier"
+msgid "Available for supplier"
+msgstr "Disponibil pentru furnizor"
+
+msgctxt "Languages::editing_supplier"
+msgid "Editing supplier"
+msgstr "Editarea furnizorului"
+
+msgctxt "Languages::supplier_deleted"
+msgid "Supplier has been deleted successfully."
+msgstr "Furnizorul a fost șters cu succes."
+
+msgctxt "Languages::privileges.manage_suppliers"
+msgid "Can edit"
+msgstr "Pot edita"
+
+msgctxt "Languages::privilege_groups.suppliers"
+msgid "Suppliers"
+msgstr "Furnizori.."
+
+msgctxt "SettingsSections::suppliers::general"
+msgid "General"
+msgstr ""
+
+msgctxt "SettingsOptions::suppliers::display_supplier"
+msgid "Display product supplier company"
+msgstr "Afișați compania furnizorului de produse"
+
+msgctxt "SettingsOptions::suppliers::display_shipping_methods_separately"
+msgid "Display shipping methods to each supplier separately"
+msgstr "Afișați metodele de expediere pentru fiecare furnizor separat"
+
+msgctxt "Languages::email_template.suppliers_notification"
+msgid "Supplier notification"
+msgstr "Notificare furnizor"
+
+msgctxt "Languages::email_template.supplier_notification_with_status"
+msgid "Supplier notification: [name]"
+msgstr "Notificare furnizor: [name]"
+
+msgctxt "Languages::email_template.suppliers_notification_default"
+msgid "Supplier notification: Default template for a new order status"
+msgstr "Notificare furnizor: șablon implicit pentru o nouă stare a comenzii"
+
+msgctxt "Languages::template_document_supplier_order_invoice"
+msgid "Suppliers: invoice"
+msgstr "Furnizori: factură"
+
+msgctxt "Languages::document_preview_suppliers_not_found"
+msgid "Couldn't find a supplier. Preview only works with existing data. Please create a supplier and use Preview again."
+msgstr "Nu am putut găsi un furnizor. Previzualizarea funcționează numai cu datele existente. Vă rugăm să creați un furnizor și să utilizați din nou previzualizarea. "
+
+msgctxt "Languages::suppliers.event.order.supplier_notified.name"
+msgid "Suppliers: order status changed to [status]"
+msgstr "Furnizori: starea comenzii a fost schimbată în [status]"
+
+msgctxt "Languages::event.receiver.s"
+msgid "Supplier"
+msgstr "Furnizor."
+
+msgctxt "Languages::suppliers.supplier_notifications"
+msgid "Supplier notifications"
+msgstr "Notificări furnizor"
+

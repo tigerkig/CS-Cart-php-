@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.13.2/addons/gdpr.po\n"
+"X-Crowdin-File-ID: 4562\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::gdpr"
+msgid "GDPR Compliance (EU)"
+msgstr "Regulamentul GDPR (EU)"
+
+msgctxt "Addons::description::gdpr"
+msgid "Helps you to comply with GDPR (a European Union regulation on personal data) by showing customers info about their personal data, asking their consent for its processing, and by offering ways to delete or export personal data."
+msgstr "Vă ajută să respectați Regulamentul GDPR (un regulament al Uniunii Europene privind datele cu caracter personal), prezentând clienților informații despre datele lor personale, solicitându-i consimțământul pentru prelucrarea acestora și oferind modalități de ștergere sau de export a datelor cu caracter personal."
+
+msgctxt "SettingsSections::gdpr::general"
+msgid "General"
+msgstr "Implicit"
+
+msgctxt "SettingsSections::gdpr::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "SettingsOptions::gdpr::gdpr_cookie_consent"
+msgid "Cookie consent"
+msgstr "Consimţământul cookie "
+
+msgctxt "SettingsTooltips::gdpr::gdpr_cookie_consent"
+msgid "Implicit consent means an unobtrusive pop-up in the corner.<br/>Explicit consent means asking to agree to cookies before allowing customers to access the website for the first time."
+msgstr "Consimțământul implicit înseamnă un pop-up neobișnuit în colț. <br/> Consimțământul explicit înseamnă a cere să accepți cookie-urile înainte de a le permite clienților să acceseze site-ul pentru prima dată."
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::none"
+msgid "None"
+msgstr "Niciunul"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::implicit"
+msgid "Implicit"
+msgstr "Implicit"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::explicit"
+msgid "Explicit"
+msgstr "Explicit"
+
+msgctxt "Languages::gdpr.gdpr_user_data"
+msgid "GDPR user data"
+msgstr "Date de utilizator GDPR"
+
+msgctxt "Languages::gdpr_user_data"
+msgid "User personal data"
+msgstr "Utilizator date cu caracter personal"
+
+msgctxt "Languages::gdpr_user_profiles"
+msgid "Personal data from user profiles"
+msgstr "Datele personale din profilurile de utilizator"
+
+msgctxt "Languages::gdpr_product_subscriptions"
+msgid "Personal data from product subscriptions"
+msgstr "Datele personale din abonamente produs"
+
+msgctxt "Languages::gdpr_agreements"
+msgid "Personal data from GDPR agreements"
+msgstr "Datele personale din acordurile de GDPR"
+
+msgctxt "Languages::gdpr.anonymize"
+msgid "Anonymize"
+msgstr "Anonimizați"
+
+msgctxt "Languages::gdpr.text_anonymize_question"
+msgid "Once you anonymize someone, all their personal information will be replaced with randomly-generated data. This action can not be undone, unless you restore the database from a backup. Are you sure you want to proceed?"
+msgstr "Odată ce aţi anonimizați pe cineva, toate informaţiile personale vor fi înlocuite cu datele generate aleator. Această acţiune nu poate fi anulată, cu excepţia cazului în care restaurați baza de date dintr-o copie de rezervă. Sunteţi sigur că doriţi să continuaţi?"
+
+msgctxt "Languages::gdpr.view_and_edit"
+msgid "View and edit"
+msgstr "Vizualizați și editați"
+
+msgctxt "Languages::gdpr_orders_data"
+msgid "Personal data from orders"
+msgstr "Datele personale din comenzi"
+
+msgctxt "Languages::gdpr.full_agreement"
+msgid "Full agreement text"
+msgstr "Text complet de acord"
+
+msgctxt "Languages::gdpr.short_agreement"
+msgid "Short agreement text"
+msgstr "Text scurt de acord"
+
+msgctxt "Languages::gdpr.checkout.place_order.personal_data_processing"
+msgid "Checkout: Place order: Personal data processing"
+msgstr "Checkout: Comanda: prelucrarea datelor personale"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>noi ([company]) trimitem e-mailuri legate de contul dvs. (cum ar fi notificări de starea comenzii, emailuri de resetare parola, şi mai mult) de la adresa de e-mail furnizată. Din acest motiv, avem nevoie sa stocam adresa de e-mail în timp ce veţi rămâne clientul nostru.</p> <p>Noi utilizăm informaţiile din secţiunea de adresa de facturare/livrare şi se pot trimite la un furnizor de metoda de livrare sau plata pentru:</p> <ul> <li>determina ce metode de transport maritim şi de plată sunt disponibile pentru locația ta. </li> <li>complet plată sau procesul de transport prin intermediul provider that tu a alege la casă când trimiteţi comanda.</li> </ul> <p>unii membri ai personalului nostru şi/sau vânzătorii care vinde produse in magazinul nostru şi de a folosi sale panoul de administrare poate fi capabil de a accesa datele dvs. Apreciem confidenţialitatea datelor dumneavoastră, astfel încât accesul la date este furnizată pe bază de necesitatea de a cunoaşte pentru a opera magazinul. De exemplu, un furnizor primeşte doar datele dumneavoastră în cazul în care aţi comandat ceva de la ei, astfel că vânzătorul poate îndeplini această ordine.</p> <p>dacă decideţi că nu mai doriţi să utilizaţi magazinul nostru şi ar dori să aibă datele personale din baza noastra de date (sau dacă doriţi să obţineţi toate datele asociate cu dumneavoastră cont care le avem), vă rugăm să trimiteţi un e-mail la [email].</p> <p>în cazul în care credeţi că datele cu caracter personal a fost utilizat în mod abuziv, aveţi dreptul de a depune o plângere la autoritatea de supraveghere. Ne esti obligat de UE Regulamentul General protectia datelor pentru a vă înştiinţa despre acest drept; Nu intenţionăm fapt a abuza de datele dvs.</p>"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Sunt de acord ca datele mele personale să fie <u>prelucrate după cum urmează.</u>"
+
+msgctxt "Languages::gdpr.user.registration.personal_data_processing"
+msgid "Customer: registration"
+msgstr "Client: inregistrare"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>noi ([company]) trimitem e-mailuri legate de contul dvs. (cum ar fi notificări de starea comenzii, emailuri de resetare parola, şi mai mult) de la adresa de e-mail furnizată. Din acest motiv, avem nevoie sa stocam adresa de e-mail în timp ce veţi rămâne clientul nostru.</p> <p>Noi utilizăm informaţiile din secţiunea de adresa de facturare/livrare şi se pot trimite la un furnizor de metoda de livrare sau plata pentru:</p> <ul> <li>determina ce metode de transport maritim şi de plată sunt disponibile pentru locația ta. </li> <li>complet plată sau procesul de transport prin intermediul provider that tu a alege la casă când trimiteţi comanda.</li> </ul> <p>unii membri ai personalului nostru şi/sau vânzătorii care vinde produse in magazinul nostru şi de a folosi sale panoul de administrare poate fi capabil de a accesa datele dvs. Apreciem confidenţialitatea datelor dumneavoastră, astfel încât accesul la date este furnizată pe bază de necesitatea de a cunoaşte pentru a opera magazinul. De exemplu, un furnizor primeşte doar datele dumneavoastră în cazul în care aţi comandat ceva de la ei, astfel că vânzătorul poate îndeplini această ordine.</p> <p>dacă decideţi că nu mai doriţi să utilizaţi magazinul nostru şi ar dori să aibă datele personale din baza noastra de date (sau dacă doriţi să obţineţi toate datele asociate cu dumneavoastră cont care le avem), vă rugăm să trimiteţi un e-mail la [email].</p> <p>în cazul în care credeţi că datele cu caracter personal a fost utilizat în mod abuziv, aveţi dreptul de a depune o plângere la autoritatea de supraveghere. Ne esti obligat de UE Regulamentul General protectia datelor pentru a vă înştiinţa despre acest drept; Nu intenţionăm fapt a abuza de datele dvs.</p>"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Sunt de acord ca datele mele personale să fie <u>prelucrate după cum urmează.</u>"
+
+msgctxt "Languages::gdpr.profiles.update.personal_data_processing"
+msgid "Profiles: update"
+msgstr "Profile: actualizare"
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location.</li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p> "
+msgstr "<p>Noi ([company]) trimitem e-mailuri legate de contul dvs. (cum ar fi notificări de starea comenzii, emailuri de resetare parola, şi mai mult) de la adresa de e-mail furnizată. Din acest motiv, avem nevoie sa stocam adresa de e-mail în timp ce veţi rămâne clientul nostru.</p> <p>Noi utilizăm informaţiile din secţiunea de adresa de facturare/livrare şi se pot trimite la un furnizor de metoda de livrare sau plata pentru:</p> <ul> <li>determina ce metode de transport maritim şi de plată sunt disponibile pentru locația ta. </li> <li>complet plată sau procesul de transport prin intermediul provider that tu a alege la casă când trimiteţi comanda.</li> </ul> <p>unii membri ai personalului nostru şi/sau vânzătorii care vinde produse in magazinul nostru şi de a folosi sale panoul de administrare poate fi capabil de a accesa datele dvs. Apreciem confidenţialitatea datelor dumneavoastră, astfel încât accesul la date este furnizată pe bază de necesitatea de a cunoaşte pentru a opera magazinul. De exemplu, un furnizor primeşte doar datele dumneavoastră în cazul în care aţi comandat ceva de la ei, astfel că vânzătorul poate îndeplini această ordine.</p> <p>dacă decideţi că nu mai doriţi să utilizaţi magazinul nostru şi ar dori să aibă datele personale din baza noastra de date (sau dacă doriţi să obţineţi toate datele asociate cu dumneavoastră cont care le avem), vă rugăm să trimiteţi un e-mail la [email].</p> <p>în cazul în care credeţi că datele cu caracter personal a fost utilizat în mod abuziv, aveţi dreptul de a depune o plângere la autoritatea de supraveghere. Ne esti obligat de UE Regulamentul General protectia datelor pentru a vă înştiinţa despre acest drept; Nu intenţionăm fapt a abuza de datele dvs.</p>"
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Sunt de acord ca datele mele personale să fie <u>prelucrate după cum urmează.</u>"
+
+msgctxt "Languages::gdpr.vendor.apply.personal_data_processing"
+msgid "Vendor: apply for vendor"
+msgstr "Furnizor: aplica pentru furnizor"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_full_personal_data_processing"
+msgid "<p>Because vendors sell products in our marketplace, we ([company]) have to request certain information about them. For example, the company name and description of a vendor are shown to customers and serve to distinguish vendors from each other; the address is used for shipping rate calculation.</p> <p>However, we also request some personal data, such as first name/last name and emails address. Those are necessary for creating a vendor’s administrator account in our system. Vendors work with the marketplace through such accounts. Email addresses are necessary because they distinguish administrators from each other. You sign in to the store by entering the email address you provide here. Names are necessary because a single vendor can have multiple administrators—it is easier to handle accountability that way.</p> <p>We also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer. If you decide that you no longer want to work with our marketplace and would like to have personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Deoarece furnizorii vând produse pe piața noastră, noi ([company]) trebuie să solicităm anumite informații despre acestea. De exemplu, numele companiei și descrierea unui furnizor sunt afișate clienților și servesc la deosebirea furnizorilor între ei; adresa este utilizată pentru calcularea tarifului de expediere.</p>Cu toate acestea, solicităm și câteva date cu caracter personal, cum ar fi prenumele / prenumele și adresa de e-mail. Acestea sunt necesare pentru crearea unui cont de administrator al furnizorului în sistemul nostru. Furnizorii lucrează cu piața prin astfel de conturi. Adresele de e-mail sunt necesare, deoarece disting administratorii unii de alții. Vă conectați la magazin introducând adresa de e-mail pe care o furnizați aici. Numele sunt necesare, deoarece un singur furnizor poate avea mai mulți administratori - este mai ușor să gestionați responsabilitatea în acest fel. </p><p> De asemenea, trimitem e-mailuri legate de cont (cum ar fi notificări privind starea comenzii, e-mailuri de resetare a parolei și multe altele) la adresa de e-mail furnizată. Din acest motiv, trebuie să stocăm adresa dvs. de e-mail în timp ce rămâneți clientul nostru. Dacă decideți că nu mai doriți să lucrați cu piața noastră și doriți ca datele personale să fie eliminate din baza noastră de date (sau dacă doriți să obțineți toate datele personale asociate contului pe care le avem), trimiteți un e-mail la [email].</p><p>Dacă credeți că datele dvs. cu caracter personal au fost utilizate în mod abuziv, aveți dreptul de a depune o plângere la o autoritate de supraveghere. Suntem obligați de Regulamentul general al UE privind protecția datelor să vă informăm despre acest drept; de fapt, nu intenționăm să vă folosim greșit de date. </p>\n"
+"CERERE DE CONTEXT"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Sunt de acord ca datele mele personale să fie <u>prelucrate după cum urmează.</u>"
+
+msgctxt "Languages::gdpr.products.subscribe.personal_data_processing"
+msgid "Products: subscribe"
+msgstr "Produse: abonare"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) will add your email address to a special mailing list for this product. Once the product is in stock, you’ll get an email about it automatically, and your email address will be removed from the product’s mailing list.</p> <p>The data will be visible to some members of our staff. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Noi ([company]) vom folosi datele pe care le furnizaţi aici pentru a vă contacta cu privire la cererea de apel sau comanda dvs. Că datele vor rămâne în sistemul nostru, vor fi vizibile doar pentru personalul nostru (sau distribuitorul relevant), până când vă retrageţi consimţământul dumneavoastră. Dacă doriţi să aveţi datele personale eliminat, trimite un email pe adresa [email].</p> <p>În cazul în care credeţi că datele cu caracter personal a fost utilizat în mod abuziv, aveţi dreptul de a depune o plângere la autoritatea de supraveghere. Suntem obligați, conform Regulamentului UE privind protecția generală a datelor, să vă informăm despre acest drept; nu intenționăm să folosim în mod greșit datele dvs.</p>"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Sunt de acord ca datele mele personale să fie <u>prelucrate după cum urmează.</u>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.personal_data_processing"
+msgid "Checkout: profiles update"
+msgstr "Control: actualizare profiluri\n"
+"CERERE DE CONTEXT"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p> Noi ([compania]) trimitem e-mailuri legate de cont (cum ar fi notificări privind starea comenzii, e-mailuri de resetare a parolei și altele) la adresa de e-mail furnizată. Din acest motiv, trebuie să păstrăm adresa dvs. de e-mail în timp ce rămâneți clientul nostru. </p> <p> Folosim informațiile din secțiunea de facturare / adresă de expediere și le putem trimite unui furnizor de metode de expediere sau de plată la: </ p > <ul> <li> Stabiliți ce modalități de expediere și plată sunt disponibile pentru locația dvs. </li> <li> Finalizați procesul de plată sau de expediere prin intermediul furnizorului pe care îl alegeți la finalizare atunci când trimiteți comanda. </li> </ul> <p> Unii membri ai personalului nostru și / sau furnizorii care vând produse în magazinul nostru și utilizați panoul său de administrare este posibil să vă poată accesa datele. Valorăm confidențialitatea dvs., astfel încât accesul la date este oferit în mod necesar pentru a opera magazinul. De exemplu, un furnizor primește datele dvs. doar dacă ați comandat ceva de la ei, astfel încât vânzătorul să poată îndeplini acea comandă. </p> <p> Dacă decideți că nu mai doriți să utilizați magazinul nostru și doriți să aveți datele personale eliminate din baza noastră de date (sau dacă doriți să obțineți toate datele personale asociate cu contul dvs. pe care îl avem), vă rugăm să trimiteți un e-mail la [e-mail]. </p> <p> Dacă credeți că dvs. datele au fost folosite greșit, aveți dreptul de a depune o plângere la o autoritate de supraveghere. Suntem obligați prin Regulamentul general al UE privind protecția datelor să vă informăm despre acest drept; de fapt nu intenționăm să utilizăm în mod greșit datele tale. </p>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows</u>."
+msgstr "Sunt de acord ca datele mele personale să fie <u>prelucrate după cum urmează.</u>."
+
+msgctxt "Languages::gdpr.export_to_xml"
+msgid "Export to XML"
+msgstr "Export catre XML"
+
+msgctxt "Languages::gdpr.agreement_required_error"
+msgid "Your agreement is required to proceed."
+msgstr "Acordul dvs. este necesar pentru a continua."
+
+msgctxt "Languages::gdpr.user_anonymized"
+msgid "User has been anonymized."
+msgstr "Utilizatorul a fost anonimizat."
+
+msgctxt "Languages::gdpr.check_other_sources_for_personal_data"
+msgid "<p>Please note that anonymization doesn't affect any backups and logs that you might have. If necessary, please do the following:</p><ol><li>Clear the logs under <b>Administration → Logs</b>.</li><li>Secure and delete the backups you might have under <b>Administration → Backup/Restore</b>.</li></ol>"
+msgstr ""
+
+msgctxt "Languages::gdpr.cookie_consent"
+msgid "Cookie consent"
+msgstr "Consimţământul cookie"
+
+msgctxt "Languages::gdpr.cookie_consent_message"
+msgid "<p>This website uses cookies (small pieces of data saved on your computer). Some cookies are added by the website itself: they help to show you the content of your cart, keep you signed in once you enter your email and password, preserve your preferences, and do a lot of other useful things. We use these cookies only to make the site work properly for you. Even your agreement to our use of cookies is stored as a cookie.</p><p>Other cookies may be used by third-party services (such as PayPal, YouTube, Google Maps, Facebook, etc.) to store the data about how you use those third-party services on the website. We have no control over how third parties use cookies, but those cookies are also important for proper functioning of the website. For example, some of the PayPal functionality may not work without PayPal cookies.</p><p>Without cookies, many things can go wrong. That's why we ask that you agree to cookies being used before you proceed. If you don't want any cookies but would like to continue using the website, please configure your browser to block cookies, and then you'll be able to \"agree\" to their use, while we won't treat that as your consent.</p>"
+msgstr "<p> Acest site web folosește cookie-uri (mici bucăți de date salvate pe computer). Unele cookie-uri sunt adăugate chiar de site-ul web: ele ajută să vă arate conținutul coșului dvs., să vă țină conectat odată ce introduceți e-mailul și parola, să vă păstrați preferințele și să faceți multe alte lucruri utile. Utilizăm aceste cookie-uri doar pentru ca site-ul să funcționeze corect pentru dvs. Chiar și acordul dvs. cu privire la utilizarea noastră de cookie-uri este stocat ca cookie. </p> <p> Alte cookie-uri pot fi utilizate de servicii terțe (cum ar fi PayPal, YouTube, Google Maps, Facebook, etc.) pentru a stoca datele despre modul în care utilizați serviciile terță parte de pe site-ul web. Nu avem niciun control asupra modului în care terții utilizează cookie-urile, dar aceste cookie-uri sunt de asemenea importante pentru buna funcționare a site-ului. De exemplu, unele funcționalități PayPal pot să nu funcționeze fără cookie-urile PayPal. </p> <p> Fără cookie-uri, multe lucruri pot merge greșit. De aceea vă rugăm să acceptați utilizarea cookie-urilor înainte de a continua. Dacă nu doriți cookie-uri, dar doriți să continuați să utilizați site-ul web, vă rugăm să configurați browserul dvs. pentru a bloca cookie-urile, apoi veți putea să „consimțiți” cu utilizarea lor, în timp ce nu vom trata asta ca consimțământul tău. </p>"
+
+msgctxt "Languages::gdpr.cookie_consent_accept"
+msgid "I agree"
+msgstr "Sunt de acord"
+
+msgctxt "Languages::gdpr.cookie_consent_decline"
+msgid "No, take me out of here"
+msgstr "Nu, nu sunt de acord"
+
+msgctxt "Languages::gdpr.uk_cookies_law"
+msgid "Cookies are used on this site to provide the best user experience. If you continue, we assume that you agree to receive cookies from this site. <span class=\"button button-wrap-left\"><span class=\"button button-wrap-right\"><a rel=\"nofollow\" href=\"[url]\">OK</a></span></span>"
+msgstr "Cookie-urile sunt folosite pe acest site pentru a oferi cea mai buna experienta pentruutilizator. Daca veti continua, vom presupune ca sunteti de acord sa primiti cookie-uri de pe acest site. <span class=\"button button-wrap-left\"><span class=\"button button-wrap-right\"><a href=\"[url]\">OK</a></span></span>"
+
+msgctxt "Languages::block_gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::block_gdpr_description"
+msgid "Allows registered users to request their personal data or anonymization"
+msgstr "Permite utilizatorilor înregistrați să solicite datele lor personale sau anonimizarea"
+
+msgctxt "Languages::gdpr.user_profile_actions_description"
+msgid "<p>As customers interact with the store, they provide personal data for various purposes. When you place an order, we need to know where to ship it; when you subscribe for an email newsletter, we need to know where to send it, and so on. We keep this data organized, so that you always could:</p> <ol> <li>Request that we send you all your personal data. In that case we’ll send you an XML file by email. That file will contain all your personal data we have.</li> <li>Request to be forgotten. In that case your account will be deactivated, and all your personal data will be removed. If necessary, you’ll be able to register a new account with the same email address in the future.</li> </ol> <p>Please note that we’ll need some time to process either of those requests. We may contact you regarding your request by email or through other means.</p>"
+msgstr "<p> Pe măsură ce clienții interacționează cu magazinul, aceștia furnizează date personale în diverse scopuri. Când efectuați o comandă, trebuie să știm unde să o livrăm; când vă abonați la un newsletter prin e-mail, trebuie să știm unde să-l trimitem și așa mai departe. Menținem aceste date organizate, astfel încât să puteți întotdeauna: </p> <ol> <li> Solicitați să vă trimitem toate datele dvs. personale. În acest caz, vă vom trimite un fișier XML prin e-mail. Acest fișier va conține toate datele dvs. personale pe care le avem. </li> <li> Solicitați să fiți uitați. În acest caz, contul dvs. va fi dezactivat și toate datele dvs. personale vor fi eliminate. Dacă este necesar, în viitor vei putea înregistra un nou cont cu aceeași adresă de e-mail. </li> </ol> <p> Vă rugăm să rețineți că va avea nevoie de ceva timp pentru a prelucra oricare dintre aceste solicitări. Vă putem contacta în legătură cu solicitarea dvs. prin e-mail sau prin alte mijloace. </p>"
+
+msgctxt "Languages::gdpr.send_my_data"
+msgid "Send me my data"
+msgstr "Trimite-mi datele mele"
+
+msgctxt "Languages::gdpr.send_my_data_description"
+msgid "<p>We’ll send you an XML file with all your personal data we have. Please note that we’ll need some time to process this request, so the email with your XML file won’t be sent immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p> Vă vom trimite un fișier XML cu toate datele dvs. personale pe care le avem. Rețineți că vom avea nevoie de ceva timp pentru a procesa această solicitare, astfel încât e-mailul cu fișierul dvs. XML nu va fi trimis imediat. Dacă aveți comentarii cu privire la solicitarea dvs., lăsați-le în câmpul de mai jos. </p>"
+
+msgctxt "Languages::gdpr.email_subject_personal_data_request"
+msgid "Personal Data Copy Request: [customer_email]"
+msgstr "Cerere de copiere a datelor cu caracter personal:[customer_email]"
+
+msgctxt "Languages::gdpr.email_body_personal_data_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested a copy of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to get the data in the XML format. After that, send the XML file to the customer.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a>cu adresa de e-mail [customer_email] a solicitat o copie a datelor personale cu următorul comentariu: </p> <p> [comment] </p> <p> Faceți clic pe linkul de la începutul acestui mesaj și folosiți butonul corespunzător pe pagina de profil a clientului din panoul de administrare pentru a obține datele în format XML. După aceea, trimiteți fișierul XML către client. </p>"
+
+msgctxt "Languages::gdpr.remove_my_data"
+msgid "Remove my data"
+msgstr "Ștergeți datele mele"
+
+msgctxt "Languages::gdpr.remove_my_data_description"
+msgid "<p>We’ll deactivate your account and remove all your personal data from it. After that you won’t be able to sign in. However, you’ll be able to register a new account with the same email address in the future. Please note that we’ll need some time to process this request, so your account won’t be deactivated immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p> Vă vom dezactiva contul și vom elimina toate datele personale din acesta. După aceea, nu vei mai putea să te autentifici. Cu toate acestea, pe viitor vei putea înregistra un nou cont cu aceeași adresă de e-mail. Rețineți că vom avea nevoie de ceva timp pentru a procesa această solicitare, astfel încât contul dvs. să nu fie dezactivat imediat. Dacă aveți comentarii cu privire la solicitarea dvs., lăsați-le în câmpul de mai jos. </p>"
+
+msgctxt "Languages::gdpr.email_subject_anonymization_request"
+msgid "Personal Data Removal Request: [customer_email]"
+msgstr "Solicitare de eliminare a datelor cu caracter personal:[customer_email]"
+
+msgctxt "Languages::gdpr.email_body_anonymization_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested the removal of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to anonymize the customer.</p> <p>Please note that <b>this action will replace all the personal data of the customer</b> with randomly generated data. It’s best to make sure that all business with the customer (such as orders and return requests) is concluded before you do that.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a>cu adresa de e-mail [customer_email] a solicitat eliminarea datelor personale cu următorul comentariu: </p> <p>[comment]</p> <p>Faceți clic pe linkul de la începutul acestui mesaj și folosiți butonul corespunzător din pagina profilului de client din panoul Administrație pentru a anonimiza clientul. </p> <p> Vă rugăm să rețineți că <b> această acțiune va înlocui toate datele personale ale clientul </b> cu date generate la întâmplare. Cel mai bine este să vă asigurați că toate afacerile cu clientul (cum ar fi comenzile și cererile de retur) sunt încheiate înainte de a face acest lucru. </p>"
+
+msgctxt "Languages::gdpr.user_action_request_success"
+msgid "Your request has been sent successfully."
+msgstr "Cererea dvs. a fost trimisă cu succes."
+
+msgctxt "Languages::gdpr.user_action_request_fail"
+msgid "An error has occurred during the attempt to send your request. Please try again or send a message to the following email address: <a href=\"mailto:[email]\">[email]</a>"
+msgstr "A apărut o eroare în timpul încercării de a trimite solicitarea. Încercați din nou sau trimiteți un mesaj la următoarea adresă de e-mail:<a href=\"mailto:[email]\">[email]</a>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. If you only have one storefront, the data for the placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>. If you have multiple storefronts, the data will be taken from the settings of the storefront that a customer visits:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p> Textele acordurilor enumerate mai jos pot avea <b> [email] </b> sau <b> [company] </b> în ele. Aceștia sunt deținători de locații care vor fi înlocuiți automat cu date reale atunci când clienții vor vedea acordurile. Dacă aveți doar un singur magazin, datele pentru locații vor fi preluate"
+
+msgctxt "Languages::gdpr.agreement_variables_hint_mve"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. The data for placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p> Textele acordurilor enumerate mai jos pot avea <b> [email] </b> sau <b>[company]</b> în ele. Aceștia sunt deținători de locații care vor fi înlocuiți automat cu date reale atunci când clienții vor vedea acordurile. Datele pentru deținători de locații vor fi preluate de la <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>:</p><ul><li><b>[company]</b> vor fi luate de la <i>Numele Companiei</i>.</li><li><b>[email]</b> will be taken from <i>Adresa de e-mail a departamentului de utilizator</i>.</li></ul>"
+

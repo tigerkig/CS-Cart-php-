@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.13.2/addons/replain.po\n"
+"X-Crowdin-File-ID: 4630\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::replain"
+msgid "Re:plain Telegram chat"
+msgstr "Re: prostý chat Telegramu"
+
+msgctxt "Addons::description::replain"
+msgid "Allows you to add Telegram chat to your storefront"
+msgstr "Umožňuje vám přidat Telegram chat do obchodu"
+
+msgctxt "Languages::replain"
+msgid "Re:plain chat"
+msgstr "Re: prostý chat"
+
+msgctxt "Languages::replain.insert_script"
+msgid "Here is how to set up Telegram chat:<br>1. Make sure Telegram is installed on your device.<br>2. Use <a href=\"[bot_url]\">Re:plain bot</a> to create a chat.<br> 3. Paste the code acquired from the bot into the field below and click <b>Save</b> to connect the chat to your store"
+msgstr "Tady je, jak nastavit Telegram chat: <br>1. Ujistěte se, že je Telegram nainstalován na vašem zařízení.<br>2. Použijte <a href=\"[bot_url]\">Re: prostý bot</a> k vytvoření chatu. <br>3. Vložte požadovaný kód z bota do pole níže a klikněte na <b>Uložit</b> pro připojení k chatu vašeho obchodu."
+
+msgctxt "SettingsOptions::replain::replain_script"
+msgid "Re:Plain script"
+msgstr "Re: prostý skript"
+

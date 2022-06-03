@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.13.2/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 4650\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "Winkels en afhaalpunten"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "Hiermee kunt u uw fysieke winkels op de kaart markeren en uw klanten aanbieden om daar bestellingen te verzamelen, als een overeenkomstige verzendmethode is geconfigureerd."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "Bekijk op kaart"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "Verkrijgen van een API-sleutel"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Winkel zoeker"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "Winkels & afhaalpunten"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Winkelzoeker blok"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "Adres niet gevonden"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Selecteer coördinaten"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Stel in"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Winkel locatie aanpassen"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "Nieuwe winkel locatie"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Winkel locatie toevoegen"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Coördinaten"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "breedte"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "lengte"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "Alle winkels"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "Algemeen"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "Kaart weergeven in ordergerelateerde documenten"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "Druk de kaart af op de pakbon en factuur"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "Gebruik een lijst met steden in plaats van een kaart"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "Heeft invloed op het klantgeolocatieblok. De lijst wordt gegenereerd uit steden met winkels en afhaalpunten."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "Kan bewerken"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "Winkelzoeker"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "Kan bekijken"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "De verzendmethode \"Afhalen van klant\" biedt een klant de mogelijkheid een winkel te kiezen om een product af te halen. De winkels kunnen worden aangemaakt in de \"Winkellocatie\" add-on<br/><b> Winkelcreatie:</b> <a href=\"[store_locator]”>Winkellocatie</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "Selecteer winkels"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "Afhaalpunten"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "Het veld \"Positie\" in de winkelinstellingen"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "Bestelling geselecteerd in de verzendmethode-instellingen"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "Geselecteerde winkels"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "Beschikbare winkels"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "Kaart en lijst"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "Lijst"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "Kaart"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "Locatielijstweergave op de afrekenpagina"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "Afhalen"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "Beschikbaar voor afhaling"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "Werkuren"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "Afhalen"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "Er is geen geschikte bestemming gevonden"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "Er zijn geen winkels gevonden"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "Afhalen"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "Afhaal-ID"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "Ophalen mogelijk"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "Ophaaltoeslag"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "Ophaaladres"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "Ophaaltelefoon"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "Ophaaltijd"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "Ophaalbestemmingen ids"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "Verberg plaatsen waar ik mijn bestelling niet kan afhalen"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "Winkels en afhaalpunten"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "In eerdere versies werd de toeslag toegevoegd aan de standaardtarieven die waren opgegeven voor een verzendmethode. Nu wordt met deze toeslag geen rekening gehouden bij het berekenen van de verzendkosten. We hebben het hier voor uw gemak achtergelaten, zodat u het kunt zien en de tarieven op de bewerkingspagina van de verzendmethode dienovereenkomstig kunt aanpassen."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "Gelegen in tariefgebied"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "Bepaalt de verzendkosten voor dit afhaalpunt. De tarieven staan vermeld op de bewerkingspagina van de verzendmethode. Als u geen tariefgebied voor een afhaalpunt selecteert, wordt het afhaalpunt niet weergegeven bij het afrekenen."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "Laten zien aan"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "Laten zien aan"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Hiermee kunt u dit afhaalpunt aanbieden aan de bewoners van andere tariefgebieden bij het afrekenen."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "van [price]"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_title"
+msgid "Pick up from store: Surcharge per pickup point removed"
+msgstr "Ophalen in winkel: Toeslag per afhaalpunt verwijderd"
+
+msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_text"
+msgid "<p>The <b>[pickup_addon]</b> and <b>[store_locator_addon]</b> add-ons were merged into a new add-on called [stores_pickups_addon]. Shipping rates and time are more flexible now: they depend on the location (rate area) of a pickup point. The rates are now specified in one place: the editing page of a shipping method.</p><p>For that reason, we removed the <b>Surcharge</b> field from the pickup point editing page. Its value still appears in the admin panel, but isn’t used in rate calculation. Please check your pickup points, then adjust the shipping rates of all your \"Pick up from store\" shipping methods accordingly.</p><p><a href=\"[shippings_manage]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Adjust shipping rates</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">View my pickup points</a></p>"
+msgstr "<p>De <b>[pickup_addon]</b> en <b>[store_locator_addon]</b> add-ons zijn samengevoegd tot een nieuwe add-on genaamd [stores_pickups_addon]. Verzendtarieven en tijd zijn nu flexibeler: ze zijn afhankelijk van de locatie (tariefgebied) van een afhaalpunt. De tarieven zijn nu op één plaats gespecificeerd: de bewerkingspagina van een verzendmethode.</p><p>Daarom hebben we het veld <b>Toeslag</b> van de bewerkingspagina van het afhaalpunt verwijderd. De waarde ervan wordt nog steeds in de admin panel weergegeven, maar wordt niet gebruikt in tariefberekening. Controleer uw afhaalpunten en pas vervolgens de verzendkosten van al uw \"Afhalen uit winkel\" verzendmethoden aan.</p><p><a href=\"[shippings_manage]\" target= \"_blank\" class=\"btn btn-large btn-primary\">Verzendtarieven aanpassen</a> <a href=\"[pickup_points_list]\" target=\"_blank\" class=\"btn btn-large\">Mijn afhaalpunten bekijken</a></p>"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "Gebruik twee vingers om de kaart te bewegen"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Scroll naar boven"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "Geen tariefgebied"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr ""
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr ""
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr ""
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr ""
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr ""
+

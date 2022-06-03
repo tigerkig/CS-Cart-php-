@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /release-4.13.2/addons/seo.po\n"
+"X-Crowdin-File-ID: 4642\n"
+"PO-Revision-Date: 2021-07-07 08:42\n"
+
+msgctxt "Addons::name::seo"
+msgid "SEO"
+msgstr "SEO"
+
+msgctxt "Addons::description::seo"
+msgid "Adds Search engine-friendly URLs support"
+msgstr "Agrega soporte para la creación de URL amigables para los motores de búsqueda"
+
+msgctxt "Languages::seo_rules_menu_description"
+msgid "Use this section to define global rules for the URLs rewritten in your store."
+msgstr "Utilice esta sección para definir normas globales para las URLs reescritas en su tienda."
+
+msgctxt "Languages::seo.redirects_manager_menu_description"
+msgid "Manages redirect rules from old URLs"
+msgstr "Gestiona las reglas de redirección desde URLs antiguas"
+
+msgctxt "Languages::controller_description"
+msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "Si desea especificar un nombre SEO para la URL, p. http://example.com/index.php?dispatch= <b> categories.catalog </ b>, debe ingresar el valor \"<b> categories.catalog </ b>\" en \"<b> valor del campo \"parámetro de envío\" de la URL </ b> \"y especificar el nombre de SEO en el campo\" <b> Nombre de SEO </ b> \"."
+
+msgctxt "Languages::seo_name"
+msgid "SEO name"
+msgstr "Nombre SEO"
+
+msgctxt "Languages::warning_seo_urls_disabled"
+msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
+msgstr "Las URL compatibles con SEO están deshabiliadas. Compruebe su servidor web y la configuración del manejo de búsqueda de la URL."
+
+msgctxt "Languages::dispatch_value"
+msgid "Dispatch value"
+msgstr "Valor de envío"
+
+msgctxt "Languages::url_dispatch_part"
+msgid "The value of the \"dispatch\" parameter from the URL"
+msgstr "El valor del parámetro \"despacho\" de la URL"
+
+msgctxt "Languages::new_rule"
+msgid "New rule"
+msgstr "Nueva regla"
+
+msgctxt "Languages::seo_rules"
+msgid "SEO rules"
+msgstr "Reglas SEO"
+
+msgctxt "Languages::seo_page_title"
+msgid "page [n]"
+msgstr "página [n]"
+
+msgctxt "Languages::privileges.manage_seo_rules"
+msgid "Can edit"
+msgstr "Puede editar"
+
+msgctxt "Languages::privilege_groups.seo"
+msgid "SEO"
+msgstr "SEO"
+
+msgctxt "Languages::privileges.view_seo_rules"
+msgid "Can view"
+msgstr "Puede ver"
+
+msgctxt "Languages::seo.redirects_manager"
+msgid "301 redirects"
+msgstr "redirecciones 301"
+
+msgctxt "Languages::seo.old_url"
+msgid "Old URL"
+msgstr "URL antigua"
+
+msgctxt "Languages::seo.new_url"
+msgid "New URL"
+msgstr "URL nueva"
+
+msgctxt "Languages::seo.new_redirect"
+msgid "New Redirect"
+msgstr "Redirección nueva"
+
+msgctxt "Languages::seo.error_old_url_exists"
+msgid "The URL you're redirecting from is already exist"
+msgstr "La URL que estás redireccionando ya existe"
+
+msgctxt "Languages::seo.rich_snippets"
+msgid "Google rich snippets preview"
+msgstr "Vista previa de fragmentos enriquecidos de Google"
+
+msgctxt "Languages::seo.rich_snippets_rating"
+msgid "Rating"
+msgstr "Valorar"
+
+msgctxt "Languages::seo.rich_snippets_reviews"
+msgid "[n] review|[n] reviews"
+msgstr "[n] revisión|[n] comentarios"
+
+msgctxt "Languages::seo.create_redirect"
+msgid "Create redirect from old URL"
+msgstr "Crear redirección de la URL anterior"
+
+msgctxt "Languages::seo.error_incorrect_url"
+msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Formato incorrecto para la dirección URL <b>[url]</b>. Por ejemplo, si su URL es <b>http://example.com/path/to/object</b>, necesita entrar <b>/path/to/object</b>"
+
+msgctxt "Languages::tt_addons_seo_views_seo_redirects_manage_seo.old_url"
+msgid "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Por ejemplo, si su URL es <b>http://example.com/path/to/object</b>, necesita entrar <b>/path/to/object</b>"
+
+msgctxt "SettingsSections::seo::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::seo::seo_product_type"
+msgid "Product SEO URL format"
+msgstr "Tipo de SEO URL de productos (optimización para motores de busqueda)"
+
+msgctxt "SettingsOptions::seo::seo_category_type"
+msgid "Category SEO URL format"
+msgstr "Tipo de SEO àra Categorías, Fabricantes y Temas"
+
+msgctxt "SettingsOptions::seo::seo_page_type"
+msgid "Page SEO URL format"
+msgstr "Formato de URL de página SEO"
+
+msgctxt "SettingsOptions::seo::seo_other_type"
+msgid "Other SEO URL format"
+msgstr "Otro formato de URL SEO"
+
+msgctxt "SettingsOptions::seo::seo_language"
+msgid "Show additional language in the URL"
+msgstr "Mostrar el idioma adicional en la URL"
+
+msgctxt "SettingsOptions::seo::single_url"
+msgid "Use single URL for all languages"
+msgstr "Utilizar URL única para todos los idiomas"
+
+msgctxt "SettingsOptions::seo::non_latin_symbols"
+msgid "Allow non-latin symbols in URL"
+msgstr "Permitir símbolos no latinos en URL"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
+msgid "/product-name/"
+msgstr "/nombre-producto"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file"
+msgid "/product-name.html"
+msgstr "/nombre-producto.html"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
+msgid "/category-name/[subcategory-name/]product-name/"
+msgstr "/nombre-categoria/[nombre-subcategoria/]nombre-producto/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category"
+msgid "/category-name/[subcategory-name/]product-name.html"
+msgstr "/nombre-categoria/nombre-subcategoria/nombre-producto.html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
+msgid "/parent-category/category/[page-2/]"
+msgstr "/categoria-superior/categoria/[pagina-2/]"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category"
+msgid "/parent-category/category-[page-2].html"
+msgstr "/categoria-superior/categoria-[pagina-2].html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::root_category"
+msgid "/category/[page-2/]"
+msgstr "/categoria/[pagina-2/]"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page"
+msgid "/parent-page/page.html"
+msgstr "/parent-page/page.html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page_nohtml"
+msgid "/parent-page/page/"
+msgstr "/parent-page/page/"
+
+msgctxt "SettingsVariants::seo::seo_page_type::root_page"
+msgid "/page/"
+msgstr "/page/"
+
+msgctxt "SettingsVariants::seo::seo_other_type::directory"
+msgid "/item/"
+msgstr "/objeto/"
+
+msgctxt "SettingsVariants::seo::seo_category_type::file"
+msgid "/category[-page-2].html"
+msgstr "/categoria[-pagina-2].html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::file"
+msgid "/page.html"
+msgstr "/page.html"
+
+msgctxt "SettingsVariants::seo::seo_other_type::file"
+msgid "/item.html"
+msgstr "/item.html"
+
+msgctxt "Languages::seo.important_language_text"
+msgid "<b>Warning!</b> The <b>SEO</b> add-on is currently configured to use a single URL for all languages. If you hide, disable, or delete a default language of one of the storefronts, the SEO URLs will be changed."
+msgstr "<b>¡Advertencia!</b>El complemento de <b>SEO</b>se encuentra actualmente configurado para utilizar una sola URL para todos los idiomas. Si oculta, deshabilita, o elimina un idioma predeterminada en una de las páginas de productos, las URL de SEO se modificarán."
+
+msgctxt "Languages::seo.upgrade_notes.seo_language.title"
+msgid "Changes in SEO add-on"
+msgstr "Cambios en el complemento SEO"
+
+msgctxt "Languages::seo.upgrade_notes.seo_language.message"
+msgid "To improve rating in search engines, we have changed the behavior of the \"Show language in URL\" setting. The default language of the storefront will no longer be displayed in the URL. If your storefront in the default language was previously located at <b>[old_store_url]</b>, it will now be available at <b>[new_store_url]</b>.<br/>All old URLs will be redirected correctly to the new ones."
+msgstr "Para mejorar la calificación en los motores de búsqueda, hemos cambiado el comportamiento del ajuste \"Mostrar el idioma en la URL\". El idioma por defecto de la tienda ya no se mostrará en la URL. Si su escaparate en el idioma por defecto se encontraba antes en <b>[old_store_url]</b>, ahora estará disponible en <b>[new_store_url]</b>.<br/>Todas las URLs antiguas serán redirigidas correctamente a las nuevas."
+
+msgctxt "Languages::seo.product_feature.feature_code.notice"
+msgid "A suitable code can help this feature appear with the product in search engines. Supported codes:"
+msgstr "Un código adecuado puede ayudar a que esta característica aparezca con el producto en los motores de búsqueda. Códigos admitidos:"
+
+msgctxt "Languages::seo.brand"
+msgid "Brand"
+msgstr "Marca"
+
+msgctxt "Languages::seo.feature_code.brand.description"
+msgid "Name used by an organization or business person for labeling a product"
+msgstr "Nombre utilizado por una organización o persona de negocios para etiquetar un producto"
+
+msgctxt "Languages::seo.isbn"
+msgid "ISBN"
+msgstr "ISBN"
+
+msgctxt "Languages::seo.feature_code.isbn.description"
+msgid "International Standard Book Number"
+msgstr "International Standard Book Number"
+
+msgctxt "Languages::seo.gtin"
+msgid "GTIN"
+msgstr "GTIN"
+
+msgctxt "Languages::seo.feature_code.gtin.description"
+msgid "Global Trade Item Number"
+msgstr "Global Trade Item Number"
+
+msgctxt "Languages::seo.MPN"
+msgid "MPN"
+msgstr "MPN"
+
+msgctxt "Languages::seo.feature_code.mpn.description"
+msgid "Manufacturer Part Number"
+msgstr "Manufacturer Part Number"
+
+msgctxt "Languages::seo.storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of this storefront, the SEO URLs will be changed."
+msgstr "El complemento <a href=\"[link]\">SEO</a> está actualmente configurado para utilizar una única URL para todos los idiomas. Si cambia un idioma por defecto de este escaparate, las URL de SEO se cambiarán."
+
+msgctxt "Languages::seo.default_storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of the default storefront, the SEO URLs will be changed for all storefronts."
+msgstr "El complemento <a href=\"[link]\">SEO</a> está actualmente configurado para utilizar una única URL para todos los idiomas. Si cambia un idioma por defecto de la tienda por defecto, las URLs de SEO se cambiarán para todas las tiendas."
+
+msgctxt "Languages::seo.error_at_creation_seo_name"
+msgid "The following SEO name already exists in your store: <b>[names]</b>. <p> The following SEO name was used instead: <b>[new_names]</b>.|The following SEO names already exist in your store: <b>[names]</b>. The following SEO names were used instead: <b>[new_names]</b>."
+msgstr "El siguiente nombre de SEO ya existe en tu tienda: <b>[names]</b>. <p>En su lugar se ha utilizado el siguiente nombre SEO: <b>[new_names]</b>.|Los siguientes nombres SEO ya existen en su tienda: <b>[names]</b>. Se han utilizado los siguientes nombres SEO en su lugar: <b>[new_names]</b>."
+

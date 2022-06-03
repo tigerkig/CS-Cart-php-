@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/searchanise.po\n"
+"X-Crowdin-File-ID: 4640\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::searchanise"
+msgid "Searchanise"
+msgstr "Searchanise"
+
+msgctxt "Addons::description::searchanise"
+msgid "Turns on the <a target=\"_blank\" href=\"http://searchanise.com/\">Searchanise</a> fast search service"
+msgstr "يقوم بتشغيل خدمة البحث السريع <a target=\"_blank\" href=\"http://searchanise.com/\"> Searchaniseسيرتشانيسي</a>"
+
+msgctxt "Languages::searchanise_menu_description"
+msgid "Manage search settings, customize view and merchandise products."
+msgstr "إدارة إعدادات البحث وتخصيص العرض ومنتجات البضائع."
+
+msgctxt "Languages::searchanise"
+msgid "Searchanise"
+msgstr "Searchanise"
+
+msgctxt "Languages::text_se_import_status_queued"
+msgid "The product catalog is queued for syncing with Searchanise."
+msgstr "يتم وضع كتالوج المنتجات في قائمة الانتظار للمزامنة مع Searchanise."
+
+msgctxt "Languages::text_se_re_indexation_required"
+msgid "Searchanise: Re-indexation required (click the <strong>Force re-indexation</strong> button in the <a href=\"[link]\">Searchanise admin panel</a>)."
+msgstr "Searchanise: إعادة الفهرسة مطلوبة (انقر على الزر <strong> فرض إعادة الفهرسة </strong> في <a href=\"[link]\"> لوحة إدارة البحث </a>)."
+
+msgctxt "Languages::text_se_new_engine_store"
+msgid "Searchanise: New search engine for [store] created. Catalog import started."
+msgstr "Searchanise: تم إنشاء محرك بحث جديد لـ [store]. بدأ استيراد الكتالوج."
+
+msgctxt "Languages::text_se_seo_settings_notice"
+msgid "If you have modified any SEO add-on settings, please <a href=\"[link]\">Re-indexation</a> product catalog with Searchanise to update product URLs."
+msgstr "إذا قمت بتعديل أي من إعدادات الوظائف الإضافية لSEO ، فيرجى <a href=\"[link]\"> إعادة الفهرسة </a> كتالوج المنتج باستخدام Searchanise لتحديث عناوين URL للمنتج."
+
+msgctxt "Languages::text_se_connect_error"
+msgid "An error occurred during Searchanise registration. Please try later."
+msgstr "حدث خطأ أثناء تسجيل Searchanise. من فضلك حاول لاحقا."
+
+msgctxt "Languages::text_se_import_status_processing"
+msgid "The product catalog syncing is in progress."
+msgstr "مزامنة كتالوج المنتج قيد التقدم."
+
+msgctxt "Languages::text_se_import_status_done"
+msgid "The product catalog was synced successfully with Searchanise."
+msgstr "تمت مزامنة كتالوج المنتج بنجاح مع Searchanise."
+
+msgctxt "Languages::text_se_import_status_none"
+msgid "The product catalog is not synced with Searchanise yet. Please press \"Sync\" button to start."
+msgstr "لم تتم مزامنة كتالوج المنتج مع Searchanise حتى الآن. يرجى الضغط على زر \"مزامنة\" للبدء."
+
+msgctxt "Languages::text_se_data_update"
+msgid "Please note that the data on Searchanise server is updated with a 2-3 minute delay after you make changes in your store."
+msgstr "يرجى ملاحظة أنه يتم تحديث البيانات الموجودة على خادم Searchanise بتأخير 2-3 دقائق بعد إجراء التغييرات في متجرك."
+
+msgctxt "Languages::text_se_signup"
+msgid "Click the button below to connect to Searchanise."
+msgstr "انقر فوق الزر أدناه للاتصال بـ Searchanise."
+
+msgctxt "Languages::text_se_just_connected"
+msgid "Congratulations, you've just connected to Searchanise."
+msgstr "تهانينا ، لقد اتصلت للتو بـ Searchanise."
+
+msgctxt "Languages::text_se_connected"
+msgid "You've connected to Searchanise."
+msgstr "لقد اتصلت بـ Searchanise."
+
+msgctxt "Languages::text_se_ajax_connecting"
+msgid "Product indexation has started in your store. It may take some time. Wait just a little, we've almost finished."
+msgstr "بدأت فهرسة المنتج في متجرك. قد يستغرق بعض الوقت. انتظر قليلاً فقط ، لقد انتهينا تقريبًا."
+
+msgctxt "Languages::text_se_database_restore_notice"
+msgid "You've just restored your data from the database dump file. If this dump contains product data, please <a href=\"[link]\">Re-indexation</a> it with Searchanise."
+msgstr "لقد قمت للتو باستعادة بياناتك من ملف تفريغ قاعدة البيانات. إذا كان هذا التفريغ يحتوي على بيانات المنتج ، فيرجى <a href=\"[link]\"> إعادة فهرستها </a> باستخدام Searchanise."
+
+msgctxt "Languages::text_se_only_root_can_register"
+msgid "Only the root admin has the permission to connect to Searchanise"
+msgstr "فقط مسؤول الجذر لديه إذن بالاتصال بـ Searchanise"
+
+msgctxt "Languages::se_did_you_mean"
+msgid "Did you mean"
+msgstr "هل تعني"
+
+msgctxt "Languages::se_product_id"
+msgid "Product Id"
+msgstr "معرف المنتج"
+
+msgctxt "Languages::se_title"
+msgid "Title"
+msgstr "العنوان"
+
+msgctxt "Languages::se_summary"
+msgid "Description"
+msgstr "الوصف"
+
+msgctxt "Languages::se_link"
+msgid "Product Url"
+msgstr "عنوان URL للمنتج"
+
+msgctxt "Languages::se_price"
+msgid "Price"
+msgstr "الأسعار"
+
+msgctxt "Languages::se_list_price"
+msgid "List Price"
+msgstr "قائمة الأسعار"
+
+msgctxt "Languages::se_quantity"
+msgid "Quantity"
+msgstr "كمية"
+
+msgctxt "Languages::se_product_code"
+msgid "Product Code"
+msgstr "رمز المنتج"
+
+msgctxt "Languages::se_image_link"
+msgid "Image Url"
+msgstr "عنوان Url للصورة"
+
+msgctxt "Languages::se_category_Id"
+msgid "Category Id"
+msgstr "معرف الفئة"
+
+msgctxt "Languages::se_category_usergroup_ids"
+msgid "Category Usergroup Ids"
+msgstr "معرفات مجموعة مستخدمي الفئة"
+
+msgctxt "Languages::se_usergroup_ids"
+msgid "Usergroup Ids"
+msgstr "معرفات مجموعة المستخدمين"
+
+msgctxt "Languages::se_company_id"
+msgid "Company Id"
+msgstr "هوية الشركة"
+
+msgctxt "Languages::se_empty_categories"
+msgid "Without Categories"
+msgstr "بدون فئات"
+
+msgctxt "Languages::se_active_companies"
+msgid "Company is active"
+msgstr "الشركة نشطة"
+
+msgctxt "Languages::se_price_for_usergroup_id"
+msgid "Price for usergroup Id ([id])"
+msgstr "سعر معرف مجموعة المستخدمين ([id])"
+
+msgctxt "Languages::se_for_feature_id"
+msgid "Feature \"[id]\" Id"
+msgstr "الميزة \"[id]\" معرف"
+
+msgctxt "Languages::se_relevance"
+msgid "Relevance"
+msgstr "ملاءمة"
+
+msgctxt "Languages::se_products"
+msgid "Products"
+msgstr "المنتجات"
+
+msgctxt "Languages::se_popular_suggestions"
+msgid "Popular suggestions"
+msgstr "الاقتراحات الشعبية"
+
+msgctxt "Languages::sort_by_relevance_asc"
+msgid "Sort by Relevance"
+msgstr "الترتيب حسب الصلة"
+
+msgctxt "Languages::se_api_key"
+msgid "API key"
+msgstr "مفتاح API"
+
+msgctxt "Languages::se_private_key"
+msgid "Private key"
+msgstr "مفتاح سري"
+
+msgctxt "Languages::se_options_combinations_codes"
+msgid "Options combinations codes"
+msgstr "أكواد مجموعات الخيارات"
+
+msgctxt "Languages::se_master_product_status"
+msgid "Common product status"
+msgstr "حالة المنتج المشتركة"
+
+msgctxt "Languages::se_is_vendor_product"
+msgid "Vendor product flag"
+msgstr "علامة منتج البائع"
+
+msgctxt "Languages::se_is_master_product"
+msgid "Сommon product flag"
+msgstr "علم المنتج المشترك"
+
+msgctxt "Languages::se_connection_warning"
+msgid "Searchanise: There is no connection to Searchanise server! For Searchanise to work properly, the store server must be able to access www.searchanise.com. Please contact Searchanise <a href=\"mailto: [email]\">[email]</a> technical support or your system administrator."
+msgstr "Searchanise: لا يوجد اتصال بخادم Searchanise! لكي يعمل Searchanise بشكل صحيح ، يجب أن يكون خادم المتجر قادرًا على الوصول إلى www.searchanise.com. يرجى الاتصال بالدعم الفني لـ Searchanise <a href=\"mailto: [email]\"> [email] </a> أو بمسؤول النظام."
+
+msgctxt "Languages::se_queue_warning"
+msgid "Searchanise: We found an issue with the export of changes in your store catalog. To resolve the issue please contact the Searchanise <a href=\"mailto: [email]\">[email]</a> technical support."
+msgstr "بحث: وجدنا مشكلة في تصدير التغييرات في كتالوج متجرك. لحل المشكلة ، يرجى الاتصال بالدعم الفني لـ Searchanise <a href=\"mailto: [email]\"> [email] </a>."
+
+msgctxt "SettingsSections::searchanise::configuration"
+msgid "Configuration"
+msgstr "إعدادات"
+

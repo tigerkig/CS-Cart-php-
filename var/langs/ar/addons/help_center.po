@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.13.2/addons/help_center.po\n"
+"X-Crowdin-File-ID: 4576\n"
+"PO-Revision-Date: 2021-07-07 08:41\n"
+
+msgctxt "Addons::name::help_center"
+msgid "Help center"
+msgstr "مركز المساعدة"
+
+msgctxt "Addons::description::help_center"
+msgid "Adds a help button with links to relevant documentation and/or videos to various pages in the admin panel."
+msgstr "يضيف زر تعليمات مع روابط للوثائق و / أو مقاطع الفيديو ذات الصلة إلى صفحات مختلفة في لوحة الإدارة."
+
+msgctxt "Languages::help_center.help"
+msgid "Help"
+msgstr "المساعدة"
+
+msgctxt "Languages::help_center.see_all_n_results"
+msgid "See all [n] results..."
+msgstr "مشاهدة جميع النتائج [n] ..."
+

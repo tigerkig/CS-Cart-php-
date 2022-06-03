@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>step_by_step_checkout</id>
+    <version>1.0</version>
+    <priority>1</priority>
+    <position>0</position>
+    <status>active</status>
+    <default_language>en</default_language>
+    <settings edition_type="ROOT,STOREFRONT">
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="step_by_step_checkout_information">
+                        <type>header</type>
+                    </item>
+                    <item id="step_by_step_checkout_info">
+                        <type>template</type>
+                        <handler>fn_step_by_step_checkout_get_information</handler>
+                        <default_value>setup_layout_steps.tpl</default_value>
+                    </item>
+                    <item id="step_by_step_checkout_general_settings">
+                        <type>header</type>
+                    </item>
+                    <item id="settings_proxy">
+                        <type>info</type>
+                        <handler>fn_step_by_step_checkout_checkout_settings_proxy</handler>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+    <functions>
+        <item for="uninstall">fn_step_by_step_checkout_import_lite_checkout_layout</item>
+        <item for="uninstall">fn_step_by_step_checkout_restore_checkout_address_position</item>
+    </functions>
+</addon>

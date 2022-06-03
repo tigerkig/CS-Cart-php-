@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.13.2/addons/seo.po\n"
+"X-Crowdin-File-ID: 4642\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::seo"
+msgid "SEO"
+msgstr "SEO"
+
+msgctxt "Addons::description::seo"
+msgid "Adds Search engine-friendly URLs support"
+msgstr "サーチエンジンフレンドリーなURLを生成します（要Apache + mod_rewrite）"
+
+msgctxt "Languages::seo_rules_menu_description"
+msgid "Use this section to define global rules for the URLs rewritten in your store."
+msgstr "URL書き換えのルールをこちらで定義できます。"
+
+msgctxt "Languages::seo.redirects_manager_menu_description"
+msgid "Manages redirect rules from old URLs"
+msgstr "旧URLのリダイレクトルールを管理します"
+
+msgctxt "Languages::controller_description"
+msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "URLのうち置換対象となる部分を入力してください。 (例： URL index.php?dispatch=<b>categories.catalog</b> を書き換える場合には <b>categories.catalog</b> を入力)"
+
+msgctxt "Languages::seo_name"
+msgid "SEO name"
+msgstr "SEO用名称"
+
+msgctxt "Languages::warning_seo_urls_disabled"
+msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
+msgstr "SEO URLが動作しないため無効化されました。サーバーおよびURL書き換えエンジンの設定を確認してください。"
+
+msgctxt "Languages::dispatch_value"
+msgid "Dispatch value"
+msgstr "\"dispatch\" パラメータの値"
+
+msgctxt "Languages::url_dispatch_part"
+msgid "The value of the \"dispatch\" parameter from the URL"
+msgstr "置換対象の \"dispatch\" パラメータの値"
+
+msgctxt "Languages::new_rule"
+msgid "New rule"
+msgstr "SEOルールの追加"
+
+msgctxt "Languages::seo_rules"
+msgid "SEO rules"
+msgstr "SEOルール"
+
+msgctxt "Languages::seo_page_title"
+msgid "page [n]"
+msgstr "ページ [n]"
+
+msgctxt "Languages::privileges.manage_seo_rules"
+msgid "Can edit"
+msgstr "編集"
+
+msgctxt "Languages::privilege_groups.seo"
+msgid "SEO"
+msgstr "SEO (SEOルール、301リダイレクト)"
+
+msgctxt "Languages::privileges.view_seo_rules"
+msgid "Can view"
+msgstr "閲覧"
+
+msgctxt "Languages::seo.redirects_manager"
+msgid "301 redirects"
+msgstr "301リダイレクト"
+
+msgctxt "Languages::seo.old_url"
+msgid "Old URL"
+msgstr "旧URL"
+
+msgctxt "Languages::seo.new_url"
+msgid "New URL"
+msgstr "新URL"
+
+msgctxt "Languages::seo.new_redirect"
+msgid "New Redirect"
+msgstr "リダイレクトの追加"
+
+msgctxt "Languages::seo.error_old_url_exists"
+msgid "The URL you're redirecting from is already exist"
+msgstr "リダイレクト元に指定したURLはすでに存在します"
+
+msgctxt "Languages::seo.rich_snippets"
+msgid "Google rich snippets preview"
+msgstr "Googleリッチスニペットのプレビュー"
+
+msgctxt "Languages::seo.rich_snippets_rating"
+msgid "Rating"
+msgstr "評価"
+
+msgctxt "Languages::seo.rich_snippets_reviews"
+msgid "[n] review|[n] reviews"
+msgstr "[n]件のレビュー"
+
+msgctxt "Languages::seo.create_redirect"
+msgid "Create redirect from old URL"
+msgstr "旧URLからのリダイレクトを作成"
+
+msgctxt "Languages::seo.error_incorrect_url"
+msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "URL <b>[url]</b> のフォーマットが正しくありません。 例) URLが <b>http://example.com/path/to/object</b> の場合は <b>/path/to/object</b> を入力する必要があります。"
+
+msgctxt "Languages::tt_addons_seo_views_seo_redirects_manage_seo.old_url"
+msgid "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "例) URLが <b>http://example.com/path/to/object</b> の場合は <b>/path/to/object</b> を入力する必要があります。"
+
+msgctxt "SettingsSections::seo::general"
+msgid "General"
+msgstr "基本設定"
+
+msgctxt "SettingsOptions::seo::seo_product_type"
+msgid "Product SEO URL format"
+msgstr "商品用SEO URLフォーマット"
+
+msgctxt "SettingsOptions::seo::seo_category_type"
+msgid "Category SEO URL format"
+msgstr "カテゴリー用SEO URLフォーマット"
+
+msgctxt "SettingsOptions::seo::seo_page_type"
+msgid "Page SEO URL format"
+msgstr "ページ用SEO URLフォーマット"
+
+msgctxt "SettingsOptions::seo::seo_other_type"
+msgid "Other SEO URL format"
+msgstr "その他のSEO URLフォーマット"
+
+msgctxt "SettingsOptions::seo::seo_language"
+msgid "Show additional language in the URL"
+msgstr "URLに追加の言語を表示"
+
+msgctxt "SettingsOptions::seo::single_url"
+msgid "Use single URL for all languages"
+msgstr "すべての言語で共通のURLを使用する"
+
+msgctxt "SettingsOptions::seo::non_latin_symbols"
+msgid "Allow non-latin symbols in URL"
+msgstr "マルチバイト文字のURLに対応する"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
+msgid "/product-name/"
+msgstr "/商品名/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file"
+msgid "/product-name.html"
+msgstr "/商品名.html"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
+msgid "/category-name/[subcategory-name/]product-name/"
+msgstr "/カテゴリー名/[サブカテゴリー名/]商品名/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category"
+msgid "/category-name/[subcategory-name/]product-name.html"
+msgstr "/カテゴリー名/[サブカテゴリー名/]商品名.html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
+msgid "/parent-category/category/[page-2/]"
+msgstr "/親カテゴリー/カテゴリー/[ページ-2/]"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category"
+msgid "/parent-category/category-[page-2].html"
+msgstr "/親カテゴリー/カテゴリー/[ページ-2/].html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::root_category"
+msgid "/category/[page-2/]"
+msgstr "/カテゴリー/[ページ-2/]"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page"
+msgid "/parent-page/page.html"
+msgstr "/親ページ/ページ.html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page_nohtml"
+msgid "/parent-page/page/"
+msgstr "/親ページ/ページ/"
+
+msgctxt "SettingsVariants::seo::seo_page_type::root_page"
+msgid "/page/"
+msgstr "/ページ/"
+
+msgctxt "SettingsVariants::seo::seo_other_type::directory"
+msgid "/item/"
+msgstr "/アイテム/"
+
+msgctxt "SettingsVariants::seo::seo_category_type::file"
+msgid "/category[-page-2].html"
+msgstr "/カテゴリー[-ページ-2].html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::file"
+msgid "/page.html"
+msgstr "/ページ.html"
+
+msgctxt "SettingsVariants::seo::seo_other_type::file"
+msgid "/item.html"
+msgstr "/アイテム.html"
+
+msgctxt "Languages::seo.important_language_text"
+msgid "<b>Warning!</b> The <b>SEO</b> add-on is currently configured to use a single URL for all languages. If you hide, disable, or delete a default language of one of the storefronts, the SEO URLs will be changed."
+msgstr "<b>注意:</b> <b>SEO</b> アドオンが「すべての言語で共通のURLを使用する」に設定されています。ショップのいずれかのデフォルト言語を非表示、無効、または削除するとSEO URLが変更されます。"
+
+msgctxt "Languages::seo.upgrade_notes.seo_language.title"
+msgid "Changes in SEO add-on"
+msgstr "SEOアドオンの変更"
+
+msgctxt "Languages::seo.upgrade_notes.seo_language.message"
+msgid "To improve rating in search engines, we have changed the behavior of the \"Show language in URL\" setting. The default language of the storefront will no longer be displayed in the URL. If your storefront in the default language was previously located at <b>[old_store_url]</b>, it will now be available at <b>[new_store_url]</b>.<br/>All old URLs will be redirected correctly to the new ones."
+msgstr "検索エンジンの評価を向上させるために、「URLで言語を表示する」設定の動作を変更しました。 ストアフロントのデフォルト言語はURLに表示されなくなります。 デフォルト言語のストアフロントが以前は<b> [old_store_url] </b>にあった場合、<b> [new_store_url] </b>で利用できるようになります。<br/>すべての古いURLが新しいものに正しくリダイレクトされます。"
+
+msgctxt "Languages::seo.product_feature.feature_code.notice"
+msgid "A suitable code can help this feature appear with the product in search engines. Supported codes:"
+msgstr "適切なコードは、この機能が検索エンジンに商品が表示されるのに役立ちます。 サポートされているコード："
+
+msgctxt "Languages::seo.brand"
+msgid "Brand"
+msgstr "ブランド"
+
+msgctxt "Languages::seo.feature_code.brand.description"
+msgid "Name used by an organization or business person for labeling a product"
+msgstr "組織または事業者が商品にラベルを付けるために使用する名前"
+
+msgctxt "Languages::seo.isbn"
+msgid "ISBN"
+msgstr "ISBN"
+
+msgctxt "Languages::seo.feature_code.isbn.description"
+msgid "International Standard Book Number"
+msgstr "International Standard Book Number"
+
+msgctxt "Languages::seo.gtin"
+msgid "GTIN"
+msgstr "GTIN"
+
+msgctxt "Languages::seo.feature_code.gtin.description"
+msgid "Global Trade Item Number"
+msgstr "Global Trade Item Number"
+
+msgctxt "Languages::seo.MPN"
+msgid "MPN"
+msgstr "MPN"
+
+msgctxt "Languages::seo.feature_code.mpn.description"
+msgid "Manufacturer Part Number"
+msgstr "Manufacturer Part Number"
+
+msgctxt "Languages::seo.storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of this storefront, the SEO URLs will be changed."
+msgstr "<a href=\"[link]\"> SEO </a>アドオンは現在、すべての言語で単一のURLを使用するように構成されています。 このストアフロントのデフォルト言語を変更すると、SEOのURLが変更されます。"
+
+msgctxt "Languages::seo.default_storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of the default storefront, the SEO URLs will be changed for all storefronts."
+msgstr "<a href=\"[link]\"> SEO </a>アドオンは現在、すべての言語で単一のURLを使用するように構成されています。 デフォルトのストアフロントのデフォルト言語を変更すると、すべてのストアフロントのSEO URLが変更されます。"
+
+msgctxt "Languages::seo.error_at_creation_seo_name"
+msgid "The following SEO name already exists in your store: <b>[names]</b>. <p> The following SEO name was used instead: <b>[new_names]</b>.|The following SEO names already exist in your store: <b>[names]</b>. The following SEO names were used instead: <b>[new_names]</b>."
+msgstr "次のSEO名はすでにECサイトとしてに存在します：<b> [names] </b>。 <p>代わりに次のSEO名が使用されました：<b> [new_names] </b>。|次のSEO名は既にECサイトに存在します：<b> [names] </ b>。 代わりに、次のSEO名が使用されました：<b> [new_names] </ b>。"
+

@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::organizations"
+msgid "Organizations and representatives [Beta]"
+msgstr "Organizations and representatives [Beta]"
+
+msgctxt "Addons::description::organizations"
+msgid "Allows your customers to create organizations (legal entities). An organization can have multiple customer accounts associated with it. They act as representatives of the organization."
+msgstr "Allows your customers to create organizations (legal entities). An organization can have multiple customer accounts associated with it. They act as representatives of the organization."
+
+msgctxt "SettingsSections::organizations::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::organizations::b2b_storefront_ids"
+msgid "B2B Storefronts"
+msgstr "B2B Storefronts"
+
+msgctxt "Languages::profile_types_section_organization"
+msgid "Organization information"
+msgstr "Organization information"
+
+msgctxt "Languages::organizations"
+msgid "Organizations"
+msgstr "Organizations"
+
+msgctxt "Languages::organizations.organization"
+msgid "Organization"
+msgstr "Organization"
+
+msgctxt "Languages::organizations.user_role_owner"
+msgid "Owner"
+msgstr "Owner"
+
+msgctxt "Languages::organizations.user_role_representative"
+msgid "Representative"
+msgstr "Representative"
+
+msgctxt "Languages::organizations_menu_description"
+msgid "List of the store's organizations."
+msgstr "List of the store's organizations."
+
+msgctxt "Languages::organizations.new_organization"
+msgid "New organization"
+msgstr "New organization"
+
+msgctxt "Languages::organizations.edit_organization"
+msgid "Edit organization: [name]"
+msgstr "Edit organization: [name]"
+
+msgctxt "Languages::organizations.promotion_cond_once_per_organization"
+msgid "Once for organization"
+msgstr "Once for organization"
+
+msgctxt "Languages::organizations.promotion_cond_organizations"
+msgid "Organizations"
+msgstr "Organizations"
+
+msgctxt "Languages::promotion_cond_organizations"
+msgid "Organizations"
+msgstr "Organizations"
+
+msgctxt "Languages::organizations.organization_details"
+msgid "Organization details"
+msgstr "Organization details"
+
+msgctxt "Languages::organizations.manage_users"
+msgid "Manage users"
+msgstr "Manage users"
+
+msgctxt "Languages::organizations.last_sign_in"
+msgid "Last sign in"
+msgstr "Last sign in"

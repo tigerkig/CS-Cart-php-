@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.13.2/addons/customers_also_bought.po\n"
+"X-Crowdin-File-ID: 4544\n"
+"PO-Revision-Date: 2021-07-02 13:50\n"
+
+msgctxt "Addons::name::customers_also_bought"
+msgid "Customers also bought"
+msgstr "Pelanggan juga membeli"
+
+msgctxt "Addons::description::customers_also_bought"
+msgid "Makes it possible to create a special block for the products often purchased along with the current one"
+msgstr "Memungkinkan untuk membuat blok khusus untuk produk-produk yang sering dibeli bersama dengan satu saat ini"
+
